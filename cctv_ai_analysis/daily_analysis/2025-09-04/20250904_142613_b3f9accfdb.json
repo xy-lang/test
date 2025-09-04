@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-04 14:26:13",
+  "news_info": {
+    "id": "b3f9accfdb",
+    "title": "图云关——烽火岁月中守护生命的救护壮歌！",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904140845531874218.html",
+    "publish_time": "2025-09-04 14:08:00",
+    "summary": "图云关——烽火岁月中守护生命的救护壮歌！"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7558,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.7,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.29
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600037\",\n      \"stock_name\": \"歌华有线\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为文化传媒板块代表，与历史纪念题材关联度最高，技术面相对稳定，受益于文化传播政策支持，短期催化剂强度适中\",\n      \"risk_warning\": \"传媒板块整体强度偏弱，市场情绪波动可能影响表现，需关注成交量变化\"\n    },\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"同样属于传媒板块，与新闻主题有一定关联，技术评分中等，具备政策受益预期\",\n      \"risk_warning\": \"板块强度不足可能制约上涨空间，需警惕市场整体调整风险\"\n    },\n    {\n      \"stock_code\": \"600332\",\n      \"stock_name\": \"白云山\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"医疗救护题材关联度较低，虽然基本面相对稳健，但与新闻主题匹配度不足，技术面表现一般\",\n      \"risk_warning\": \"题材关联度较弱，缺乏明确催化剂，医药板块近期表现疲软\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"偏弱（0.25）\",\n    \"recommendation_strategy\": \"建议轻仓参与，重点关注前两只传媒类股票，控制仓位风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600037",
+        "stock_name": "歌华有线",
+        "recommendation_reason": "作为央视内容传播渠道，受益于央视权威内容传播，但该新闻投资价值有限",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下上市公司，但新闻内容不具备投资催化效应",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "600332",
+        "stock_name": "白云山",
+        "recommendation_reason": "医药板块标的，与医疗救护主题存在弱关联，但缺乏直接联系",
+        "policy_relevance": "很低",
+        "urgency_level": "很低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为历史题材报道，内容涉及抗战时期的医疗救护历史，属于纪念性报道而非时效性新闻。央视新闻的权威性主要体现在历史教育和社会价值层面，但作为投资标的分析，缺乏直接的时效性和政策催化效应。新闻评分显示第一时间性、硬核程度、持续性均为0分，表明其投资价值有限。",
+      "policy_impact": "该新闻未涉及当前具体政策导向，属于历史回顾性质。虽然央视平台具有权威性，但内容本身不具备政策推动力。医疗救护主题在长期看符合健康中国战略，但缺乏短期政策催化。",
+      "theme_classification": {
+        "theme_type": "历史纪念/医疗救护",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "医疗服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600037",
+          "stock_name": "歌华有线",
+          "recommendation_reason": "作为央视内容传播渠道，受益于央视权威内容传播，但该新闻投资价值有限",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下上市公司，但新闻内容不具备投资催化效应",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "600332",
+          "stock_name": "白云山",
+          "recommendation_reason": "医药板块标的，与医疗救护主题存在弱关联，但缺乏直接联系",
+          "policy_relevance": "很低",
+          "urgency_level": "很低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 14:26:13"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

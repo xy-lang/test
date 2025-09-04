@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-08-18 11:19:24",
+  "news_info": {
+    "id": "4ece658a6c",
+    "title": "闭幕式整体时长约60分钟，包括本届世运会精彩视频回顾、运动员入场仪式、交旗仪式、文体表演等多个环节。闭幕式有哪些独特设计？一场“花园里的闭幕式”是如何打造的呢？一起来了解。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTINUVRhJNG4o7ZqGzY0FVg250818.shtml",
+    "publish_time": "2025-08-18 11:12:22",
+    "summary": "闭幕式整体时长约60分钟，包括本届世运会精彩视频回顾、运动员入场仪式、交旗仪式、文体表演等多个环节。..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.07
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:19:24"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

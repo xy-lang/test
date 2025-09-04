@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-09-03 18:05:53",
+  "news_info": {
+    "id": "79bed6c9e1",
+    "title": "醉驾获刑家属却送来锦旗 南陵交警“刚柔并济”执法获赞：你们不只是执法，更是救人",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903174526090153551.html",
+    "publish_time": "2025-09-03 17:45:00",
+    "summary": "醉驾获刑家属却送来锦旗 南陵交警“刚柔并济”执法获赞：你们不只是执法，更是救人"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.33
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"综合评分最高，作为保险龙头与'救人'主题契合度最高，技术面相对稳健，受益于金融板块整体回暖预期，具备较好的政策受益性和短期催化剂\",\n      \"risk_warning\": \"保险行业监管政策变化风险，利率环境变化对投资收益的影响，宏观经济波动导致保险需求下降\"\n    },\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"银行板块中零售业务优势明显，与正能量社会形象较为匹配，技术指标显示相对稳定，受益于金融科技和数字化转型趋势\",\n      \"risk_warning\": \"银行业净息差收窄压力，房地产行业风险传导，经济下行导致资产质量恶化\"\n    },\n    {\n      \"stock_code\": \"000001\",\n      \"stock_name\": \"平安银行\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"作为平安系金融板块重要组成部分，受益于集团协同效应，技术面表现平稳，但直接关联度相对较弱\",\n      \"risk_warning\": \"同业竞争激烈，信贷业务风险管控压力，金融科技投入回报周期较长\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.15属于中等偏弱水平，银行和综合板块整体表现平稳但缺乏强劲上涨动力，技术评分0.15表明个股技术面整体偏中性\",\n    \"news_matching\": \"新闻主题为社会正能量执法，与金融股关联度较弱，更多是间接的情绪面影响，缺乏直接的政策催化剂\",\n    \"risk_assessment\": \"金融板块面临利率环境和监管政策不确定性，市场时机风险中等，建议控制仓位谨慎参与\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "recommendation_reason": "央视新闻无投资价值，推荐优质蓝筹股作为防御性配置",
+        "policy_relevance": "无关联",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 2,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "新闻缺乏投资指引，建议关注基本面稳健的金融股",
+        "policy_relevance": "无关联",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 3,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "该新闻不具备投资分析价值，推荐保险龙头作为长期配置",
+        "policy_relevance": "无关联",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性执法案例报道，虽由央视发布但属于常规社会新闻，投资价值极低。新闻内容为醉驾执法案例，缺乏政策导向性和行业影响力，时效性、硬核程度均为0分，不具备直接的投资指导意义。",
+      "policy_impact": "无实质性政策影响。新闻仅展示执法方式创新，未涉及任何政策调整或行业变革，对资本市场无直接影响。",
+      "theme_classification": {
+        "theme_type": "社会正能量题材",
+        "hardcore_level": "无投资意志",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000001",
+          "stock_name": "平安银行",
+          "recommendation_reason": "央视新闻无投资价值，推荐优质蓝筹股作为防御性配置",
+          "policy_relevance": "无关联",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 2,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "新闻缺乏投资指引，建议关注基本面稳健的金融股",
+          "policy_relevance": "无关联",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 3,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "该新闻不具备投资分析价值，推荐保险龙头作为长期配置",
+          "policy_relevance": "无关联",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:05:53"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

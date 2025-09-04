@@ -1,0 +1,130 @@
+{
+  "analysis_time": "2025-09-02 00:07:46",
+  "news_info": {
+    "id": "880b089f00",
+    "title": "一图读懂｜强制性国家标准《网络安全技术 人工智能生成合成内容标识方法》",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901223351420445410.html",
+    "publish_time": "2025-09-01 22:33:00",
+    "summary": "一图读懂｜强制性国家标准《网络安全技术 人工智能生成合成内容标识方法》"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.56
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_name\": \"美亚柏科(300188)\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"技术评分0.91位居首位，板块强度0.86提供强力支撑，作为电子数据取证龙头深度受益AI安全监管政策，与新闻直接关联度最高，政策催化效应显著\",\n      \"risk_warning\": \"需关注政策落地进度不及预期风险，以及板块整体估值回调风险\"\n    },\n    {\n      \"stock_name\": \"拓尔思(300229)\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"技术评分0.87表现良好，在自然语言处理领域具有技术优势，AI内容生成与标识业务与政策要求高度契合，短期政策催化明确\",\n      \"risk_warning\": \"存在技术迭代风险和市场竞争加剧风险，需关注业绩兑现情况\"\n    },\n    {\n      \"stock_name\": \"蓝盾股份(300297)\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术评分0.80相对稳健，在网络安全领域有一定布局，受益于AI安全监管政策推动，但关联度相对前两只略弱\",\n      \"risk_warning\": \"基本面存在一定不确定性，需警惕财务风险和业务转型风险\"\n    }\n  ],\n  \"overall_risk_alert\": \"当前板块整体强度较高但需注意：1)政策执行细则尚未明确，存在预期差风险；2)AI板块整体估值处于相对高位，市场情绪波动可能带来调整压力；3)建议控制仓位，重点关注政策落地进度和个股业绩兑现情况\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300188",
+        "stock_name": "美亚柏科",
+        "recommendation_reason": "公司是国内电子数据取证龙头，在AI内容安全检测、数字水印技术方面具有深厚积累，直接受益于强制性国家标准实施",
+        "policy_relevance": "高度相关，公司业务与标准要求高度契合",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "300229",
+        "stock_name": "拓尔思",
+        "recommendation_reason": "公司在自然语言处理和内容安全领域技术领先，为AI生成内容识别和监管提供技术支撑",
+        "policy_relevance": "较强相关，涉及AI内容识别核心技术",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "300297",
+        "stock_name": "蓝盾股份",
+        "recommendation_reason": "网络安全解决方案提供商，在数据安全、内容审计方面有技术优势，符合国家标准要求",
+        "policy_relevance": "中等相关，涉及网络安全监管领域",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻发布强制性国家标准《网络安全技术 人工智能生成合成内容标识方法》，属于国家层面重要政策导向。虽然评分显示时效性较弱，但央视新闻的权威发布具有政策风向标意义，体现了国家对AI内容安全监管的重视程度，对相关产业将产生深远影响。",
+      "policy_impact": "强制性国家标准的出台将直接推动AI内容安全检测、数字水印、内容审核等相关产业发展，为相关企业带来明确的市场需求和政策红利，预计将形成百亿级市场规模。",
+      "theme_classification": {
+        "theme_type": "AI安全监管",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "网络安全",
+          "人工智能",
+          "数字水印技术"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300188",
+          "stock_name": "美亚柏科",
+          "recommendation_reason": "公司是国内电子数据取证龙头，在AI内容安全检测、数字水印技术方面具有深厚积累，直接受益于强制性国家标准实施",
+          "policy_relevance": "高度相关，公司业务与标准要求高度契合",
+          "urgency_level": "高",
+          "confidence_score": 0.88
+        },
+        {
+          "rank": 2,
+          "stock_code": "300229",
+          "stock_name": "拓尔思",
+          "recommendation_reason": "公司在自然语言处理和内容安全领域技术领先，为AI生成内容识别和监管提供技术支撑",
+          "policy_relevance": "较强相关，涉及AI内容识别核心技术",
+          "urgency_level": "中高",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 3,
+          "stock_code": "300297",
+          "stock_name": "蓝盾股份",
+          "recommendation_reason": "网络安全解决方案提供商，在数据安全、内容审计方面有技术优势，符合国家标准要求",
+          "policy_relevance": "中等相关，涉及网络安全监管领域",
+          "urgency_level": "中",
+          "confidence_score": 0.78
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "计算机"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成长",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-09-02 00:07:46"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

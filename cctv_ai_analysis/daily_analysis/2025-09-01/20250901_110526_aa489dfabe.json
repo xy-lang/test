@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 11:05:26",
+  "news_info": {
+    "id": "aa489dfabe",
+    "title": "从讲台到政协：我用一辈子，守着泰安的烟火与初心",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901102138069355881.html",
+    "publish_time": "2025-09-01 10:21:00",
+    "summary": "从讲台到政协：我用一辈子，守着泰安的烟火与初心"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7657,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.73,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.73
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600756\",\n      \"stock_name\": \"浪潮软件\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术面表现稳健，板块强度0.683提供支撑，与政协数字化建设主题高度契合，作为山东本地科技企业，受益于地方政务数字化升级政策，短期催化剂明确\",\n      \"risk_warning\": \"需关注科技板块整体估值回调风险，以及政务信息化项目推进进度不及预期的风险\"\n    },\n    {\n      \"stock_code\": \"603099\",\n      \"stock_name\": \"长白山\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"受益于区域文化旅游政策支持，技术指标显示企稳迹象，符合新闻中'守着泰安烟火'的文化旅游主题，具备消费复苏和区域发展双重催化\",\n      \"risk_warning\": \"旅游行业受季节性影响较大，需关注客流恢复程度和疫情防控政策变化\"\n    },\n    {\n      \"stock_code\": \"000796\",\n      \"stock_name\": \"凯撒旅业\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"虽与文化旅游主题相关，但技术面相对较弱，基本面仍处恢复期，作为补充性配置标的\",\n      \"risk_warning\": \"旅游行业竞争激烈，公司经营仍面临较大压力，需谨慎评估复苏进度\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极，政协相关主题受到政策关注，但需注意整体市场波动\",\n    \"sector_outlook\": \"综合板块强度中等，建议重点关注与数字化、文化旅游直接相关的个股\",\n    \"timing_recommendation\": \"短期可关注政策催化，中长期需观察基本面实质改善情况\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600756",
+        "stock_name": "浪潮软件",
+        "recommendation_reason": "作为山东本地IT企业，受益于区域数字化建设政策，央视报道地方发展往往伴随信息化升级需求",
+        "policy_relevance": "区域数字经济政策受益标的",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.72
+      },
+      {
+        "rank": 2,
+        "stock_code": "603099",
+        "stock_name": "长白山",
+        "recommendation_reason": "央视强调'烟火与初心'隐含对文化旅游价值的重视，长白山作为旅游标杆企业符合政策导向",
+        "policy_relevance": "文化旅游产业政策受益",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.68
+      },
+      {
+        "rank": 3,
+        "stock_code": "000796",
+        "stock_name": "凯撒旅业",
+        "recommendation_reason": "政协报道常涉及民生消费升级，公司旅游业务契合'烟火气'背后的消费复苏逻辑",
+        "policy_relevance": "民生消费促进政策关联",
+        "urgency_level": "中长期跟踪",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视报道的政协人物故事，虽时效性较弱但具有权威背书价值。央视作为国家级媒体，其报道往往隐含政策导向信号，特别是涉及政协、民生等主题时，可能预示着相关政策的延续或强化。新闻中'泰安烟火与初心'的表述，暗示对地方文化、民生保障等领域的关注。",
+      "policy_impact": "政协相关报道通常反映民生政策导向，结合'烟火气'等表述，可能预示对文化旅游、民生消费等领域的政策支持。此类报道虽非直接政策发布，但央视的权威性使其具备风向标意义，投资者需关注后续可能出台的区域振兴、文化保护等相关政策。",
+      "theme_classification": {
+        "theme_type": "政协民生/区域文化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "文化旅游",
+          "区域开发",
+          "民生消费"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600756",
+          "stock_name": "浪潮软件",
+          "recommendation_reason": "作为山东本地IT企业，受益于区域数字化建设政策，央视报道地方发展往往伴随信息化升级需求",
+          "policy_relevance": "区域数字经济政策受益标的",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.72
+        },
+        {
+          "rank": 2,
+          "stock_code": "603099",
+          "stock_name": "长白山",
+          "recommendation_reason": "央视强调'烟火与初心'隐含对文化旅游价值的重视，长白山作为旅游标杆企业符合政策导向",
+          "policy_relevance": "文化旅游产业政策受益",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.68
+        },
+        {
+          "rank": 3,
+          "stock_code": "000796",
+          "stock_name": "凯撒旅业",
+          "recommendation_reason": "政协报道常涉及民生消费升级，公司旅游业务契合'烟火气'背后的消费复苏逻辑",
+          "policy_relevance": "民生消费促进政策关联",
+          "urgency_level": "中长期跟踪",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:05:26"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

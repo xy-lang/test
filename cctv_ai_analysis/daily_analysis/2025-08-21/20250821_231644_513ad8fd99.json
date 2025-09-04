@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-21 23:16:44",
+  "news_info": {
+    "id": "513ad8fd99",
+    "title": "特朗普政府悄然扩大了50%钢铁和铝关税的覆盖范围，给企业和美国贸易伙伴带来了广泛的不确定性。美国关税政策反复无常、伤人害己、得不偿失。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIsueKPnkbKcGCNaNROSHO250821.shtml",
+    "publish_time": "2025-08-21 11:40:00",
+    "summary": "特朗普政府悄然扩大了50%钢铁和铝关税的覆盖范围，给企业和美国贸易伙伴带来了广泛的不确定性。美国关税..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7683,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.71,
+      "persistence": 1.0,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 11.6
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000898\",\n      \"stock_name\": \"鞍钢股份\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"作为国内重点钢铁企业，直接受益于美国钢铁关税政策带来的国内钢铁需求预期提升。技术面显示板块强度0.30虽不高但相对稳定，公司基本面在钢铁板块中具有代表性，政策催化效应明显。短期存在技术反弹机会，符合贸易摩擦题材炒作逻辑。\",\n      \"risk_warning\": \"钢铁行业周期性较强，受宏观经济影响大；关税政策实际效果存在不确定性；技术指标评分偏低显示市场情绪仍偏谨慎\"\n    },\n    {\n      \"stock_code\": \"600019\",\n      \"stock_name\": \"宝钢股份\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"国内钢铁行业龙头，规模优势和产品结构多元化使其在贸易政策变化中具备更强抗风险能力。技术面相对稳健，虽然板块整体强度一般，但公司基本面优质，政策受益确定性较高。\",\n      \"risk_warning\": \"钢铁行业产能过剩问题依然存在；原材料价格波动影响盈利能力；国际贸易环境复杂多变\"\n    },\n    {\n      \"stock_code\": \"000630\",\n      \"stock_name\": \"铜陵有色\",\n      \"comprehensive_score\": 0.48,\n      \"recommendation_reason\": \"作为有色金属企业，间接受益于贸易摩擦带来的国内产业保护预期，但关联度相对钢铁板块较弱。技术评分偏低反映市场认可度有限，需关注铝关税政策的具体影响。\",\n      \"risk_warning\": \"与新闻直接关联度较低；有色金属价格波动风险较大；技术面支撑较弱，短期上涨空间有限\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"谨慎乐观\",\n    \"sector_strength\": \"中等偏弱\",\n    \"policy_impact_level\": \"中等\",\n    \"recommendation_strategy\": \"重点配置钢铁板块龙头，控制仓位，短线操作\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000898",
+        "stock_name": "鞍钢股份",
+        "recommendation_reason": "央视报道美国钢铁关税政策，但该新闻时效性差，建议谨慎关注钢铁板块超跌反弹机会",
+        "policy_relevance": "间接相关，美国钢铁关税影响全球供需",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "600019",
+        "stock_name": "宝钢股份",
+        "recommendation_reason": "作为国内钢铁龙头，受国际贸易政策影响，但该新闻已过时，投资价值有限",
+        "policy_relevance": "间接相关",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "recommendation_reason": "涉及铝关税政策，但新闻时效性不足，建议关注当前实际供需面变化",
+        "policy_relevance": "间接相关",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及美国贸易政策重大调整，虽然央视新闻具有权威性，但评分显示其第一时间性、硬核程度和持续性均为0分，表明该新闻时效性较差且缺乏深度分析价值。作为2025年8月的旧闻，当前投资参考价值有限。",
+      "policy_impact": "美国关税政策调整对全球贸易格局产生扰动，但该政策已实施多年，市场已充分消化。当前中美贸易关系已进入新阶段，该历史政策对当前市场影响微弱。",
+      "theme_classification": {
+        "theme_type": "贸易摩擦/关税政策",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "钢铁",
+          "有色金属",
+          "外贸出口"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000898",
+          "stock_name": "鞍钢股份",
+          "recommendation_reason": "央视报道美国钢铁关税政策，但该新闻时效性差，建议谨慎关注钢铁板块超跌反弹机会",
+          "policy_relevance": "间接相关，美国钢铁关税影响全球供需",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "600019",
+          "stock_name": "宝钢股份",
+          "recommendation_reason": "作为国内钢铁龙头，受国际贸易政策影响，但该新闻已过时，投资价值有限",
+          "policy_relevance": "间接相关",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "000630",
+          "stock_name": "铜陵有色",
+          "recommendation_reason": "涉及铝关税政策，但新闻时效性不足，建议关注当前实际供需面变化",
+          "policy_relevance": "间接相关",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 23:16:44"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

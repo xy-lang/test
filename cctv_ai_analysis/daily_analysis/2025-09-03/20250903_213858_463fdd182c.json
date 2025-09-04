@@ -1,0 +1,122 @@
+{
+  "analysis_time": "2025-09-03 21:38:58",
+  "news_info": {
+    "id": "463fdd182c",
+    "title": "“诗会曲靖 发现宝藏之城——全国著名诗人曲靖采风活动”开幕",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903212234053609297.html",
+    "publish_time": "2025-09-03 21:22:00",
+    "summary": "“诗会曲靖 发现宝藏之城——全国著名诗人曲靖采风活动”开幕"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7855000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.79,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.27
+    }
+  },
+  "ai_analysis": {
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，可能受益于曲靖地区文化旅游推广带来的潜在客流增长，但影响较为间接",
+        "policy_relevance": "中等，与文旅融合政策相关",
+        "urgency_level": "低",
+        "confidence_score": 0.35,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "区域性旅游企业，虽不在曲靖但在文旅政策大环境下可能获得一定关注",
+        "policy_relevance": "中等偏低",
+        "urgency_level": "低",
+        "confidence_score": 0.25,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 3,
+        "stock_code": "000802",
+        "stock_name": "北京文化",
+        "recommendation_reason": "文化传媒类公司，与诗歌文化活动主题有一定关联性，但实质性影响有限",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.2,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      }
+    ],
+    "stage2_status": "fallback_enhanced",
+    "fallback_reason": "使用规则增强的第一阶段结果",
+    "enhancement_applied": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为文化宣传类报道，报道'全国著名诗人曲靖采风活动'开幕。从投资角度看，此类新闻属于地方文化推广活动，直接市场影响力有限。央视新闻的权威性主要体现在政策导向和舆论引导层面，但该新闻缺乏实质性政策支撑和产业影响。评分显示第一时间性、硬核程度、持续性均为0分，表明该新闻对资本市场影响微弱。",
+      "policy_impact": "该新闻反映的是地方文化建设和旅游推广政策，属于'文化自信'和'文旅融合'大框架下的具体活动。但缺乏具体的产业扶持政策或资金支持，对相关上市公司业绩影响有限。政策层级较低，更多是地方性文化活动宣传。",
+      "theme_classification": {
+        "theme_type": "文化旅游概念",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "旅游服务",
+          "地方经济"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，可能受益于曲靖地区文化旅游推广带来的潜在客流增长，但影响较为间接",
+          "policy_relevance": "中等，与文旅融合政策相关",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "区域性旅游企业，虽不在曲靖但在文旅政策大环境下可能获得一定关注",
+          "policy_relevance": "中等偏低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "000802",
+          "stock_name": "北京文化",
+          "recommendation_reason": "文化传媒类公司，与诗歌文化活动主题有一定关联性，但实质性影响有限",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 21:38:58"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

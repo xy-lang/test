@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-01 21:22:51",
+  "news_info": {
+    "id": "9b55e8573a",
+    "title": "在山东青岛，我国建设了中国—上海合作组织地方经贸合作示范区。作为唯一面向上合组织国家开展地方经贸合作的国际示范平台，7年来，上合示范区不断建设与更新，用开放、合作凝聚“上合力量”。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIufniU1Cku5K8jVByFAmy250901.shtml",
+    "publish_time": "2025-09-01 08:54:00",
+    "summary": "在山东青岛，我国建设了中国—上海合作组织地方经贸合作示范区。作为唯一面向上合组织国家开展地方经贸合作..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 12.46
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 21:22:51"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

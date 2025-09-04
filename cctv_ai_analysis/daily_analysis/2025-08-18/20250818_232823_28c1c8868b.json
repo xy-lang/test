@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 23:28:23",
+  "news_info": {
+    "id": "28c1c8868b",
+    "title": "德国一波音客机起飞后发动机喷火 无人员伤亡",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIurlPXwhMEyvpbrMamtoN250818.shtml",
+    "publish_time": "2025-08-18 22:36:29",
+    "summary": "德国一波音客机起飞后发动机喷火 无人员伤亡"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79375,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.71,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.85
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600893\",\n      \"stock_name\": \"航发动力\",\n      \"composite_score\": 0.82,\n      \"recommendation_reason\": \"1. 技术面：作为航空发动机核心企业，技术指标显示近期有资金流入迹象，MACD金叉初现\\n2. 新闻关联：直接受益于航空安全议题，发动机技术升级需求预期增强\\n3. 政策面：属于军工高端装备领域，符合国家战略发展方向\\n4. 催化剂：近期有发动机专项采购计划传闻\",\n      \"risk_warning\": \"军工订单波动性较大，需注意业绩兑现节奏\"\n    },\n    {\n      \"stock_code\": \"601111\",\n      \"stock_name\": \"中国国航\",\n      \"composite_score\": 0.71,\n      \"recommendation_reason\": \"1. 技术面：处于超跌反弹通道，RSI指标显示超卖修复需求\\n2. 行业地位：国际航线占比最高，安全事件后可能加速老旧机型更新\\n3. 估值优势：PB处于历史低位区间\\n4. 催化剂：暑期航运旺季将至\",\n      \"risk_warning\": \"油价波动对成本影响显著，需关注地缘政治风险\"\n    },\n    {\n      \"stock_code\": \"600115\",\n      \"stock_name\": \"中国东航\",\n      \"composite_score\": 0.68,\n      \"recommendation_reason\": \"1. 事件驱动：作为波音主要客户，可能加快机型更新计划\\n2. 技术形态：周线级别底背离雏形\\n3. 区域优势：长三角核心枢纽布局完善\\n4. 政策支持：获得地方国资持续增持\",\n      \"risk_warning\": \"资产负债率较高，汇率波动敏感性大\"\n    }\n  ],\n  \"market_context\": {\n    \"sector_strength\": 0.667,\n    \"sentiment_analysis\": \"中性偏积极\",\n    \"key_observation\": \"航空板块技术面呈现分化特征，安全相关子领域（如航发）强于运输类个股\"\n  },\n  \"investment_horizon\": \"短期事件驱动（1-3个月）\",\n  \"special_note\": \"建议采用事件驱动型交易策略，重点关注航发动力在60日均线附近的承接力度\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "recommendation_reason": "作为国内主要航空公司之一，可能受到航空安全事件的情绪影响，但长期基本面稳健。",
+        "policy_relevance": "直接受航空安全政策影响",
+        "urgency_level": "中",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 2,
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "recommendation_reason": "国内航空龙头，央视报道可能引发短期股价波动，但公司运营稳健。",
+        "policy_relevance": "直接受航空安全政策影响",
+        "urgency_level": "中",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "recommendation_reason": "国内航空发动机主要制造商，可能受益于航空安全关注度提升带来的国产替代预期。",
+        "policy_relevance": "间接受益于航空安全政策",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及波音客机发动机故障事件，虽无人员伤亡，但可能引发市场对航空安全的关注。央视新闻作为国家级媒体，其报道具有权威性和广泛传播性，可能对相关行业产生短期影响。",
+      "policy_impact": "航空安全是国家重点监管领域，此类事件可能促使监管部门加强安全检查，对航空制造和运营企业形成政策压力。",
+      "theme_classification": {
+        "theme_type": "航空安全",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "航空航天",
+          "航空运输"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600115",
+          "stock_name": "中国东航",
+          "recommendation_reason": "作为国内主要航空公司之一，可能受到航空安全事件的情绪影响，但长期基本面稳健。",
+          "policy_relevance": "直接受航空安全政策影响",
+          "urgency_level": "中",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 2,
+          "stock_code": "601111",
+          "stock_name": "中国国航",
+          "recommendation_reason": "国内航空龙头，央视报道可能引发短期股价波动，但公司运营稳健。",
+          "policy_relevance": "直接受航空安全政策影响",
+          "urgency_level": "中",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "600893",
+          "stock_name": "航发动力",
+          "recommendation_reason": "国内航空发动机主要制造商，可能受益于航空安全关注度提升带来的国产替代预期。",
+          "policy_relevance": "间接受益于航空安全政策",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 23:28:23"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

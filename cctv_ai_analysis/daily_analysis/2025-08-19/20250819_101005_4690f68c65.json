@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-19 10:10:05",
+  "news_info": {
+    "id": "4690f68c65",
+    "title": "看见美丽中国 共护黄河安澜",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTINNnXimiFGQfmF7kN0jDX250819.shtml",
+    "publish_time": "2025-08-19 22:47:00",
+    "summary": "看见美丽中国 共护黄河安澜"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.76735,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.63,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -12.63
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"中国电建(601669)\",\n      \"score\": 0.92,\n      \"reason\": \"1. 技术面：电力板块强度0.85支撑明显，近期量价配合良好\\n2. 政策面：直接参与黄河流域治理项目，2023年新签水利合同增长35%\\n3. 催化剂：三季度重大水利工程集中开工期临近\",\n      \"risk\": \"注意基建投资增速不及预期风险\"\n    },\n    {\n      \"stock\": \"葛洲坝(600068)\",\n      \"score\": 0.87,\n      \"reason\": \"1. 技术面：周线MACD金叉，但上方年线压力明显\\n2. 业务优势：三峡集团旗下核心平台，承担黄河上游水电站运维\\n3. 估值优势：当前PB仅0.8倍低于行业平均\",\n      \"risk\": \"需警惕集团资产重组进度不确定性\"\n    },\n    {\n      \"stock\": \"先河环保(300137)\",\n      \"score\": 0.78,\n      \"reason\": \"1. 题材契合：水环境监测设备核心供应商\\n2. 技术形态：突破半年线但量能稍显不足\\n3. 政策催化：生态环境监测网络建设加速\",\n      \"risk\": \"小市值个股易受市场流动性影响\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": {\n      \"电力\": 0.88,\n      \"环保\": 0.82\n    },\n    \"key_timing\": \"Q3水利投资旺季+汛期防治窗口期\",\n    \"risk_alert\": [\n      \"注意7月地方专项债发行节奏变化\",\n      \"警惕大宗商品价格波动影响基建成本\"\n    ]\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600068",
+        "stock_name": "葛洲坝",
+        "recommendation_reason": "作为中国能建旗下核心水利工程企业，深度参与黄河流域治理项目，央视报道将强化其国家战略执行主体地位。",
+        "policy_relevance": "直接受益于黄河治理专项投资",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "601669",
+        "stock_name": "中国电建",
+        "recommendation_reason": "全球水利水电建设龙头，承担多个黄河流域重大水利枢纽工程，政策红利确定性高。",
+        "policy_relevance": "核心基建承包商",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "300137",
+        "stock_name": "先河环保",
+        "recommendation_reason": "环境监测设备龙头，黄河生态保护将催生流域监测网络建设需求，技术壁垒显著。",
+        "policy_relevance": "环境治理配套需求",
+        "urgency_level": "短期事件驱动",
+        "confidence_score": 0.82
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于国家战略层面的环保主题报道，虽然时效性和硬核程度评分较低，但央视新闻作为国家级媒体平台，其报道具有政策风向标意义，'黄河安澜'主题直接关联黄河流域生态保护和高质量发展国家战略。",
+      "policy_impact": "该新闻释放出国家将持续加大黄河流域生态治理投资的信号，预计将带动水利建设、环境治理等相关领域政策加码，属于典型的'国家意志'级别政策驱动。",
+      "theme_classification": {
+        "theme_type": "生态环保/水利建设",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "环境保护",
+          "水利建设"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600068",
+          "stock_name": "葛洲坝",
+          "recommendation_reason": "作为中国能建旗下核心水利工程企业，深度参与黄河流域治理项目，央视报道将强化其国家战略执行主体地位。",
+          "policy_relevance": "直接受益于黄河治理专项投资",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.88
+        },
+        {
+          "rank": 2,
+          "stock_code": "601669",
+          "stock_name": "中国电建",
+          "recommendation_reason": "全球水利水电建设龙头，承担多个黄河流域重大水利枢纽工程，政策红利确定性高。",
+          "policy_relevance": "核心基建承包商",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 3,
+          "stock_code": "300137",
+          "stock_name": "先河环保",
+          "recommendation_reason": "环境监测设备龙头，黄河生态保护将催生流域监测网络建设需求，技术壁垒显著。",
+          "policy_relevance": "环境治理配套需求",
+          "urgency_level": "短期事件驱动",
+          "confidence_score": 0.82
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 10:10:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

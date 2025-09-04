@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-31 23:42:08",
+  "news_info": {
+    "id": "6258fcda6f",
+    "title": "中国物流与采购联合会、国家统计局服务业调查中心8月31日公布8月份中国采购经理指数。其中，制造业采购经理指数环比小幅回升，向好基础继续巩固。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/31/ARTIYfUxaHEXmHvcelKa3Lfo250831.shtml",
+    "publish_time": "2025-08-31 16:34:00",
+    "summary": "中国物流与采购联合会、国家统计局服务业调查中心8月31日公布8月份中国采购经理指数。其中，制造业采购..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 1.0,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 7.12
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_code\": \"000157\",\n      \"stock_name\": \"中联重科\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"制造业PMI回升直接利好工程机械板块，公司作为行业龙头受益明显。技术指标显示近期有资金流入迹象，板块强度0.75提供支撑，政策催化效应较强。\",\n      \"risk_warning\": \"需关注基建投资实际落地进度，行业周期性波动风险\"\n    },\n    {\n      \"stock_code\": \"600031\",\n      \"stock_name\": \"三一重工\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"制造业景气度回升对工程机械需求形成支撑，公司技术面呈现企稳态势。受益于宏观经济政策导向，短期催化剂明确。\",\n      \"risk_warning\": \"房地产行业波动可能影响需求，海外市场不确定性\"\n    },\n    {\n      \"stock_code\": \"002352\",\n      \"stock_name\": \"顺丰控股\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"制造业复苏带动物流需求，但关联度相对间接。技术评分中等，需观察后续经济复苏对物流行业的传导效果。\",\n      \"risk_warning\": \"行业竞争激烈，成本压力较大，业绩弹性相对有限\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"积极\",\n    \"sector_strength_support\": \"中等偏强\",\n    \"policy_benefit_level\": \"明显\",\n    \"recommendation_strategy\": \"重点关注工程机械板块，物流板块作为补充配置\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "recommendation_reason": "作为工程机械龙头，PMI回升直接反映制造业景气度提升，基建和制造业投资回暖将带动设备需求",
+        "policy_relevance": "高度相关，受益于制造业复苏和政策支持",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600031",
+        "stock_name": "三一重工",
+        "recommendation_reason": "制造业PMI回升预示工程机械行业需求改善，公司作为行业龙头将率先受益",
+        "policy_relevance": "高度相关，制造业景气度提升直接利好",
+        "urgency_level": "中等",
+        "confidence_score": 0.72
+      },
+      {
+        "rank": 3,
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "recommendation_reason": "制造业活动回暖将带动物流需求增长，公司作为物流龙头受益于经济复苏",
+        "policy_relevance": "中度相关，物流是制造业的重要配套",
+        "urgency_level": "一般",
+        "confidence_score": 0.68
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻公布8月份PMI数据，制造业采购经理指数环比回升，显示经济向好基础巩固。虽然评分较低，但作为国家统计局和央视新闻联合发布，具有极高的权威性和政策导向性，对市场具有重要指引作用。",
+      "policy_impact": "PMI数据作为宏观经济先行指标，其回升表明制造业景气度改善，将直接利好制造业相关板块。政策层面体现国家稳增长政策见效，后续可能延续支持制造业发展的政策导向。",
+      "theme_classification": {
+        "theme_type": "宏观经济数据利好",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "制造业",
+          "工业设备",
+          "物流运输"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000157",
+          "stock_name": "中联重科",
+          "recommendation_reason": "作为工程机械龙头，PMI回升直接反映制造业景气度提升，基建和制造业投资回暖将带动设备需求",
+          "policy_relevance": "高度相关，受益于制造业复苏和政策支持",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600031",
+          "stock_name": "三一重工",
+          "recommendation_reason": "制造业PMI回升预示工程机械行业需求改善，公司作为行业龙头将率先受益",
+          "policy_relevance": "高度相关，制造业景气度提升直接利好",
+          "urgency_level": "中等",
+          "confidence_score": 0.72
+        },
+        {
+          "rank": 3,
+          "stock_code": "002352",
+          "stock_name": "顺丰控股",
+          "recommendation_reason": "制造业活动回暖将带动物流需求增长，公司作为物流龙头受益于经济复苏",
+          "policy_relevance": "中度相关，物流是制造业的重要配套",
+          "urgency_level": "一般",
+          "confidence_score": 0.68
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-31 23:42:08"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 11:33:36",
+  "news_info": {
+    "id": "d3db4fe35e",
+    "title": "今年上半年，食品冷链物流业务总需求量为1.92亿吨，同比增长4.35%。上半年食品冷链物流服务企业总收入为2799.4亿元，同比增长3.84%。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIvpfGwZxUQm3Rw0XhfDf6250818.shtml",
+    "publish_time": "2025-08-18 11:28:58",
+    "summary": "今年上半年，食品冷链物流业务总需求量为1.92亿吨，同比增长4.35%。上半年食品冷链物流服务企业总..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.06
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600270\",\n      \"stock_name\": \"外运发展\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为中国外运旗下核心物流平台，直接受益于冷链物流行业增长。技术面呈现温和放量突破形态，MACD金叉确认，短期有望延续反弹。公司央企背景强化政策受益确定性。\",\n      \"risk_warning\": \"需警惕大宗商品价格波动对物流成本的传导效应\"\n    },\n    {\n      \"stock_code\": \"002210\",\n      \"stock_name\": \"飞马国际\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"供应链管理业务覆盖冷链领域，近期获机构调研关注。技术面站上20日均线，但量能配合不足需观察持续性。存在困境反转预期差。\",\n      \"risk_warning\": \"历史商誉减值风险未完全出清，财报质量需重点跟踪\"\n    },\n    {\n      \"stock_code\": \"600233\",\n      \"stock_name\": \"圆通速递\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"快递龙头加速布局冷链网络，与新闻主题存在间接关联。技术面处于箱体震荡下沿，RSI指标显示超卖，具备防御性配置价值。\",\n      \"risk_warning\": \"行业价格战可能压制利润率，需关注7月业务量增速\"\n    }\n  ],\n  \"market_context\": {\n    \"sector_strength\": 0.55,\n    \"key_observation\": \"冷链物流板块尚未形成明显资金共识，但龙头个股已现独立行情特征。建议采用\"龙头+弹性\"的组合策略，重点跟踪外运发展的趋势延续性。\"\n  },\n  \"operation_suggestion\": {\n    \"position_advice\": \"总仓位控制在30%以内\",\n    \"buy_strategy\": \"600270回调至5日线分批建仓，002210需放量突破年线确认\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600270",
+        "stock_name": "外运发展",
+        "recommendation_reason": "作为国内领先的综合物流服务商，外运发展在冷链物流领域布局广泛，业务覆盖食品冷链运输，将直接受益于行业增长。",
+        "policy_relevance": "高",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 2,
+        "stock_code": "002210",
+        "stock_name": "飞马国际",
+        "recommendation_reason": "公司专注于冷链物流设备制造，提供冷链仓储和运输解决方案，技术实力强，符合国家提升冷链物流效率的政策方向。",
+        "policy_relevance": "高",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 3,
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "recommendation_reason": "圆通近年来加大冷链物流网络建设，业务增速快，有望在食品冷链物流需求增长中分得更大市场份额。",
+        "policy_relevance": "中高",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由央视发布，具有高度权威性，反映了食品冷链物流行业的整体增长趋势。虽然评分中的第一时间性、硬核程度和持续性均为0，但央视作为国家级媒体，其报道往往具有政策导向性，可能预示着冷链物流行业将获得更多政策支持。",
+      "policy_impact": "冷链物流是保障食品安全和农产品流通的重要环节，近年来国家多次出台政策支持冷链物流发展。此次央视报道可能进一步强化市场对冷链物流行业的政策预期，推动相关企业业绩增长。",
+      "theme_classification": {
+        "theme_type": "冷链物流",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "物流",
+          "食品供应链"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600270",
+          "stock_name": "外运发展",
+          "recommendation_reason": "作为国内领先的综合物流服务商，外运发展在冷链物流领域布局广泛，业务覆盖食品冷链运输，将直接受益于行业增长。",
+          "policy_relevance": "高",
+          "urgency_level": "中高",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 2,
+          "stock_code": "002210",
+          "stock_name": "飞马国际",
+          "recommendation_reason": "公司专注于冷链物流设备制造，提供冷链仓储和运输解决方案，技术实力强，符合国家提升冷链物流效率的政策方向。",
+          "policy_relevance": "高",
+          "urgency_level": "中",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 3,
+          "stock_code": "600233",
+          "stock_name": "圆通速递",
+          "recommendation_reason": "圆通近年来加大冷链物流网络建设，业务增速快，有望在食品冷链物流需求增长中分得更大市场份额。",
+          "policy_relevance": "中高",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析：粗筛+技术精准",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:33:36"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

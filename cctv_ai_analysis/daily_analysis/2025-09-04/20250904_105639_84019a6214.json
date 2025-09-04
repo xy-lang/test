@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-09-04 10:56:39",
+  "news_info": {
+    "id": "84019a6214",
+    "title": "关于拟认定李亚、王守智与白英敬见义勇为行为公示",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904103808740802590.html",
+    "publish_time": "2025-09-04 10:38:00",
+    "summary": "关于拟认定李亚、王守智与白英敬见义勇为行为公示"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7657,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.73,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.3
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000001\",\n      \"stock_name\": \"平安银行\",\n      \"comprehensive_score\": 0.15,\n      \"recommendation_reason\": \"作为平安集团旗下银行，与新闻中见义勇为行为存在一定品牌关联度，技术面相对稳定但缺乏明显突破信号，在银行板块中具备一定防御属性\",\n      \"risk_warning\": \"银行板块整体强度偏弱，缺乏明确催化剂，技术指标显示震荡格局，短期上涨空间有限\"\n    },\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.12,\n      \"recommendation_reason\": \"银行业龙头之一，具备一定的社会责任形象，但新闻关联度较弱，技术面表现平淡，缺乏明显资金关注\",\n      \"risk_warning\": \"板块强度不足，市场情绪偏谨慎，技术指标显示横盘整理，缺乏突破动力\"\n    },\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.08,\n      \"recommendation_reason\": \"综合金融集团，与见义勇为主题关联度最低，技术评分较差，缺乏明确的投资逻辑支撑\",\n      \"risk_warning\": \"综合板块表现疲弱，个股基本面面临压力，技术指标显示弱势震荡，建议谨慎对待\"\n    }\n  ],\n  \"overall_assessment\": \"基于技术分析和新闻匹配度评估，本次推荐的3只股票与见义勇为新闻的直接关联度均较弱，缺乏明确的政策受益逻辑和短期催化剂。板块强度仅为0.10，显示相关板块市场关注度较低，技术指标平均评分0.10表明个股技术面普遍偏弱。整体投资价值有限，建议保持谨慎态度。\",\n  \"risk_disclosure\": \"本推荐基于有限信息进行分析，存在以下主要风险：1）新闻题材与股票关联度较弱，缺乏实质性利好；2）银行和综合板块整体表现疲软，板块风险较高；3）技术指标显示个股处于震荡或弱势格局；4）市场情绪偏谨慎，缺乏明确上涨催化剂。投资者应谨慎决策，控制仓位风险。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "recommendation_reason": "该新闻无投资价值，但基于要求必须推荐股票，选择金融板块龙头股。央视新闻的权威性在金融监管报道中更具影响力，但与本新闻无关。",
+        "policy_relevance": "无关联",
+        "urgency_level": "低",
+        "confidence_score": 0.1
+      },
+      {
+        "rank": 2,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "强制推荐要求下的备选标的，银行业与见义勇为无实质关联，但金融板块对政策敏感度较高",
+        "policy_relevance": "无关联",
+        "urgency_level": "低",
+        "confidence_score": 0.1
+      },
+      {
+        "rank": 3,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "保险行业与社会风险管理相关，但与本则见义勇为新闻无直接投资逻辑关联",
+        "policy_relevance": "微弱关联",
+        "urgency_level": "低",
+        "confidence_score": 0.05
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方见义勇为行为公示，属于常规社会正能量报道，不具备投资价值。央视新闻的权威性在此类社会新闻中主要体现在舆论引导作用，但缺乏实质性政策导向或行业影响。新闻内容与资本市场关联度极低，时效性、硬核程度均为0分，表明不具备投资参考价值。",
+      "policy_impact": "无直接政策影响。见义勇为行为认定属于社会道德建设范畴，与宏观经济政策、产业政策无直接关联，不会对特定行业或上市公司产生实质性影响。",
+      "theme_classification": {
+        "theme_type": "社会公益题材",
+        "hardcore_level": "无投资价值",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000001",
+          "stock_name": "平安银行",
+          "recommendation_reason": "该新闻无投资价值，但基于要求必须推荐股票，选择金融板块龙头股。央视新闻的权威性在金融监管报道中更具影响力，但与本新闻无关。",
+          "policy_relevance": "无关联",
+          "urgency_level": "低",
+          "confidence_score": 0.1
+        },
+        {
+          "rank": 2,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "强制推荐要求下的备选标的，银行业与见义勇为无实质关联，但金融板块对政策敏感度较高",
+          "policy_relevance": "无关联",
+          "urgency_level": "低",
+          "confidence_score": 0.1
+        },
+        {
+          "rank": 3,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "保险行业与社会风险管理相关，但与本则见义勇为新闻无直接投资逻辑关联",
+          "policy_relevance": "微弱关联",
+          "urgency_level": "低",
+          "confidence_score": 0.05
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:56:39"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

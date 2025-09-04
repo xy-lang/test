@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-11 23:07:37",
+  "news_info": {
+    "id": "35ea48ec2f",
+    "title": "广东惠州某商场一家长教育孩子行为不当 妇联通报",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTIm9jkcd6W7vox1J0hInT3250811.shtml",
+    "publish_time": "2025-08-11 21:30:36",
+    "summary": "广东惠州某商场一家长教育孩子行为不当 妇联通报"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7323500000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.61
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻虽然时效性较强(0.80)，但属于地方性社会新闻，政策关联度较低(0个政策词)，综合强度0.73表明其影响力主要局限在地方层面。",
+    "policy_impact": "妇联通报事件不涉及重大政策调整，对资本市场直接影响有限。但可能引发家庭教育相关话题讨论。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002621",
+        "stock_name": "美吉姆",
+        "recommendation_reason": "作为早教行业龙头，家庭教育话题可能提升市场关注度",
+        "policy_relevance": "间接相关，家庭教育话题可能引发早教行业讨论",
+        "urgency_level": "中等",
+        "confidence_score": 0.68
+      },
+      {
+        "rank": 2,
+        "stock_code": "300010",
+        "stock_name": "豆神教育",
+        "recommendation_reason": "教育信息化企业，可能受益于家庭教育话题热度",
+        "policy_relevance": "间接相关",
+        "urgency_level": "低",
+        "confidence_score": 0.62
+      },
+      {
+        "rank": 3,
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "recommendation_reason": "综合性教育服务商，家庭教育讨论可能带来短期关注",
+        "policy_relevance": "间接相关",
+        "urgency_level": "低",
+        "confidence_score": 0.58
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

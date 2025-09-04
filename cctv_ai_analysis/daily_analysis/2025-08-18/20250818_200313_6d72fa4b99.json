@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 20:03:13",
+  "news_info": {
+    "id": "6d72fa4b99",
+    "title": "除了道路，在西藏还有一条特殊的路，那就是“电力天路”，刚才，我们看到了拉萨的夜景，可以说灯火辉煌，现在大屏上的是昌都的夜景，这是那曲的夜景，也都很美。在这些亮丽夜景的背后，就是一条条“电力天路”在做支撑。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIMOBDWLXfUkwBAFdZGm0c250818.shtml",
+    "publish_time": "2025-08-18 12:08:00",
+    "summary": "除了道路，在西藏还有一条特殊的路，那就是“电力天路”，刚才，我们看到了拉萨的夜景，可以说灯火辉煌，现..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 7.9
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600312\",\n      \"stock_name\": \"平高电气\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"1. 技术面：近期成交量温和放大，MACD金叉，处于上升通道\\n2. 基本面：特高压开关设备龙头，直接受益于'电力天路'建设\\n3. 政策面：国家电网2023年特高压投资计划超预期\\n4. 催化剂：中标藏中联网工程设备采购项目\",\n      \"risk_warning\": \"需警惕特高压建设进度不及预期风险\"\n    },\n    {\n      \"stock_code\": \"601179\",\n      \"stock_name\": \"中国西电\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"1. 技术面：突破年线压力位，RSI指标健康\\n2. 基本面：输变电设备全产业链覆盖，西藏电网改造核心供应商\\n3. 政策面：受益于西部大开发税收优惠政策\\n4. 资金面：近期获北向资金持续加仓\",\n      \"risk_warning\": \"注意原材料价格波动对毛利率的影响\"\n    },\n    {\n      \"stock_code\": \"600875\",\n      \"stock_name\": \"东方电气\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"1. 技术面：周线级别W底形态初现\\n2. 基本面：发电设备综合供应商，参与西藏水电站建设\\n3. 题材面：兼具氢能源+储能概念\\n4. 估值面：动态PE低于行业平均水平\",\n      \"risk_warning\": \"新能源业务转型存在不确定性\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.78,\n    \"technical_sentiment\": \"中性偏多\",\n    \"policy_support\": \"强\",\n    \"risk_factors\": [\n      \"大盘系统性风险\",\n      \"基建投资增速放缓\",\n      \"高原地区施工季节性影响\"\n    ]\n  },\n  \"investment_horizon\": \"3-6个月中期配置\",\n  \"disclaimer\": \"以上分析基于公开信息，不构成投资建议。西藏地区特殊地理环境可能导致项目进度波动，建议持续跟踪国网招标情况。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600312",
+        "stock_name": "平高电气",
+        "recommendation_reason": "作为国内高压开关设备龙头企业，将直接受益于西藏电网建设。央视报道强化了市场对相关企业参与国家重大项目的预期。",
+        "policy_relevance": "高度相关",
+        "urgency_level": "中高",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "601179",
+        "stock_name": "中国西电",
+        "recommendation_reason": "央企背景的电力设备制造商，在国家电网建设项目中具有先天优势。央视报道提升了市场对其参与边疆电力工程建设的预期。",
+        "policy_relevance": "高度相关",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "600875",
+        "stock_name": "东方电气",
+        "recommendation_reason": "作为发电设备制造龙头，将间接受益于西藏电力基础设施完善后的电站建设需求。央视报道强化了电力产业链的整体投资逻辑。",
+        "policy_relevance": "中度相关",
+        "urgency_level": "中",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由央视新闻发布，具有极高的权威性和政策导向性。内容聚焦西藏电力基础设施建设，特别是'电力天路'项目，体现了国家对边疆地区电力保障的高度重视。虽然新闻本身的技术性评分较低，但作为国家媒体对重大基建工程的报道，其政策信号意义重大。",
+      "policy_impact": "该新闻直接关联国家'十四五'规划中关于西部大开发和边疆地区基础设施建设的政策导向。西藏电力基础设施建设是国家战略的重要组成部分，预计将获得持续的政策和资金支持。",
+      "theme_classification": {
+        "theme_type": "电力基建/边疆开发",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "电力设备",
+          "基础设施建设"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600312",
+          "stock_name": "平高电气",
+          "recommendation_reason": "作为国内高压开关设备龙头企业，将直接受益于西藏电网建设。央视报道强化了市场对相关企业参与国家重大项目的预期。",
+          "policy_relevance": "高度相关",
+          "urgency_level": "中高",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "601179",
+          "stock_name": "中国西电",
+          "recommendation_reason": "央企背景的电力设备制造商，在国家电网建设项目中具有先天优势。央视报道提升了市场对其参与边疆电力工程建设的预期。",
+          "policy_relevance": "高度相关",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "600875",
+          "stock_name": "东方电气",
+          "recommendation_reason": "作为发电设备制造龙头，将间接受益于西藏电力基础设施完善后的电站建设需求。央视报道强化了电力产业链的整体投资逻辑。",
+          "policy_relevance": "中度相关",
+          "urgency_level": "中",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 20:03:13"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

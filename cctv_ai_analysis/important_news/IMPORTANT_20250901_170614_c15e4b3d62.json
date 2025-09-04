@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-01 17:06:14",
+  "news_info": {
+    "id": "c15e4b3d62",
+    "title": "习近平：中方将成立中国—上海合作组织三大合作平台、三大合作中心",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIfQHo7PVKFSdAyjijyV19250901.shtml",
+    "publish_time": "2025-09-01 16:38:02",
+    "summary": "习近平：中方将成立中国—上海合作组织三大合作平台、三大合作中心"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8383,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.45
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 17:06:14"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

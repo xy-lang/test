@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-11 18:16:08",
+  "news_info": {
+    "id": "dca347645d",
+    "title": "首批5个国家公园已明确“谁所有”“由谁管”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTINBkBgKyOLTFibJdbsJFP250811.shtml",
+    "publish_time": "2025-08-11 18:15:49",
+    "summary": "首批5个国家公园已明确“谁所有”“由谁管”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79375,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.71,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其发布的时政要闻具有极高的政策导向性和市场影响力。本次关于国家公园管理的报道，虽然政策词出现频率不高，但第一时间性和持续性评分较高，显示该主题具有持续关注价值。",
+    "policy_impact": "国家公园管理体制的明确将带动相关基础设施建设、生态保护和旅游开发等领域的投资机会，属于中长期政策利好。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600749",
+        "stock_name": "西藏旅游",
+        "recommendation_reason": "作为西藏地区主要旅游运营商，将直接受益于国家公园管理体制完善带来的旅游发展机遇",
+        "policy_relevance": "高 - 直接涉及国家公园旅游开发",
+        "urgency_level": "中高 - 政策落地预期明确",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "002033",
+        "stock_name": "丽江旅游",
+        "recommendation_reason": "地处国家公园周边区域，将受益于国家公园品牌效应带来的客流增长",
+        "policy_relevance": "中高 - 间接受益于国家公园建设",
+        "urgency_level": "中 - 需等待具体实施细则",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "recommendation_reason": "文旅演艺龙头，有望参与国家公园文化IP开发，符合文旅融合政策方向",
+        "policy_relevance": "中 - 潜在合作机会",
+        "urgency_level": "中低 - 需观察具体合作进展",
+        "confidence_score": 0.68
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

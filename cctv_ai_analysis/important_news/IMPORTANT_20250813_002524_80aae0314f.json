@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-13 00:25:24",
+  "news_info": {
+    "id": "80aae0314f",
+    "title": "现在，各地的城市公园正在成为市民、游客消暑纳凉的热门选择。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/12/ARTIEiv9sZmMHid03JUYvy8m250812.shtml",
+    "publish_time": "2025-08-13 00:23:46",
+    "summary": "现在，各地的城市公园正在成为市民、游客消暑纳凉的热门选择。"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82015,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.79,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.02
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的公信力和影响力。该新闻关注城市公园作为消暑纳凉热点的现象，反映出夏季休闲消费和城市公共服务的需求增长，可能带动相关产业的投资机会。",
+    "policy_impact": "虽然新闻中未直接提及具体政策，但城市公园建设与'美丽中国'和'城市更新'等国家战略高度相关，可能预示着地方政府在公共设施领域的投入增加。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600008",
+        "stock_name": "首创环保",
+        "recommendation_reason": "作为城市环境综合服务商，直接受益于城市公园建设和运营需求增长",
+        "policy_relevance": "高度相关，契合国家生态文明建设方向",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "300197",
+        "stock_name": "铁汉生态",
+        "recommendation_reason": "专业从事园林景观设计和施工，将受益于城市公园建设热潮",
+        "policy_relevance": "较高相关，属于城市绿化建设产业链",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "002310",
+        "stock_name": "东方园林",
+        "recommendation_reason": "国内领先的生态环保企业，在城市公园建设领域具有丰富经验",
+        "policy_relevance": "较高相关，符合城市生态修复政策导向",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 15:02:58",
+  "news_info": {
+    "id": "aee7b30ba6",
+    "title": "阅兵仪式上，看到儿子的瞬间，靖宇县的这位母亲哭了……",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904144335323676971.html",
+    "publish_time": "2025-09-04 14:43:00",
+    "summary": "阅兵仪式上，看到儿子的瞬间，靖宇县的这位母亲哭了……"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7756000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.76,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.32
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600118\",\n      \"stock_name\": \"中国卫星\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"新闻事件直接利好卫星军工板块，阅兵仪式展示的军事装备与公司业务高度相关。技术评分0.68处于合理区间，板块强度0.617提供支撑。作为航天科技集团旗下核心上市公司，受益于国家航天强国战略，短期催化剂明确。\",\n      \"risk_warning\": \"需关注军工板块政策波动风险及估值偏高风险，市场情绪变化可能影响短期表现\"\n    },\n    {\n      \"stock_code\": \"600685\",\n      \"stock_name\": \"中船防务\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"海军装备重要供应商，阅兵展示的海军装备与公司产品线高度契合。技术指标相对稳健，受益于海洋强国战略和国防现代化进程。央企背景提供政策护城河，短期事件催化明确。\",\n      \"risk_warning\":军工订单波动性较大，需关注军品采购周期变化和原材料成本上升风险\"\n    },\n    {\n      \"stock_code\": \"601949\",\n      \"stock_name\": \"中国出版\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"爱国主义教育题材受益标的，阅兵相关出版物和宣传材料可能带来业务增量。作为出版行业龙头，具备内容资源和渠道优势。技术面相对平稳，但关联度较前两只稍弱。\",\n      \"risk_warning\": \"传媒板块受政策监管影响较大，数字化冲击传统出版业务，业绩增长存在不确定性\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_strength\": \"中等偏强\",\n    \"risk_level\": \"中等\",\n    \"investment_horizon\": \"短期事件驱动，建议1-2周关注期\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600118",
+        "stock_name": "中国卫星",
+        "recommendation_reason": "央视阅兵报道提升国防关注度，公司作为航天科技集团旗下卫星研制龙头受益",
+        "policy_relevance": "国防现代化建设政策受益标的",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "600685",
+        "stock_name": "中船防务",
+        "recommendation_reason": "阅兵题材提振军工板块情绪，公司为船舶军工重要企业",
+        "policy_relevance": "海洋强国战略受益企业",
+        "urgency_level": "中等",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "601949",
+        "stock_name": "中国出版",
+        "recommendation_reason": "爱国主义教育题材受益，公司主营出版发行业务",
+        "policy_relevance": "文化自信政策支持方向",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视报道的国庆阅兵相关感人故事，虽然内容本身不具备直接投资价值，但体现了央视作为国家主流媒体的权威性和影响力。央视新闻的报道往往具有政策导向性，能够引导市场关注特定主题。阅兵题材通常与国防军工、爱国主义教育等概念相关，但该新闻时效性较弱，投资价值有限。",
+      "policy_impact": "阅兵报道体现了国家强化国防建设和爱国主义教育的政策导向。虽然该具体新闻投资价值不高，但反映了央视在传播国家意志、引导社会舆论方面的重要作用。相关政策可能间接利好军工、文化传媒等板块。",
+      "theme_classification": {
+        "theme_type": "国防军工/爱国主义教育",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "国防军工",
+          "文化传媒",
+          "教育培训"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600118",
+          "stock_name": "中国卫星",
+          "recommendation_reason": "央视阅兵报道提升国防关注度，公司作为航天科技集团旗下卫星研制龙头受益",
+          "policy_relevance": "国防现代化建设政策受益标的",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "600685",
+          "stock_name": "中船防务",
+          "recommendation_reason": "阅兵题材提振军工板块情绪，公司为船舶军工重要企业",
+          "policy_relevance": "海洋强国战略受益企业",
+          "urgency_level": "中等",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "601949",
+          "stock_name": "中国出版",
+          "recommendation_reason": "爱国主义教育题材受益，公司主营出版发行业务",
+          "policy_relevance": "文化自信政策支持方向",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 15:02:58"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

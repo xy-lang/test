@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-09-01 17:05:14",
+  "news_info": {
+    "id": "669dde8e79",
+    "title": "强化新进干部教育管理监督 引导扣好廉洁从政“第一粒扣子”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIcRLI3C02mtr42FeyGW7E250901.shtml",
+    "publish_time": "2025-09-01 16:40:19",
+    "summary": "强化新进干部教育管理监督 引导扣好廉洁从政“第一粒扣子”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8168500000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.78,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.4
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其发布的时政要闻具有极高的政策导向性和市场影响力。本条新闻聚焦新进干部廉洁从政教育管理，综合强度评分0.82表明政策信号明确，虽未直接提及具体行业，但隐含全面从严治党、廉政建设持续深化的政治导向，对相关领域企业形成潜在利好。",
+    "policy_impact": "该新闻反映中央强化廉政监督的政策趋势，将间接推动纪检监察、政务信息化、廉政教育等相关产业发展。政策持续性评分0.78表明影响周期较长，但需注意政策落地节奏对市场的渐进式影响。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600571",
+        "stock_name": "信雅达",
+        "recommendation_reason": "公司为纪检监察系统提供信息化解决方案，央视新闻释放的廉政建设信号将直接提升政务数字化需求",
+        "policy_relevance": "高度契合干部监督管理的数字化升级需求",
+        "urgency_level": "高（政策窗口期）",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "300188",
+        "stock_name": "美亚柏科",
+        "recommendation_reason": "主营电子数据取证业务，为纪检监察机关提供技术支持，受益于廉政监督技术装备升级",
+        "policy_relevance": "直接服务于干部监督管理中的证据链建设",
+        "urgency_level": "中高（技术替代需求明确）",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "603636",
+        "stock_name": "南威软件",
+        "recommendation_reason": "深度参与智慧政务建设，廉政风险防控系统符合新闻中强调的监督管理要求",
+        "policy_relevance": "贴合廉洁从政信息化管理方向",
+        "urgency_level": "中（政策传导需时）",
+        "confidence_score": 0.75
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 17:05:14"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

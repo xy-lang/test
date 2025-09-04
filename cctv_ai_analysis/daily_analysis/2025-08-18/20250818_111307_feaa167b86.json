@@ -1,0 +1,115 @@
+{
+  "analysis_time": "2025-08-18 11:13:07",
+  "news_info": {
+    "id": "feaa167b86",
+    "title": "看见美丽中国 垃圾分类新时尚",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIBvg2FYLE4fMfeZyKGc0J250817.shtml",
+    "publish_time": "2025-08-18 11:12:22",
+    "summary": "看见美丽中国 垃圾分类新时尚"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7706500000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.64,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601330",
+        "stock_name": "绿色动力",
+        "recommendation_reason": "作为国内领先的垃圾焚烧发电企业，直接受益于垃圾分类政策推进。央视报道提升行业关注度。",
+        "policy_relevance": "高度相关，主营垃圾处理业务",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "000826",
+        "stock_name": "启迪环境",
+        "recommendation_reason": "综合性环境服务商，在垃圾分类全产业链布局完善。央视背书可能带来估值提升。",
+        "policy_relevance": "高度相关，涉及垃圾分类多个环节",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "603686",
+        "stock_name": "龙马环卫",
+        "recommendation_reason": "环卫装备龙头企业，垃圾分类政策将带动环卫设备更新需求。央视报道强化政策预期。",
+        "policy_relevance": "相关，主营环卫装备",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ],
+    "stage2_status": "failed",
+    "error": "",
+    "fallback_reason": "AI精准分析失败，使用第一阶段结果",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性和硬核程度评分较低，但作为央视新闻发布的时政要闻，特别是涉及'美丽中国'和'垃圾分类'主题，具有显著的政策导向性。央视作为国家级媒体，其报道往往预示着政策重点方向，值得投资者关注。",
+      "policy_impact": "垃圾分类是国家推进生态文明建设的重要举措，近年来政策支持力度持续加大。该新闻可能预示着垃圾分类领域将迎来新一轮政策支持或示范项目推广。",
+      "theme_classification": {
+        "theme_type": "环保/垃圾分类",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "环保工程",
+          "固废处理"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601330",
+          "stock_name": "绿色动力",
+          "recommendation_reason": "作为国内领先的垃圾焚烧发电企业，直接受益于垃圾分类政策推进。央视报道提升行业关注度。",
+          "policy_relevance": "高度相关，主营垃圾处理业务",
+          "urgency_level": "中高",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "000826",
+          "stock_name": "启迪环境",
+          "recommendation_reason": "综合性环境服务商，在垃圾分类全产业链布局完善。央视背书可能带来估值提升。",
+          "policy_relevance": "高度相关，涉及垃圾分类多个环节",
+          "urgency_level": "中",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "603686",
+          "stock_name": "龙马环卫",
+          "recommendation_reason": "环卫装备龙头企业，垃圾分类政策将带动环卫设备更新需求。央视报道强化政策预期。",
+          "policy_relevance": "相关，主营环卫装备",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析：粗筛+技术精准"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:13:07"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

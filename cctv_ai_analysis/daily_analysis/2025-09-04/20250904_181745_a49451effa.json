@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 18:17:45",
+  "news_info": {
+    "id": "a49451effa",
+    "title": "港口吞吐量是外贸的“晴雨表”。作为全球最大单体集装箱码头之一，盐田港1至8月集装箱吞吐量达1059.3万标准箱，同比增长9.6%，创历史新高。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/04/ARTIO5m2hbbuwUU64KcySEyA250904.shtml",
+    "publish_time": "2025-09-04 14:17:00",
+    "summary": "港口吞吐量是外贸的“晴雨表”。作为全球最大单体集装箱码头之一，盐田港1至8月集装箱吞吐量达1059...."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 4.0
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000088\",\n      \"stock_name\": \"盐田港\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"与新闻直接高度相关，作为全球最大单体集装箱码头之一，1-8月吞吐量创历史新高且同比增长9.6%，技术评分领先（预计0.85+），受益于外贸复苏政策和一带一路战略，短期催化剂明确，板块强度0.817提供有力支撑\",\n      \"risk_alert\": \"需关注全球贸易环境变化对吞吐量的影响，以及汇率波动对外贸业务的潜在风险\"\n    },\n    {\n      \"stock_code\": \"601018\",\n      \"stock_name\": \"宁波港\",\n      \"comprehensive_score\": 0.84,\n      \"recommendation_reason\": \"作为全球货物吞吐量第一大港，深度受益于外贸复苏趋势，技术指标配合良好（预计0.80+），政策受益程度高，长三角经济圈核心港口，具备规模优势和区位优势\",\n      \"risk_alert\": \"受宏观经济周期影响较大，需关注长三角地区竞争格局变化\"\n    },\n    {\n      \"stock_code\": \"600017\",\n      \"stock_name\": \"日照港\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"受益于一带一路建设和外贸回暖，技术指标处于合理区间（预计0.75+），作为山东重要出海口，具备区域竞争优势，估值相对合理\",\n      \"risk_alert\": \"区域经济依赖度较高，需关注山东省产业结构调整对港口业务的影响\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"板块强度0.817显示港口板块整体表现强劲，市场情绪偏向乐观，技术指标平均评分0.82表明个股技术面配合良好\",\n    \"news_relevance\": \"盐田港与新闻直接相关度最高，宁波港和日照港作为重要外贸港口间接受益，政策催化强度明确\",\n    \"risk_assessment\": \"整体板块风险可控，但需关注国际贸易形势变化和宏观经济波动风险，个股基本面相对稳健\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000088",
+        "stock_name": "盐田港",
+        "recommendation_reason": "直接受益主体，央视新闻明确提及盐田港吞吐量创历史新高，业绩确定性最强。作为全球最大单体集装箱码头，其增长数据具有标杆意义。",
+        "policy_relevance": "粤港澳大湾区核心港口，直接受益'一带一路'倡议和外贸稳增长政策",
+        "urgency_level": "高（数据刚发布且超预期）",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "601018",
+        "stock_name": "宁波港",
+        "recommendation_reason": "作为全球吞吐量第一大港，与盐田港形成板块联动。央视报道可能引发市场对头部港口企业的整体价值重估。",
+        "policy_relevance": "长三角一体化核心枢纽，受益长江经济带建设政策",
+        "urgency_level": "中高（板块龙头，估值修复空间大）",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "600017",
+        "stock_name": "日照港",
+        "recommendation_reason": "大宗商品枢纽港，外贸数据回暖将带动铁矿石、煤炭等货类吞吐量提升，具备补涨潜力。",
+        "policy_relevance": "新旧动能转换综合试验区核心港口，受益山东自贸区政策",
+        "urgency_level": "中（周期性复苏标的）",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的盐田港吞吐量创历史新高数据，具有权威背书价值。港口吞吐量作为外贸'晴雨表'，9.6%的同比增长反映我国外贸韧性，对港口物流板块构成实质性利好。央视的权威传播会放大市场关注度，引发资金对相关标的的重新定价。",
+      "policy_impact": "契合'国内国际双循环'政策导向，港口基础设施作为外贸关键节点持续获得政策支持。粤港澳大湾区建设规划中明确强化港口群协同发展，盐田港作为全球最大单体集装箱码头，其业绩增长具有行业标杆意义，可能引发对港口升级、智慧物流等配套政策的预期。",
+      "theme_classification": {
+        "theme_type": "港口物流/外贸复苏",
+        "hardcore_level": "国家意志（一带一路/外贸保稳提质）",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "港口航运",
+          "物流仓储",
+          "粤港澳大湾区"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000088",
+          "stock_name": "盐田港",
+          "recommendation_reason": "直接受益主体，央视新闻明确提及盐田港吞吐量创历史新高，业绩确定性最强。作为全球最大单体集装箱码头，其增长数据具有标杆意义。",
+          "policy_relevance": "粤港澳大湾区核心港口，直接受益'一带一路'倡议和外贸稳增长政策",
+          "urgency_level": "高（数据刚发布且超预期）",
+          "confidence_score": 0.9
+        },
+        {
+          "rank": 2,
+          "stock_code": "601018",
+          "stock_name": "宁波港",
+          "recommendation_reason": "作为全球吞吐量第一大港，与盐田港形成板块联动。央视报道可能引发市场对头部港口企业的整体价值重估。",
+          "policy_relevance": "长三角一体化核心枢纽，受益长江经济带建设政策",
+          "urgency_level": "中高（板块龙头，估值修复空间大）",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "600017",
+          "stock_name": "日照港",
+          "recommendation_reason": "大宗商品枢纽港，外贸数据回暖将带动铁矿石、煤炭等货类吞吐量提升，具备补涨潜力。",
+          "policy_relevance": "新旧动能转换综合试验区核心港口，受益山东自贸区政策",
+          "urgency_level": "中（周期性复苏标的）",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 18:17:45"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

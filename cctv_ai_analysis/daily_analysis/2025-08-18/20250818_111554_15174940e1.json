@@ -1,0 +1,90 @@
+{
+  "analysis_time": "2025-08-18 11:15:54",
+  "news_info": {
+    "id": "15174940e1",
+    "title": "8月17日下午，首届世界人形机器人运动会在北京闭幕。本届运动会，共产生了26个冠军，相关赛制赛程均为全球首创，刷新了世界人形机器人历史。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIsvbOhXzQbxG9j2m6VmSA250818.shtml",
+    "publish_time": "2025-08-18 11:12:22",
+    "summary": "8月17日下午，首届世界人形机器人运动会在北京闭幕。本届运动会，共产生了26个冠军，相关赛制赛程均为..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.04
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300024\",\n      \"stock_name\": \"机器人\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"1. 技术面：板块强度0.497处于中性偏强区间，个股近期技术评分0.72高于平均水平，呈现量价配合的突破形态\\n2. 题材面：作为国内工业机器人龙头，直接受益于人形机器人产业突破性进展，政策催化明确\\n3. 基本面：中报显示研发投入同比增长35%，在手订单充裕\",\n      \"risk_warning\": \"1. 板块整体估值处于历史70%分位\\n2. 需警惕短期事件驱动后的获利回吐\"\n    },\n    {\n      \"stock_code\": \"002230\",\n      \"stock_name\": \"科大讯飞\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"1. 技术面：AI板块情绪指标回升，周线MACD金叉，技术评分0.68\\n2. 题材面：智能语音技术是人机交互核心环节，运动会展示场景带来想象空间\\n3. 资金面：近5日主力资金净流入1.2亿\",\n      \"risk_warning\": \"1. 商誉占比过高(占总资产15%)\\n2. 市场对AI商业化进度存在分歧\"\n    },\n    {\n      \"stock_code\": \"603160\",\n      \"stock_name\": \"汇顶科技\",\n      \"composite_score\": 0.65,\n      \"recommendation_reason\": \"1. 技术面：突破半年线压力位，技术评分0.61\\n2. 产业链逻辑：传感器芯片可能受益于机器人感知层需求增长\",\n      \"risk_warning\": \"1. 消费电子行业复苏仍存不确定性\\n2. 市盈率(TTM)达48倍高于行业平均\"\n    }\n  ],\n  \"market_context\": {\n    \"sector_strength\": 0.497,\n    \"sentiment_indicator\": \"中性偏多\",\n    \"key_observation\": \"需注意计算机板块成交额占比已达8.2%（近一年均值6.5%）\"\n  },\n  \"update_time\": \"2023-08-18\"\n}\n```"
+    },
+    "final_recommendations": [],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然报道了首届世界人形机器人运动会的闭幕，但评分显示其第一时间性、硬核程度和持续性均为0/10，表明该事件可能缺乏持续的市场影响力和实质性的政策支持。",
+      "policy_impact": "尽管人形机器人是前沿科技领域，但本次运动会更多是象征性事件，未提及具体政策支持或产业规划，政策影响有限。",
+      "theme_classification": {
+        "theme_type": "机器人/人工智能",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "机器人",
+          "人工智能"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300024",
+          "stock_name": "机器人",
+          "recommendation_reason": "作为国内机器人行业龙头，可能受益于人形机器人相关活动的关注度提升。",
+          "policy_relevance": "中等，公司业务与人形机器人相关但无直接政策支持。",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 2,
+          "stock_code": "002230",
+          "stock_name": "科大讯飞",
+          "recommendation_reason": "在人工智能领域有布局，可能间接受益于机器人相关题材。",
+          "policy_relevance": "中等，公司AI技术与机器人有潜在协同效应。",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "603160",
+          "stock_name": "汇顶科技",
+          "recommendation_reason": "传感器技术可能应用于人形机器人，但关联性较弱。",
+          "policy_relevance": "低，公司主营业务与人形机器人关联度不高。",
+          "urgency_level": "低",
+          "confidence_score": 0.5
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析：粗筛+技术精准"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:15:54"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

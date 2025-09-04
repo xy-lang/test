@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 14:32:44",
+  "news_info": {
+    "id": "4d9ea5f252",
+    "title": "九千元退休金换“神药”：赵老师《交个中医做朋友》直播间的“养生镰刀”又出鞘",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904110005501111637.html",
+    "publish_time": "2025-09-04 11:00:00",
+    "summary": "九千元退休金换“神药”：赵老师《交个中医做朋友》直播间的“养生镰刀”又出鞘"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 3.53
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"stock_code\": \"600998\",\n      \"stock_name\": \"九州通\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为医药流通龙头企业，直接受益于行业监管整顿带来的市场规范化。技术面显示板块强度0.75支撑良好，公司基本面稳健，在医药分销领域具有规模优势，政策受益程度最高。近期技术指标显示资金关注度提升，符合国家整顿医药市场的政策导向。\",\n      \"risk_warning\": \"需关注医药行业政策变化风险，流通环节利润率受压风险，以及整体市场情绪波动影响。\"\n    },\n    {\n      \"stock_code\": \"002727\",\n      \"stock_name\": \"一心堂\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"连锁药店龙头企业，直接受益于中医药规范化发展和监管趋严。技术评分处于行业前列，公司门店网络优势明显，在中医药产品销售方面具有渠道优势。新闻事件引发的行业整顿有利于正规药店企业发展，短期催化剂明确。\",\n      \"risk_warning\": \"门店扩张带来的管理风险，医药电商冲击传统渠道风险，区域市场竞争加剧风险。\"\n    },\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"医疗器械龙头企业，间接受益于医疗健康行业规范化趋势。技术指标相对稳健，公司在心血管介入领域具有技术优势，但与本轮中医药整顿新闻的直接关联度相对较弱，更多是行业整体利好。\",\n      \"risk_warning\": \"医疗器械集采政策风险，研发投入回报周期风险，海外市场拓展不确定性风险。\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.75,\n    \"market_sentiment\": \"正面\",\n    \"policy_benefit_level\": \"国家意志驱动\",\n    \"risk_assessment\": \"中等偏低\"\n  },\n  \"additional_notes\": \"本次推荐基于中医药行业监管整顿背景，重点关注具有渠道优势和规模效应的医药流通及零售企业。建议关注政策落地进度和行业整合机会。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "recommendation_reason": "作为正规医药流通龙头企业，监管整顿将清理不合规竞争对手，提升市场份额。央视报道强化监管预期，利好合规企业。",
+        "policy_relevance": "高度相关，受益于医药流通行业规范化",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "正规医疗器械和药品生产企业，央视曝光养生乱象后，消费者将更倾向选择正规医疗产品，品牌价值凸显。",
+        "policy_relevance": "中等相关，受益于医疗消费升级和监管规范化",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "recommendation_reason": "连锁药店龙头，监管整顿养生乱象将推动消费者到正规药店购买保健品，提升客流量和销售额。",
+        "policy_relevance": "中等相关，受益于线下药店渠道价值重估",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻揭露了养生直播间的欺诈行为，属于央视新闻的舆论监督类报道。虽然新闻本身不直接产生投资机会，但反映了监管部门对保健品、直播电商行业的整顿趋势，具有重要的警示意义。央视新闻的权威性会放大政策信号，引发相关行业监管收紧预期。",
+      "policy_impact": "预计将加速《网络直播营销管理办法》等法规的严格执行，对保健品直播销售、中医养生类内容进行更严格监管，利好正规医药企业和合规电商平台，利空涉嫌虚假宣传的保健品企业。",
+      "theme_classification": {
+        "theme_type": "监管整顿/行业净化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "医药商业",
+          "电子商务",
+          "医疗保健"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600998",
+          "stock_name": "九州通",
+          "recommendation_reason": "作为正规医药流通龙头企业，监管整顿将清理不合规竞争对手，提升市场份额。央视报道强化监管预期，利好合规企业。",
+          "policy_relevance": "高度相关，受益于医药流通行业规范化",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "正规医疗器械和药品生产企业，央视曝光养生乱象后，消费者将更倾向选择正规医疗产品，品牌价值凸显。",
+          "policy_relevance": "中等相关，受益于医疗消费升级和监管规范化",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "002727",
+          "stock_name": "一心堂",
+          "recommendation_reason": "连锁药店龙头，监管整顿养生乱象将推动消费者到正规药店购买保健品，提升客流量和销售额。",
+          "policy_relevance": "中等相关，受益于线下药店渠道价值重估",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 14:32:44"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

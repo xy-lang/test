@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 16:57:58",
+  "news_info": {
+    "id": "d45bae587a",
+    "title": "用爱筑梦，青岛“小候鸟”驿站为留守儿童撑起一片蓝天",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904154133762299588.html",
+    "publish_time": "2025-09-04 15:41:00",
+    "summary": "用爱筑梦，青岛“小候鸟”驿站为留守儿童撑起一片蓝天"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7042999999999999,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.75,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.27
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600661\",\n      \"stock_name\": \"昂立教育\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"教育板块与留守儿童公益主题高度契合，技术面相对稳健，政策受益明显，短期催化剂强度较高\",\n      \"risk_warning\": \"教育行业政策监管风险，市场情绪波动风险，技术面支撑力度一般\"\n    },\n    {\n      \"stock_code\": \"002301\",\n      \"stock_name\": \"齐心集团\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"办公用品及企业服务业务可能受益于乡村振兴相关采购需求，但技术面表现偏弱，关联度中等\",\n      \"risk_warning\": \"板块强度不足，基本面支撑有限，市场时机风险较高\"\n    },\n    {\n      \"stock_code\": \"603398\",\n      \"stock_name\": \"沐邦高科\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"科技类公司与社会公益主题关联度较低，技术评分相对落后，但具备一定政策受益潜力\",\n      \"risk_warning\": \"主题匹配度较低，技术面支撑不足，板块风险较高\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"一般(0.400)\",\n    \"recommendation_strategy\": \"建议重点关注昂立教育，控制仓位，谨慎参与其他标的\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "recommendation_reason": "作为教育服务企业，可能受益于留守儿童关爱政策带来的教育服务需求",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      },
+      {
+        "rank": 2,
+        "stock_code": "002301",
+        "stock_name": "齐心集团",
+        "recommendation_reason": "办公文具及儿童用品供应商，可能间接受益于教育关爱项目",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.4
+      },
+      {
+        "rank": 3,
+        "stock_code": "603398",
+        "stock_name": "沐邦高科",
+        "recommendation_reason": "玩具制造企业，可能受益于儿童关爱项目的物资采购需求",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视报道，但属于社会公益类报道，投资价值有限。新闻内容聚焦留守儿童关爱项目，缺乏直接的投资指向性。央视权威性虽高，但此类社会新闻对资本市场影响较弱，更多体现政策导向和社会责任导向。",
+      "policy_impact": "政策影响主要体现在乡村振兴和民生保障领域，可能间接利好教育、儿童用品等相关产业。但缺乏具体的政策支持和资金投入信息，投资转化度较低。",
+      "theme_classification": {
+        "theme_type": "社会公益/乡村振兴",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "教育服务",
+          "儿童用品",
+          "社会服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600661",
+          "stock_name": "昂立教育",
+          "recommendation_reason": "作为教育服务企业，可能受益于留守儿童关爱政策带来的教育服务需求",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        },
+        {
+          "rank": 2,
+          "stock_code": "002301",
+          "stock_name": "齐心集团",
+          "recommendation_reason": "办公文具及儿童用品供应商，可能间接受益于教育关爱项目",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.4
+        },
+        {
+          "rank": 3,
+          "stock_code": "603398",
+          "stock_name": "沐邦高科",
+          "recommendation_reason": "玩具制造企业，可能受益于儿童关爱项目的物资采购需求",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 16:57:58"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

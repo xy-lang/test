@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 14:34:50",
+  "news_info": {
+    "id": "5307abd71a",
+    "title": "针对无人机“黑飞”行为，特别是非法破解无人机飞行控制系统的黑客行为，全国公安网安部门始终保持高压严打态势，全面遏制非法活动扩散蔓延。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTI0U4YoVgcYyWRQOy9MZAt250901.shtml",
+    "publish_time": "2025-09-01 20:26:00",
+    "summary": "针对无人机“黑飞”行为，特别是非法破解无人机飞行控制系统的黑客行为，全国公安网安部门始终保持高压严打..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -5.87
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002415\",\n      \"stock_name\": \"海康威视\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"技术评分0.85分领先板块，作为安防龙头直接受益于无人机监管政策，公司视频监控技术与无人机防控系统高度协同，且当前处于技术突破形态，量价配合良好\",\n      \"risk_warning\": \"需关注中美贸易摩擦对公司海外业务影响，以及宏观经济下行对政府安防支出的潜在压力\"\n    },\n    {\n      \"stock_code\": \"300188\",\n      \"stock_name\": \"美亚柏科\",\n      \"comprehensive_score\": 0.83,\n      \"recommendation_reason\": \"网络安全核心标的，电子数据取证业务与无人机反制高度相关，技术评分0.82分符合板块强度，政策催化明确，近期资金流入明显\",\n      \"risk_warning\": \"估值相对较高，需警惕业绩兑现不及预期风险；网络安全行业竞争加剧可能影响利润率\"\n    },\n    {\n      \"stock_code\": \"600271\",\n      \"stock_name\": \"航天信息\",\n      \"comprehensive_score\": 0.79,\n      \"recommendation_reason\": \"航天系央企背景，在无人机管控和信息系统集成方面具备技术积累，技术评分0.79分稳健，受益于军工信息化建设加速\",\n      \"risk_warning\": \"传统税控业务增长放缓，转型成效仍需观察；国企改革进度可能影响经营效率提升\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.817,\n    \"market_sentiment\": \"积极\",\n    \"technical_indicator_status\": \"良好配合\",\n    \"overall_risk_level\": \"中等\"\n  },\n  \"key_risk_factors\": [\n    \"政策执行力度不及预期风险\",\n    \"板块轮动过快导致资金分流风险\",\n    \"宏观经济下行影响政府预算支出\",\n    \"技术迭代风险及行业竞争加剧\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "recommendation_reason": "作为安防龙头，在无人机监控和反制系统领域布局深入，央视新闻体现的政策导向将直接提升公司相关业务需求",
+        "policy_relevance": "高度相关，受益于无人机安全监管政策强化",
+        "urgency_level": "中等",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "300188",
+        "stock_name": "美亚柏科",
+        "recommendation_reason": "国内网络安全和电子数据取证龙头，在无人机网络安全防护和黑客行为追踪方面技术领先，直接受益于网安部门打击行动",
+        "policy_relevance": "高度相关，网安监管核心受益标的",
+        "urgency_level": "中等偏高",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "600271",
+        "stock_name": "航天信息",
+        "recommendation_reason": "在国防信息化和网络安全领域具有深厚积累，无人机安全控制系统业务与新闻政策导向高度契合",
+        "policy_relevance": "中度相关，受益于国防安全政策支持",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为时政要闻，但涉及无人机安全监管政策，具有重要投资指引意义。央视新闻作为国家级权威媒体，其报道往往反映政策导向和监管趋势，对相关产业具有显著影响。虽然新闻本身时效性不强，但体现了国家对无人机安全领域持续强化的监管态度。",
+      "policy_impact": "该新闻显示公安网安部门对无人机'黑飞'和黑客行为的严厉打击态势，预示着无人机安全监管政策将持续收紧。这将直接利好无人机安全防护、飞行控制系统、网络安全等相关企业，政策驱动下的市场需求将显著提升。",
+      "theme_classification": {
+        "theme_type": "无人机安全/网络安全",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "网络安全",
+          "国防军工",
+          "电子信息"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002415",
+          "stock_name": "海康威视",
+          "recommendation_reason": "作为安防龙头，在无人机监控和反制系统领域布局深入，央视新闻体现的政策导向将直接提升公司相关业务需求",
+          "policy_relevance": "高度相关，受益于无人机安全监管政策强化",
+          "urgency_level": "中等",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "300188",
+          "stock_name": "美亚柏科",
+          "recommendation_reason": "国内网络安全和电子数据取证龙头，在无人机网络安全防护和黑客行为追踪方面技术领先，直接受益于网安部门打击行动",
+          "policy_relevance": "高度相关，网安监管核心受益标的",
+          "urgency_level": "中等偏高",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "600271",
+          "stock_name": "航天信息",
+          "recommendation_reason": "在国防信息化和网络安全领域具有深厚积累，无人机安全控制系统业务与新闻政策导向高度契合",
+          "policy_relevance": "中度相关，受益于国防安全政策支持",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 14:34:50"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

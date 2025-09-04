@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 16:35:24",
+  "news_info": {
+    "id": "8ad64a40f2",
+    "title": "国务院新闻办公室8月18日举行“高质量完成‘十四五’规划”系列主题新闻发布会，中央统战部、全国人大常委会、全国政协、国家民委的相关负责人介绍了“十四五”时期发展社会主义民主有关情况。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTI6nKOJ3hIvj3JbDnkcAXS250818.shtml",
+    "publish_time": "2025-08-18 14:36:00",
+    "summary": "国务院新闻办公室8月18日举行“高质量完成‘十四五’规划”系列主题新闻发布会，中央统战部、全国人大常..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.8,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 3,
+      "hours_since_publish": 1.97
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"中国建筑(601668)\",\n      \"score\": 0.85,\n      \"reason\": \"作为基建龙头直接受益于'十四五'规划实施，近期中标多个国家级重点项目，政策支持力度大。虽然技术指标暂时缺失，但基本面支撑强劲，符合国家意志导向。\",\n      \"risk\": \"需警惕房地产行业下行对基建业务的传导效应，以及地方政府财政压力导致的回款周期延长风险。\"\n    },\n    {\n      \"stock\": \"中国铁建(601186)\",\n      \"score\": 0.78,\n      \"reason\": \"交通强国战略核心标的，高铁/城轨建设需求明确。近期获得发改委批复的川藏铁路等项目将形成实质业绩支撑，政策催化确定性高。\",\n      \"risk\": \"海外项目存在地缘政治风险，大宗商品价格波动可能侵蚀利润率。\"\n    },\n    {\n      \"stock\": \"中国石化(600028)\",\n      \"score\": 0.65,\n      \"reason\": \"能源安全战略下的防御性选择，股息率具备吸引力。但与本轮'民主建设'主题关联度较弱，更多体现为央企改革预期。\",\n      \"risk\": \"油价波动敏感性高，新能源替代政策可能压制长期估值。\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"因技术数据缺失，主要依赖政策基本面逻辑排序\",\n    \"news_alignment\": \"基建类标的与'十四五'规划实施高度契合，能源类关联度次之\",\n    \"risk_assessment\": \"整体板块风险较低，但需关注8-9月地方专项债发行节奏对基建股的催化效果\"\n  },\n  \"disclaimer\": \"本推荐基于有限技术数据，建议结合后续MACD/RSI等技术指标修复情况动态调整仓位。政策主题投资需注意会议结束后利好兑现风险。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "作为国内最大的基建央企，将直接受益于'十四五'规划中的基础设施建设投资",
+        "policy_relevance": "高度相关，'十四五'规划明确加强基础设施建设",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "recommendation_reason": "国家'十四五'规划中交通强国战略的主要受益者，铁路基建投资有望持续增加",
+        "policy_relevance": "高度相关，属于国家战略支持领域",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "recommendation_reason": "能源安全是'十四五'重要议题，公司作为能源央企将受益于国家能源战略",
+        "policy_relevance": "中度相关，涉及国家能源安全战略",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为国务院新闻办公室举行的'十四五'规划主题发布会，内容涉及国家层面的政策导向和规划实施，具有较高的权威性和政策指导意义。但由于新闻内容较为宏观，缺乏具体行业或企业的直接关联，因此第一时间性、硬核程度和持续性评分较低。",
+      "policy_impact": "该新闻体现了国家在'十四五'期间推进社会主义民主建设的政策方向，可能对涉及国家战略支持的相关产业产生长期利好影响，但短期内难以量化具体影响。",
+      "theme_classification": {
+        "theme_type": "国家政策导向",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "基础设施建设",
+          "公共服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "作为国内最大的基建央企，将直接受益于'十四五'规划中的基础设施建设投资",
+          "policy_relevance": "高度相关，'十四五'规划明确加强基础设施建设",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "601186",
+          "stock_name": "中国铁建",
+          "recommendation_reason": "国家'十四五'规划中交通强国战略的主要受益者，铁路基建投资有望持续增加",
+          "policy_relevance": "高度相关，属于国家战略支持领域",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "600028",
+          "stock_name": "中国石化",
+          "recommendation_reason": "能源安全是'十四五'重要议题，公司作为能源央企将受益于国家能源战略",
+          "policy_relevance": "中度相关，涉及国家能源安全战略",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 16:35:24"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

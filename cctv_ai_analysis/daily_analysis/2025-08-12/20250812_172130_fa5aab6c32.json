@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-12 17:21:30",
+  "news_info": {
+    "id": "fa5aab6c32",
+    "title": "“观演+互动+消费”：“避暑经济”释放城市夜经济新活力",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/12/ARTIEiv9sZmMHid03JUYvy8m250812.shtml",
+    "publish_time": "2025-08-12 17:20:16",
+    "summary": "“观演+互动+消费”：“避暑经济”释放城市夜经济新活力"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.81355,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.77,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有高度公信力和政策导向性。本次关于'避暑经济'释放城市夜经济新活力的报道，综合强度0.81分，表明这是一个近期值得关注的投资主题。报道聚焦'观演+互动+消费'新模式，将带动相关文旅、商业和消费板块。",
+    "policy_impact": "该报道虽未直接提及具体政策，但'夜经济'是当前国家促进消费的重要抓手，符合扩大内需的政策导向。地方政府后续可能出台配套措施，相关企业将受益于政策红利。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的文旅企业，在夜游产品开发和运营方面具有优势，将直接受益于避暑经济和夜经济发展。",
+        "policy_relevance": "高度相关，符合国家促进文旅消费政策方向。",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "000796",
+        "stock_name": "凯撒旅业",
+        "recommendation_reason": "公司在城市文旅综合体运营方面有布局，夜间演艺和互动体验项目符合报道中提到的'观演+互动'模式。",
+        "policy_relevance": "较高相关，契合城市夜经济发展趋势。",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "主营景区运营，在避暑旅游目的地具有资源优势，夜间经济活动将提升景区二次消费。",
+        "policy_relevance": "中等相关，受益于避暑经济主题。",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

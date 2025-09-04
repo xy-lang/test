@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-08-21 23:15:06",
+  "news_info": {
+    "id": "cf94c140bc",
+    "title": "记者从国家林草局了解到，未来三年，我国将构建“天空地”一体化监测体系，实现国家公园重点区域野生动物常态化精准识别和实时感知，全面提升国家公园智慧化、精细化管理水平。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIhzHEBnUnhi9pE7dVEJrH250821.shtml",
+    "publish_time": "2025-08-21 16:10:00",
+    "summary": "记者从国家林草局了解到，未来三年，我国将构建“天空地”一体化监测体系，实现国家公园重点区域野生动物常..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 7.07
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"name\": \"汉威科技(300007)\",\n      \"score\": 0.88,\n      \"reason\": \"传感器核心技术优势突出，直接受益于'天空地'一体化监测体系建设需求，技术指标显示强势突破形态，板块强度支撑明显，政策催化直接且明确\",\n      \"risk\": \"估值偏高存在回调压力，市场情绪波动可能影响短期表现\"\n    },\n    {\n      \"name\": \"合众思壮(002383)\",\n      \"score\": 0.82,\n      \"reason\": \"北斗导航定位技术领先，在林业监测和空间信息技术应用方面积累深厚，技术面呈现底部放量启动特征，政策匹配度较高\",\n      \"risk\": \"业绩波动较大，需关注基本面改善持续性\"\n    },\n    {\n      \"name\": \"苏州科达(603660)\",\n      \"score\": 0.78,\n      \"reason\": \"视频监控和可视化解决方案提供商，在智慧林业监测领域有应用案例，技术指标相对稳健但弹性稍弱\",\n      \"risk\": \"行业竞争激烈，毛利率承压，需要更强的政策推动力\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"板块强度0.833显示科技板块整体强势，市场情绪对政策驱动题材反应积极，技术指标平均评分0.83确认个股技术面配合度良好\",\n    \"news_matching\": \"三只股票均与'天空地一体化监测'主题高度相关，汉威科技在传感器领域、合众思壮在定位技术、苏州科达在视频监控方面各有优势\",\n    \"risk_assessment\": \"主要风险包括科技板块估值压力、政策落地进度不确定性以及市场整体波动风险，建议控制仓位并设置止损\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002383",
+        "stock_name": "合众思壮",
+        "recommendation_reason": "国内领先的卫星导航定位企业，在林业监测、无人机遥感领域技术积累深厚，直接受益于'天空地一体化'监测体系建设",
+        "policy_relevance": "高度相关，提供北斗导航定位和遥感监测解决方案",
+        "urgency_level": "中期布局（3-6个月）",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "300007",
+        "stock_name": "汉威科技",
+        "recommendation_reason": "传感器行业龙头，在环境监测、物联网传感器领域优势明显，可为野生动物监测提供传感器硬件支持",
+        "policy_relevance": "高度相关，提供监测传感器和物联网解决方案",
+        "urgency_level": "中期布局（3-6个月）",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "603660",
+        "stock_name": "苏州科达",
+        "recommendation_reason": "视频监控和可视化解决方案提供商，在野生动物监测、智能识别领域有成熟应用，符合精准识别需求",
+        "policy_relevance": "中度相关，提供视频监控和AI识别技术",
+        "urgency_level": "中长期关注（6-12个月）",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的国家林草局重要政策规划，具有极高的权威性和政策导向性。'天空地一体化监测体系'建设涉及卫星遥感、无人机监测、地面传感器网络等多项前沿技术，预计将带动相关产业链发展。央视新闻的权威背书意味着政策落地确定性较高，属于国家意志层面的战略部署。",
+      "policy_impact": "这是国家公园智慧化建设的顶层设计，政策影响深远。预计未来三年将催生数十亿级别的监测设备采购和系统集成需求，利好遥感技术、物联网、人工智能等相关企业。政策具有明确的实施时间表（未来三年），投资窗口期明确。",
+      "theme_classification": {
+        "theme_type": "智慧林业+生态监测+新基建",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "环保设备",
+          "卫星导航",
+          "物联网",
+          "人工智能"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002383",
+          "stock_name": "合众思壮",
+          "recommendation_reason": "国内领先的卫星导航定位企业，在林业监测、无人机遥感领域技术积累深厚，直接受益于'天空地一体化'监测体系建设",
+          "policy_relevance": "高度相关，提供北斗导航定位和遥感监测解决方案",
+          "urgency_level": "中期布局（3-6个月）",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "300007",
+          "stock_name": "汉威科技",
+          "recommendation_reason": "传感器行业龙头，在环境监测、物联网传感器领域优势明显，可为野生动物监测提供传感器硬件支持",
+          "policy_relevance": "高度相关，提供监测传感器和物联网解决方案",
+          "urgency_level": "中期布局（3-6个月）",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "603660",
+          "stock_name": "苏州科达",
+          "recommendation_reason": "视频监控和可视化解决方案提供商，在野生动物监测、智能识别领域有成熟应用，符合精准识别需求",
+          "policy_relevance": "中度相关，提供视频监控和AI识别技术",
+          "urgency_level": "中长期关注（6-12个月）",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 23:15:06"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

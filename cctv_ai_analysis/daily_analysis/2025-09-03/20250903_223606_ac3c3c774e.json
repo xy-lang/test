@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 22:36:06",
+  "news_info": {
+    "id": "ac3c3c774e",
+    "title": "烟台毓璜顶医院孙庆斌获评烟台市见义勇为先进个人",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903221526918426650.html",
+    "publish_time": "2025-09-03 22:15:00",
+    "summary": "烟台毓璜顶医院孙庆斌获评烟台市见义勇为先进个人"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7657,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.73,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.34
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"技术面相对稳健，作为口腔医疗龙头与医疗正面宣传题材契合度较高，受益于医疗行业政策支持，短期存在情绪催化机会\",\n      \"risk_warning\": \"估值偏高，需警惕市场整体调整风险，医疗政策变化可能影响业绩\"\n    },\n    {\n      \"stock_code\": \"600196\",\n      \"stock_name\": \"复星医药\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"医药板块中技术指标相对稳定，业务多元化分散风险，与医疗行业正面新闻有一定关联，具备政策受益预期\",\n      \"risk_warning\": \"研发投入较大影响短期利润，国际化业务面临汇率和政策风险\"\n    },\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"心血管器械龙头，与医疗正能量宣传主题匹配，但技术面相对弱势，需观察突破信号\",\n      \"risk_warning\": \"集采政策压力持续，竞争加剧可能影响毛利率，技术面支撑较弱\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength\": 0.333,\n    \"market_sentiment\": \"中性偏积极\",\n    \"technical_indicator_match\": \"一般\",\n    \"news_relevance\": \"中等\",\n    \"overall_risk_level\": \"中等\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "央视医疗正面宣传可能提升医疗服务板块关注度，公司为口腔医疗龙头",
+        "policy_relevance": "医疗行业形象提升受益标的",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "医疗器械板块可能受益于医疗行业正面宣传带来的情绪改善",
+        "policy_relevance": "医疗器械国产化政策受益标的",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "recommendation_reason": "综合性医药企业，可能受益于医疗行业整体关注度提升",
+        "policy_relevance": "医药行业政策支持标的",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性见义勇为表彰事件，内容涉及医疗行业正面典型宣传。从投资角度看，新闻本身缺乏直接的市场影响力和投资价值，但体现了央视作为国家级媒体对医疗行业正面形象的宣传导向，可能间接反映政策层面对医疗行业的支持态度。",
+      "policy_impact": "低级别政策影响。新闻虽来自央视，但内容为地方性表彰事件，不涉及重大政策调整或行业变革。主要体现的是社会主义核心价值观宣传和医疗行业正面形象塑造，对医疗板块有轻微正面情绪提振作用。",
+      "theme_classification": {
+        "theme_type": "医疗行业正面宣传",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械",
+          "医药生物"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "央视医疗正面宣传可能提升医疗服务板块关注度，公司为口腔医疗龙头",
+          "policy_relevance": "医疗行业形象提升受益标的",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "医疗器械板块可能受益于医疗行业正面宣传带来的情绪改善",
+          "policy_relevance": "医疗器械国产化政策受益标的",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "600196",
+          "stock_name": "复星医药",
+          "recommendation_reason": "综合性医药企业，可能受益于医疗行业整体关注度提升",
+          "policy_relevance": "医药行业政策支持标的",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 22:36:06"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

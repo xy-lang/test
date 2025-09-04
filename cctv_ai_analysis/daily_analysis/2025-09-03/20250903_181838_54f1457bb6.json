@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 18:18:38",
+  "news_info": {
+    "id": "54f1457bb6",
+    "title": "贵州从江：山乡梯田层层叠叠错落有致",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://photo.cctv.com/2025/09/03/PHOActBIKgGH5nItlaomJsUo250903.shtml",
+    "publish_time": "2025-09-03 17:34:14",
+    "summary": "贵州从江：山乡梯田层层叠叠错落有致"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.78055,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.67,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.73
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为文化旅游龙头企业，直接受益于乡村振兴政策推动的乡村旅游发展。技术指标相对稳健，板块强度中等但具备政策催化预期，与新闻主题契合度高，短期存在政策落地催化剂\",\n      \"risk_warning\": \"旅游行业受季节性影响较大，需关注政策落地进度和实际客流恢复情况\"\n    },\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"传媒板块与文化旅游存在协同效应，技术评分中等，受益于乡村振兴带来的文化传播需求，但直接关联度略低于旅游股\",\n      \"risk_warning\": \"传媒行业竞争激烈，业绩波动性较大，需关注内容制作成本和市场接受度\"\n    },\n    {\n      \"stock_code\": \"600358\",\n      \"stock_name\": \"国旅联合\",\n      \"comprehensive_score\": 0.48,\n      \"recommendation_reason\": \"旅游综合服务商，间接受益于乡村旅游发展，但技术指标相对较弱，板块支撑力度有限，需要更明确的政策催化\",\n      \"risk_warning\": \"公司规模相对较小，抗风险能力较弱，需密切关注政策执行效果和市场竞争态势\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.42,\n    \"market_sentiment\": \"中性偏积极\",\n    \"policy_benefit_level\": \"中等\",\n    \"risk_assessment\": \"板块风险中等，个股分化明显，建议控制仓位，关注政策落地进度\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "央视报道可能提升贵州旅游热度，中青旅作为国内领先旅行社有望受益",
+        "policy_relevance": "间接受益文旅产业发展",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      },
+      {
+        "rank": 2,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下传媒公司，可能受益央视平台的地方宣传报道",
+        "policy_relevance": "媒体宣传相关",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 3,
+        "stock_code": "600358",
+        "stock_name": "国旅联合",
+        "recommendation_reason": "旅游综合服务商，可能间接受益地方旅游形象提升",
+        "policy_relevance": "文旅产业配套",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视新闻发布的贵州从江梯田风光报道，属于文化旅游宣传类内容。虽然央视新闻具有国家级媒体权威性，但该新闻本身缺乏投资时效性和硬核信息，更多是地方旅游形象展示，投资价值有限。",
+      "policy_impact": "间接关联乡村振兴和文旅产业发展政策，但无直接政策利好。央视报道可能提升地方旅游关注度，但对具体上市公司影响较弱。",
+      "theme_classification": {
+        "theme_type": "文化旅游/乡村振兴",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "旅游服务",
+          "文化传媒",
+          "农业综合"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "央视报道可能提升贵州旅游热度，中青旅作为国内领先旅行社有望受益",
+          "policy_relevance": "间接受益文旅产业发展",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        },
+        {
+          "rank": 2,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下传媒公司，可能受益央视平台的地方宣传报道",
+          "policy_relevance": "媒体宣传相关",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 3,
+          "stock_code": "600358",
+          "stock_name": "国旅联合",
+          "recommendation_reason": "旅游综合服务商，可能间接受益地方旅游形象提升",
+          "policy_relevance": "文旅产业配套",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:18:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

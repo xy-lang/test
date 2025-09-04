@@ -1,0 +1,99 @@
+{
+  "analysis_time": "2025-08-18 10:35:39",
+  "news_info": {
+    "id": "adee5a3b34",
+    "title": "我们走进美丽的花园城市——厦门，那里风光旖旎的海岸风景和雕梁画栋的闽南建筑，是这座城市目之所及的“美丽”，其背后独特的垃圾处理模式，正在把这座城市的一些“不美丽”，也变成“美丽”。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIBvg2FYLE4fMfeZyKGc0J250817.shtml",
+    "publish_time": "2025-08-18 10:34:44",
+    "summary": "我们走进美丽的花园城市——厦门，那里风光旖旎的海岸风景和雕梁画栋的闽南建筑，是这座城市目之所及的“美..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻虽然时效性和硬核程度较低，但作为央视新闻发布的厦门城市形象宣传，具有较高的权威性和政策导向性。重点突出了厦门的环保成就和城市治理模式，可能暗示地方政府在环保和城市基建方面的持续投入。",
+    "policy_impact": "新闻反映了国家对于城市环境治理和可持续发展的重视，可能带动地方政府在环保基建、垃圾处理等领域的政策支持和资金投入。",
+    "theme_classification": {
+      "theme_type": "环保基建/城市治理",
+      "hardcore_level": "国家意志",
+      "sustainability_score": 8,
+      "related_sectors": [
+        "环保工程",
+        "公用事业"
+      ]
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "recommendation_reason": "作为福建本土环保龙头企业，将直接受益于厦门及周边地区的环保基建投入。央视报道提升了地方政府对环保治理的重视程度。",
+        "policy_relevance": "高度相关，直接对接地方环保项目",
+        "urgency_level": "中短期关注",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 2,
+        "stock_code": "601330",
+        "stock_name": "绿色动力",
+        "recommendation_reason": "专业从事垃圾焚烧发电，符合新闻中强调的垃圾处理模式创新方向。央视背书可能加速项目落地。",
+        "policy_relevance": "高度相关，垃圾处理核心标的",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 3,
+        "stock_code": "000685",
+        "stock_name": "中山公用",
+        "recommendation_reason": "水务及环境综合服务商，在福建地区有业务布局。央视报道可能带动区域环保投资升温。",
+        "policy_relevance": "中度相关，区域环保概念",
+        "urgency_level": "中长期观察",
+        "confidence_score": 0.75
+      }
+    ],
+    "technical_verification": {
+      "original_count": 3,
+      "verified_count": 0,
+      "verified_stocks": [],
+      "sector_strength": 0.449,
+      "related_sectors": [
+        "环保工程",
+        "公用事业"
+      ],
+      "verification_method": "AI粗筛+板块强度+综合评分",
+      "verification_threshold": 0.6,
+      "verification_time": "2025-08-18 10:35:37"
+    },
+    "final_recommendations": [],
+    "analysis_stages": {
+      "stage1_ai_count": 3,
+      "stage2_verified_count": 0,
+      "verification_method": "AI粗筛+板块强度+综合评分"
+    }
+  },
+  "sector_analysis": {
+    "error": "'SectorAnalyzer' object has no attribute 'compare_sectors'",
+    "analysis_time": "2025-08-18 10:35:39"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

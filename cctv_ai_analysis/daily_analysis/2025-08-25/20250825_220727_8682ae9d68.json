@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-25 22:07:27",
+  "news_info": {
+    "id": "8682ae9d68",
+    "title": "从多领域“硬核”数据透视经济运行亮点",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTI3VfqrnD5xRM5Im9MxZh9250825.shtml",
+    "publish_time": "2025-08-25 20:19:00",
+    "summary": "从多领域“硬核”数据透视经济运行亮点"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.71585,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.68,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.79
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601668\",\n      \"stock_name\": \"中国建筑\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"技术面与基本面高度契合，板块强度0.717显示基建板块处于强势周期，技术评分0.75高于平均水平。新闻直接关联宏观经济数据中的基建投资亮点，受益于国家稳增长政策，短期催化剂明确。作为央企龙头，政策受益程度最高，符合'国家意志'主题。\",\n      \"risk_warning\": \"需关注房地产政策变化对基建投资的影响，以及原材料价格波动风险\"\n    },\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术评分0.73符合板块强度，金融板块受益于经济复苏预期。新闻中宏观经济数据改善利好保险业务增长，居民收入提升带动保险需求。作为综合金融龙头，估值处于历史低位，具备修复空间。\",\n      \"risk_warning\": \"利率环境变化可能影响投资收益，需关注监管政策对保险业务的影响\"\n    },\n    {\n      \"stock_code\": \"000858\",\n      \"stock_name\": \"五粮液\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"技术评分0.68略低于平均水平，消费板块复苏节奏相对缓慢。新闻中消费数据改善对高端白酒形成支撑，但政策直接关联度相对较弱。品牌价值稳固，长期消费升级逻辑依然成立。\",\n      \"risk_warning\": \"消费复苏不及预期风险，高端消费受经济波动影响较大，估值相对较高\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"total_recommended\": 3,\n    \"average_score\": 0.77,\n    \"sector_strength\": 0.717,\n    \"key_risks\": \"宏观经济政策变化风险、板块轮动风险、市场流动性风险\",\n    \"investment_horizon\": \"中期配置（3-6个月）\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "央视宏观经济数据解读往往预示基建投资力度，中国建筑作为基建龙头将直接受益",
+        "policy_relevance": "高度相关，基建是稳经济重要抓手",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "经济运行数据向好利好金融板块，保险龙头受益于经济复苏和资产质量改善",
+        "policy_relevance": "中等相关，金融是经济晴雨表",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "recommendation_reason": "消费是经济重要组成部分，经济运行亮点往往带动消费升级，高端白酒受益",
+        "policy_relevance": "一般相关，消费是经济重要支撑",
+        "urgency_level": "较低",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻作为央视发布的宏观经济运行分析，虽然评分较低，但央视作为国家级媒体平台，其发布的宏观经济数据解读具有权威性和政策导向性。新闻标题'硬核数据透视经济运行亮点'暗示将发布重要经济指标，对市场情绪和资金流向具有指导意义。",
+      "policy_impact": "央视新闻通常反映政策导向，此类宏观经济数据解读往往预示着后续政策支持方向。虽然时效性评分较低，但作为政策风向标，对基建、制造业等传统经济支柱板块具有中长期影响。",
+      "theme_classification": {
+        "theme_type": "宏观经济数据解读",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "基础设施建设",
+          "制造业",
+          "金融"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "央视宏观经济数据解读往往预示基建投资力度，中国建筑作为基建龙头将直接受益",
+          "policy_relevance": "高度相关，基建是稳经济重要抓手",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "经济运行数据向好利好金融板块，保险龙头受益于经济复苏和资产质量改善",
+          "policy_relevance": "中等相关，金融是经济晴雨表",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "000858",
+          "stock_name": "五粮液",
+          "recommendation_reason": "消费是经济重要组成部分，经济运行亮点往往带动消费升级，高端白酒受益",
+          "policy_relevance": "一般相关，消费是经济重要支撑",
+          "urgency_level": "较低",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 22:07:27"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

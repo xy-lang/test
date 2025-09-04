@@ -1,0 +1,122 @@
+{
+  "analysis_time": "2025-09-01 14:32:59",
+  "news_info": {
+    "id": "2d14a473c1",
+    "title": "暑运结束正值秋季开学季，多地铁路部门表示，暑运临客开行方案将根据学生出行需求延续。同时，学生购票优惠新规也将于9月6日正式实施。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIWVz2hvVo56RyXAHCVF80250901.shtml",
+    "publish_time": "2025-09-01 13:48:00",
+    "summary": "暑运结束正值秋季开学季，多地铁路部门表示，暑运临客开行方案将根据学生出行需求延续。同时，学生购票优惠..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.74
+    }
+  },
+  "ai_analysis": {
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601333",
+        "stock_name": "广深铁路",
+        "recommendation_reason": "作为华南地区重要铁路运营商，直接受益于学生客流增长和临客开行方案延续",
+        "policy_relevance": "高度相关，直接受益于铁路客运政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.75,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 2,
+        "stock_code": "600125",
+        "stock_name": "铁龙物流",
+        "recommendation_reason": "公司涉足铁路客运及物流服务，学生出行需求增长将带动相关业务发展",
+        "policy_relevance": "中等相关，间接受益于客运需求提升",
+        "urgency_level": "一般",
+        "confidence_score": 0.65,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 3,
+        "stock_code": "003032",
+        "stock_name": "传智教育",
+        "recommendation_reason": "教育培训机构，学生返校季可能带来培训需求增长，间接受益于开学季",
+        "policy_relevance": "较低相关，概念性受益",
+        "urgency_level": "低",
+        "confidence_score": 0.55,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      }
+    ],
+    "stage2_status": "fallback_enhanced",
+    "fallback_reason": "使用规则增强的第一阶段结果",
+    "enhancement_applied": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性较弱，但作为央视新闻发布，具有权威背书效应。内容涉及铁路运输政策调整和学生优惠新规实施，体现了国家对教育出行保障的重视，具有一定的政策导向意义。",
+      "policy_impact": "政策影响主要体现在铁路运输需求提升和学生出行优惠政策延续，将直接利好铁路运输、客运服务相关企业，预计短期内将带来客流增长和收入提升。",
+      "theme_classification": {
+        "theme_type": "交通运输/教育服务",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "铁路运输",
+          "客运服务",
+          "教育消费"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601333",
+          "stock_name": "广深铁路",
+          "recommendation_reason": "作为华南地区重要铁路运营商，直接受益于学生客流增长和临客开行方案延续",
+          "policy_relevance": "高度相关，直接受益于铁路客运政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600125",
+          "stock_name": "铁龙物流",
+          "recommendation_reason": "公司涉足铁路客运及物流服务，学生出行需求增长将带动相关业务发展",
+          "policy_relevance": "中等相关，间接受益于客运需求提升",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "003032",
+          "stock_name": "传智教育",
+          "recommendation_reason": "教育培训机构，学生返校季可能带来培训需求增长，间接受益于开学季",
+          "policy_relevance": "较低相关，概念性受益",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 14:32:59"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-08-18 11:53:38",
+  "news_info": {
+    "id": "1e6c7286be",
+    "title": "最近一段时间，位于江苏南通通州区的2000多亩大棚葡萄迎来丰收季，在现代科技农业设施的助力下这些葡萄长势良好，目前正陆续上市。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTITRUIg7hH5tMD8VOzLfrD250818.shtml",
+    "publish_time": "2025-08-18 11:48:08",
+    "summary": "最近一段时间，位于江苏南通通州区的2000多亩大棚葡萄迎来丰收季，在现代科技农业设施的助力下这些葡萄..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.08
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:53:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

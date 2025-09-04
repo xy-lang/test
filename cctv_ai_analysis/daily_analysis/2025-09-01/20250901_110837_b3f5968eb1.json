@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 11:08:37",
+  "news_info": {
+    "id": "b3f5968eb1",
+    "title": "海报时评丨超越“掐烟”之争：鲁迅精神与健康中国，该如何同行？",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901100619909244029.html",
+    "publish_time": "2025-09-01 10:06:00",
+    "summary": "海报时评丨超越“掐烟”之争：鲁迅精神与健康中国，该如何同行？"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.03
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"作为央视旗下传媒公司，与鲁迅文化传播主题关联度最高，具备政策受益预期。技术面相对稳定，在文化传媒板块中具有一定龙头地位，短期可能受益于文化健康理念传播的催化剂\",\n      \"risk_warning\": \"传媒板块整体强度偏弱，市场情绪支撑不足，需警惕板块轮动风险和政策落地不及预期\"\n    },\n    {\n      \"stock_code\": \"000156\",\n      \"stock_name\": \"华数传媒\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"数字传媒业务与健康文化传播有一定关联，但关联度较中视传媒弱。技术指标显示相对平稳，但缺乏明显突破信号\",\n      \"risk_warning\": \"板块强度较低，个股缺乏明显技术突破，基本面改善需要时间验证\"\n    },\n    {\n      \"stock_code\": \"600998\",\n      \"stock_name\": \"九州通\",\n      \"comprehensive_score\": 0.28,\n      \"recommendation_reason\": \"医药流通企业与健康中国主题存在间接关联，但新闻匹配度较低。技术面表现一般，缺乏明显催化剂\",\n      \"risk_warning\": \"与新闻主题关联度较弱，医药板块近期表现平淡，缺乏短期上涨动力\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"综合板块强度0.233，支撑力度有限\",\n    \"recommendation_strategy\": \"谨慎参与，重点关注中视传媒的文化属性与政策预期匹配度\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "作为央视旗下上市公司，受益于央视平台权威性，但该新闻本身投资价值有限",
+        "policy_relevance": "低-仅为平台关联",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "000156",
+        "stock_name": "华数传媒",
+        "recommendation_reason": "传媒板块标的，但新闻内容缺乏实质性利好",
+        "policy_relevance": "极低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      },
+      {
+        "rank": 3,
+        "stock_code": "600998",
+        "stock_name": "九州通",
+        "recommendation_reason": "健康中国概念股，但新闻未涉及具体健康产业政策",
+        "policy_relevance": "极低",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视发布，但内容为时评性质，讨论鲁迅精神与健康中国的抽象话题，缺乏具体政策指向和投资指导意义。新闻时效性、硬核程度均为0分，表明其投资价值极低，更多是文化层面的讨论。",
+      "policy_impact": "无实质性政策影响。新闻内容停留在理念层面，未涉及具体政策调整或行业变革，对资本市场无直接推动作用。",
+      "theme_classification": {
+        "theme_type": "文化健康理念",
+        "hardcore_level": "无实质意志体现",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "健康服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "作为央视旗下上市公司，受益于央视平台权威性，但该新闻本身投资价值有限",
+          "policy_relevance": "低-仅为平台关联",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "000156",
+          "stock_name": "华数传媒",
+          "recommendation_reason": "传媒板块标的，但新闻内容缺乏实质性利好",
+          "policy_relevance": "极低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        },
+        {
+          "rank": 3,
+          "stock_code": "600998",
+          "stock_name": "九州通",
+          "recommendation_reason": "健康中国概念股，但新闻未涉及具体健康产业政策",
+          "policy_relevance": "极低",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:08:37"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

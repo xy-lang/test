@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-03 20:36:31",
+  "news_info": {
+    "id": "50afff72da",
+    "title": "“中国油画名家笔下的沂蒙山——阳光海岸·活力日照主题精品展”开展",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903185727616295761.html",
+    "publish_time": "2025-09-03 18:57:00",
+    "summary": "“中国油画名家笔下的沂蒙山——阳光海岸·活力日照主题精品展”开展"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.64
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 20:36:31"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 14:31:11",
+  "news_info": {
+    "id": "bca071b3df",
+    "title": "拼多多“千亿扶持”惠及坡坎人家，返乡女孩李春花带山村老人学网购",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904113842156476354.html",
+    "publish_time": "2025-09-04 11:38:00",
+    "summary": "拼多多“千亿扶持”惠及坡坎人家，返乡女孩李春花带山村老人学网购"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.87
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002024\",\n      \"stock_name\": \"苏宁易购\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现稳健，板块强度0.617提供支撑，与乡村振兴+数字电商题材高度契合。作为电商零售龙头，直接受益于农村电商政策红利，技术评分0.65配合基本面改善预期，短期催化剂明确\",\n      \"risk_warning\": \"零售行业竞争激烈，基本面仍处转型期，需关注季度财报表现和现金流状况\"\n    },\n    {\n      \"stock_code\": \"000061\",\n      \"stock_name\": \"农产品\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"直接受益于乡村振兴政策，农产品流通领域核心标的。技术面相对稳定，与新闻主题高度匹配，政策受益程度较高，在农村电商基础设施建设和农产品上行方面具有明确优势\",\n      \"risk_warning\": \"农业板块周期性较强，受大宗商品价格波动影响较大，需关注季节性因素和价格风险\"\n    },\n    {\n      \"stock_code\": \"300413\",\n      \"stock_name\": \"芒果超媒\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"数字内容与电商结合的代表性标的，在内容电商领域具有独特优势。技术面表现中等，但受益于数字经济发展趋势，在乡村数字化内容消费升级方面存在潜在机会\",\n      \"risk_warning\": \"传媒行业监管政策变化风险较大，内容成本上升压力明显，需关注用户增长和变现能力\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极\",\n    \"sector_strength\": \"中等偏强(0.617)\",\n    \"risk_level\": \"中等\",\n    \"investment_horizon\": \"短期至中期\"\n  },\n  \"key_risks\": [\n    \"宏观经济波动可能影响消费复苏节奏\",\n    \"电商行业竞争加剧可能压缩利润空间\",\n    \"政策执行效果存在不确定性\",\n    \"技术面整体评分0.62属于中等水平，需警惕市场回调风险\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002024",
+        "stock_name": "苏宁易购",
+        "recommendation_reason": "作为电商板块标的，受益于乡村振兴政策持续推进，且估值相对合理",
+        "policy_relevance": "中等，同属电商平台参与乡村振兴",
+        "urgency_level": "一般关注",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "000061",
+        "stock_name": "农产品",
+        "recommendation_reason": "农产品流通龙头企业，直接受益于农村电商基础设施完善",
+        "policy_relevance": "中等偏上，业务与农村电商高度相关",
+        "urgency_level": "一般关注",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "recommendation_reason": "旗下快乐购涉足电商业务，且在乡村振兴题材中有媒体资源优势",
+        "policy_relevance": "中等",
+        "urgency_level": "观察等待",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视报道，但内容为拼多多的企业社会责任项目，属于软性宣传报道。从投资角度看，新闻本身时效性、硬核程度、持续性评分均为0，表明其并非重大政策或行业变革信息，更多是企业品牌形象塑造。央视的权威性背书对拼多多品牌美誉度有正面影响，但直接投资价值有限。",
+      "policy_impact": "新闻反映的政策导向是乡村振兴和数字普惠金融，符合国家'数字经济赋能乡村振兴'战略。但该新闻并非新政策发布，而是企业现有政策的落地案例，政策影响力中等偏下，更多是延续性政策的具体体现。",
+      "theme_classification": {
+        "theme_type": "乡村振兴+数字电商",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "电子商务",
+          "农村电商",
+          "消费扶贫"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002024",
+          "stock_name": "苏宁易购",
+          "recommendation_reason": "作为电商板块标的，受益于乡村振兴政策持续推进，且估值相对合理",
+          "policy_relevance": "中等，同属电商平台参与乡村振兴",
+          "urgency_level": "一般关注",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "000061",
+          "stock_name": "农产品",
+          "recommendation_reason": "农产品流通龙头企业，直接受益于农村电商基础设施完善",
+          "policy_relevance": "中等偏上，业务与农村电商高度相关",
+          "urgency_level": "一般关注",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "300413",
+          "stock_name": "芒果超媒",
+          "recommendation_reason": "旗下快乐购涉足电商业务，且在乡村振兴题材中有媒体资源优势",
+          "policy_relevance": "中等",
+          "urgency_level": "观察等待",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 14:31:11"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

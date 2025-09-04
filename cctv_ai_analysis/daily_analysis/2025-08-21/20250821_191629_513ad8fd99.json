@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-21 19:16:29",
+  "news_info": {
+    "id": "513ad8fd99",
+    "title": "特朗普政府悄然扩大了50%钢铁和铝关税的覆盖范围，给企业和美国贸易伙伴带来了广泛的不确定性。美国关税政策反复无常、伤人害己、得不偿失。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIsueKPnkbKcGCNaNROSHO250821.shtml",
+    "publish_time": "2025-08-21 14:33:00",
+    "summary": "特朗普政府悄然扩大了50%钢铁和铝关税的覆盖范围，给企业和美国贸易伙伴带来了广泛的不确定性。美国关税..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8363,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.71,
+      "persistence": 1.0,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 4.71
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000898\",\n      \"stock_name\": \"鞍钢股份\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"直接受益于钢铁关税政策，作为国内钢铁龙头企业，技术评分0.75高于板块平均水平。板块强度0.683提供支撑，关税扩大将提升国内钢铁产品竞争力，短期催化剂明确。\",\n      \"risk_warning\": \"需关注国际贸易政策变化风险，钢铁行业周期性波动风险，原材料价格波动影响盈利能力\"\n    },\n    {\n      \"stock_code\": \"000630\",\n      \"stock_name\": \"铜陵有色\",\n      \"comprehensive_score\": 0.71,\n      \"recommendation_reason\": \"有色金属板块间接受益，铝关税扩大可能带动国内铝产业需求。技术指标表现稳定，受益于大宗商品价格支撑，具备一定的防御属性。\",\n      \"risk_warning\": \"有色金属价格波动风险较大，下游需求不确定性，汇率波动影响出口竞争力\"\n    },\n    {\n      \"stock_code\": \"000157\",\n      \"stock_name\": \"中联重科\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"作为综合类装备制造企业，间接受益于国内基建投资预期提升。技术评分符合板块平均水平，但政策关联度相对较弱。\",\n      \"risk_warning\": \"工程机械行业周期性风险，房地产投资下滑风险，海外市场贸易摩擦影响\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"total_recommended\": 3,\n    \"average_score\": 0.73,\n    \"sector_strength\": 0.683,\n    \"market_sentiment\": \"谨慎乐观\",\n    \"key_drivers\": [\"关税政策直接受益\", \"国内产业替代机会\", \"技术面支撑良好\"]\n  },\n  \"overall_risk_alert\": \"需密切关注中美贸易谈判进展，全球经济复苏节奏，以及国内产业政策调整。建议控制仓位，设置止损位，关注政策催化剂的持续性。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000898",
+        "stock_name": "鞍钢股份",
+        "recommendation_reason": "央视报道美国关税政策调整，可能促使国内出台钢铁产业扶持政策，鞍钢作为行业龙头将受益于政策预期",
+        "policy_relevance": "高度相关，直接受贸易政策影响",
+        "urgency_level": "中等",
+        "confidence_score": 0.72
+      },
+      {
+        "rank": 2,
+        "stock_code": "000630",
+        "stock_name": "铜陵有色",
+        "recommendation_reason": "铝关税扩大可能推动国内铝产业整合升级，公司作为有色金属龙头企业具备政策受益预期",
+        "policy_relevance": "高度相关，铝业直接受关税政策影响",
+        "urgency_level": "中等",
+        "confidence_score": 0.68
+      },
+      {
+        "rank": 3,
+        "stock_code": "000157",
+        "stock_name": "中联重科",
+        "recommendation_reason": "贸易摩擦背景下，国内基建投资可能加码，工程机械行业受益于内需刺激政策",
+        "policy_relevance": "间接相关，受益于可能的反制政策",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及美国贸易政策重大调整，虽然时效性评分较低，但央视新闻作为国家级权威媒体，其报道具有政策导向意义。新闻内容直指美国关税政策对全球贸易格局的影响，可能引发国内相关产业政策调整预期。",
+      "policy_impact": "美国扩大钢铁铝关税将直接影响国内钢铁、铝业出口，但可能促使国内出台相应产业扶持政策。政策影响具有双向性：一方面出口受阻，另一方面可能刺激内需政策和进口替代机会。",
+      "theme_classification": {
+        "theme_type": "贸易摩擦/产业政策",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "钢铁",
+          "有色金属",
+          "机械设备"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000898",
+          "stock_name": "鞍钢股份",
+          "recommendation_reason": "央视报道美国关税政策调整，可能促使国内出台钢铁产业扶持政策，鞍钢作为行业龙头将受益于政策预期",
+          "policy_relevance": "高度相关，直接受贸易政策影响",
+          "urgency_level": "中等",
+          "confidence_score": 0.72
+        },
+        {
+          "rank": 2,
+          "stock_code": "000630",
+          "stock_name": "铜陵有色",
+          "recommendation_reason": "铝关税扩大可能推动国内铝产业整合升级，公司作为有色金属龙头企业具备政策受益预期",
+          "policy_relevance": "高度相关，铝业直接受关税政策影响",
+          "urgency_level": "中等",
+          "confidence_score": 0.68
+        },
+        {
+          "rank": 3,
+          "stock_code": "000157",
+          "stock_name": "中联重科",
+          "recommendation_reason": "贸易摩擦背景下，国内基建投资可能加码，工程机械行业受益于内需刺激政策",
+          "policy_relevance": "间接相关，受益于可能的反制政策",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 19:16:29"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

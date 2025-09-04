@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-09-01 23:22:54",
+  "news_info": {
+    "id": "9b55e8573a",
+    "title": "在山东青岛，我国建设了中国—上海合作组织地方经贸合作示范区。作为唯一面向上合组织国家开展地方经贸合作的国际示范平台，7年来，上合示范区不断建设与更新，用开放、合作凝聚“上合力量”。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIufniU1Cku5K8jVByFAmy250901.shtml",
+    "publish_time": "2025-09-01 20:39:00",
+    "summary": "在山东青岛，我国建设了中国—上海合作组织地方经贸合作示范区。作为唯一面向上合组织国家开展地方经贸合作..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 2.72
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601800\",\n      \"stock_name\": \"中国交建\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"作为国家基建龙头，直接受益于上合示范区基础设施建设需求，技术评分0.85分显示强势突破形态，政策催化明确，订单预期强劲，符合国家意志推动的对外开放战略\",\n      \"risk_warning\": \"需关注基建投资进度不及预期风险、原材料成本上涨压力\"\n    },\n    {\n      \"stock_code\": \"000039\",\n      \"stock_name\": \"中集集团\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"集装箱物流装备龙头，深度参与国际贸易物流链条，技术评分0.83分显示趋势向好，受益于上合组织经贸合作带来的物流需求增长，海外业务占比高\",\n      \"risk_warning\": \"全球贸易波动风险、汇率波动影响海外收益\"\n    },\n    {\n      \"stock_code\": \"600190\",\n      \"stock_name\": \"锦州港\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"区域性港口标的，具备地理位置优势，技术评分0.72分相对稳健，受益于上合组织经贸往来带来的港口吞吐量提升预期\",\n      \"risk_warning\": \"区域竞争加剧风险、大宗商品贸易波动影响吞吐量\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment\": \"积极\",\n    \"technical_indicator_alignment\": \"良好\",\n    \"overall_assessment\": \"板块强度0.8分显示基建物流板块处于相对强势，技术指标整体配合度较高，政策催化明确，建议重点关注基建龙头和物流装备标的\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600190",
+        "stock_name": "锦州港",
+        "recommendation_reason": "作为环渤海地区重要港口，将受益于上合示范区带来的国际贸易增量，央视新闻的权威报道增强政策确定性",
+        "policy_relevance": "直接受益于区域经贸合作深化",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "000039",
+        "stock_name": "中集集团",
+        "recommendation_reason": "全球集装箱制造龙头，上合示范区建设将带动物流装备需求，央视新闻背书提升投资信心",
+        "policy_relevance": "基础设施建设配套供应商",
+        "urgency_level": "中短期关注",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "601800",
+        "stock_name": "中国交建",
+        "recommendation_reason": "基建央企龙头，深度参与区域基础设施建设，央视新闻的政策导向为其业务拓展提供支撑",
+        "policy_relevance": "示范区基础设施建设主力军",
+        "urgency_level": "中长期持有",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的关于上合示范区建设的重要时政要闻，具有极高的权威性和政策导向性。上合示范区作为国家级战略平台，其建设进展直接反映我国对外开放和区域合作政策力度，对相关产业具有长期投资价值。",
+      "policy_impact": "该新闻体现了国家持续推进'一带一路'和上合组织经贸合作的战略意志。青岛作为示范区所在地，将获得政策红利和资源倾斜，相关基础设施建设、国际贸易、物流服务等领域将直接受益，具有中长期政策催化效应。",
+      "theme_classification": {
+        "theme_type": "区域经济合作+基础设施建设",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "基础设施建设",
+          "国际贸易",
+          "港口物流",
+          "区域开发"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600190",
+          "stock_name": "锦州港",
+          "recommendation_reason": "作为环渤海地区重要港口，将受益于上合示范区带来的国际贸易增量，央视新闻的权威报道增强政策确定性",
+          "policy_relevance": "直接受益于区域经贸合作深化",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "000039",
+          "stock_name": "中集集团",
+          "recommendation_reason": "全球集装箱制造龙头，上合示范区建设将带动物流装备需求，央视新闻背书提升投资信心",
+          "policy_relevance": "基础设施建设配套供应商",
+          "urgency_level": "中短期关注",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "601800",
+          "stock_name": "中国交建",
+          "recommendation_reason": "基建央企龙头，深度参与区域基础设施建设，央视新闻的政策导向为其业务拓展提供支撑",
+          "policy_relevance": "示范区基础设施建设主力军",
+          "urgency_level": "中长期持有",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 23:22:54"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

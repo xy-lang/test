@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-01 19:20:43",
+  "news_info": {
+    "id": "f64c85b807",
+    "title": "电影市场持续“沸腾” 从“新”出发中国故事扬帆出海",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIHUXrN9wa0NEuU5pBr6gw250901.shtml",
+    "publish_time": "2025-09-01 20:44:00",
+    "summary": "电影市场持续“沸腾” 从“新”出发中国故事扬帆出海"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.87295,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.95,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -1.4
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 19:20:43"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

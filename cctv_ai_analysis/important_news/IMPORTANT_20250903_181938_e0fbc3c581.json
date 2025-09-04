@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-03 18:19:38",
+  "news_info": {
+    "id": "e0fbc3c581",
+    "title": "特朗普宣布将搬迁美国太空司令部 耗资或达数亿美元",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIAt3k8UfdxrAY9oM9N5Wb250903.shtml",
+    "publish_time": "2025-09-03 17:23:13",
+    "summary": "特朗普宣布将搬迁美国太空司令部 耗资或达数亿美元"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80365,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.92
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:19:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

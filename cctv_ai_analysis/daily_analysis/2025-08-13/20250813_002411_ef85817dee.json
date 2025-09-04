@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-13 00:24:11",
+  "news_info": {
+    "id": "ef85817dee",
+    "title": "透过重磅数据“数”览多种经营主体活力满格",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/12/ARTIx0X6AjeXX3RQv8cCN73T250812.shtml",
+    "publish_time": "2025-08-13 00:23:46",
+    "summary": "透过重磅数据“数”览多种经营主体活力满格"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79045,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.7,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的政策导向性和市场影响力。本次报道聚焦多种经营主体活力，暗示政府将继续支持市场主体发展，利好相关企业。0.79的高评分显示该新闻具有较强时效性和政策重要性。",
+    "policy_impact": "该报道释放出政府持续优化营商环境、支持市场主体发展的积极信号，预计将带动相关支持性政策出台，对工商服务、企业服务类上市公司构成直接利好。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "recommendation_reason": "作为综合金融服务商，将直接受益于市场主体活力提升带来的融资需求增加。央视权威报道增强市场信心。",
+        "policy_relevance": "高度相关，金融服务是支持市场主体发展的核心环节",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "综合金融集团，业务涵盖企业金融服务，将受益于市场主体活力提升和政策支持。央视背书提升投资信心。",
+        "policy_relevance": "高度相关，提供全方位企业金融服务",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "优质商业银行，小微企业服务突出，将显著受益于市场主体活力提升。央视报道强化政策预期。",
+        "policy_relevance": "高度相关，专注企业金融服务",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

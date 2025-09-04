@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 10:58:21",
+  "news_info": {
+    "id": "a2c1f6d2a3",
+    "title": "国家安全机关公布，间谍的“诈骗”公式",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904103306551183486.html",
+    "publish_time": "2025-09-04 10:33:00",
+    "summary": "国家安全机关公布，间谍的“诈骗”公式"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7492000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.68,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.41
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_name\": \"卫士通(002268)\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为国内信息安全龙头企业，直接受益于国家安全战略升级。技术面显示近期成交量放大，MACD金叉向上，板块强度0.567提供支撑。公司作为密码安全国家队，与新闻主题高度契合，政策受益明确。\",\n      \"risk_warning\": \"需关注估值偏高风险及市场情绪波动影响\"\n    },\n    {\n      \"stock_name\": \"蓝盾股份(300297)\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"网络安全领域重要参与者，在数据安全、云安全等细分领域有布局。技术指标显示短期超跌反弹，但基本面存在一定不确定性。受益于国家安全主题，但公司经营状况需要进一步观察。\",\n      \"risk_warning\": \"公司基本面存在不确定性，需警惕业绩波动风险\"\n    },\n    {\n      \"stock_name\": \"信威集团(600485)\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"虽涉及通信安全领域，但与核心网络安全主题关联度相对较弱。技术面表现平平，板块支撑有限。建议谨慎关注，作为备选标的。\",\n      \"risk_warning\": \"与主题关联度较弱，技术面支撑不足，风险较高\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"国家安全主题具备较强政策催化，但需注意短期炒作风险\",\n    \"sector_strength\": \"综合板块强度0.567属于中等水平，提供一定支撑但不够强劲\",\n    \"investment_strategy\": \"建议重点关注头部标的，控制仓位，注意止盈止损\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002268",
+        "stock_name": "卫士通",
+        "recommendation_reason": "作为国内信息安全龙头企业，受益于国家安全意识提升，央视权威报道间接强化网络安全重要性",
+        "policy_relevance": "中等-国家安全政策长期受益标的",
+        "urgency_level": "低-长期配置价值",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300297",
+        "stock_name": "蓝盾股份",
+        "recommendation_reason": "网络安全解决方案提供商，国家安全主题的间接受益者，但新闻直接催化作用有限",
+        "policy_relevance": "中等-网络安全板块政策受益",
+        "urgency_level": "低-观望为主",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "600485",
+        "stock_name": "信威集团",
+        "recommendation_reason": "涉及通信安全领域，但新闻关联度较弱，仅作为国家安全主题的备选标的",
+        "policy_relevance": "低-间接关联",
+        "urgency_level": "低-不建议短期追涨",
+        "confidence_score": 0.45
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻属于国家安全主题的时政要闻，虽然内容涉及间谍防范，但缺乏具体的投资指向性。央视新闻作为国家级权威媒体，其报道具有政策导向意义，但本条新闻更偏向于警示教育和国家安全宣传，直接投资价值有限。",
+      "policy_impact": "低度政策影响。新闻主要传达国家安全意识，未涉及具体产业政策或资金扶持，对市场影响较为间接。国家安全主题长期存在，但本条新闻时效性较弱，难以形成短期投资热点。",
+      "theme_classification": {
+        "theme_type": "国家安全/网络安全",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "网络安全",
+          "国防军工",
+          "信息安全"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002268",
+          "stock_name": "卫士通",
+          "recommendation_reason": "作为国内信息安全龙头企业，受益于国家安全意识提升，央视权威报道间接强化网络安全重要性",
+          "policy_relevance": "中等-国家安全政策长期受益标的",
+          "urgency_level": "低-长期配置价值",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300297",
+          "stock_name": "蓝盾股份",
+          "recommendation_reason": "网络安全解决方案提供商，国家安全主题的间接受益者，但新闻直接催化作用有限",
+          "policy_relevance": "中等-网络安全板块政策受益",
+          "urgency_level": "低-观望为主",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "600485",
+          "stock_name": "信威集团",
+          "recommendation_reason": "涉及通信安全领域，但新闻关联度较弱，仅作为国家安全主题的备选标的",
+          "policy_relevance": "低-间接关联",
+          "urgency_level": "低-不建议短期追涨",
+          "confidence_score": 0.45
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:58:21"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

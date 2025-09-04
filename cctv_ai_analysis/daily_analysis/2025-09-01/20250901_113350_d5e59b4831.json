@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 11:33:50",
+  "news_info": {
+    "id": "d5e59b4831",
+    "title": "街BA9月1日对阵",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901111524835439183.html",
+    "publish_time": "2025-09-01 11:15:00",
+    "summary": "街BA9月1日对阵"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7195,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.59,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.3
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"603000\",\n      \"stock_name\": \"人民网\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"作为官方媒体平台，人民网在体育赛事报道和群众体育活动宣传方面具有权威地位，与街BA赛事关联度较高。虽然技术指标表现一般，但具备政策受益预期和短期事件催化优势。\",\n      \"risk_warning\": \"技术面支撑较弱，板块整体强度不足，需警惕市场情绪波动风险\"\n    },\n    {\n      \"stock_code\": \"600158\",\n      \"stock_name\": \"中体产业\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"专业体育产业公司，在体育赛事运营和体育传媒领域有布局，与群众体育活动主题有一定契合度。技术评分相对稳定，但缺乏直接的事件催化。\",\n      \"risk_warning\": \"与具体事件关联度不够直接，基本面支撑有限，需关注成交量变化\"\n    },\n    {\n      \"stock_code\": \"601098\",\n      \"stock_name\": \"中南传媒\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"传媒类企业，在体育内容传播方面有一定业务涉及，但关联度相对较弱。技术指标表现平平，缺乏明显的短期催化剂。\",\n      \"risk_warning\": \"与主题关联度最低，技术面支撑不足，建议谨慎参与\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"综合板块强度0.10显示整体偏弱，支撑力度有限\",\n    \"recommendation_strategy\": \"建议轻仓参与，重点关注人民网的短期事件催化机会，严格控制仓位\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "603000",
+        "stock_name": "人民网",
+        "recommendation_reason": "作为央媒旗下上市公司，长期受益于央视等主流媒体内容传播，但该新闻本身无实质投资价值",
+        "policy_relevance": "低-常规媒体报道业务",
+        "urgency_level": "极低",
+        "confidence_score": 0.1
+      },
+      {
+        "rank": 2,
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "recommendation_reason": "传媒板块标的，但该新闻不具备推动板块行情的价值",
+        "policy_relevance": "低-泛传媒概念",
+        "urgency_level": "极低",
+        "confidence_score": 0.05
+      },
+      {
+        "rank": 3,
+        "stock_code": "600158",
+        "stock_name": "中体产业",
+        "recommendation_reason": "体育产业标的，但单场街BA赛事报道不足以构成投资逻辑",
+        "policy_relevance": "低-泛体育概念",
+        "urgency_level": "极低",
+        "confidence_score": 0.05
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为街BA赛事对阵信息，属于常规体育赛事报道，投资价值极低。新闻内容缺乏实质性政策信息或产业影响，时效性差，硬核程度为零，不具备投资指导意义。央视新闻的权威性在此类常规体育报道中不产生特殊投资价值。",
+      "policy_impact": "无实质性政策影响。街BA作为群众性体育活动，虽符合全民健身政策导向，但单场赛事报道不涉及具体政策变动或产业扶持，对资本市场无直接影响。",
+      "theme_classification": {
+        "theme_type": "体育赛事/群众体育活动",
+        "hardcore_level": "无实质意志体现",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "文化传媒",
+          "体育产业"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "603000",
+          "stock_name": "人民网",
+          "recommendation_reason": "作为央媒旗下上市公司，长期受益于央视等主流媒体内容传播，但该新闻本身无实质投资价值",
+          "policy_relevance": "低-常规媒体报道业务",
+          "urgency_level": "极低",
+          "confidence_score": 0.1
+        },
+        {
+          "rank": 2,
+          "stock_code": "601098",
+          "stock_name": "中南传媒",
+          "recommendation_reason": "传媒板块标的，但该新闻不具备推动板块行情的价值",
+          "policy_relevance": "低-泛传媒概念",
+          "urgency_level": "极低",
+          "confidence_score": 0.05
+        },
+        {
+          "rank": 3,
+          "stock_code": "600158",
+          "stock_name": "中体产业",
+          "recommendation_reason": "体育产业标的，但单场街BA赛事报道不足以构成投资逻辑",
+          "policy_relevance": "低-泛体育概念",
+          "urgency_level": "极低",
+          "confidence_score": 0.05
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:33:50"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

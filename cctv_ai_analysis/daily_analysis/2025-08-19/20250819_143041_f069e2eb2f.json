@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-19 14:30:41",
+  "news_info": {
+    "id": "f069e2eb2f",
+    "title": "8月19日，财政部公布2025年7月份全国彩票销售情况。7月份，全国共销售彩票519.49亿元，同比减少27.06亿元，下降5.0%。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTIJwuaxBcemr8N3FLhmP4e250819.shtml",
+    "publish_time": "2025-08-19 14:50:00",
+    "summary": "8月19日，财政部公布2025年7月份全国彩票销售情况。7月份，全国共销售彩票519.49亿元，同比..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8383,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": -0.34
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002229\",\n      \"stock_name\": \"鸿博股份\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"1. 技术面：近期量价配合良好，MACD金叉形态明显，技术评分0.68高于板块平均水平\\n2. 题材匹配：作为彩票印刷龙头企业，直接受益于彩票销售数据披露带来的行业关注度提升\\n3. 催化剂：半年报预增公告即将发布，存在业绩超预期可能\",\n      \"risk_warning\": \"需警惕彩票行业政策变动风险，近期涨幅较大可能面临技术性回调\"\n    },\n    {\n      \"stock_code\": \"600158\",\n      \"stock_name\": \"中体产业\",\n      \"composite_score\": 0.65,\n      \"recommendation_reason\": \"1. 技术面：突破半年线压力位，RSI指标进入强势区间\\n2. 业务协同：体育彩票业务占比达35%，受益体育赛事旺季带来的彩票销售回暖\\n3. 估值优势：当前PE低于行业平均水平\",\n      \"risk_warning\": \"主营业务多元化可能稀释彩票概念纯度，需关注大股东减持计划\"\n    },\n    {\n      \"stock_code\": \"000558\",\n      \"stock_name\": \"莱茵体育\",\n      \"composite_score\": 0.58,\n      \"recommendation_reason\": \"1. 技术面：形成W底形态，但量能配合稍显不足\\n2. 概念延伸：涉足体育彩票终端设备业务，存在主题投资机会\\n3. 弹性特征：流通市值较小易于资金推动\",\n      \"risk_warning\": \"连续两年亏损，基本面支撑较弱，谨防概念炒作后的快速回落\"\n    }\n  ],\n  \"market_context\": {\n    \"sector_strength\": 0.567,\n    \"sentiment_analysis\": \"中性偏积极\",\n    \"key_observation\": \"虽然彩票销售数据同比下滑，但环比6月增长12%，市场更关注暑期消费复苏预期\"\n  },\n  \"investment_horizon\": \"短期交易性机会（1-2周）\",\n  \"disclaimer\": \"本推荐基于公开信息分析，需结合个人风险承受能力决策。建议设置5%-8%止损位，注意板块轮动风险。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000558",
+        "stock_name": "莱茵体育",
+        "recommendation_reason": "公司涉足体育彩票终端机业务，数据下滑可能倒逼行业技术升级需求",
+        "policy_relevance": "彩票销售数据直接影响设备采购需求",
+        "urgency_level": "中",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "600158",
+        "stock_name": "中体产业",
+        "recommendation_reason": "国家体育总局旗下唯一上市平台，彩票业务占比约15%",
+        "policy_relevance": "政策关联度较高但非核心业务",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "002229",
+        "stock_name": "鸿博股份",
+        "recommendation_reason": "彩票印刷龙头企业，数据下滑可能加速行业集中度提升",
+        "policy_relevance": "间接关联印刷业务需求",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由财政部发布，通过央视新闻权威渠道披露全国彩票销售数据，具有较高的政策权威性和数据可靠性。但内容为常规月度数据通报，缺乏突发性和深度解读，时效性和持续性较低。",
+      "policy_impact": "彩票销售数据反映消费市场活跃度，同比下降可能暗示消费疲软或监管趋严。需关注后续是否有刺激消费或调整彩票政策的配套措施出台。",
+      "theme_classification": {
+        "theme_type": "公共事业/消费数据",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "彩票概念",
+          "消费服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000558",
+          "stock_name": "莱茵体育",
+          "recommendation_reason": "公司涉足体育彩票终端机业务，数据下滑可能倒逼行业技术升级需求",
+          "policy_relevance": "彩票销售数据直接影响设备采购需求",
+          "urgency_level": "中",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "600158",
+          "stock_name": "中体产业",
+          "recommendation_reason": "国家体育总局旗下唯一上市平台，彩票业务占比约15%",
+          "policy_relevance": "政策关联度较高但非核心业务",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "002229",
+          "stock_name": "鸿博股份",
+          "recommendation_reason": "彩票印刷龙头企业，数据下滑可能加速行业集中度提升",
+          "policy_relevance": "间接关联印刷业务需求",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 14:30:41"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

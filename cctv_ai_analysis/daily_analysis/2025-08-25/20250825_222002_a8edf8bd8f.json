@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-25 22:20:02",
+  "news_info": {
+    "id": "a8edf8bd8f",
+    "title": "从演训场到训练场 九三阅兵空军方队汇聚成钢铁长城",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIS4WEftq6C9vf09lH7bIH250825.shtml",
+    "publish_time": "2025-08-25 11:43:00",
+    "summary": "从演训场到训练场 九三阅兵空军方队汇聚成钢铁长城"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.66765,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 10.6
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600760\",\n      \"stock_name\": \"中航沈飞\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"作为歼击机核心制造商，与阅兵主题高度契合，技术指标显示强势突破形态，板块强度0.833提供有力支撑，受益于国防现代化政策红利，短期催化剂明确\",\n      \"risk_warning\": \"需关注军工板块政策波动风险及估值偏高风险\"\n    },\n    {\n      \"stock_code\": \"000768\",\n      \"stock_name\": \"中航西飞\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"大型军用运输机主力生产商，阅兵装备直接供应商，技术面呈现多头排列，受益于空军装备升级需求，政策确定性较强\",\n      \"risk_warning\": \"注意订单交付进度不及预期风险及行业竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"600893\",\n      \"stock_name\": \"航发动力\",\n      \"comprehensive_score\": 0.79,\n      \"recommendation_reason\": \"航空发动机核心企业，技术国产化关键标的，虽与阅兵主题关联度稍弱，但长期受益于装备自主化趋势，技术指标显示稳健上行\",\n      \"risk_warning\": \"存在技术研发进度不确定风险及原材料成本上升压力\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_strength\": \"强势(0.833)\",\n    \"policy_support\": \"高强度\",\n    \"recommendation_strategy\": \"重点配置前两只，第三只作为补充\"\n  },\n  \"key_risks\": [\n    \"军工板块受政策影响波动较大\",\n    \"市场整体情绪可能影响个股表现\",\n    \"需密切关注阅兵后政策延续性\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "作为国内主要战斗机生产企业，直接受益于空军装备升级需求。央视军事报道往往预示后续装备采购计划",
+        "policy_relevance": "高度相关，空军装备核心供应商",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 2,
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "recommendation_reason": "航空发动机核心企业，阅兵展示的新型战机都需要先进发动机支持，具备核心技术壁垒",
+        "policy_relevance": "高度相关，航空装备核心配套",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 3,
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "recommendation_reason": "军用运输机、轰炸机主要生产商，参与多个国家重点型号研制，受益于空军整体实力提升",
+        "policy_relevance": "中度相关，军用飞机整机制造",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威发布的军事题材报道，虽然时效性评分较低，但央视新闻作为国家级媒体平台，其军事类报道往往具有政策导向意义。九三阅兵相关新闻通常涉及国防现代化建设，对军工板块具有长期提振作用。",
+      "policy_impact": "高层级政策导向，体现国家军事现代化建设决心。阅兵展示的装备升级需求将直接传导至军工产业链，预计将推动相关企业订单增长和业绩提升。",
+      "theme_classification": {
+        "theme_type": "军工装备/国防现代化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "国防军工",
+          "航空航天",
+          "高端装备制造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600760",
+          "stock_name": "中航沈飞",
+          "recommendation_reason": "作为国内主要战斗机生产企业，直接受益于空军装备升级需求。央视军事报道往往预示后续装备采购计划",
+          "policy_relevance": "高度相关，空军装备核心供应商",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 2,
+          "stock_code": "600893",
+          "stock_name": "航发动力",
+          "recommendation_reason": "航空发动机核心企业，阅兵展示的新型战机都需要先进发动机支持，具备核心技术壁垒",
+          "policy_relevance": "高度相关，航空装备核心配套",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 3,
+          "stock_code": "000768",
+          "stock_name": "中航西飞",
+          "recommendation_reason": "军用运输机、轰炸机主要生产商，参与多个国家重点型号研制，受益于空军整体实力提升",
+          "policy_relevance": "中度相关，军用飞机整机制造",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 22:20:02"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

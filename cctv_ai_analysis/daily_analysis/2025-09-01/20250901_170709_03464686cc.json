@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-09-01 17:07:09",
+  "news_info": {
+    "id": "03464686cc",
+    "title": "更新、更绿、更智能 上合组织国家多领域合作结硕果 区域高质量发展动能强劲",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTI82kSmLcZmCUoFVKEhZ3p250901.shtml",
+    "publish_time": "2025-09-01 16:33:39",
+    "summary": "更新、更绿、更智能 上合组织国家多领域合作结硕果 区域高质量发展动能强劲"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8383,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.54
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601668\",\n      \"stock_name\": \"中国建筑\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"作为基建龙头直接受益于上合组织区域合作项目，技术评分0.85显示强势突破形态，板块强度0.817提供有力支撑，政策催化明确，符合'国家意志'主题\",\n      \"risk_warning\": \"基建板块受宏观经济周期影响较大，需关注项目落地进度和资金回笼风险\"\n    },\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"银行板块作为区域金融合作核心载体，技术指标显示稳健上升趋势，受益于跨境金融和绿色金融政策，流动性充裕环境下具备估值修复空间\",\n      \"risk_warning\": \"银行业面临息差收窄压力，需关注资产质量变化和监管政策影响\"\n    },\n    {\n      \"stock_code\": \"002410\",\n      \"stock_name\": \"广联达\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"契合'更智能'主题，建筑信息化龙头受益于数字化转型趋势，技术面呈现底部放量特征，但短期催化强度相对较弱\",\n      \"risk_warning\": \"科技股估值波动较大，需警惕业绩兑现不及预期风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"积极\",\n    \"sector_strength_support\": \"强支撑\",\n    \"policy_catalyst_intensity\": \"高强度\",\n    \"recommendation_strategy\": \"优先配置基建和金融龙头，适度参与智能建筑标的\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "作为基建龙头，深度参与上合组织国家基建项目，绿色建筑和智能建造业务符合'更绿、更智能'导向",
+        "policy_relevance": "高度相关，直接受益区域基建合作",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "在一带一路金融服务和绿色金融领域布局领先，为上合合作项目提供资金支持",
+        "policy_relevance": "金融服务区域合作，支持绿色项目",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "002410",
+        "stock_name": "广联达",
+        "recommendation_reason": "建筑信息化龙头，智能建造解决方案符合'更智能'要求，海外业务拓展加速",
+        "policy_relevance": "数字化转型代表，智能建造核心标的",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻作为央视时政要闻，虽然第一时间性评分较低，但作为上合组织区域合作的重要报道，具有显著的政策导向意义。央视新闻的权威性确保了信息的准确性和政策传导的有效性，对资本市场具有明确的指引作用。",
+      "policy_impact": "上合组织'更新、更绿、更智能'的合作主题直接对应国家双碳战略和数字化转型政策，预计将推动绿色基建、智能制造、数字经济等领域的政策支持和资金投入，具有较强的政策催化效应。",
+      "theme_classification": {
+        "theme_type": "区域合作+绿色智能",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "一带一路",
+          "绿色基建",
+          "智能制造",
+          "数字经济"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "作为基建龙头，深度参与上合组织国家基建项目，绿色建筑和智能建造业务符合'更绿、更智能'导向",
+          "policy_relevance": "高度相关，直接受益区域基建合作",
+          "urgency_level": "中高",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "在一带一路金融服务和绿色金融领域布局领先，为上合合作项目提供资金支持",
+          "policy_relevance": "金融服务区域合作，支持绿色项目",
+          "urgency_level": "中",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "002410",
+          "stock_name": "广联达",
+          "recommendation_reason": "建筑信息化龙头，智能建造解决方案符合'更智能'要求，海外业务拓展加速",
+          "policy_relevance": "数字化转型代表，智能建造核心标的",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 17:07:09"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

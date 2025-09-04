@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 14:21:21",
+  "news_info": {
+    "id": "9b82c65b68",
+    "title": "烟台公安进校园开讲“反诈第一课”",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901140620708147920.html",
+    "publish_time": "2025-09-01 14:06:00",
+    "summary": "烟台公安进校园开讲“反诈第一课”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7426,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.66,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.24
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300188\",\n      \"stock_name\": \"美亚柏科\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为电子数据取证和网络安全领域的龙头企业，与公安反诈主题高度契合。公司产品在公安系统应用广泛，直接受益于反诈宣传和网络安全建设需求。技术面相对稳健，在网络安全板块中具备较强的政策受益确定性。\",\n      \"risk_warning\": \"估值相对较高，需关注业绩兑现情况；网络安全板块整体波动较大\"\n    },\n    {\n      \"stock_code\": \"002439\",\n      \"stock_name\": \"启明星辰\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"国内信息安全行业领军企业，在政府、公安等领域有深厚积累。反诈工作需要强大的网络安全技术支撑，公司安全网关、入侵检测等产品具有直接应用场景。技术指标显示相对抗跌性较好。\",\n      \"risk_warning\": \"行业竞争激烈，毛利率存在压力；需关注订单落地进度\"\n    },\n    {\n      \"stock_code\": \"300297\",\n      \"stock_name\": \"蓝盾股份\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"信息安全产品提供商，涉及网络安全、应用安全等领域。虽然与反诈主题相关，但公司近年经营面临一定挑战。技术面相对较弱，需谨慎看待反弹持续性。\",\n      \"risk_warning\": \"基本面存在不确定性，财务压力较大；技术面支撑较弱，建议轻仓谨慎参与\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_assessment\": \"板块强度0.417属于中等偏弱水平，平均技术评分0.42显示整体技术面支撑有限，需要精选个股\",\n    \"news_correlation\": \"反诈主题与网络安全板块高度相关，但属于政策性主题，短期催化强度中等，需要关注政策落地进度\",\n    \"risk_assessment\": \"网络安全板块整体估值较高，市场情绪波动较大；个股选择需注重基本面和政策受益确定性\"\n  },\n  \"investment_suggestion\": \"建议重点关注美亚柏科和启明星辰，控制仓位参与，设置合理止损位。反诈主题属于政策性机会，需关注后续政策推进和业绩兑现情况。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300297",
+        "stock_name": "蓝盾股份",
+        "recommendation_reason": "公司主营网络安全产品，反诈工作推进将增加网络安全需求，央视报道虽不直接利好但反映行业政策环境",
+        "policy_relevance": "中等-网络安全政策受益",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      },
+      {
+        "rank": 2,
+        "stock_code": "002439",
+        "stock_name": "启明星辰",
+        "recommendation_reason": "网络安全龙头企业，反诈工作涉及数据安全和网络防护，长期受益于网络安全政策",
+        "policy_relevance": "中等-网络安全基础设施",
+        "urgency_level": "低",
+        "confidence_score": 0.4
+      },
+      {
+        "rank": 3,
+        "stock_code": "300188",
+        "stock_name": "美亚柏科",
+        "recommendation_reason": "电子数据取证和网络安全产品提供商，公安反诈工作可能带来相关业务需求",
+        "policy_relevance": "中等-公共安全信息化",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性反诈宣传活动报道，内容涉及公安部门进校园开展反诈教育。从投资角度看，新闻本身缺乏直接的投资价值，但反映了国家持续推进反诈工作的政策导向。央视新闻的权威性虽然提升了信息的可信度，但该新闻属于常规性工作报道，不具备明显的投资机会挖掘价值。",
+      "policy_impact": "反映国家持续加强反诈工作的政策方向，属于网络安全和公共安全领域的常规政策延续。政策影响程度较低，主要体现为对相关行业的长期支持态度，而非短期政策利好。",
+      "theme_classification": {
+        "theme_type": "网络安全/公共安全",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "网络安全",
+          "公共安全",
+          "教育信息化"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300297",
+          "stock_name": "蓝盾股份",
+          "recommendation_reason": "公司主营网络安全产品，反诈工作推进将增加网络安全需求，央视报道虽不直接利好但反映行业政策环境",
+          "policy_relevance": "中等-网络安全政策受益",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        },
+        {
+          "rank": 2,
+          "stock_code": "002439",
+          "stock_name": "启明星辰",
+          "recommendation_reason": "网络安全龙头企业，反诈工作涉及数据安全和网络防护，长期受益于网络安全政策",
+          "policy_relevance": "中等-网络安全基础设施",
+          "urgency_level": "低",
+          "confidence_score": 0.4
+        },
+        {
+          "rank": 3,
+          "stock_code": "300188",
+          "stock_name": "美亚柏科",
+          "recommendation_reason": "电子数据取证和网络安全产品提供商，公安反诈工作可能带来相关业务需求",
+          "policy_relevance": "中等-公共安全信息化",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 14:21:21"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

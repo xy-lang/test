@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-18 09:11:36",
+  "news_info": {
+    "id": "15174940e1",
+    "title": "8月17日下午，首届世界人形机器人运动会在北京闭幕。本届运动会，共产生了26个冠军，相关赛制赛程均为全球首创，刷新了世界人形机器人历史。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIsvbOhXzQbxG9j2m6VmSA250818.shtml",
+    "publish_time": "2025-08-18 09:10:26",
+    "summary": "8月17日下午，首届世界人形机器人运动会在北京闭幕。本届运动会，共产生了26个冠军，相关赛制赛程均为..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.02
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻具有高度时效性和权威性，作为央视新闻发布的时政要闻，且涉及全球首创的人形机器人赛事，对相关产业具有显著提振作用。",
+    "policy_impact": "虽然未直接提及政策支持，但作为国家级媒体重点报道的全球首创赛事，暗示国家对人形机器人产业的高度重视和发展导向。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300024",
+        "stock_name": "机器人",
+        "recommendation_reason": "国内工业机器人龙头企业，直接受益于人形机器人产业发展",
+        "policy_relevance": "高度相关，公司业务与新闻主题完全契合",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "002747",
+        "stock_name": "埃斯顿",
+        "recommendation_reason": "国内领先的工业机器人及智能制造企业，技术储备深厚",
+        "policy_relevance": "高度相关，涉及机器人核心技术研发",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "603666",
+        "stock_name": "亿嘉和",
+        "recommendation_reason": "特种机器人领域领先企业，产品应用于多个高科技场景",
+        "policy_relevance": "相关，涉及机器人应用领域拓展",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 22:05:00",
+  "news_info": {
+    "id": "864400369c",
+    "title": "“夜经济”绽放新光彩 “古风夜拍”成文旅消费新亮点",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIkdSdrmUijDOwrRNXgWJp250818.shtml",
+    "publish_time": "2025-08-18 18:45:00",
+    "summary": "“夜经济”绽放新光彩 “古风夜拍”成文旅消费新亮点"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.73895,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.75,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 3.32
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"作为国内领先的旅游综合服务商，中青旅在文旅消费领域具有显著优势。技术指标显示近期成交量温和放大，MACD金叉形成，配合板块强度0.767的良好支撑。公司旗下乌镇等景区夜间经济布局完善，直接受益于'古风夜拍'等新业态。\",\n      \"risk_warning\": \"需警惕旅游行业季节性波动风险及疫情反复可能带来的影响。\"\n    },\n    {\n      \"stock_code\": \"300144\",\n      \"stock_name\": \"宋城演艺\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"主题公园龙头企业，'千古情'系列演艺项目天然适配夜间经济场景。技术面呈现突破平台态势，RSI指标处于健康区间。公司轻资产扩张模式有利于快速复制夜间文旅项目。\",\n      \"risk_warning\": \"注意新项目培育期可能带来的业绩波动，以及同业竞争加剧风险。\"\n    },\n    {\n      \"stock_code\": \"600723\",\n      \"stock_name\": \"首商股份\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"北京商业龙头，旗下多家商场开展夜间主题活动。技术面呈现均线多头排列，但成交量配合稍显不足。作为区域性商业企业，对地方促消费政策敏感度较高。\",\n      \"risk_warning\": \"需关注实体商业受电商冲击风险，以及北京地区疫情防控政策变化。\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.767,\n    \"sentiment_analysis\": \"正面\",\n    \"technical_outlook\": \"板块整体技术评分0.77，处于上升通道\"\n  },\n  \"investment_horizon\": \"3-6个月中期配置\",\n  \"special_notes\": \"建议重点关注中秋、国庆双节前的政策催化窗口期，夜间经济主题可能获得持续政策加持。配置策略上推荐中青旅作为核心仓位，宋城演艺作为弹性品种。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，将直接受益于文旅消费升级和夜经济发展。",
+        "policy_relevance": "高度相关，符合国家促进文旅消费政策方向。",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "600723",
+        "stock_name": "首商股份",
+        "recommendation_reason": "商业零售龙头，旗下商业综合体是夜间消费的重要场景。",
+        "policy_relevance": "较相关，受益于城市夜间经济发展。",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "recommendation_reason": "文化演艺龙头，'古风夜拍'等新型文旅体验与其业务高度契合。",
+        "policy_relevance": "较相关，符合文旅融合发展趋势。",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻聚焦'夜经济'和文旅消费新趋势，虽然时效性和硬核程度评分较低，但央视新闻作为国家级媒体，其报道往往具有政策导向性，可能预示着相关产业将获得政策支持。",
+      "policy_impact": "文旅消费是国家促进内需的重点领域，'夜经济'作为新兴消费模式可能获得地方政策扶持，具有潜在的政策红利。",
+      "theme_classification": {
+        "theme_type": "文旅消费/夜间经济",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "旅游",
+          "商业零售",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，将直接受益于文旅消费升级和夜经济发展。",
+          "policy_relevance": "高度相关，符合国家促进文旅消费政策方向。",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "600723",
+          "stock_name": "首商股份",
+          "recommendation_reason": "商业零售龙头，旗下商业综合体是夜间消费的重要场景。",
+          "policy_relevance": "较相关，受益于城市夜间经济发展。",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "300144",
+          "stock_name": "宋城演艺",
+          "recommendation_reason": "文化演艺龙头，'古风夜拍'等新型文旅体验与其业务高度契合。",
+          "policy_relevance": "较相关，符合文旅融合发展趋势。",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 22:05:00"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

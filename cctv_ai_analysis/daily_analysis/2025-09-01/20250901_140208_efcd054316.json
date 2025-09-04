@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 14:02:08",
+  "news_info": {
+    "id": "efcd054316",
+    "title": "新学期，新气象！莒县刘官庄镇中心小学元气满满迎开学",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901134458386478680.html",
+    "publish_time": "2025-09-01 13:44:00",
+    "summary": "新学期，新气象！莒县刘官庄镇中心小学元气满满迎开学"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7723,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.75,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.29
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002261\",\n      \"stock_name\": \"拓维信息\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"教育信息化龙头企业，与新闻中校园建设主题高度契合。技术面显示近期资金关注度提升，板块强度0.583提供支撑，政策受益程度高，短期催化剂明确。公司在智慧校园、教育云平台领域布局深入，符合新学期开学季主题\",\n      \"risk_warning\": \"需关注教育政策变化风险，技术面存在回调压力，市场整体情绪波动可能影响短期表现\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"在线教育服务商，与校园信息化建设关联度较高。技术评分处于中等水平，受益于教育数字化趋势，但公司基本面相对较弱，需要关注业绩改善情况\",\n      \"risk_warning\": \"基本面风险较高，盈利能力有待改善，行业竞争激烈，需谨慎控制仓位\"\n    },\n    {\n      \"stock_code\": \"603899\",\n      \"stock_name\": \"晨光股份\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"文具用品龙头，受益于新学期开学季消费需求，但与教育信息化主题关联度相对较弱。技术面表现稳定，具备一定的防御属性\",\n      \"risk_warning\": \"与新闻主题匹配度相对较低，消费复苏进度存在不确定性，需关注业绩兑现情况\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.583,\n    \"market_sentiment\": \"中性偏积极\",\n    \"technical_indicator_status\": \"整体配合度一般，需精选个股\",\n    \"policy_benefit_level\": \"中等\",\n    \"short_term_catalyst\": \"开学季主题明确\"\n  },\n  \"risk_notes\": [\n    \"教育板块受政策影响较大，需密切关注相关政策动向\",\n    \"技术面整体评分0.58显示板块强度一般，建议控制仓位\",\n    \"市场时机风险：当前市场情绪波动较大，建议分批建仓\",\n    \"个股基本面差异明显，需重点关注业绩确定性强的标的\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002261",
+        "stock_name": "拓维信息",
+        "recommendation_reason": "作为教育信息化龙头企业，受益于校园数字化建设需求，央视教育类新闻可能提升教育板块关注度",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "专注于教育信息服务，开学季可能带来业务量增长，但新闻本身催化作用有限",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "recommendation_reason": "作为文具行业龙头，开学季是传统销售旺季，但新闻关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方教育类常规报道，内容涉及小学开学季，属于教育板块的正面宣传。虽然来自央视平台，但新闻本身缺乏重大政策导向和投资价值，时效性、硬核程度和持续性评分均为0，表明其投资参考价值有限。",
+      "policy_impact": "该新闻未涉及重大教育政策调整或投资导向，更多体现国家对基础教育的持续重视。在当前教育均衡发展、乡村振兴战略背景下，地方教育基础设施建设可能带来间接投资机会，但直接政策影响较弱。",
+      "theme_classification": {
+        "theme_type": "教育信息化/校园建设",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "教育装备",
+          "智慧校园",
+          "文具制造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002261",
+          "stock_name": "拓维信息",
+          "recommendation_reason": "作为教育信息化龙头企业，受益于校园数字化建设需求，央视教育类新闻可能提升教育板块关注度",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "专注于教育信息服务，开学季可能带来业务量增长，但新闻本身催化作用有限",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "603899",
+          "stock_name": "晨光股份",
+          "recommendation_reason": "作为文具行业龙头，开学季是传统销售旺季，但新闻关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 14:02:08"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

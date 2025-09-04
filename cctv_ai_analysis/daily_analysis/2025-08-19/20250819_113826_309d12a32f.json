@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-19 11:38:26",
+  "news_info": {
+    "id": "309d12a32f",
+    "title": "上合组织峰会临近，天津的城市景观氛围布置逐渐到位，处处洋溢着喜庆的氛围。全新提升的地标、景点，成为了市民休闲娱乐、打卡分享的新热点。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTI0MGXVzd2i71jIePdV6tI250819.shtml",
+    "publish_time": "2025-08-19 10:37:00",
+    "summary": "上合组织峰会临近，天津的城市景观氛围布置逐渐到位，处处洋溢着喜庆的氛围。全新提升的地标、景点，成为了..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.01
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"龙元建设(600491)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"技术面：近期成交量温和放大，MACD指标金叉，短期技术形态较好\",\n        \"新闻匹配：作为地方基建龙头，直接受益于城市景观提升工程\",\n        \"政策受益：上合峰会带来的基建需求提升，公司订单有望增加\"\n      ],\n      \"risk_warning\": [\n        \"板块整体强度一般，需警惕板块轮动风险\",\n        \"短期涨幅较大，注意回调压力\"\n      ]\n    },\n    {\n      \"stock\": \"东方园林(002310)\",\n      \"score\": 0.65,\n      \"reasons\": [\n        \"技术面：股价处于相对低位，RSI指标显示超卖反弹迹象\",\n        \"新闻匹配：园林景观业务与城市美化直接相关\",\n        \"催化剂：可能获得峰会相关景观项目\"\n      ],\n      \"risk_warning\": [\n        \"公司基本面较弱，负债率较高\",\n        \"板块整体强度不足0.6，需谨慎\"\n      ]\n    },\n    {\n      \"stock\": \"首创环保(600008)\",\n      \"score\": 0.58,\n      \"reasons\": [\n        \"技术面：走势相对稳健，但缺乏明显突破信号\",\n        \"新闻匹配：环保业务与城市环境提升间接相关\",\n        \"防御性：作为公用事业股波动较小\"\n      ],\n      \"risk_warning\": [\n        \"与新闻主题关联度最低\",\n        \"短期催化剂不足\"\n      ]\n    }\n  ],\n  \"summary\": {\n    \"best_choice\": \"龙元建设(600491)\",\n    \"market_timing\": \"短期(1-2周)交易机会\",\n    \"overall_risk\": \"中等偏高，需严格止损\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600491",
+        "stock_name": "龙元建设",
+        "recommendation_reason": "作为天津地区主要基建承包商，可能参与峰会配套工程。但需注意订单实际落地情况。",
+        "policy_relevance": "地方基建招标受益",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "002310",
+        "stock_name": "东方园林",
+        "recommendation_reason": "城市景观提升可能涉及园林绿化工程，但业务全国性分布削弱区域事件影响。",
+        "policy_relevance": "市政园林概念",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "600008",
+        "stock_name": "首创环保",
+        "recommendation_reason": "城市环境综合整治概念股，但峰会筹备期已接近尾声，事件驱动效应递减。",
+        "policy_relevance": "城市环境治理",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然报道的是上合组织峰会的筹备情况，但属于常规性时政报道，缺乏实质性政策或经济影响。央视新闻的权威性主要体现在官方信息发布层面，但此类城市景观布置的报道对资本市场直接影响有限。",
+      "policy_impact": "低级别政策影响。上合组织峰会属于外交活动，除非有重大合作协议签署，否则对具体行业影响较弱。城市景观改造属于短期市政工程，不构成持续性政策红利。",
+      "theme_classification": {
+        "theme_type": "事件驱动型/短期主题",
+        "hardcore_level": "行业意志（地方基建）",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "建筑装饰",
+          "园林工程"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600491",
+          "stock_name": "龙元建设",
+          "recommendation_reason": "作为天津地区主要基建承包商，可能参与峰会配套工程。但需注意订单实际落地情况。",
+          "policy_relevance": "地方基建招标受益",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "002310",
+          "stock_name": "东方园林",
+          "recommendation_reason": "城市景观提升可能涉及园林绿化工程，但业务全国性分布削弱区域事件影响。",
+          "policy_relevance": "市政园林概念",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "600008",
+          "stock_name": "首创环保",
+          "recommendation_reason": "城市环境综合整治概念股，但峰会筹备期已接近尾声，事件驱动效应递减。",
+          "policy_relevance": "城市环境治理",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        }
+      ],
+      "risk_warning": "需特别注意：1) 新闻发布时间已临近会期，主题炒作窗口期较短 2) 未提及具体上市公司参与情况 3) 相关公司业绩实际受益程度存疑"
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 11:38:26"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

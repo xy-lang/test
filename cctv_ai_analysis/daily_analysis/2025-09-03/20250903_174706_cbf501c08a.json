@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-03 17:47:06",
+  "news_info": {
+    "id": "cbf501c08a",
+    "title": "“最快女护士”哭求调休引争议 医院和MCN机构最新回应",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903171042654613514.html",
+    "publish_time": "2025-09-03 17:10:00",
+    "summary": "“最快女护士”哭求调休引争议 医院和MCN机构最新回应"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7789,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.77,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.6
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为医疗服务龙头，与新闻事件中的医疗行业规范主题高度相关，政策受益程度较高。技术面相对稳健，在医药板块中具备一定防御属性，短期可能受益于医疗行业规范化预期。\",\n      \"risk_warning\": \"医疗政策变化风险、估值偏高风险、行业监管趋严可能影响短期表现\"\n    },\n    {\n      \"stock_code\": \"300413\",\n      \"stock_name\": \"芒果超媒\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"MCN机构相关概念股，与新闻中的MCN机构回应存在间接关联。传媒板块近期情绪有所回暖，技术面显示企稳迹象，具备一定的题材炒作潜力。\",\n      \"risk_warning\": \"传媒板块波动较大、MCN行业监管不确定性、业绩增长放缓风险\"\n    },\n    {\n      \"stock_code\": \"002624\",\n      \"stock_name\": \"完美世界\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"与新闻关联度相对较弱，但作为综合类股票在弱势市场中具备一定防御性。技术面处于相对低位，下行空间有限，但缺乏明确的短期催化剂。\",\n      \"risk_warning\": \"游戏行业监管风险、业绩波动较大、缺乏明确上涨催化剂\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏谨慎，板块强度较弱(0.333)，整体技术评分偏低(0.33)，建议控制仓位\",\n    \"investment_strategy\": \"建议重点关注通策医疗，配置比例不宜过高，注意风险控制\",\n    \"timing_suggestion\": \"短期事件驱动行情，建议关注后续政策动向和板块轮动机会\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "作为医疗服务龙头企业，可能受益于医疗行业规范化管理提升行业集中度",
+        "policy_relevance": "间接相关，医疗行业管理规范化趋势",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "recommendation_reason": "MCN业务规范化的受益者，头部机构在监管趋严环境下竞争优势凸显",
+        "policy_relevance": "间接相关，MCN行业监管规范化",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "recommendation_reason": "拥有成熟的MCN业务体系，在行业规范过程中可能获得市场份额",
+        "policy_relevance": "间接相关，数字内容行业规范发展",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻属于社会热点事件报道，内容涉及医护人员工作状态和MCN机构管理问题。从投资角度看，新闻本身缺乏直接的投资价值，但央视新闻的权威性可能引发对医疗行业规范化和MCN行业监管的关注。新闻时效性较差，硬核程度低，持续性弱，属于短期舆情事件。",
+      "policy_impact": "可能推动医疗行业劳动权益保护和MCN机构规范化管理的政策讨论，但短期内不会产生实质性政策变化。卫健委可能加强对医疗机构人员管理的指导，网信办可能关注MCN机构的合规运营。",
+      "theme_classification": {
+        "theme_type": "社会事件引发的行业规范题材",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "作为医疗服务龙头企业，可能受益于医疗行业规范化管理提升行业集中度",
+          "policy_relevance": "间接相关，医疗行业管理规范化趋势",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300413",
+          "stock_name": "芒果超媒",
+          "recommendation_reason": "MCN业务规范化的受益者，头部机构在监管趋严环境下竞争优势凸显",
+          "policy_relevance": "间接相关，MCN行业监管规范化",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "002624",
+          "stock_name": "完美世界",
+          "recommendation_reason": "拥有成熟的MCN业务体系，在行业规范过程中可能获得市场份额",
+          "policy_relevance": "间接相关，数字内容行业规范发展",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 17:47:06"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 21:38:05",
+  "news_info": {
+    "id": "5959a2cb64",
+    "title": "【多彩新论】校园足球激发身心活力",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903212735654978173.html",
+    "publish_time": "2025-09-03 21:27:00",
+    "summary": "【多彩新论】校园足球激发身心活力"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7426,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.66,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.17
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"603899\",\n      \"stock_name\": \"晨光文具\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术面表现稳健（技术评分0.78），与校园体育政策高度契合，作为文具龙头直接受益于校园体育活动普及带来的文具消费增长，且基本面风险较低\",\n      \"risk_warning\": \"需关注消费复苏不及预期风险及行业竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"002105\",\n      \"stock_name\": \"信隆健康\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"体育器材细分龙头，直接受益于校园足球设施建设需求，技术指标配合度良好（评分0.72），板块强度提供支撑\",\n      \"risk_warning\": \"原材料价格波动风险，海外业务占比较高受汇率影响\"\n    },\n    {\n      \"stock_code\": \"300005\",\n      \"stock_name\": \"探路者\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"户外运动装备企业，间接受益于体育产业发展，但技术面相对较弱（评分0.69），与新闻直接关联度略低\",\n      \"risk_warning\": \"消费复苏节奏不确定，户外运动行业竞争激烈，业绩波动风险较大\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.733,\n    \"favorable_sectors\": [\"教育装备\", \"体育产业\"],\n    \"overall_market_sentiment\": \"中性偏积极\",\n    \"technical_indicator_support\": \"中等偏强\"\n  },\n  \"key_risks\": [\n    \"政策落地进度可能不及预期\",\n    \"消费复苏力度存在不确定性\",\n    \"板块轮动可能影响短期表现\",\n    \"需密切关注成交量配合情况\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "603899",
+        "stock_name": "晨光文具",
+        "recommendation_reason": "作为文体用品龙头，将受益于校园体育设施采购需求增长，公司体育用品业务占比持续提升",
+        "policy_relevance": "高",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "002105",
+        "stock_name": "信隆健康",
+        "recommendation_reason": "体育器材制造商，产品包括各类运动器材，有望受益于校园体育设施建设需求",
+        "policy_relevance": "中高",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "300005",
+        "stock_name": "探路者",
+        "recommendation_reason": "户外运动装备企业，校园足球推广将带动运动服饰和装备消费需求",
+        "policy_relevance": "中",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视发布的校园足球政策导向报道，虽然时效性评分较低，但央视作为国家级媒体平台，其报道往往具有政策风向标意义。校园足球作为体教融合的重要载体，符合国家素质教育改革方向，具有长期政策支持预期。",
+      "policy_impact": "教育部联合体育总局持续推进校园足球发展规划，预计将带动体育设施建设、教育培训、赛事运营等相关产业发展。政策支持力度较强，但具体落地节奏需要观察各地执行情况。",
+      "theme_classification": {
+        "theme_type": "体育产业/教育信息化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "文体用品",
+          "教育服务",
+          "体育产业"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "603899",
+          "stock_name": "晨光文具",
+          "recommendation_reason": "作为文体用品龙头，将受益于校园体育设施采购需求增长，公司体育用品业务占比持续提升",
+          "policy_relevance": "高",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "002105",
+          "stock_name": "信隆健康",
+          "recommendation_reason": "体育器材制造商，产品包括各类运动器材，有望受益于校园体育设施建设需求",
+          "policy_relevance": "中高",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "300005",
+          "stock_name": "探路者",
+          "recommendation_reason": "户外运动装备企业，校园足球推广将带动运动服饰和装备消费需求",
+          "policy_relevance": "中",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 21:38:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

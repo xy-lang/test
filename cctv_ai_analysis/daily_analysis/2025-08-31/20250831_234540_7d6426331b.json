@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-31 23:45:40",
+  "news_info": {
+    "id": "7d6426331b",
+    "title": "曾经寄信寄包裹的老邮局如今成了网红研学参观地，年轻人纷纷打卡的艺术馆曾是机器轰鸣作响的水泥厂……现在，越来越多的“老空间”化身新的消费场景，它们究竟是怎么顺应潮流，人气火爆起来的？",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/31/ARTIpHlLpwsLIxLUlS8DDgNJ250831.shtml",
+    "publish_time": "2025-08-31 17:08:00",
+    "summary": "曾经寄信寄包裹的老邮局如今成了网红研学参观地，年轻人纷纷打卡的艺术馆曾是机器轰鸣作响的水泥厂……现在..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 6.61
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"name\": \"宋城演艺(300144)\",\n      \"score\": 0.82,\n      \"reason\": \"技术面表现最佳，板块强度0.733提供良好支撑，与新闻主题高度契合（文化消费升级+空间改造），受益于文旅复苏和政策支持，短期催化剂明确\",\n      \"risk\": \"需关注旅游消费复苏不及预期风险，估值相对较高存在回调压力\"\n    },\n    {\n      \"name\": \"陆家嘴(600663)\",\n      \"score\": 0.75,\n      \"reason\": \"作为城市更新核心标的，直接受益于老空间改造趋势，技术指标稳健，地产政策边际改善提供支撑，具备资产重估潜力\",\n      \"risk\": \"房地产行业仍处调整期，商业地产空置率风险需关注，政策效果存在不确定性\"\n    },\n    {\n      \"name\": \"北新建材(000786)\",\n      \"score\": 0.68,\n      \"reason\": \"受益于城市更新带来的建材需求，基本面稳健，但技术面相对较弱，与新闻主题关联度稍逊，更多是间接受益标的\",\n      \"risk\": \"建材行业竞争激烈，原材料价格波动风险，房地产投资下滑可能影响需求\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极，城市更新主题受政策支持，但需注意市场整体波动风险\",\n    \"sector_strength\": \"综合板块强度0.733提供中等支撑，技术指标平均评分0.73显示整体技术面健康\",\n    \"risk_level\": \"中等，需关注政策执行效果和消费复苏进度\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600663",
+        "stock_name": "陆家嘴",
+        "recommendation_reason": "作为上海城市更新标杆企业，旗下拥有多个工业遗存改造项目，契合新闻中老空间改造主题，央视报道将提升市场对其城市更新业务的关注度",
+        "policy_relevance": "高度契合城市更新政策，受益于上海城市更新条例实施",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "recommendation_reason": "公司积极参与工业遗存改造项目，提供新型建材解决方案，央视报道的文化空间改造趋势将带动其业务需求增长",
+        "policy_relevance": "符合绿色建筑和城市更新政策导向",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "recommendation_reason": "公司在文旅融合、文化空间运营方面具有丰富经验，央视报道的消费场景创新趋势有利于其业务模式拓展",
+        "policy_relevance": "契合文化消费升级政策，受益于文旅融合发展",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽非重大政策发布，但体现了央视作为国家级媒体对城市更新、文化消费升级趋势的权威报道。央视新闻的传播效应能够显著提升相关概念的市场关注度，虽然时效性评分较低，但其对消费升级和城市更新主题的背书具有长期引导作用。",
+      "policy_impact": "契合'城市更新行动'和'文化强国'国家战略，符合十四五规划中关于推动消费升级、促进文化产业发展的政策导向。此类报道通常预示着相关产业将获得更多政策支持和资源倾斜。",
+      "theme_classification": {
+        "theme_type": "城市更新/文化消费升级",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "房地产开发",
+          "文化传媒",
+          "商业物业经营"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600663",
+          "stock_name": "陆家嘴",
+          "recommendation_reason": "作为上海城市更新标杆企业，旗下拥有多个工业遗存改造项目，契合新闻中老空间改造主题，央视报道将提升市场对其城市更新业务的关注度",
+          "policy_relevance": "高度契合城市更新政策，受益于上海城市更新条例实施",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "000786",
+          "stock_name": "北新建材",
+          "recommendation_reason": "公司积极参与工业遗存改造项目，提供新型建材解决方案，央视报道的文化空间改造趋势将带动其业务需求增长",
+          "policy_relevance": "符合绿色建筑和城市更新政策导向",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "300144",
+          "stock_name": "宋城演艺",
+          "recommendation_reason": "公司在文旅融合、文化空间运营方面具有丰富经验，央视报道的消费场景创新趋势有利于其业务模式拓展",
+          "policy_relevance": "契合文化消费升级政策，受益于文旅融合发展",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-31 23:45:40"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

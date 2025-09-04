@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-08-18 12:23:36",
+  "news_info": {
+    "id": "e474ef2635",
+    "title": "“凉资源”撬动“热经济” 打开夏日出游的N种出圈方式",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIJtHfjyA6C0JC3HSkIqIB250818.shtml",
+    "publish_time": "2025-08-18 12:05:00",
+    "summary": "“凉资源”撬动“热经济” 打开夏日出游的N种出圈方式"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.81025,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.76,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 12:23:36"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

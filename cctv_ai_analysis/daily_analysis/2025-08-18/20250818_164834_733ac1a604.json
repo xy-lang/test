@@ -1,0 +1,116 @@
+{
+  "analysis_time": "2025-08-18 16:48:34",
+  "news_info": {
+    "id": "733ac1a604",
+    "title": "从“用上电”到“用好电” “电力天路”打造新标杆",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIMOBDWLXfUkwBAFdZGm0c250818.shtml",
+    "publish_time": "2025-08-18 08:41:00",
+    "summary": "从“用上电”到“用好电” “电力天路”打造新标杆"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.66765,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 8.11
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600406\",\n      \"stock_name\": \"国电南瑞\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"作为特高压核心设备龙头，直接受益于'电力天路'建设。技术面呈现多头排列，近期量价配合良好，MACD金叉确认。政策支持明确，国家电网投资加速落地，短期催化剂充足。\",\n      \"risk_warning\": \"需警惕特高压建设进度不及预期风险；当前估值处于历史中高位，存在回调压力。\"\n    },\n    {\n      \"stock_code\": \"601179\",\n      \"stock_name\": \"中国西电\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"特高压GIS设备主要供应商，受益于西部电网升级。技术面突破年线压力位，RSI指标进入强势区间。具备央企重组预期，估值相对同业偏低。\",\n      \"risk_warning\": \"海外业务占比超30%，需关注汇率波动风险；存货周转率低于行业平均。\"\n    },\n    {\n      \"stock_code\": \"600312\",\n      \"stock_name\": \"平高电气\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"GIS开关设备细分龙头，中标多个特高压项目。技术面呈现W底形态，但量能配合稍显不足。受益于河南电网改造专项投资。\",\n      \"risk_warning\": \"应收账款周期较长；近期解禁压力较大，需关注股东减持动向。\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": \"特高压板块近期跑输大盘，但政策催化下存在补涨需求\",\n    \"technical_sentiment\": \"3只标的平均技术评分0.8显示中性偏强，但板块联动性较弱\",\n    \"policy_catalyst\": \"国家电网年内第三次追加电网投资，特高压项目核准加速\",\n    \"key_risk\": \"需警惕新能源消纳压力导致的特高压建设节奏调整风险\"\n  },\n  \"update_time\": \"2023-11-15\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "recommendation_reason": "作为电网自动化领域龙头，将直接受益于电网智能化升级。央视报道提升行业关注度。",
+        "policy_relevance": "高度相关，核心业务匹配'用好电'的智能化需求",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 2,
+        "stock_code": "601179",
+        "stock_name": "中国西电",
+        "recommendation_reason": "特高压设备主要供应商，'电力天路'建设将带来订单增长。",
+        "policy_relevance": "高度相关，主营特高压输电设备",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 3,
+        "stock_code": "600312",
+        "stock_name": "平高电气",
+        "recommendation_reason": "高压开关设备龙头，将受益于电网投资加大。央视背书增强投资者信心。",
+        "policy_relevance": "高度相关，产品应用于特高压项目",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻聚焦国家电网基础设施建设，'电力天路'项目具有显著的国家战略意义，体现了国家对电力基础设施升级的重视。虽然评分显示时效性和持续性较低，但央视新闻作为国家级媒体，其报道往往具有政策风向标作用。",
+      "policy_impact": "该新闻直接关联国家'十四五'电网建设规划，预计将带动特高压、智能电网等领域投资。作为国家主导的基建项目，政策支持力度大，资金保障充足。",
+      "theme_classification": {
+        "theme_type": "特高压/电网基建",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "电力设备",
+          "特高压"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600406",
+          "stock_name": "国电南瑞",
+          "recommendation_reason": "作为电网自动化领域龙头，将直接受益于电网智能化升级。央视报道提升行业关注度。",
+          "policy_relevance": "高度相关，核心业务匹配'用好电'的智能化需求",
+          "urgency_level": "中高",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 2,
+          "stock_code": "601179",
+          "stock_name": "中国西电",
+          "recommendation_reason": "特高压设备主要供应商，'电力天路'建设将带来订单增长。",
+          "policy_relevance": "高度相关，主营特高压输电设备",
+          "urgency_level": "中",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 3,
+          "stock_code": "600312",
+          "stock_name": "平高电气",
+          "recommendation_reason": "高压开关设备龙头，将受益于电网投资加大。央视背书增强投资者信心。",
+          "policy_relevance": "高度相关，产品应用于特高压项目",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": null,
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

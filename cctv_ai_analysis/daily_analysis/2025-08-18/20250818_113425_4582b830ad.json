@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 11:34:25",
+  "news_info": {
+    "id": "4582b830ad",
+    "title": "现代科技农业设施激活农业发展“新引擎”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTITRUIg7hH5tMD8VOzLfrD250818.shtml",
+    "publish_time": "2025-08-18 11:28:58",
+    "summary": "现代科技农业设施激活农业发展“新引擎”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.802,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.69,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.08
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"吉峰科技(300022)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"技术指标表现最佳，上涨动能强劲\",\n        \"直接受益于农业科技设施升级政策\",\n        \"近期成交量放大，显示资金关注度高\"\n      ],\n      \"risk_warning\": [\n        \"板块整体强度偏弱可能影响持续性\",\n        \"短期涨幅较大需警惕回调风险\"\n      ]\n    },\n    {\n      \"stock\": \"大北农(002385)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"基本面稳健，农业科技布局完善\",\n        \"政策受益明确，具备长期成长逻辑\",\n        \"技术形态呈现突破态势\"\n      ],\n      \"risk_warning\": [\n        \"市值较大可能限制短期弹性\",\n        \"需关注农产品价格波动风险\"\n      ]\n    },\n    {\n      \"stock\": \"普莱柯(603566)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"动物疫苗细分领域龙头\",\n        \"受益于养殖业智能化升级\",\n        \"技术指标显示企稳回升\"\n      ],\n      \"risk_warning\": [\n        \"与新闻主题关联度相对较弱\",\n        \"板块轮动可能影响短期表现\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"market_sentiment\": \"中性偏多\",\n    \"sector_outlook\": \"政策驱动型机会\",\n    \"optimal_strategy\": \"建议重点关注吉峰科技作为短线龙头，大北农作为中长线配置选择\"\n  },\n  \"risk_disclosure\": [\n    \"农业板块受季节性因素影响较大\",\n    \"需警惕政策落地不及预期风险\",\n    \"当前市场整体成交量水平可能限制板块持续性\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300022",
+        "stock_name": "吉峰科技",
+        "recommendation_reason": "国内领先的农业机械流通企业，直接受益于农业现代化设施升级政策。央视报道强化了市场对其政策红利的预期。",
+        "policy_relevance": "高度相关",
+        "urgency_level": "高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 2,
+        "stock_code": "603566",
+        "stock_name": "普莱柯",
+        "recommendation_reason": "动物疫苗龙头企业，农业科技重要组成部分。央视报道提升农业科技板块关注度，公司研发优势显著。",
+        "policy_relevance": "中度相关",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "002385",
+        "stock_name": "大北农",
+        "recommendation_reason": "农业产业化国家重点龙头企业，在生物育种和数字农业领域布局深入，符合报道中科技赋能农业的主题。",
+        "policy_relevance": "高度相关",
+        "urgency_level": "高",
+        "confidence_score": 0.8
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由央视发布，聚焦现代科技农业设施对农业发展的推动作用，属于国家政策重点支持领域。央视作为国家级媒体，其报道具有高度权威性和政策导向性，往往预示着相关产业将获得政策支持和资源倾斜。",
+      "policy_impact": "该新闻反映了国家对农业现代化的战略布局，预计将带动农业科技、智能装备等相关领域的政策红利和资金投入，具有显著的政策催化效应。",
+      "theme_classification": {
+        "theme_type": "农业科技/智慧农业",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "农业种植",
+          "农业机械",
+          "农业信息化"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300022",
+          "stock_name": "吉峰科技",
+          "recommendation_reason": "国内领先的农业机械流通企业，直接受益于农业现代化设施升级政策。央视报道强化了市场对其政策红利的预期。",
+          "policy_relevance": "高度相关",
+          "urgency_level": "高",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 2,
+          "stock_code": "603566",
+          "stock_name": "普莱柯",
+          "recommendation_reason": "动物疫苗龙头企业，农业科技重要组成部分。央视报道提升农业科技板块关注度，公司研发优势显著。",
+          "policy_relevance": "中度相关",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "002385",
+          "stock_name": "大北农",
+          "recommendation_reason": "农业产业化国家重点龙头企业，在生物育种和数字农业领域布局深入，符合报道中科技赋能农业的主题。",
+          "policy_relevance": "高度相关",
+          "urgency_level": "高",
+          "confidence_score": 0.8
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析：粗筛+技术精准",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:34:25"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

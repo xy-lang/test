@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 10:40:56",
+  "news_info": {
+    "id": "5340a5de05",
+    "title": "暑假文旅订单量持续增长 “票根经济”“谷子经济”拉动消费-中国网",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901095951895956305.html",
+    "publish_time": "2025-09-01 09:59:00",
+    "summary": "暑假文旅订单量持续增长 “票根经济”“谷子经济”拉动消费-中国网"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8548,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 1.0,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.69
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为国内领先的综合旅游服务商，直接受益于暑假文旅订单增长。技术评分0.65高于板块平均水平，公司业务涵盖旅行社、景区运营、酒店等多领域，与新闻主题高度契合。政策受益明显，暑期消费旺季提供短期催化剂。\",\n      \"risk_warning\": \"需关注旅游行业季节性波动风险及宏观经济对消费意愿的影响\"\n    },\n    {\n      \"stock_code\": \"603199\",\n      \"stock_name\": \"九华旅游\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"专注于景区运营管理，直接受益于暑期旅游消费复苏。技术指标显示相对稳健，公司地处九华山优质景区资源，具备较强的区域垄断优势。暑期旺季将显著提升景区客流和收入。\",\n      \"risk_warning\": \"单一景区依赖度较高，受天气和突发事件影响较大\"\n    },\n    {\n      \"stock_code\": \"600754\",\n      \"stock_name\": \"锦江酒店\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"国内酒店行业龙头，受益于暑期旅游住宿需求增长。虽然技术评分相对较低，但公司规模优势和品牌效应明显，连锁酒店业务将直接受益于文旅消费复苏。\",\n      \"risk_warning\": \"酒店行业竞争激烈，成本控制压力较大，需关注RevPAR恢复情况\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.583,\n    \"market_sentiment\": \"积极\",\n    \"news_relevance\": \"高度相关\",\n    \"risk_assessment\": \"中等\"\n  },\n  \"additional_notes\": \"建议重点关注暑期消费数据兑现情况，技术面需结合大盘走势进行动态调整\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为文旅行业龙头，直接受益于暑假订单增长，但需注意季节性因素影响",
+        "policy_relevance": "中等，契合消费复苏主题但缺乏政策强力驱动",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "区域性旅游企业，受益于文旅消费回暖，但增长持续性存疑",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "recommendance_reason": "酒店行业间接受益于文旅消费增长，但关联度相对较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.5
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽来自央视平台，但内容为常规消费数据报道，缺乏重大政策导向或行业变革信息。央视新闻的权威性主要体现在政策解读和重大事件报道，此类常规消费数据对市场影响有限。新闻时效性较差，发布时间为9月1日，已错过暑假消费旺季的投资窗口期。",
+      "policy_impact": "低影响级别。新闻仅反映消费市场自然波动，未涉及重大政策调整或产业扶持。'票根经济''谷子经济'属于市场自发形成的消费现象，缺乏政策强力支撑，对相关上市公司业绩推动有限。",
+      "theme_classification": {
+        "theme_type": "消费复苏/文旅消费",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "文化旅游",
+          "消费服务",
+          "零售"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为文旅行业龙头，直接受益于暑假订单增长，但需注意季节性因素影响",
+          "policy_relevance": "中等，契合消费复苏主题但缺乏政策强力驱动",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 2,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "区域性旅游企业，受益于文旅消费回暖，但增长持续性存疑",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "600754",
+          "stock_name": "锦江酒店",
+          "recommendance_reason": "酒店行业间接受益于文旅消费增长，但关联度相对较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.5
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 10:40:56"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

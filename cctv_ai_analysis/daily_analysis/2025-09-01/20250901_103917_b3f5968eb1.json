@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-01 10:39:17",
+  "news_info": {
+    "id": "b3f5968eb1",
+    "title": "海报时评丨超越“掐烟”之争：鲁迅精神与健康中国，该如何同行？",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901100619909244029.html",
+    "publish_time": "2025-09-01 10:06:00",
+    "summary": "海报时评丨超越“掐烟”之争：鲁迅精神与健康中国，该如何同行？"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.37
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 10:39:17"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

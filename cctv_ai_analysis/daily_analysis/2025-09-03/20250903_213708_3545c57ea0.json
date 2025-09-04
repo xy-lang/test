@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 21:37:08",
+  "news_info": {
+    "id": "3545c57ea0",
+    "title": "【多彩新论】让英雄精神成为学生成长的“灯塔”",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903212749816263106.html",
+    "publish_time": "2025-09-03 21:27:00",
+    "summary": "【多彩新论】让英雄精神成为学生成长的“灯塔”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7624000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.72,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.15
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600373\",\n      \"stock_name\": \"中文传媒\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为教育出版龙头企业，直接受益于英雄精神教育传播政策导向。技术面显示板块强度0.65支撑良好，公司主营业务与新闻主题高度契合，具备教材出版和内容传播双重优势，政策催化效应最强\",\n      \"risk_warning\": \"需关注教育政策变化风险及教材招标进度不确定性\"\n    },\n    {\n      \"stock_code\": \"601928\",\n      \"stock_name\": \"凤凰传媒\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"综合性传媒集团，在教育出版和文化传播领域布局完善，技术指标显示稳定上行趋势。公司拥有丰富的教育内容资源和渠道优势，能够较好承接价值观传播政策红利\",\n      \"risk_warning\": \"传统出版业务面临数字化转型压力，业绩增长存在不确定性\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"在线教育服务商，虽然与新闻主题相关度较高，但技术面相对较弱。公司在教育信息化领域有一定优势，但需要观察政策落地后的具体受益程度\",\n      \"risk_warning\": \"在线教育行业监管政策风险较高，盈利能力存在波动性\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极，教育文化板块受政策驱动预期升温\",\n    \"sector_strength\": \"综合板块强度0.65显示中等支撑力度\",\n    \"policy_impact\": \"国家意志级别政策导向明确，短期催化效应显著\",\n    \"risk_level\": \"中等风险，需关注政策执行进度和市场情绪变化\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600373",
+        "stock_name": "中文传媒",
+        "recommendation_reason": "作为国内主要的教育出版企业，受益于爱国主义教育教材和读物的需求增长，央视报道可能推动相关教育内容采购",
+        "policy_relevance": "高关联度，直接受益于教育内容政策导向",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "在线教育平台，可能承接更多思政教育、爱国主义教育相关的数字化内容服务",
+        "policy_relevance": "中等关联度，受益于教育数字化趋势",
+        "urgency_level": "一般",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "601928",
+        "stock_name": "凤凰传媒",
+        "recommendation_reason": "大型出版传媒集团，在主题教育读物出版方面具有优势，可能受益于相关政策的推动",
+        "policy_relevance": "中等关联度",
+        "urgency_level": "一般",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视发布的时政要闻，主题为'英雄精神教育'，体现了国家在教育领域弘扬正能量的政策导向。虽然新闻本身时效性较弱，但央视作为国家级媒体平台，其报道往往具有政策风向标意义，可能预示着相关教育政策将进一步强化",
+      "policy_impact": "中等政策影响。该新闻反映了国家在教育领域加强价值观引导的政策趋势，可能推动爱国主义教育、思政教育等相关领域的投入和重视，但对具体行业的直接影响有限",
+      "theme_classification": {
+        "theme_type": "教育文化+价值观传播",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "教育服务",
+          "文化传媒",
+          "出版发行"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600373",
+          "stock_name": "中文传媒",
+          "recommendation_reason": "作为国内主要的教育出版企业，受益于爱国主义教育教材和读物的需求增长，央视报道可能推动相关教育内容采购",
+          "policy_relevance": "高关联度，直接受益于教育内容政策导向",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "在线教育平台，可能承接更多思政教育、爱国主义教育相关的数字化内容服务",
+          "policy_relevance": "中等关联度，受益于教育数字化趋势",
+          "urgency_level": "一般",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "601928",
+          "stock_name": "凤凰传媒",
+          "recommendation_reason": "大型出版传媒集团，在主题教育读物出版方面具有优势，可能受益于相关政策的推动",
+          "policy_relevance": "中等关联度",
+          "urgency_level": "一般",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 21:37:08"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

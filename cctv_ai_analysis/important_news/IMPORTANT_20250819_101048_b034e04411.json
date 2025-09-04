@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-19 10:10:48",
+  "news_info": {
+    "id": "b034e04411",
+    "title": "从青藏雪域到渤海之滨，中华民族的母亲河黄河，绵延五千多公里，滋养着神州大地。党的十八大以来，习近平总书记走遍沿黄9省区，并在上中下游分别主持召开座谈会，专题部署黄河流域生态保护和高质量发展。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTINNnXimiFGQfmF7kN0jDX250819.shtml",
+    "publish_time": "2025-08-19 11:36:00",
+    "summary": "从青藏雪域到渤海之滨，中华民族的母亲河黄河，绵延五千多公里，滋养着神州大地。党的十八大以来，习近平总..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8531500000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.755,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 2,
+      "hours_since_publish": -1.43
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"葛洲坝(600068)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"与黄河治理工程直接相关，受益于重大水利基建项目\",\n        \"技术面呈现稳健上升趋势，MACD金叉确认\",\n        \"作为央企基建龙头，政策支持力度大\",\n        \"板块强度0.783提供良好支撑\"\n      ],\n      \"risks\": [\n        \"基建投资进度可能不及预期\",\n        \"原材料价格波动风险\"\n      ]\n    },\n    {\n      \"stock\": \"节能风电(601016)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"黄河流域新能源开发核心标的\",\n        \"技术面突破关键压力位，成交量配合\",\n        \"受益双碳政策持续加码\",\n        \"板块轮动有利新能源\"\n      ],\n      \"risks\": [\n        \"行业补贴政策变化\",\n        \"短期涨幅较大可能回调\"\n      ]\n    },\n    {\n      \"stock\": \"先河环保(300137)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"环境监测设备龙头，直接受益生态保护政策\",\n        \"技术指标显示超卖反弹信号\",\n        \"估值处于历史低位\"\n      ],\n      \"risks\": [\n        \"环保行业现金流普遍较差\",\n        \"市场竞争加剧风险\"\n      ]\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.783,\n    \"technical_sentiment\": \"中性偏多\",\n    \"policy_impact\": \"强支撑\",\n    \"risk_warning\": [\n      \"注意大盘系统性调整风险\",\n      \"警惕题材股短期过热\",\n      \"关注美联储政策变化对新能源板块影响\"\n    ]\n  },\n  \"investment_horizon\": \"3-6个月中期配置\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600068",
+        "stock_name": "葛洲坝",
+        "recommendation_reason": "作为水利建设龙头央企，深度参与黄河流域综合治理项目，受益国家水利基建投资加大。央视报道提升政策能见度。",
+        "policy_relevance": "直接受益于黄河流域水利工程建设",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "300137",
+        "stock_name": "先河环保",
+        "recommendation_reason": "环境监测设备龙头，黄河流域生态保护将带动环境监测需求，央视背书强化政策确定性。",
+        "policy_relevance": "生态保护配套产业",
+        "urgency_level": "中长期持有",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "601016",
+        "stock_name": "节能风电",
+        "recommendation_reason": "黄河流域清洁能源开发主力军，契合高质量发展要求，央视报道提升新能源板块关注度。",
+        "policy_relevance": "清洁能源发展方向",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于国家战略层面的政策导向性报道，虽然时效性评分较低，但作为央视新闻发布的时政要闻，具有极高的权威性和政策指导意义。新闻聚焦黄河流域生态保护和高质量发展，体现了国家在生态文明建设和区域协调发展方面的战略部署。",
+      "policy_impact": "该新闻直接关联国家'黄河流域生态保护和高质量发展'重大战略，将带动水利建设、生态环保、清洁能源等相关产业的政策支持和资金投入，具有中长期政策红利。",
+      "theme_classification": {
+        "theme_type": "生态文明建设/区域协调发展",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "水利建设",
+          "生态环保",
+          "清洁能源"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600068",
+          "stock_name": "葛洲坝",
+          "recommendation_reason": "作为水利建设龙头央企，深度参与黄河流域综合治理项目，受益国家水利基建投资加大。央视报道提升政策能见度。",
+          "policy_relevance": "直接受益于黄河流域水利工程建设",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "300137",
+          "stock_name": "先河环保",
+          "recommendation_reason": "环境监测设备龙头，黄河流域生态保护将带动环境监测需求，央视背书强化政策确定性。",
+          "policy_relevance": "生态保护配套产业",
+          "urgency_level": "中长期持有",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "601016",
+          "stock_name": "节能风电",
+          "recommendation_reason": "黄河流域清洁能源开发主力军，契合高质量发展要求，央视报道提升新能源板块关注度。",
+          "policy_relevance": "清洁能源发展方向",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 10:10:48"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

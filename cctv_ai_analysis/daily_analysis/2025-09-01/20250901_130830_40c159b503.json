@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 13:08:30",
+  "news_info": {
+    "id": "40c159b503",
+    "title": "你能读懂爷爷辈说的 “伟大胜利” 吗？看完这部短片就懂了",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901120542450572821.html",
+    "publish_time": "2025-09-01 12:05:00",
+    "summary": "你能读懂爷爷辈说的 “伟大胜利” 吗？看完这部短片就懂了"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7142,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.78,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.05
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"作为央视旗下核心传媒平台，直接受益于爱国主义教育题材传播，技术面显示板块强度0.70支撑良好，近期量价配合度较高，政策催化明确\",\n      \"risk_warning\": \"需关注市场情绪波动风险，短期涨幅较大可能存在回调压力\"\n    },\n    {\n      \"stock_code\": \"603000\",\n      \"stock_name\": \"人民网\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"国家级媒体平台，深度参与主流意识形态传播，技术评分0.72显示相对稳健，政策受益程度高，具备持续的内容产出能力\",\n      \"risk_warning\": \"估值相对较高，需警惕业绩兑现不及预期风险\"\n    },\n    {\n      \"stock_code\": \"300251\",\n      \"stock_name\": \"光线传媒\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"民营传媒龙头，具备内容制作优势，可能间接受益于文化传媒板块情绪回暖，但直接政策关联度相对较弱\",\n      \"risk_warning\": \"基本面受影视行业周期影响较大，市场时机风险相对较高\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_favorable\": true,\n    \"technical_indicator_alignment\": \"中等偏强\",\n    \"overall_risk_level\": \"中等\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下上市公司，直接受益于央视内容传播和品牌影响力",
+        "policy_relevance": "高度相关，央视直属文化传媒企业",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "recommendation_reason": "国内领先的影视内容制作公司，可能受益于爱国主义题材内容需求增长",
+        "policy_relevance": "中等相关，影视内容制作龙头企业",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "603000",
+        "stock_name": "人民网",
+        "recommendation_reason": "中央重点新闻网站，与央视同属主流媒体阵营，具备政策协同效应",
+        "policy_relevance": "中等相关，主流媒体平台",
+        "urgency_level": "一般",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视发布的时政要闻，内容涉及历史传承和爱国主义教育。虽然新闻本身时效性较弱，但央视作为国家级媒体平台，其内容具有权威性和广泛影响力。此类内容往往承载着政策导向和意识形态传播功能，可能引发相关文化传媒板块的关注",
+      "policy_impact": "中等政策影响。央视新闻体现国家在文化传承和爱国主义教育方面的政策导向，可能推动相关文化传媒、影视制作等产业的发展，但直接政策利好有限",
+      "theme_classification": {
+        "theme_type": "文化传媒/爱国主义教育",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "文化传媒",
+          "影视制作",
+          "教育服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下上市公司，直接受益于央视内容传播和品牌影响力",
+          "policy_relevance": "高度相关，央视直属文化传媒企业",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "300251",
+          "stock_name": "光线传媒",
+          "recommendation_reason": "国内领先的影视内容制作公司，可能受益于爱国主义题材内容需求增长",
+          "policy_relevance": "中等相关，影视内容制作龙头企业",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "603000",
+          "stock_name": "人民网",
+          "recommendation_reason": "中央重点新闻网站，与央视同属主流媒体阵营，具备政策协同效应",
+          "policy_relevance": "中等相关，主流媒体平台",
+          "urgency_level": "一般",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 13:08:30"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

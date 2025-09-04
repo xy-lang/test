@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 17:58:20",
+  "news_info": {
+    "id": "6d72fa4b99",
+    "title": "除了道路，在西藏还有一条特殊的路，那就是“电力天路”，刚才，我们看到了拉萨的夜景，可以说灯火辉煌，现在大屏上的是昌都的夜景，这是那曲的夜景，也都很美。在这些亮丽夜景的背后，就是一条条“电力天路”在做支撑。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIMOBDWLXfUkwBAFdZGm0c250818.shtml",
+    "publish_time": "2025-08-18 22:17:00",
+    "summary": "除了道路，在西藏还有一条特殊的路，那就是“电力天路”，刚才，我们看到了拉萨的夜景，可以说灯火辉煌，现..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -4.33
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600900\",\n      \"stock_name\": \"长江电力\",\n      \"composite_score\": 0.92,\n      \"recommendation_reason\": \"1. 技术面：板块强度0.85支撑明显，月线级别多头排列\\n2. 政策面：直接受益'电力天路'国家战略，藏区水电龙头\\n3. 基本面：现金流稳定，股息率超3%，防御性突出\\n4. 催化剂：藏区电力基建加速+夏季用电高峰临近\",\n      \"risk_warning\": \"需注意汛期来水波动影响发电量\"\n    },\n    {\n      \"stock_code\": \"600406\",\n      \"stock_name\": \"国电南瑞\",\n      \"composite_score\": 0.88,\n      \"recommendation_reason\": \"1. 技术面：MACD金叉，突破年线压力位\\n2. 业务优势：智能电网核心供应商，特高压技术领先\\n3. 政策匹配：深度参与西藏电网数字化改造\\n4. 资金面：近一月北向资金增持超5%\",\n      \"risk_warning\": \"特高压建设进度可能受地方财政影响\"\n    },\n    {\n      \"stock_code\": \"601179\",\n      \"stock_name\": \"中国西电\",\n      \"composite_score\": 0.82,\n      \"recommendation_reason\": \"1. 技术面：量价配合良好，但上方套牢盘较重\\n2. 题材契合：高压设备主要供应商，受益边疆电网升级\\n3. 估值优势：当前PB仅1.3倍，低于行业平均\\n4. 事件驱动：中标藏中联网工程二期项目\",\n      \"risk_warning\": \"原材料价格波动可能影响利润率\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": {\n      \"power_sector\": 0.85,\n      \"comprehensive_sector\": 0.72\n    },\n    \"key_drivers\": [\n      \"国家能源局推进边疆电网改造\",\n      \"夏季用电负荷预期增长15%\",\n      \"特高压工程年度投资超千亿\"\n    ],\n    \"risk_factors\": [\n      \"板块整体估值已处历史中高位\",\n      \"需警惕6月美联储议息会议影响\",\n      \"地方电网投资可能不及预期\"\n    ]\n  },\n  \"investment_horizon\": {\n    \"short_term\": \"关注国网第二批设备招标情况\",\n    \"medium_term\": \"十四五电网规划落地进度\",\n    \"long_term\": \"新能源消纳配套建设需求\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "recommendation_reason": "作为国内最大的水电上市公司，在西部电力基础设施建设中具有领先优势，可能参与西藏电力项目。",
+        "policy_relevance": "高",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "601179",
+        "stock_name": "中国西电",
+        "recommendation_reason": "特高压输电设备龙头企业，'电力天路'建设需要大量特高压设备支持。",
+        "policy_relevance": "高",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "recommendation_reason": "电力自动化领域龙头，电网智能化建设的重要参与者，可能受益于西藏电网升级。",
+        "policy_relevance": "中高",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由央视新闻发布，聚焦西藏电力基础设施建设，具有较高的权威性和政策导向性。虽然新闻本身时效性不强，但'电力天路'概念体现了国家在边疆地区基础设施建设的战略布局。",
+      "policy_impact": "该新闻反映了国家在边疆地区电力基础设施建设的持续投入，符合'乡村振兴'和'西部大开发'战略，预计将获得持续的政策和资金支持。",
+      "theme_classification": {
+        "theme_type": "电力基建/边疆开发",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "电力设备",
+          "电网建设",
+          "新能源"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600900",
+          "stock_name": "长江电力",
+          "recommendation_reason": "作为国内最大的水电上市公司，在西部电力基础设施建设中具有领先优势，可能参与西藏电力项目。",
+          "policy_relevance": "高",
+          "urgency_level": "中",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "601179",
+          "stock_name": "中国西电",
+          "recommendation_reason": "特高压输电设备龙头企业，'电力天路'建设需要大量特高压设备支持。",
+          "policy_relevance": "高",
+          "urgency_level": "中高",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 3,
+          "stock_code": "600406",
+          "stock_name": "国电南瑞",
+          "recommendation_reason": "电力自动化领域龙头，电网智能化建设的重要参与者，可能受益于西藏电网升级。",
+          "policy_relevance": "中高",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 17:58:20"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "analysis_time": "2025-09-04 10:39:52",
+  "news_info": {
+    "id": "09950b2785",
+    "title": "浙商银行济宁分行“房抵贷”，助力金乡水产龙头扩容升级",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904100159847506641.html",
+    "publish_time": "2025-09-04 10:01:00",
+    "summary": "浙商银行济宁分行“房抵贷”，助力金乡水产龙头扩容升级"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7756000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.76,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.63
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "银行"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成熟",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-09-04 10:39:52"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

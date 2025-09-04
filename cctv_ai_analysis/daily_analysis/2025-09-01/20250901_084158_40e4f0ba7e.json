@@ -1,0 +1,129 @@
+{
+  "analysis_time": "2025-09-01 08:41:58",
+  "news_info": {
+    "id": "40e4f0ba7e",
+    "title": "NAIS全球探学：从哈佛到东京，上海诺美学子用脚丈量世界",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901075332880935952.html",
+    "publish_time": "2025-09-01 07:53:00",
+    "summary": "NAIS全球探学：从哈佛到东京，上海诺美学子用脚丈量世界"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7822,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.78,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.8
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600661\",\n      \"stock_name\": \"昂立教育\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为教育国际化题材核心标的，与新闻中诺美学校的国际化教育理念高度契合。技术评分相对较高，受益于教育国际化政策趋势，短期存在题材催化机会。公司在K12国际教育领域布局较早，具备先发优势\",\n      \"risk_warning\": \"教育行业政策监管风险较高，技术面整体偏弱，板块强度不足可能制约上涨空间\"\n    },\n    {\n      \"stock_code\": \"300010\",\n      \"stock_name\": \"立思辰\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"涉及教育信息化和留学服务业务，与国际化教育主题存在一定关联。技术指标显示相对抗跌，在教育科技领域有一定技术积累\",\n      \"risk_warning\": \"与新闻主题关联度较弱，技术面支撑不足，业绩波动较大\"\n    },\n    {\n      \"stock_code\": \"603000\",\n      \"stock_name\": \"人民网\",\n      \"comprehensive_score\": 0.35,\n      \"recommendation_reason\": \"作为媒体平台可能报道相关教育国际化内容，但直接关联度较低。技术面相对稳定，具备一定的防御属性\",\n      \"risk_warning\": \"与教育国际化主题关联度最低，缺乏直接催化剂，技术评分偏低\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"偏弱(0.267)\",\n    \"recommendation_strategy\": \"谨慎参与，重点关注昂立教育的短期题材机会，控制仓位\"\n  },\n  \"risk_alert\": [\n    \"教育板块整体技术强度偏弱(0.27)，市场情绪支撑不足\",\n    \"政策敏感性较高，存在监管政策变化风险\",\n    \"个股基本面分化明显，需警惕业绩不及预期风险\",\n    \"当前市场环境下，题材炒作持续性可能有限\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "recommendation_reason": "作为上海本地教育企业，可能受益于地区教育国际化趋势，但新闻关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "300010",
+        "stock_name": "立思辰",
+        "recommendation_reason": "教育信息化企业，间接关联国际教育交流的技术支持需求",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "603000",
+        "stock_name": "人民网",
+        "recommendation_reason": "作为央媒旗下上市公司，受益于央视权威新闻传播，但具体到本条新闻影响有限",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为教育类报道，内容为上海诺美学校的国际交流活动，属于常规教育新闻。央视新闻的权威性虽高，但此新闻缺乏投资相关性和时效性，评分指标均为0/10，表明其投资价值极低，更多是品牌宣传性质。",
+      "policy_impact": "无直接政策影响。间接关联教育国际化政策，但非当前政策重点，对资本市场影响微弱。",
+      "theme_classification": {
+        "theme_type": "教育国际化",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "教育服务",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600661",
+          "stock_name": "昂立教育",
+          "recommendation_reason": "作为上海本地教育企业，可能受益于地区教育国际化趋势，但新闻关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "300010",
+          "stock_name": "立思辰",
+          "recommendation_reason": "教育信息化企业，间接关联国际教育交流的技术支持需求",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "603000",
+          "stock_name": "人民网",
+          "recommendation_reason": "作为央媒旗下上市公司，受益于央视权威新闻传播，但具体到本条新闻影响有限",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "计算机"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成长",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-09-01 08:41:58"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

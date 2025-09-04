@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 14:35:41",
+  "news_info": {
+    "id": "cb205d32d9",
+    "title": "鲁冀两地同步启动 雄商高铁全线正式进入铺轨阶段",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIimZiIOx1LYuHyhjel8Z1250901.shtml",
+    "publish_time": "2025-09-01 19:51:00",
+    "summary": "鲁冀两地同步启动 雄商高铁全线正式进入铺轨阶段"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80035,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -5.27
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601766\",\n      \"stock_name\": \"中国中车\",\n      \"comprehensive_score\": 0.87,\n      \"recommendation_reason\": \"高铁建设核心受益标的，作为国内轨道交通装备制造龙头，直接受益于雄商高铁铺轨阶段启动。技术面显示强势突破形态，板块强度0.783提供有力支撑，政策催化明确，短期业绩预期提升。\",\n      \"risk_warning\": \"需关注基建投资进度不及预期风险，以及原材料成本上涨对利润的挤压。\"\n    },\n    {\n      \"stock_code\": \"601186\",\n      \"stock_name\": \"中国铁建\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"高铁建设主力承包商，在雄商高铁项目中承担重要施工任务。技术指标显示稳健上升趋势，受益于国家基建政策加码，订单充裕保障业绩增长。\",\n      \"risk_warning\":存在应收账款回收风险，需关注地方政府财政状况对项目进度的影响。\"\n    },\n    {\n      \"stock_code\": \"000789\",\n      \"stock_name\": \"万年青\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"区域性水泥龙头，受益于高铁建设带来的建材需求增长。技术面相对稳健，但关联度略低于前两只标的，属于间接受益品种。\",\n      \"risk_warning\": \"受房地产行业下行影响较大，水泥价格波动风险需要重点关注。\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_positive\": true,\n    \"technical_indicators_aligned\": true,\n    \"policy_benefit_level\": \"high\",\n    \"short_term_catalyst\": \"strong\",\n    \"overall_risk_level\": \"medium\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "recommendation_reason": "作为国内轨道交通装备制造龙头，将直接受益于雄商高铁车辆采购需求，央视新闻的权威报道强化了订单确定性",
+        "policy_relevance": "高铁核心装备供应商，符合国家高端装备制造政策导向",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "recommendation_reason": "国内铁路建设主力军，深度参与雄商高铁等国家级高铁项目建设，央视新闻确认项目进入关键阶段",
+        "policy_relevance": "基建央企代表，直接承接国家重大铁路工程项目",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "000789",
+        "stock_name": "万年青",
+        "recommendation_reason": "区域水泥龙头企业，雄商高铁建设将显著增加沿线建材需求，央视新闻确认项目进度提振需求预期",
+        "policy_relevance": "基建上游材料供应商，受益于重大项目开工建设",
+        "urgency_level": "中短期配置",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的雄商高铁重大工程进展，具有极高的权威性和政策导向意义。雄商高铁作为国家'八纵八横'高铁网重要组成部分，其铺轨阶段启动标志着项目进入关键建设期，对基建产业链具有直接拉动作用。",
+      "policy_impact": "该新闻体现了国家重大基础设施建设的持续推进，符合'交通强国'战略导向。高铁建设作为新基建重要领域，将持续获得政策支持和资金保障，对相关产业链公司形成中长期利好。",
+      "theme_classification": {
+        "theme_type": "高铁基建/轨道交通",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "基础设施建设",
+          "轨道交通装备",
+          "建筑材料"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601766",
+          "stock_name": "中国中车",
+          "recommendation_reason": "作为国内轨道交通装备制造龙头，将直接受益于雄商高铁车辆采购需求，央视新闻的权威报道强化了订单确定性",
+          "policy_relevance": "高铁核心装备供应商，符合国家高端装备制造政策导向",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "601186",
+          "stock_name": "中国铁建",
+          "recommendation_reason": "国内铁路建设主力军，深度参与雄商高铁等国家级高铁项目建设，央视新闻确认项目进入关键阶段",
+          "policy_relevance": "基建央企代表，直接承接国家重大铁路工程项目",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "000789",
+          "stock_name": "万年青",
+          "recommendation_reason": "区域水泥龙头企业，雄商高铁建设将显著增加沿线建材需求，央视新闻确认项目进度提振需求预期",
+          "policy_relevance": "基建上游材料供应商，受益于重大项目开工建设",
+          "urgency_level": "中短期配置",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 14:35:41"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-12 15:01:14",
+  "news_info": {
+    "id": "b34d3d341f",
+    "title": "文化中国行丨延安：挺起中华民族全民抗战不屈的脊梁",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/12/ARTIRxYWLOlwN6afHnanpLDv250812.shtml",
+    "publish_time": "2025-08-12 15:00:50",
+    "summary": "文化中国行丨延安：挺起中华民族全民抗战不屈的脊梁"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80365,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的政策导向性和市场影响力。本次关于延安抗战精神的报道，虽未直接提及具体政策，但体现了国家弘扬红色文化、加强爱国主义教育的战略方向。",
+    "policy_impact": "该新闻可能间接利好文化旅游、红色教育等相关产业，体现了国家对革命老区发展和红色文化传承的持续重视。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600706",
+        "stock_name": "曲江文旅",
+        "recommendation_reason": "作为陕西本土文化旅游企业，直接受益于延安红色旅游热度提升",
+        "policy_relevance": "高度契合红色文化旅游政策导向",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "000610",
+        "stock_name": "西安旅游",
+        "recommendation_reason": "陕西省重点旅游企业，延安旅游线路的重要运营商",
+        "policy_relevance": "受益于红色旅游政策支持",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "虽非陕西本地企业，但作为文化旅游龙头企业，将受益于全国红色旅游整体升温",
+        "policy_relevance": "间接关联红色旅游产业政策",
+        "urgency_level": "中低",
+        "confidence_score": 0.68
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

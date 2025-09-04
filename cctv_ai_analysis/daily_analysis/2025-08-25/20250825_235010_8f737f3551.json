@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-08-25 23:50:10",
+  "news_info": {
+    "id": "8f737f3551",
+    "title": "突然被困身边又没手机怎么办？这些自救方法要牢记",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIQ6cRbF9NL5rwZoIWWuA7250825.shtml",
+    "publish_time": "2025-08-25 23:12:17",
+    "summary": "突然被困身边又没手机怎么办？这些自救方法要牢记"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80035,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.62
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000001\",\n      \"stock_name\": \"平安银行\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"技术面相对稳健，银行板块具备防御属性，与公共服务安全主题存在间接关联，流动性较好适合短期配置\",\n      \"risk_warning\": \"银行板块受利率政策影响较大，需关注货币政策变化风险\"\n    },\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"综合金融属性提供一定稳定性，但技术评分偏低，与安全主题关联度较弱，主要基于品牌认知度推荐\",\n      \"risk_warning\": \"保险业务受资本市场波动影响较大，需关注投资收益风险\"\n    },\n    {\n      \"stock_code\": \"002415\",\n      \"stock_name\": \"海康威视\",\n      \"comprehensive_score\": 0.42,\n      \"recommendation_reason\": \"虽涉及安防监控与安全主题相关，但技术面表现较弱，板块支撑不足，建议谨慎关注\",\n      \"risk_warning\": \"科技板块波动性较大，地缘政治因素可能带来额外风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"偏弱（0.100）\",\n    \"news_correlation\": \"较低\",\n    \"recommendation_strategy\": \"防御性配置为主，控制仓位\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "recommendation_reason": "基于风险控制和安全保障理念的延伸，但与该新闻关联度极低",
+        "policy_relevance": "极低",
+        "urgency_level": "不推荐投资",
+        "confidence_score": 0.1
+      },
+      {
+        "rank": 2,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "保险业务涉及人身安全保障，但与新闻内容关联性微弱",
+        "policy_relevance": "极低",
+        "urgency_level": "不推荐投资",
+        "confidence_score": 0.05
+      },
+      {
+        "rank": 3,
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "recommendation_reason": "安防监控设备可能涉及人员被困场景，但关联度极其有限",
+        "policy_relevance": "极低",
+        "urgency_level": "不推荐投资",
+        "confidence_score": 0.02
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为生活安全常识类内容，虽来自央视新闻但投资价值极低。新闻内容为常规安全知识普及，缺乏时效性和政策导向性，属于日常公共服务类信息，不具备明显的投资机会。央视新闻的权威性在此类内容中主要体现在公众教育层面，而非投资指引。",
+      "policy_impact": "无实质性政策影响。此类安全知识普及属于常规公共服务内容，不涉及任何产业政策调整或行业发展规划，对资本市场无直接影响。",
+      "theme_classification": {
+        "theme_type": "公共服务/安全知识",
+        "hardcore_level": "无投资意志",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000001",
+          "stock_name": "平安银行",
+          "recommendation_reason": "基于风险控制和安全保障理念的延伸，但与该新闻关联度极低",
+          "policy_relevance": "极低",
+          "urgency_level": "不推荐投资",
+          "confidence_score": 0.1
+        },
+        {
+          "rank": 2,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "保险业务涉及人身安全保障，但与新闻内容关联性微弱",
+          "policy_relevance": "极低",
+          "urgency_level": "不推荐投资",
+          "confidence_score": 0.05
+        },
+        {
+          "rank": 3,
+          "stock_code": "002415",
+          "stock_name": "海康威视",
+          "recommendation_reason": "安防监控设备可能涉及人员被困场景，但关联度极其有限",
+          "policy_relevance": "极低",
+          "urgency_level": "不推荐投资",
+          "confidence_score": 0.02
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 23:50:10"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

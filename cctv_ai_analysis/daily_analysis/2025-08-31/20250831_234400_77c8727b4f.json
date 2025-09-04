@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-31 23:44:00",
+  "news_info": {
+    "id": "77c8727b4f",
+    "title": "为期两个月的暑运8月31日结束。记者从民航局了解到，2025年暑运期间，全国民航预计累计运输旅客1.47亿人次，日均237万人次，同比增长3.6%。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/31/ARTITFocwRSSn22RzixeVzIg250831.shtml",
+    "publish_time": "2025-08-31 09:56:00",
+    "summary": "为期两个月的暑运8月31日结束。记者从民航局了解到，2025年暑运期间，全国民航预计累计运输旅客1...."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 13.78
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601111\",\n      \"stock_name\": \"中国国航\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"作为国内航空龙头，直接受益于暑运旅客增长3.6%的行业利好。技术评分0.82高于板块平均水平，板块强度0.777提供良好支撑，公司航线网络完善，暑期旺季业绩弹性最大。政策层面民航局数据验证行业复苏趋势，具备短期催化剂。\",\n      \"risk_warning\": \"油价波动风险、汇率波动影响、宏观经济下行可能影响出行需求\"\n    },\n    {\n      \"stock_code\": \"600115\",\n      \"stock_name\": \"中国东航\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"华东地区主要航司，受益于长三角地区暑期旅游需求旺盛。技术指标表现稳健，与行业复苏趋势高度契合。公司国际航线恢复进度良好，暑期运营数据有望超预期，政策受益程度较高。\",\n      \"risk_warning\": \"竞争加剧风险、成本控制压力、地区疫情反复可能影响客流\"\n    },\n    {\n      \"stock_code\": \"600009\",\n      \"stock_name\": \"上海机场\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"作为枢纽机场，间接受益于航空客流增长，但弹性相对航空公司较小。技术评分0.74略低于航空股，但板块协同效应存在。国际航线恢复带来长期价值重估机会，但短期催化强度相对较弱。\",\n      \"risk_warning\": \"国际航线恢复不及预期、非航业务收入波动、扩建项目资本开支压力\"\n    }\n  ],\n  \"overall_risk_alert\": \"航空运输板块对宏观经济敏感度高，需关注原油价格波动、汇率变化等外部因素。暑期结束后可能存在季节性回调风险，建议控制仓位，设置止损位。整体板块技术强度良好，但个股分化可能加剧，优选龙头标的。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "recommendation_reason": "作为国内航空龙头，直接受益于暑运客流增长。央视新闻的权威数据验证行业复苏趋势，公司作为载旗航空具有品牌优势。",
+        "policy_relevance": "高度相关，直接反映航空运输需求回暖",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600009",
+        "stock_name": "上海机场",
+        "recommendation_reason": "暑运客流增长直接提升机场运营收入，作为枢纽机场受益于航空业复苏。央视数据提供行业基本面支撑。",
+        "policy_relevance": "高度相关，机场运营与航空客流直接挂钩",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "recommendation_reason": "华东地区主要航空公司，暑运数据验证需求恢复。央视权威报道增强投资者对行业信心。",
+        "policy_relevance": "高度相关，直接受益于航空运输业政策支持",
+        "urgency_level": "中等",
+        "confidence_score": 0.68
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性较差（暑运已结束），但作为央视新闻发布的民航暑运数据，具有权威性和行业代表性。1.47亿人次、日均237万人次、同比增长3.6%的数据反映了民航业的复苏态势，为航空板块提供了基本面支撑。",
+      "policy_impact": "民航暑运数据体现了国家对交通运输业的政策支持，特别是在后疫情时代促进消费、拉动内需的政策导向下。民航局作为行业监管机构，其发布的数据具有政策指引意义，预示着航空运输业将持续受益于国家稳增长政策。",
+      "theme_classification": {
+        "theme_type": "航空运输/大消费",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "航空运输",
+          "机场服务",
+          "旅游消费"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601111",
+          "stock_name": "中国国航",
+          "recommendation_reason": "作为国内航空龙头，直接受益于暑运客流增长。央视新闻的权威数据验证行业复苏趋势，公司作为载旗航空具有品牌优势。",
+          "policy_relevance": "高度相关，直接反映航空运输需求回暖",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600009",
+          "stock_name": "上海机场",
+          "recommendation_reason": "暑运客流增长直接提升机场运营收入，作为枢纽机场受益于航空业复苏。央视数据提供行业基本面支撑。",
+          "policy_relevance": "高度相关，机场运营与航空客流直接挂钩",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600115",
+          "stock_name": "中国东航",
+          "recommendation_reason": "华东地区主要航空公司，暑运数据验证需求恢复。央视权威报道增强投资者对行业信心。",
+          "policy_relevance": "高度相关，直接受益于航空运输业政策支持",
+          "urgency_level": "中等",
+          "confidence_score": 0.68
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-31 23:44:00"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

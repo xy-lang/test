@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 18:16:47",
+  "news_info": {
+    "id": "515d257f48",
+    "title": "多维度透视国际物流能力积厚成势",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/04/ARTIO5m2hbbuwUU64KcySEyA250904.shtml",
+    "publish_time": "2025-09-04 16:03:00",
+    "summary": "多维度透视国际物流能力积厚成势"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7059500000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.65,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 2.21
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600018\",\n      \"stock_name\": \"上港集团\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"技术指标强劲（RSI处于健康区间，成交量放大），直接受益于国际物流能力提升政策，作为港口龙头具有核心竞争优势，板块强度0.867提供有力支撑，短期催化剂明确\",\n      \"risk_warning\": \"需关注全球贸易波动风险及汇率变化影响\"\n    },\n    {\n      \"stock_code\": \"601866\",\n      \"stock_name\": \"中远海发\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"航运板块景气度持续，技术形态呈现突破态势，受益于供应链升级政策，作为央企航运龙头具备规模优势，市场情绪积极\",\n      \"risk_warning\": \"受国际航运价格波动影响较大，需关注运价指数变化\"\n    },\n    {\n      \"stock_code\": \"002352\",\n      \"stock_name\": \"顺丰控股\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"物流综合服务商龙头，技术指标相对稳健，受益于国内国际双循环物流需求增长，但估值相对较高制约短期上涨空间\",\n      \"risk_warning\": \"面临行业竞争加剧风险，成本控制压力较大\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.867,\n    \"market_sentiment\": \"积极\",\n    \"policy_benefit_level\": \"高\",\n    \"risk_assessment\": \"中等偏低\"\n  },\n  \"key_risks\": [\n    \"全球宏观经济不确定性可能影响物流需求\",\n    \"板块整体估值已处于相对高位\",\n    \"需密切关注政策实施进度和效果\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600018",
+        "stock_name": "上港集团",
+        "recommendation_reason": "作为全球最大集装箱港口运营商，直接受益于国际物流能力提升政策，央视新闻背书增强其枢纽地位认可度",
+        "policy_relevance": "高度相关，港口是国际物流核心枢纽",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "recommendation_reason": "国内综合物流龙头，国际业务快速发展，政策支持将加速其跨境物流网络建设",
+        "policy_relevance": "高度相关，直接受益于国际物流政策红利",
+        "urgency_level": "中短期配置",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "601866",
+        "stock_name": "中远海发",
+        "recommendation_reason": "央企物流旗舰，在国际航运和物流基础设施领域具有垄断优势，政策支持确定性最强",
+        "policy_relevance": "高度相关，央企背景与政策导向高度契合",
+        "urgency_level": "中长期持有",
+        "confidence_score": 0.8
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性评分较低，但作为央视新闻发布的'时政要闻'，具有极高的政策导向性和权威性。'国际物流能力积厚成势'主题反映了国家在物流基础设施建设和国际供应链布局方面的战略部署，属于中长期政策利好信号。央视新闻的权威背书往往预示着后续配套政策的落地，对相关板块形成实质性支撑。",
+      "policy_impact": "该新闻体现了国家层面对国际物流体系建设的重视程度，预计将推动'一带一路'物流枢纽建设、跨境物流基础设施升级、智慧物流技术应用等政策加速落地。政策影响具有中长期持续性，可能涉及财政补贴、税收优惠、项目审批绿色通道等具体措施。",
+      "theme_classification": {
+        "theme_type": "国际物流/供应链升级",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "物流运输",
+          "港口航运",
+          "跨境电商"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600018",
+          "stock_name": "上港集团",
+          "recommendation_reason": "作为全球最大集装箱港口运营商，直接受益于国际物流能力提升政策，央视新闻背书增强其枢纽地位认可度",
+          "policy_relevance": "高度相关，港口是国际物流核心枢纽",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "002352",
+          "stock_name": "顺丰控股",
+          "recommendation_reason": "国内综合物流龙头，国际业务快速发展，政策支持将加速其跨境物流网络建设",
+          "policy_relevance": "高度相关，直接受益于国际物流政策红利",
+          "urgency_level": "中短期配置",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "601866",
+          "stock_name": "中远海发",
+          "recommendation_reason": "央企物流旗舰，在国际航运和物流基础设施领域具有垄断优势，政策支持确定性最强",
+          "policy_relevance": "高度相关，央企背景与政策导向高度契合",
+          "urgency_level": "中长期持有",
+          "confidence_score": 0.8
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 18:16:47"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

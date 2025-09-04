@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 18:19:29",
+  "news_info": {
+    "id": "1ce1061456",
+    "title": "9月3日，在纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会的现场，有一个特殊的群体，他们就是抗战英烈遗属。当年，正是先辈们的浴血奋战才有了今天的山河无恙。今天，这场盛大的活动，是缅怀、是铭记、是致敬，更是传承！",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/04/ARTI9hzVEuL4rr2Sj36Gk4j6250904.shtml",
+    "publish_time": "2025-09-04 08:38:00",
+    "summary": "9月3日，在纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会的现场，有一个特殊的群体，他们就是..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 9.68
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"作为央视旗下核心传媒平台，与抗战纪念活动具有最高直接关联度，承担相关节目制作和宣传任务。技术评分0.78高于平均水平，板块强度0.717提供支撑，政策受益明确，短期催化剂强劲。\",\n      \"risk_warning\": \"传媒板块波动较大，需关注市场情绪变化和监管政策影响\"\n    },\n    {\n      \"stock_code\": \"601606\",\n      \"stock_name\": \"长城军工\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"军工板块与国防纪念主题高度契合，受益于爱国主义情绪升温。技术评分0.75表现良好，但板块关联度略低于传媒，短期催化强度中等。\",\n      \"risk_warning\": \"军工板块受地缘政治因素影响较大，基本面存在周期性波动风险\"\n    },\n    {\n      \"stock_code\": \"600258\",\n      \"stock_name\": \"首旅酒店\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"作为旅游酒店代表，间接受益于红色旅游和纪念活动带来的客流增长，但直接关联度相对较弱。技术评分0.63略低于平均水平。\",\n      \"risk_warning\": \"旅游酒店行业复苏存在不确定性，受宏观经济和消费情绪影响较大\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_strength\": \"中等偏强\",\n    \"policy_support\": \"高强度\",\n    \"overall_risk_level\": \"中等\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "作为央视旗下唯一上市公司，直接受益于央视重大主题报道带来的品牌价值和业务机会，在红色文化传播和爱国主义教育内容制作方面具有独特优势",
+        "policy_relevance": "高度相关，直接承接央视重大主题宣传任务",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "爱国主义教育基地和红色旅游线路的主要服务商，纪念活动将带动相关旅游需求增长",
+        "policy_relevance": "中度相关，受益于红色旅游政策支持",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "601606",
+        "stock_name": "长城军工",
+        "recommendation_reason": "国防教育主题和爱国主义情怀提升对军工板块的情绪提振，公司作为地方军工企业代表有望受益",
+        "policy_relevance": "中度相关，国防教育主题延伸",
+        "urgency_level": "一般",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为纪念抗战胜利80周年的时政要闻，虽非直接财经新闻，但央视新闻作为国家级权威媒体，其报道内容往往反映国家意志和政策导向。此类纪念性报道通常伴随相关产业政策支持和爱国主义教育推广，具有潜在的投资价值挖掘空间。",
+      "policy_impact": "国家层面对红色文化和爱国主义教育持续强化，预计将推动相关文化产业、旅游产业和国防教育产业的发展。此类纪念活动往往带动相关主题投资机会，特别是在文化传媒、旅游服务和军工板块。",
+      "theme_classification": {
+        "theme_type": "红色文化/爱国主义教育",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "文化传媒",
+          "旅游服务",
+          "国防军工"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "作为央视旗下唯一上市公司，直接受益于央视重大主题报道带来的品牌价值和业务机会，在红色文化传播和爱国主义教育内容制作方面具有独特优势",
+          "policy_relevance": "高度相关，直接承接央视重大主题宣传任务",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "爱国主义教育基地和红色旅游线路的主要服务商，纪念活动将带动相关旅游需求增长",
+          "policy_relevance": "中度相关，受益于红色旅游政策支持",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "601606",
+          "stock_name": "长城军工",
+          "recommendation_reason": "国防教育主题和爱国主义情怀提升对军工板块的情绪提振，公司作为地方军工企业代表有望受益",
+          "policy_relevance": "中度相关，国防教育主题延伸",
+          "urgency_level": "一般",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 18:19:29"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

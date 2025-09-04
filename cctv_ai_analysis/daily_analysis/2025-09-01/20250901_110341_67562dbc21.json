@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 11:03:41",
+  "news_info": {
+    "id": "67562dbc21",
+    "title": "新华保险暖心守护：垫付+极速理赔，为生命护航",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901102919550496250.html",
+    "publish_time": "2025-09-01 10:29:00",
+    "summary": "新华保险暖心守护：垫付+极速理赔，为生命护航"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7624000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.72,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.56
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_code\": \"601336\",\n      \"stock_name\": \"新华保险\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"新闻直接受益标的，垫付+极速理赔服务优化直接提升公司品牌价值和客户粘性。技术评分相对较高，板块强度虽一般但个股意志明确，短期催化剂强劲，政策受益程度最高。\",\n      \"risk_warning\": \"保险板块整体强度偏弱，可能存在板块拖累风险；个股估值需关注是否过高；市场情绪波动可能影响短期表现\"\n    },\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"行业龙头地位稳固，综合金融优势明显，虽非新闻直接标的但受益于行业服务优化趋势。技术指标相对稳健，基本面扎实，具备长期配置价值。\",\n      \"risk_warning\": \"板块整体技术评分偏低；公司体量较大，短期弹性相对有限；需关注宏观经济对保险需求的影响\"\n    },\n    {\n      \"stock_code\": \"601628\",\n      \"stock_name\": \"中国人寿\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"国有大型保险公司，品牌影响力强，受益于保险行业服务升级趋势。但技术指标相对较弱，与新闻的直接关联度次于新华保险。\",\n      \"risk_warning\": \"技术面支撑较弱；板块强度不足可能制约上涨空间；需关注公司具体业务数据表现\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.283偏弱，市场情绪谨慎，技术指标平均评分0.28显示整体技术面支撑有限，但个股分化明显\",\n    \"news_matching\": \"新华保险为直接受益标的，政策催化强度高；平安和人寿为间接受益，行业整体受益于服务优化趋势\",\n    \"risk_assessment\": \"保险板块当前技术面偏弱存在板块风险；个股基本面相对稳健但需关注利率环境变化；市场时机需谨慎选择入场点\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601336",
+        "stock_name": "新华保险",
+        "recommendation_reason": "新闻直接相关主体，央视报道可能带来短期品牌曝光和关注度提升",
+        "policy_relevance": "低-企业自身业务宣传",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "保险行业龙头，任何行业正面宣传都可能产生溢出效应",
+        "policy_relevance": "低-行业间接关联",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "601628",
+        "stock_name": "中国人寿",
+        "recommendation_reason": "大型险企同业，服务优化趋势可能带动行业整体关注",
+        "policy_relevance": "低-行业间接关联",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视发布，但内容为新华保险的企业宣传性质报道，非重大政策或行业变革信息。评分显示第一时间性、硬核程度、持续性均为0分，表明该新闻投资价值有限。央视权威性虽能带来短期关注度，但缺乏实质性政策支撑。",
+      "policy_impact": "无直接政策影响。属于企业自身服务升级宣传，未涉及保险行业政策调整或监管变化，对行业整体影响微弱。",
+      "theme_classification": {
+        "theme_type": "保险服务优化",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "保险",
+          "金融服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601336",
+          "stock_name": "新华保险",
+          "recommendation_reason": "新闻直接相关主体，央视报道可能带来短期品牌曝光和关注度提升",
+          "policy_relevance": "低-企业自身业务宣传",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "保险行业龙头，任何行业正面宣传都可能产生溢出效应",
+          "policy_relevance": "低-行业间接关联",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "601628",
+          "stock_name": "中国人寿",
+          "recommendation_reason": "大型险企同业，服务优化趋势可能带动行业整体关注",
+          "policy_relevance": "低-行业间接关联",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:03:41"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

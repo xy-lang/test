@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 13:44:39",
+  "news_info": {
+    "id": "fc5f09d975",
+    "title": "印象教师·江夏名师丨智慧引领乡土育才",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901132956884496601.html",
+    "publish_time": "2025-09-01 13:29:00",
+    "summary": "印象教师·江夏名师丨智慧引领乡土育才"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7492000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.68,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.25
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002261\",\n      \"stock_name\": \"拓维信息\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现相对稳健，与教育信息化主题契合度高，受益于智慧教育政策推动，短期催化剂明确，板块强度支撑较好\",\n      \"risk_warning\": \"需关注市场整体情绪波动风险，个股估值偏高风险\"\n    },\n    {\n      \"stock_code\": \"600661\",\n      \"stock_name\": \"昂立教育\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"职业教育板块代表企业，与新闻主题有一定关联，但技术指标相对偏弱，需观察后续政策落地效果\",\n      \"risk_warning\": \"基本面改善仍需时间验证，行业竞争激烈风险\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"教育信息化概念股，但技术面表现相对滞后，与新闻主题关联度一般，建议谨慎关注\",\n      \"risk_warning\": \"业绩波动较大，市场关注度相对较低，流动性风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.6处于中等水平，市场情绪对教育信息化板块有所支撑但不够强劲，技术指标整体配合度一般\",\n    \"news_matching\": \"新闻聚焦智慧教育和乡土育才，与教育信息化主题高度相关，政策受益程度中等，短期催化剂强度一般\",\n    \"risk_assessment\": \"教育板块整体估值修复仍需时间，个股基本面分化明显，当前市场时机风险中等偏上\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "recommendation_reason": "作为上海地区教育服务龙头企业，受益于职业教育政策红利，与新闻中提到的'乡土育才'理念相符",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "教育信息化服务商，为学校提供智慧教育解决方案，契合新闻中'智慧引领'的主题",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "002261",
+        "stock_name": "拓维信息",
+        "recommendation_reason": "布局智慧教育领域，与多地教育部门合作，符合教育现代化发展方向",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方教育类报道，聚焦江夏地区教师队伍建设，属于常规教育宣传内容。从投资角度看，新闻本身缺乏直接的市场影响力和时效性，评分均为0分表明其投资价值有限。央视新闻的权威性主要体现在重大政策发布和国家级战略报道，此类地方教育新闻对资本市场影响微弱。",
+      "policy_impact": "该新闻反映的是地方教育人才培养政策，属于教育强国战略的基层实践。虽然符合国家教育现代化政策导向，但缺乏具体的产业扶持政策或资金支持计划，对相关上市公司的直接影响较小，更多是长期行业氛围的营造。",
+      "theme_classification": {
+        "theme_type": "教育信息化/职业教育",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "教育服务",
+          "信息技术",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600661",
+          "stock_name": "昂立教育",
+          "recommendation_reason": "作为上海地区教育服务龙头企业，受益于职业教育政策红利，与新闻中提到的'乡土育才'理念相符",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "教育信息化服务商，为学校提供智慧教育解决方案，契合新闻中'智慧引领'的主题",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "002261",
+          "stock_name": "拓维信息",
+          "recommendation_reason": "布局智慧教育领域，与多地教育部门合作，符合教育现代化发展方向",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 13:44:39"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

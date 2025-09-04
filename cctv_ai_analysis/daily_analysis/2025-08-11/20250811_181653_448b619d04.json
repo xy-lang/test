@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-11 18:16:53",
+  "news_info": {
+    "id": "448b619d04",
+    "title": "前7个月汽车产销“成绩单”出炉",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTID0AYlt8NuZ9JqnRikwoC250811.shtml",
+    "publish_time": "2025-08-11 18:15:49",
+    "summary": "前7个月汽车产销“成绩单”出炉"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.77395,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.65,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其发布的汽车产销数据具有高度公信力。0.77的综合评分表明该新闻具有较强时效性和行业影响力，可能引发市场对汽车板块的关注。",
+    "policy_impact": "虽然新闻中未直接提及政策，但汽车产业作为国民经济支柱产业，产销数据变化可能隐含后续政策调整信号，需密切关注新能源车相关配套政策动向。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "recommendation_reason": "国内汽车龙头，产销数据直接影响业绩表现，央视报道将提升市场关注度",
+        "policy_relevance": "高 - 直接受益于汽车产业整体发展",
+        "urgency_level": "中高 - 数据刚发布需及时反应",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601633",
+        "stock_name": "长城汽车",
+        "recommendation_reason": "自主品牌代表企业，SUV细分市场领先，产销数据改善将提振投资者信心",
+        "policy_relevance": "中高 - 反映自主品牌发展状况",
+        "urgency_level": "中 - 需结合后续数据验证",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "recommendation_reason": "新能源车龙头，产销数据可能预示行业转型加速，符合政策导向",
+        "policy_relevance": "高 - 直接关联新能源车政策",
+        "urgency_level": "高 - 新能源赛道更具政策敏感性",
+        "confidence_score": 0.85
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

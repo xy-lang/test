@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-12 01:19:38",
+  "news_info": {
+    "id": "448b619d04",
+    "title": "前7个月汽车产销“成绩单”出炉",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTID0AYlt8NuZ9JqnRikwoC250811.shtml",
+    "publish_time": "2025-08-12 01:18:26",
+    "summary": "前7个月汽车产销“成绩单”出炉"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.77395,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.65,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其发布的汽车产销数据具有高度公信力和市场影响力。0.77的综合评分表明该新闻对汽车行业具有显著指导意义，将直接影响资本市场对汽车板块的预期。",
+    "policy_impact": "虽然新闻中未直接提及政策，但产销数据反映行业景气度，可能隐含后续政策调控空间。汽车作为国民经济支柱产业，产销数据变化可能引发产业政策微调。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "recommendation_reason": "作为国内汽车龙头，产销数据直接影响业绩预期，央视报道将强化市场关注度",
+        "policy_relevance": "直接受益于行业整体产销数据向好",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "000625",
+        "stock_name": "长安汽车",
+        "recommendation_reason": "自主品牌代表企业，产销数据亮眼，央视权威背书提升投资者信心",
+        "policy_relevance": "反映自主品牌发展态势",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "601633",
+        "stock_name": "长城汽车",
+        "recommendation_reason": "SUV细分领域龙头，产销数据具有行业代表性，央视报道带来短期交易机会",
+        "policy_relevance": "体现细分市场发展状况",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

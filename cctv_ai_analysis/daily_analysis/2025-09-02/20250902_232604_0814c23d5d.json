@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-02 23:26:04",
+  "news_info": {
+    "id": "0814c23d5d",
+    "title": "济南童康儿童医院刘士东：孩子突然出现眨眼、转头、吸鼻、挤眉弄眼甚至是说脏话，可能是抽动症在作怪",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250902212243128855420.html",
+    "publish_time": "2025-09-02 21:22:00",
+    "summary": "济南童康儿童医院刘士东：孩子突然出现眨眼、转头、吸鼻、挤眉弄眼甚至是说脏话，可能是抽动症在作怪"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.05
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300015\",\n      \"stock_name\": \"爱尔眼科\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术指标相对稳健，与儿童眼科医疗高度相关，新闻提及的抽动症症状中挤眉弄眼等与眼科诊疗存在直接关联，受益于专科医院政策支持，短期催化剂明确\",\n      \"risk_warning\": \"估值偏高，需关注医疗政策变化风险，市场整体情绪波动可能影响表现\"\n    },\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"作为口腔医疗龙头，虽与新闻直接关联度略低，但专科医院属性明确，技术面相对稳定，受益于儿童医疗消费升级趋势\",\n      \"risk_warning\": \"区域集中度较高，业绩增长存在不确定性，需关注扩张进度和盈利能力\"\n    },\n    {\n      \"stock_code\": \"002223\",\n      \"stock_name\": \"鱼跃医疗\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"家用医疗器械龙头，与抽动症治疗的关联度较弱但存在间接受益，技术指标相对平稳，估值具有一定安全边际\",\n      \"risk_warning\": \"与新闻主题关联度较低，缺乏直接催化剂，需关注产品竞争力和市场份额变化\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength\": 0.267,\n    \"market_sentiment\": \"中性偏积极\",\n    \"technical_indicator_score\": 0.27,\n    \"overall_assessment\": \"板块强度一般但存在结构性机会，儿童医疗细分领域具备政策支持和需求刚性，建议重点关注与新闻直接相关的专科医院标的\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "作为口腔医疗龙头，间接受益于儿童专科医疗关注度提升，但新闻关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "recommendation_reason": "眼科医疗服务商，儿童眼科业务可能间接受益于医疗科普宣传",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "recommendation_reason": "家用医疗设备厂商，与儿童健康监测设备相关但关联度很弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为济南童康儿童医院专家关于儿童抽动症的科普内容，虽发布于央视平台但属于常规医疗科普，投资价值有限。新闻时效性、硬核程度均为0分，表明内容缺乏突发性和政策导向性，更多是日常医疗知识传播。",
+      "policy_impact": "无直接政策影响。该新闻未涉及国家层面医疗政策调整或行业重大变革，属于常规医疗健康宣传，对资本市场影响微弱。",
+      "theme_classification": {
+        "theme_type": "儿童医疗/专科医院",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "专科医院"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "作为口腔医疗龙头，间接受益于儿童专科医疗关注度提升，但新闻关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "300015",
+          "stock_name": "爱尔眼科",
+          "recommendation_reason": "眼科医疗服务商，儿童眼科业务可能间接受益于医疗科普宣传",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "002223",
+          "stock_name": "鱼跃医疗",
+          "recommendation_reason": "家用医疗设备厂商，与儿童健康监测设备相关但关联度很弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 23:26:04"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

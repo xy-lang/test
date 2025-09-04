@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 22:08:52",
+  "news_info": {
+    "id": "7bc6da5ae6",
+    "title": "国新办将举行新闻发布会 介绍阅兵准备工作有关情况",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIPz90w7e26dRwfdkIferX250818.shtml",
+    "publish_time": "2025-08-18 11:43:00",
+    "summary": "国新办将举行新闻发布会 介绍阅兵准备工作有关情况"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.66765,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 10.42
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600760\",\n      \"stock_name\": \"中航沈飞\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"作为中国战斗机核心制造商，与阅兵主题高度契合。技术面显示近期量价配合良好，MACD金叉确认，板块强度0.75提供支撑。预计将直接受益于新型战机展示带来的订单预期。\",\n      \"risk_warning\": \"需注意军工板块高beta特性，若大盘调整可能面临较大波动；Q3业绩可能存在季节性波动\"\n    },\n    {\n      \"stock_code\": \"002414\",\n      \"stock_name\": \"高德红外\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"军民融合标杆企业，红外设备将广泛应用于阅兵装备。技术面呈现突破平台形态，RSI指标处于健康区间。民营军工弹性标的，更易获得资金青睐。\",\n      \"risk_warning\": \"估值处于历史中高位；民用业务可能受经济周期影响\"\n    },\n    {\n      \"stock_code\": \"600685\",\n      \"stock_name\": \"中船防务\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"海军装备核心供应商，但技术面稍弱于前两者，近期量能略显不足。存在海军方队装备展示的潜在催化剂，但受益链条相对间接。\",\n      \"risk_warning\": \"船舶行业周期影响显著；资产负债率较高需关注\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.75,\n    \"sentiment_indicator\": \"正面\",\n    \"technical_synergy\": true,\n    \"policy_impact\": \"国家级事件驱动\",\n    \"optimal_holding_period\": \"会前2周至阅兵当日\"\n  },\n  \"general_risk_disclosure\": [\n    \"注意军工板块事件驱动特性，警惕利好兑现后的回调风险\",\n    \"需结合大盘环境判断入场时机，上证指数关键支撑位在3050点\",\n    \"推荐采用分批建仓策略，单一个股仓位不宜超过15%\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "作为歼击机核心制造商，历次阅兵装备展示直接体现公司产品实力，央视报道将强化其行业龙头地位认知",
+        "policy_relevance": "直接受益于空军装备升级需求",
+        "urgency_level": "中短期事件驱动",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "002414",
+        "stock_name": "高德红外",
+        "recommendation_reason": "央视可能展示的新型光电探测装备潜在供应商，军民融合标杆企业",
+        "policy_relevance": "军用红外技术自主可控代表",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "600685",
+        "stock_name": "中船防务",
+        "recommendation_reason": "海军装备建设重要参与者，阅兵可能展示新型舰载装备带来主题机会",
+        "policy_relevance": "海洋强国战略受益标的",
+        "urgency_level": "事件催化型",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为官方权威发布的阅兵准备工作信息，虽然内容本身不涉及具体投资标的，但作为国家级重大活动预告，可能带动军工、安防等相关板块的市场关注。央视新闻的权威性会放大政策信号的市场影响。",
+      "policy_impact": "阅兵作为展示国防建设成果的重要窗口，将强化市场对军工现代化建设的政策预期，可能加速相关装备采购和军民融合项目落地。",
+      "theme_classification": {
+        "theme_type": "国防军工/军民融合",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "国防军工",
+          "安防设备"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600760",
+          "stock_name": "中航沈飞",
+          "recommendation_reason": "作为歼击机核心制造商，历次阅兵装备展示直接体现公司产品实力，央视报道将强化其行业龙头地位认知",
+          "policy_relevance": "直接受益于空军装备升级需求",
+          "urgency_level": "中短期事件驱动",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "002414",
+          "stock_name": "高德红外",
+          "recommendation_reason": "央视可能展示的新型光电探测装备潜在供应商，军民融合标杆企业",
+          "policy_relevance": "军用红外技术自主可控代表",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "600685",
+          "stock_name": "中船防务",
+          "recommendation_reason": "海军装备建设重要参与者，阅兵可能展示新型舰载装备带来主题机会",
+          "policy_relevance": "海洋强国战略受益标的",
+          "urgency_level": "事件催化型",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 22:08:52"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 17:50:38",
+  "news_info": {
+    "id": "7bc6da5ae6",
+    "title": "国新办将举行新闻发布会 介绍阅兵准备工作有关情况",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIPz90w7e26dRwfdkIferX250818.shtml",
+    "publish_time": "2025-08-18 21:49:00",
+    "summary": "国新办将举行新闻发布会 介绍阅兵准备工作有关情况"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80365,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -3.99
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600760\",\n      \"stock_name\": \"中航沈飞\",\n      \"composite_score\": 0.91,\n      \"recommendation_reason\": \"作为中国战斗机核心制造商，与阅兵主题高度契合，技术面呈现强势突破形态，板块强度支撑明显。公司作为军工龙头将直接受益于国防装备展示带来的行业关注度提升。\",\n      \"risk_warning\": \"需警惕短期利好兑现后的回调风险，关注军工板块整体资金流向。\"\n    },\n    {\n      \"stock_code\": \"002414\",\n      \"stock_name\": \"高德红外\",\n      \"composite_score\": 0.87,\n      \"recommendation_reason\": \"军民融合标杆企业，红外核心技术受阅兵装备展示催化，技术指标显示量价配合良好。作为军工电子细分龙头，存在估值提升空间。\",\n      \"risk_warning\": \"注意解禁压力和市场风格切换风险，公司民用业务占比提升可能削弱军工属性溢价。\"\n    },\n    {\n      \"stock_code\": \"600685\",\n      \"stock_name\": \"中船防务\",\n      \"composite_score\": 0.82,\n      \"recommendation_reason\": \"海军装备核心标的，技术面处于上升通道，但相对强度稍弱于前两者。阅兵可能展示新型舰载装备带来主题催化。\",\n      \"risk_warning\": \"船舶行业周期属性较强，需防范订单波动风险，近期解禁规模较大。\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.83,\n    \"sentiment_indicator\": \"正面\",\n    \"technical_confirmation\": \"MACD金叉/量价配合/突破关键阻力位\",\n    \"policy_impact\": \"强主题驱动/国家战略级事件\",\n    \"optimal_timing\": \"事件前3-5个交易日布局\"\n  },\n  \"risk_factors\": {\n    \"sector_risk\": \"注意军工板块高beta特性带来的波动放大\",\n    \"fundamental_risk\": \"部分标的估值已反映短期预期\",\n    \"timing_risk\": \"需精确把握阅兵前后的事件窗口期\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "作为我国主要战斗机生产商，将直接受益于阅兵装备展示带来的行业关注度提升。央视报道将强化其行业龙头地位的市场认知。",
+        "policy_relevance": "高度相关，核心军工企业",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 2,
+        "stock_code": "002414",
+        "stock_name": "高德红外",
+        "recommendation_reason": "军用红外设备核心供应商，阅兵装备中高端观测设备的重要提供商。央视报道可能带动市场对其军民融合业务的重新估值。",
+        "policy_relevance": "高度相关，核心技术企业",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 3,
+        "stock_code": "600685",
+        "stock_name": "中船防务",
+        "recommendation_reason": "海军装备重要制造商，阅兵可能展示新型舰船装备。央视报道将提升市场对海军装备现代化的关注度。",
+        "policy_relevance": "相关，海军装备代表",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为官方权威发布的阅兵准备工作相关信息，虽然内容本身不涉及具体投资标的，但作为国家级重大活动，将带动相关军工、安防、传媒等板块的市场关注度。央视新闻作为国家级媒体，其报道具有政策风向标意义。",
+      "policy_impact": "阅兵作为展示国家军事力量的重要活动，将强化国防军工板块的政策支持预期，可能带动军民融合、装备升级等相关领域的投资机会。",
+      "theme_classification": {
+        "theme_type": "国防军工/军民融合",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "国防军工",
+          "安防设备",
+          "传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600760",
+          "stock_name": "中航沈飞",
+          "recommendation_reason": "作为我国主要战斗机生产商，将直接受益于阅兵装备展示带来的行业关注度提升。央视报道将强化其行业龙头地位的市场认知。",
+          "policy_relevance": "高度相关，核心军工企业",
+          "urgency_level": "中高",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 2,
+          "stock_code": "002414",
+          "stock_name": "高德红外",
+          "recommendation_reason": "军用红外设备核心供应商，阅兵装备中高端观测设备的重要提供商。央视报道可能带动市场对其军民融合业务的重新估值。",
+          "policy_relevance": "高度相关，核心技术企业",
+          "urgency_level": "中",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 3,
+          "stock_code": "600685",
+          "stock_name": "中船防务",
+          "recommendation_reason": "海军装备重要制造商，阅兵可能展示新型舰船装备。央视报道将提升市场对海军装备现代化的关注度。",
+          "policy_relevance": "相关，海军装备代表",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 17:50:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

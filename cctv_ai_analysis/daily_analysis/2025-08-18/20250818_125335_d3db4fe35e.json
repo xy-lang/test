@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 12:53:35",
+  "news_info": {
+    "id": "d3db4fe35e",
+    "title": "今年上半年，食品冷链物流业务总需求量为1.92亿吨，同比增长4.35%。上半年食品冷链物流服务企业总收入为2799.4亿元，同比增长3.84%。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIvpfGwZxUQm3Rw0XhfDf6250818.shtml",
+    "publish_time": "2025-08-18 12:05:00",
+    "summary": "今年上半年，食品冷链物流业务总需求量为1.92亿吨，同比增长4.35%。上半年食品冷链物流服务企业总..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.8
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000530\",\n      \"stock_name\": \"冰山冷热\",\n      \"composite_score\": 0.82,\n      \"recommendation_reason\": \"1. 技术面：技术评分高于平均水平，近期上涨趋势明显；2. 业务匹配：主营制冷设备，直接受益冷链物流发展；3. 政策支持：冷链设备属于新基建重点领域\",\n      \"risk_warning\": \"1. 板块整体强度偏弱；2. 需警惕短期回调风险\"\n    },\n    {\n      \"stock_code\": \"600270\",\n      \"stock_name\": \"外运发展\",\n      \"composite_score\": 0.75,\n      \"recommendation_reason\": \"1. 物流龙头，冷链业务占比提升；2. 技术指标显示企稳回升；3. 受益于农产品流通体系建设\",\n      \"risk_warning\": \"1. 物流行业竞争激烈；2. 需关注成本控制能力\"\n    },\n    {\n      \"stock_code\": \"002481\",\n      \"stock_name\": \"双塔食品\",\n      \"composite_score\": 0.68,\n      \"recommendation_reason\": \"1. 食品加工企业受益冷链需求增长；2. 技术面呈现筑底特征；3. 植物蛋白业务具备想象空间\",\n      \"risk_warning\": \"1. 与冷链主题关联度相对较低；2. 业绩波动较大\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"market_sentiment\": \"中性偏多\",\n    \"sector_strength\": \"板块整体强度偏弱，但个股存在结构性机会\",\n    \"key_drivers\": \"冷链物流政策支持+食品安全需求提升\",\n    \"optimal_holding_period\": \"1-3个月中线布局\"\n  },\n  \"risk_disclaimer\": \"以上分析基于公开信息，需注意：1. 冷链政策落地不及预期风险；2. 夏季高温等季节性因素影响；3. 大盘系统性风险可能压制板块表现\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600270",
+        "stock_name": "外运发展",
+        "recommendation_reason": "中国外运旗下冷链物流平台，央企背景契合政策导向，2023年报显示冷链业务收入占比已达12%",
+        "policy_relevance": "直接受益于冷链基础设施投资",
+        "urgency_level": "中期布局（3-6个月政策窗口期）",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "000530",
+        "stock_name": "冰山冷热",
+        "recommendation_reason": "国内商用制冷设备龙头，冷链设备市占率超20%，技术面呈现底部放量特征",
+        "policy_relevance": "设备端核心标的",
+        "urgency_level": "短期交易性机会",
+        "confidence_score": 0.68
+      },
+      {
+        "rank": 3,
+        "stock_code": "002481",
+        "stock_name": "双塔食品",
+        "recommendation_reason": "植物蛋白食品龙头，自建冷链仓储系统，存在'冷链+预制菜'概念叠加效应",
+        "policy_relevance": "下游应用场景代表",
+        "urgency_level": "长期价值型配置",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻披露了食品冷链物流行业上半年关键运营数据，虽然增长幅度不高（4.35%需求增长/3.84%收入增长），但作为央视发布的官方数据，具有权威背书价值。考虑到冷链物流是农产品上行和食品安全的重要基础设施，此类数据的发布可能预示着后续政策支持的延续性。",
+      "policy_impact": "冷链物流连续多年被写入中央一号文件，属于'乡村振兴'和'现代流通体系'建设的交叉领域。本次数据发布时点临近'十四五'冷链物流发展规划中期评估节点，可能引发市场对冷链补贴政策延续性的预期。",
+      "theme_classification": {
+        "theme_type": "民生保障/新基建",
+        "hardcore_level": "国家意志（涉及食品安全和农产品流通体系）",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "物流",
+          "农产品加工",
+          "制冷设备"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600270",
+          "stock_name": "外运发展",
+          "recommendation_reason": "中国外运旗下冷链物流平台，央企背景契合政策导向，2023年报显示冷链业务收入占比已达12%",
+          "policy_relevance": "直接受益于冷链基础设施投资",
+          "urgency_level": "中期布局（3-6个月政策窗口期）",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "000530",
+          "stock_name": "冰山冷热",
+          "recommendation_reason": "国内商用制冷设备龙头，冷链设备市占率超20%，技术面呈现底部放量特征",
+          "policy_relevance": "设备端核心标的",
+          "urgency_level": "短期交易性机会",
+          "confidence_score": 0.68
+        },
+        {
+          "rank": 3,
+          "stock_code": "002481",
+          "stock_name": "双塔食品",
+          "recommendation_reason": "植物蛋白食品龙头，自建冷链仓储系统，存在'冷链+预制菜'概念叠加效应",
+          "policy_relevance": "下游应用场景代表",
+          "urgency_level": "长期价值型配置",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 12:53:35"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

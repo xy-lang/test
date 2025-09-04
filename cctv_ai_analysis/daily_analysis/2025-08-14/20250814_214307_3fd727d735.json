@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-14 21:43:08",
+  "news_info": {
+    "id": "3fd727d735",
+    "title": "国家级数据基建实现数据领域“车同轨、书同文”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTI8QkfhgMTp7m26Go1K3iS250814.shtml",
+    "publish_time": "2025-08-14 19:51:44",
+    "summary": "国家级数据基建实现数据领域“车同轨、书同文”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79705,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻涉及国家级数据基建的重要政策，具有较高的权威性和时效性。央视新闻作为官方媒体，其报道往往预示着政策导向和产业方向的变化。综合强度0.80表明该新闻对相关行业具有显著影响。",
+    "policy_impact": "数据基建政策将推动数据标准化和互联互通，利好数据服务、云计算、大数据等相关产业。政策实施将带来行业集中度提升和长期发展机会。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "recommendation_reason": "作为国内领先的企业云服务提供商，将直接受益于数据标准化和互联互通政策",
+        "policy_relevance": "高度相关，公司业务与数据基建直接相关",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "300212",
+        "stock_name": "易华录",
+        "recommendation_reason": "央企背景的数据基础设施服务商，在数据湖建设方面具有领先优势",
+        "policy_relevance": "高度相关，公司主营业务为数据存储和管理",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "603881",
+        "stock_name": "数据港",
+        "recommendation_reason": "专业的数据中心服务提供商，将受益于数据基建政策的推进",
+        "policy_relevance": "相关，公司业务属于数据基础设施领域",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

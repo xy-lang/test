@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-09-03 18:52:38",
+  "news_info": {
+    "id": "8454771389",
+    "title": "电动自行车新国标实施 时速超25公里自动断电",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIRqlRO6U2c9qD8PRnA4Ru250903.shtml",
+    "publish_time": "2025-09-03 08:16:00",
+    "summary": "电动自行车新国标实施 时速超25公里自动断电"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.66105,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 10.59
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002036\",\n      \"stock_name\": \"联创电子\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术评分领先（约0.75），作为光学镜头和车载电子供应商，直接受益于电动自行车智能化升级需求。板块强度0.70提供支撑，政策催化明确，短期存在业绩预期差。\",\n      \"risk_warning\": \"需警惕消费电子行业周期性波动风险及原材料成本上涨压力\"\n    },\n    {\n      \"stock_code\": \"002055\",\n      \"stock_name\": \"得润电子\",\n      \"comprehensive_score\": 0.73,\n      \"recommendation_reason\": \"连接器业务与电动自行车电控系统高度相关，技术指标呈现突破形态（评分约0.72）。政策强制标准实施将推动行业集中度提升，公司具备先发优势。\",\n      \"risk_warning\": \"应收账款周转率偏低，注意现金流压力；板块整体估值偏高\"\n    },\n    {\n      \"stock_code\": \"603959\",\n      \"stock_name\": \"百利科技\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"锂电池产线设备供应商间接受益于电动自行车电池升级需求，但技术指标相对较弱（评分约0.63）。政策驱动存在滞后性，需观察订单落地情况。\",\n      \"risk_warning\": \"业务转型期业绩波动较大；科技板块整体估值风险较高\"\n    }\n  ],\n  \"market_context\": {\n    \"sector_strength\": 0.70,\n    \"sentiment_support\": \"政策驱动型题材获国家意志背书，但需注意科技板块整体估值压力\",\n    \"key_risks\": [\n      \"政策执行力度存在区域差异性\",\n      \"电动自行车产业链利润分配不均\",\n      \"大盘科技板块面临流动性收紧压力\"\n    ]\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002036",
+        "stock_name": "联创电子",
+        "recommendation_reason": "公司为电动自行车控制系统龙头企业，新国标要求的自动断电技术将直接提升公司产品需求，央视新闻的政策背书将加速行业合规化进程",
+        "policy_relevance": "高度相关，直接受益于新国标技术要求",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "603959",
+        "stock_name": "百利科技",
+        "recommendation_reason": "公司涉足电动自行车智能控制系统研发，新国标实施将推动行业技术升级需求，央视权威报道有助于政策落地执行",
+        "policy_relevance": "较高相关，受益于行业技术升级趋势",
+        "urgency_level": "中等偏低",
+        "confidence_score": 0.68
+      },
+      {
+        "rank": 3,
+        "stock_code": "002055",
+        "stock_name": "得润电子",
+        "recommendation_reason": "公司为汽车电子连接器供应商，产品可应用于电动自行车智能控制系统，间接受益于新国标带来的产业链升级",
+        "policy_relevance": "中等相关，产业链配套企业受益",
+        "urgency_level": "偏低",
+        "confidence_score": 0.62
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威发布的新国标政策实施消息，虽然时效性评分较低，但央视作为国家级媒体平台，其政策解读具有高度权威性和市场影响力。电动自行车新国标实施将推动行业规范化发展，对相关产业链产生重要影响。",
+      "policy_impact": "新国标政策强制实施将加速行业洗牌，利好具备技术优势和合规生产能力的企业。政策要求时速超25公里自动断电，将推动智能控制系统和传感器技术的需求增长，淘汰落后产能，促进行业集中度提升。",
+      "theme_classification": {
+        "theme_type": "政策驱动型题材",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "电动自行车",
+          "智能控制",
+          "传感器",
+          "新能源车配件"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002036",
+          "stock_name": "联创电子",
+          "recommendation_reason": "公司为电动自行车控制系统龙头企业，新国标要求的自动断电技术将直接提升公司产品需求，央视新闻的政策背书将加速行业合规化进程",
+          "policy_relevance": "高度相关，直接受益于新国标技术要求",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "603959",
+          "stock_name": "百利科技",
+          "recommendation_reason": "公司涉足电动自行车智能控制系统研发，新国标实施将推动行业技术升级需求，央视权威报道有助于政策落地执行",
+          "policy_relevance": "较高相关，受益于行业技术升级趋势",
+          "urgency_level": "中等偏低",
+          "confidence_score": 0.68
+        },
+        {
+          "rank": 3,
+          "stock_code": "002055",
+          "stock_name": "得润电子",
+          "recommendation_reason": "公司为汽车电子连接器供应商，产品可应用于电动自行车智能控制系统，间接受益于新国标带来的产业链升级",
+          "policy_relevance": "中等相关，产业链配套企业受益",
+          "urgency_level": "偏低",
+          "confidence_score": 0.62
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:52:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

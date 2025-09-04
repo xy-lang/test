@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 17:36:33",
+  "news_info": {
+    "id": "82a077f38f",
+    "title": "大江南北“夜经济”的魅力，各具特色。在众多的城市中，湖南长沙可以说是非常热门的城市之一。数据显示，长沙夜间消费已经占全天消费比重的60%。现在，跟着我们的总台记者，一起去夜长沙感受这座城市不一样的烟火。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIkdSdrmUijDOwrRNXgWJp250818.shtml",
+    "publish_time": "2025-08-18 12:27:00",
+    "summary": "大江南北“夜经济”的魅力，各具特色。在众多的城市中，湖南长沙可以说是非常热门的城市之一。数据显示，长..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 5.14
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000721\",\n      \"stock_name\": \"西安饮食\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"1. 技术面：板块强度0.75支撑良好，近期量价配合显示资金关注度提升\\n2. 题材匹配：直接受益夜间经济主题，长沙案例具有全国示范效应\\n3. 政策催化：消费复苏政策持续加码，暑期旅游旺季构成短期催化剂\\n4. 市值弹性：区域餐饮龙头具备主题炒作空间\",\n      \"risk_warning\": \"1. 二季度业绩存在不及预期风险\\n2. 需警惕短期涨幅过大的回调压力\\n3. 同板块个股存在分流资金可能\"\n    },\n    {\n      \"stock_code\": \"600258\",\n      \"stock_name\": \"首旅酒店\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"1. 技术面：周线级别突破整理平台，MACD金叉态势\\n2. 行业逻辑：酒店业直接受益夜间经济延长住宿需求\\n3. 估值优势：当前PE处于行业中枢下方\\n4. 事件驱动：暑期预订量同比显著增长\",\n      \"risk_warning\": \"1. 商旅需求复苏仍存不确定性\\n2. 行业竞争加剧可能影响RevPAR\\n3. 需关注7月经济数据对消费预期影响\"\n    },\n    {\n      \"stock_code\": \"603000\",\n      \"stock_name\": \"人民网\",\n      \"composite_score\": 0.65,\n      \"recommendation_reason\": \"1. 主题关联：间接受益于夜间经济带来的文化消费升级\\n2. 技术形态：年线位置获得支撑但量能配合不足\\n3. 政策背书：作为官媒平台具备独特资源优势\",\n      \"risk_warning\": \"1. 与核心主题关联度较弱\\n2. 传媒板块整体beta属性较低\\n3. 中报业绩可能存在压力\"\n    }\n  ],\n  \"market_context\": {\n    \"sector_strength\": 0.75,\n    \"preferred_capitalization\": \"中小市值\",\n    \"optimal_holding_period\": \"2-4周\",\n    \"key_observation\": \"需密切跟踪暑期消费数据及促消费政策落地情况，建议采用事件驱动策略，重点把握7-8月消费旺季窗口期\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000721",
+        "stock_name": "西安饮食",
+        "recommendation_reason": "作为餐饮行业龙头，将直接受益于夜间经济的繁荣发展。公司在长沙也有业务布局。",
+        "policy_relevance": "高",
+        "urgency_level": "中高",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "酒店行业与夜间经济高度相关，公司旗下经济型酒店将受益于夜间消费人群的增加。",
+        "policy_relevance": "中高",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "603000",
+        "stock_name": "人民网",
+        "recommendation_reason": "作为央媒旗下上市公司，将受益于夜间经济相关宣传报道需求的增加。",
+        "policy_relevance": "中",
+        "urgency_level": "中低",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻聚焦长沙夜间经济的繁荣发展，强调其占全天消费60%的显著比重。作为央视新闻的报道，具有较高的权威性和政策导向性，可能预示着国家将继续支持夜间经济发展，推动消费升级。",
+      "policy_impact": "夜间经济作为促进消费的重要抓手，近年来受到国家政策的大力支持。央视的正面报道可能预示着后续会有更多配套政策出台，对相关行业形成长期利好。",
+      "theme_classification": {
+        "theme_type": "夜间经济/消费升级",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "商业零售",
+          "餐饮旅游",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000721",
+          "stock_name": "西安饮食",
+          "recommendation_reason": "作为餐饮行业龙头，将直接受益于夜间经济的繁荣发展。公司在长沙也有业务布局。",
+          "policy_relevance": "高",
+          "urgency_level": "中高",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "酒店行业与夜间经济高度相关，公司旗下经济型酒店将受益于夜间消费人群的增加。",
+          "policy_relevance": "中高",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "603000",
+          "stock_name": "人民网",
+          "recommendation_reason": "作为央媒旗下上市公司，将受益于夜间经济相关宣传报道需求的增加。",
+          "policy_relevance": "中",
+          "urgency_level": "中低",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 17:36:33"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

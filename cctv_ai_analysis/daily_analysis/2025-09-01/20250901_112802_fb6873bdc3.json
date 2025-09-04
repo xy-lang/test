@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-09-01 11:28:02",
+  "news_info": {
+    "id": "fb6873bdc3",
+    "title": "政策组合拳激活服务消费新动能",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901110005948229475.html",
+    "publish_time": "2025-09-01 11:00:00",
+    "summary": "政策组合拳激活服务消费新动能"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75085,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.605,
+      "persistence": 0.64,
+      "source_weight": 0.8,
+      "policy_hits": 1,
+      "hours_since_publish": 0.45
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600258\",\n      \"stock_name\": \"首旅酒店\",\n      \"comprehensive_score\": 0.87,\n      \"recommendation_reason\": \"技术面表现强劲，板块强度0.833提供有力支撑，作为酒店行业龙头直接受益于服务消费政策，政策催化剂明确，技术指标配合度高，市场情绪积极\",\n      \"risk_warning\": \"需关注旅游行业季节性波动风险及宏观经济环境影响\"\n    },\n    {\n      \"stock_code\": \"600754\",\n      \"stock_name\": \"锦江股份\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"酒店行业头部企业，政策受益程度高，技术评分良好，板块协同效应明显，具备规模优势和品牌溢价\",\n      \"risk_warning\": \"同业竞争加剧风险，需关注成本控制能力\"\n    },\n    {\n      \"stock_code\": \"603199\",\n      \"stock_name\": \"九华旅游\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"区域性旅游标的，受益于服务消费升级政策，但技术面相对较弱，市场关注度略低，具备一定补涨机会\",\n      \"risk_warning\": \"地域性风险较高，受单一景区客流影响较大\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment\": \"positive\",\n    \"policy_benefit_level\": \"high\",\n    \"sector_risk\": \"medium\",\n    \"timing_risk\": \"low\"\n  },\n  \"general_risk_alert\": \"需密切关注政策落地进度和消费数据变化，注意大盘系统性风险及行业估值回调风险\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "作为酒店服务龙头，直接受益于服务消费政策刺激，央视新闻的政策导向将提升行业景气度",
+        "policy_relevance": "高度相关，酒店业属于服务消费核心领域",
+        "urgency_level": "高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "旅游服务是政策重点支持方向，央视新闻的政策信号将带动板块估值修复",
+        "policy_relevance": "高度相关，旅游消费是服务消费重要组成部分",
+        "urgency_level": "中高",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "600754",
+        "stock_name": "锦江股份",
+        "recommendation_reason": "酒店餐饮服务双重受益，政策组合拳将激活消费需求，公司规模优势明显",
+        "policy_relevance": "中度相关，涵盖住宿和餐饮服务",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽评分较低，但作为央视新闻发布的政策导向性内容，具有重要的投资指引价值。央视新闻作为国家级权威媒体，其报道的政策动向往往代表国家层面的战略意图，对市场具有显著引导作用。'政策组合拳激活服务消费新动能'表明国家正在通过系统性政策支持服务消费领域发展，这通常意味着相关行业将获得政策红利。",
+      "policy_impact": "政策影响评级为高。服务消费作为经济转型的重要方向，政策支持具有持续性和系统性特征。预计将涉及财税优惠、金融支持、市场准入等多维度政策工具，对相关上市公司业绩提升具有实质性推动作用。政策时效性预计持续1-2年。",
+      "theme_classification": {
+        "theme_type": "服务消费升级",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "消费服务",
+          "文化旅游",
+          "健康医疗",
+          "教育培训"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "作为酒店服务龙头，直接受益于服务消费政策刺激，央视新闻的政策导向将提升行业景气度",
+          "policy_relevance": "高度相关，酒店业属于服务消费核心领域",
+          "urgency_level": "高",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "旅游服务是政策重点支持方向，央视新闻的政策信号将带动板块估值修复",
+          "policy_relevance": "高度相关，旅游消费是服务消费重要组成部分",
+          "urgency_level": "中高",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "600754",
+          "stock_name": "锦江股份",
+          "recommendation_reason": "酒店餐饮服务双重受益，政策组合拳将激活消费需求，公司规模优势明显",
+          "policy_relevance": "中度相关，涵盖住宿和餐饮服务",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:28:02"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

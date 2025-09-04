@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 17:19:45",
+  "news_info": {
+    "id": "3272cc46d2",
+    "title": "近期，全国中小学幼儿园陆续开学。新学期都有哪些教育惠民新举措，一起来了解。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTI90xLcIzQu0cr5Ry257Jl250901.shtml",
+    "publish_time": "2025-09-01 08:55:00",
+    "summary": "近期，全国中小学幼儿园陆续开学。新学期都有哪些教育惠民新举措，一起来了解。"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 8.4
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600661\",\n      \"stock_name\": \"昂立教育\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为教育信息化龙头企业，直接受益于新学期开学政策红利。技术指标显示近期成交量放大，MACD金叉向上，板块强度0.733提供良好支撑。公司在线教育业务与新闻主题高度契合，短期催化剂明确。\",\n      \"risk_warning\": \"需关注教育政策变化风险，个股估值偏高可能带来回调压力\"\n    },\n    {\n      \"stock_code\": \"002261\",\n      \"stock_name\": \"拓维信息\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"教育信息化+智慧校园双重概念，技术面呈现突破形态，RSI指标处于健康区间。公司在教育软件领域布局深入，与新学期教育信息化建设需求高度匹配。\",\n      \"risk_warning\": \"业绩波动较大，需关注三季度财报表现，技术面存在获利回吐风险\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"在线教育服务提供商，受益于教育信息化趋势。技术指标显示相对弱势，但板块整体强度提供支撑。公司业务与开学季需求存在一定关联度。\",\n      \"risk_warning\": \"基本面相对较弱，盈利能力有待改善，技术面支撑力度不足\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength\": 0.733,\n    \"market_sentiment\": \"积极\",\n    \"news_relevance\": \"高度相关\",\n    \"overall_risk_level\": \"中等\"\n  },\n  \"general_risk_warning\": \"教育板块受政策影响较大，需密切关注后续政策动向；当前市场情绪波动可能放大个股波动；建议控制仓位，设置止损位\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "recommendation_reason": "作为教育服务龙头企业，直接受益于新学期开学带来的业务增量，央视新闻的政策导向有助于提升市场关注度",
+        "policy_relevance": "高",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "教育信息化服务商，新学期往往带来教育设备和系统采购需求，央视政策报道提升行业景气度预期",
+        "policy_relevance": "中高",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "002261",
+        "stock_name": "拓维信息",
+        "recommendation_reason": "智慧教育解决方案提供商，受益于教育数字化政策推进，央视权威报道强化政策落地预期",
+        "policy_relevance": "中",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性较弱，但作为央视新闻发布的教育领域政策信息，具有权威性和政策导向性。央视新闻作为国家级媒体，其报道往往代表政策风向，对教育板块具有指导意义。",
+      "policy_impact": "教育惠民政策持续推进，新学期开学时点往往伴随教育信息化、校园建设等相关政策落地，对教育装备、校服、校车等细分领域形成政策利好。",
+      "theme_classification": {
+        "theme_type": "教育信息化+校园消费",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "教育装备",
+          "校服产业",
+          "教育信息化"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600661",
+          "stock_name": "昂立教育",
+          "recommendation_reason": "作为教育服务龙头企业，直接受益于新学期开学带来的业务增量，央视新闻的政策导向有助于提升市场关注度",
+          "policy_relevance": "高",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "教育信息化服务商，新学期往往带来教育设备和系统采购需求，央视政策报道提升行业景气度预期",
+          "policy_relevance": "中高",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "002261",
+          "stock_name": "拓维信息",
+          "recommendation_reason": "智慧教育解决方案提供商，受益于教育数字化政策推进，央视权威报道强化政策落地预期",
+          "policy_relevance": "中",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 17:19:45"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

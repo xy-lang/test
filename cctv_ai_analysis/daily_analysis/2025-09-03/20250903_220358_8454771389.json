@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-03 22:03:58",
+  "news_info": {
+    "id": "8454771389",
+    "title": "电动自行车新国标实施 时速超25公里自动断电",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIRqlRO6U2c9qD8PRnA4Ru250903.shtml",
+    "publish_time": "2025-09-03 09:03:00",
+    "summary": "电动自行车新国标实施 时速超25公里自动断电"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.66105,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 13.0
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 22:03:58"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

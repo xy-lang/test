@@ -1,0 +1,116 @@
+{
+  "analysis_time": "2025-08-18 16:45:44",
+  "news_info": {
+    "id": "8ad64a40f2",
+    "title": "国务院新闻办公室8月18日举行“高质量完成‘十四五’规划”系列主题新闻发布会，中央统战部、全国人大常委会、全国政协、国家民委的相关负责人介绍了“十四五”时期发展社会主义民主有关情况。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTI6nKOJ3hIvj3JbDnkcAXS250818.shtml",
+    "publish_time": "2025-08-18 22:14:00",
+    "summary": "国务院新闻办公室8月18日举行“高质量完成‘十四五’规划”系列主题新闻发布会，中央统战部、全国人大常..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8680000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.8,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 3,
+      "hours_since_publish": -5.49
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"长江电力(600900)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"作为清洁能源龙头企业，与'十四五'规划中的绿色发展高度契合\",\n        \"技术指标显示相对稳健，在弱势市场中表现出防御性特征\",\n        \"稳定的现金流和分红政策提供基本面支撑\",\n        \"政策催化明确，受益于能源结构转型\"\n      ],\n      \"risk_warnings\": [\n        \"水电行业受来水情况影响较大\",\n        \"市场整体情绪偏弱可能压制股价表现\"\n      ]\n    },\n    {\n      \"stock\": \"中国石化(600028)\",\n      \"score\": 0.75,\n      \"reasons\": [\n        \"能源安全战略下的重要国企，符合政策导向\",\n        \"估值处于历史低位，具备一定安全边际\",\n        \"油气体制改革可能带来催化剂\",\n        \"高股息特性在弱市中具备吸引力\"\n      ],\n      \"risk_warnings\": [\n        \"国际油价波动风险\",\n        \"新能源转型对传统能源企业的长期挑战\",\n        \"技术面显示短期动能不足\"\n      ]\n    },\n    {\n      \"stock\": \"中国平安(601318)\",\n      \"score\": 0.65,\n      \"reasons\": [\n        \"金融改革受益标的，与资本市场发展相关\",\n        \"估值修复空间较大\",\n        \"综合金融平台优势\"\n      ],\n      \"risk_warnings\": [\n        \"保险行业面临转型压力\",\n        \"技术面显示仍处于下降通道\",\n        \"短期缺乏明确催化剂\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"market_environment\": \"当前市场整体偏弱，板块效应不明显，建议侧重防御性配置\",\n    \"policy_impact\": \"'十四五'规划对能源和金融领域有长期结构性影响\",\n    \"technical_considerations\": \"技术面整体偏中性，需结合基本面精选个股\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "recommendation_reason": "作为央企龙头，将持续受益于国家'十四五'规划中的能源安全战略",
+        "policy_relevance": "高 - 直接关系国家能源安全战略",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "金融板块将受益于社会主义民主建设过程中的金融服务需求提升",
+        "policy_relevance": "中 - 间接关联金融服务业发展",
+        "urgency_level": "中长期观察",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "recommendation_reason": "清洁能源企业符合'十四五'高质量发展要求，且具有民族地区业务布局",
+        "policy_relevance": "中 - 符合高质量发展方向",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于国家层面的政策宣导类新闻，虽然内容涉及'十四五'规划的重要方向，但缺乏具体产业或企业的实质性信息。央视新闻作为国家级媒体具有最高权威性，但此类常规政策发布会信息对市场的直接影响有限。",
+      "policy_impact": "中长期政策导向明确，但短期市场影响较弱。重点关注后续可能出台的配套政策细则，特别是涉及民主建设与民族地区发展的具体措施。",
+      "theme_classification": {
+        "theme_type": "国家战略/政策导向",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "政策受益板块",
+          "民族地区概念"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600028",
+          "stock_name": "中国石化",
+          "recommendation_reason": "作为央企龙头，将持续受益于国家'十四五'规划中的能源安全战略",
+          "policy_relevance": "高 - 直接关系国家能源安全战略",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "金融板块将受益于社会主义民主建设过程中的金融服务需求提升",
+          "policy_relevance": "中 - 间接关联金融服务业发展",
+          "urgency_level": "中长期观察",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "600900",
+          "stock_name": "长江电力",
+          "recommendation_reason": "清洁能源企业符合'十四五'高质量发展要求，且具有民族地区业务布局",
+          "policy_relevance": "中 - 符合高质量发展方向",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": null,
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-14 15:15:35",
+  "news_info": {
+    "id": "c58848c44d",
+    "title": "委外长：美所谓“没收”的马杜罗资产实为国有飞机",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTIhd6FnIJ5C1qTOjbV9Mns250814.shtml",
+    "publish_time": "2025-08-14 15:12:18",
+    "summary": "委外长：美所谓“没收”的马杜罗资产实为国有飞机"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80035,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.03
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻涉及国际资产纠纷和国有财产保护，虽然直接关联度不高，但央视新闻的高评分(0.80)显示其权威性和潜在政策导向意义。",
+    "policy_impact": "可能引发对国有资产保护相关政策的关注，特别是涉及国际资产安全的领域。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "recommendation_reason": "作为国有航空企业，可能受益于国有资产保护政策强化",
+        "policy_relevance": "高 - 直接涉及国有航空资产",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "recommendation_reason": "另一家大型国有航空公司，可能受到类似政策影响",
+        "policy_relevance": "中高 - 国有航空资产",
+        "urgency_level": "中等偏低",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600029",
+        "stock_name": "南方航空",
+        "recommendation_reason": "国有航空企业，可能间接受益于国有资产保护政策",
+        "policy_relevance": "中等 - 国有航空资产",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

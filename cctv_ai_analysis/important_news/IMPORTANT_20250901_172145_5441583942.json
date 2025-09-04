@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-01 17:21:45",
+  "news_info": {
+    "id": "5441583942",
+    "title": "据网络平台数据，截至8月31日13时53分，2025年度中国电影总票房（含海外）突破400亿元。其中，国内市场总票房392.3亿元、观影人次超9.09亿，均超2024年。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIHUXrN9wa0NEuU5pBr6gw250901.shtml",
+    "publish_time": "2025-09-01 21:24:00",
+    "summary": "据网络平台数据，截至8月31日13时53分，2025年度中国电影总票房（含海外）突破400亿元。其中..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -4.05
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 17:21:45"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

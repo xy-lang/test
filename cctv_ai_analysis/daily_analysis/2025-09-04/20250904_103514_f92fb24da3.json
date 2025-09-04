@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 10:35:14",
+  "news_info": {
+    "id": "f92fb24da3",
+    "title": "铭记烽火荣光 弘扬沂蒙精神|《烽火荣光》首卷——临沂卷发布会在济南隆重举行",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904101638970930615.html",
+    "publish_time": "2025-09-04 10:16:00",
+    "summary": "铭记烽火荣光 弘扬沂蒙精神|《烽火荣光》首卷——临沂卷发布会在济南隆重举行"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.3
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"作为央视旗下核心传媒平台，与中宣部文化工程高度契合，直接受益于红色文化传播政策。技术评分0.78高于板块平均水平，板块强度0.717提供良好支撑，短期催化剂明确，政策受益程度最高。\",\n      \"risk_warning\": \"传媒板块政策敏感性较高，需关注后续政策落地节奏；个股估值相对较高，存在回调风险\"\n    },\n    {\n      \"stock_code\": \"601949\",\n      \"stock_name\": \"中国出版\",\n      \"comprehensive_score\": 0.76,\n      \"recommendation_reason\": \"作为国家级出版龙头，深度参与红色文化内容制作和发行，与新闻事件直接相关。技术指标稳定，受益于文化传媒政策红利，具备中长期投资价值。\",\n      \"risk_warning\": \"出版行业数字化转型压力较大；业绩增长相对平稳，短期爆发力有限\"\n    },\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"红色旅游概念标的，受益于沂蒙精神宣传带来的旅游热度提升。技术面相对稳健，但关联度略低于前两只，属于间接受益品种。\",\n      \"risk_warning\": \"旅游行业受季节性影响较大；疫情后复苏存在不确定性；与新闻直接关联度相对较弱\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_positive\": true,\n    \"technical_indicator_alignment\": true,\n    \"overall_assessment\": \"文化传媒板块在政策驱动下具备较强确定性，三只标的与新闻事件匹配度较高，技术面配合良好，建议重点关注中视传媒和中国出版\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下唯一上市公司，直接受益央视文化项目制作传播。该新闻由央视发布，后续可能衍生纪录片制作需求",
+        "policy_relevance": "直接承接央视文化宣传项目",
+        "urgency_level": "中期布局（1-3个月）",
+        "confidence_score": 0.72
+      },
+      {
+        "rank": 2,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "山东地区红色旅游核心运营商，在沂蒙山区有旅游布局。政策推动下红色旅游客流有望提升",
+        "policy_relevance": "直接受益红色旅游政策落地",
+        "urgency_level": "中长期配置（3-6个月）",
+        "confidence_score": 0.68
+      },
+      {
+        "rank": 3,
+        "stock_code": "601949",
+        "stock_name": "中国出版",
+        "recommendation_reason": "国家级出版集团，可能参与《烽火荣光》系列图书发行。主题出版项目受益文化政策支持",
+        "policy_relevance": "主题出版物政策红利",
+        "urgency_level": "中长期配置（3-6个月）",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为《烽火荣光》临沂卷发布会报道，属于典型的文化宣传类时政新闻。虽然新闻本身投资价值有限（评分均为0），但央视新闻的权威背书具有重要政策信号意义。央视作为国家级媒体平台，其报道往往反映政策导向，此次聚焦沂蒙精神传承，暗示文化自信和红色旅游政策支持力度加强。",
+      "policy_impact": "国家持续推进文化强国战略，2024年文旅部明确提出'深化红色旅游融合发展'。此类新闻通常预示地方将配套文旅产业扶持政策，临沂作为沂蒙精神发源地，可能获得专项文化项目资金和政策倾斜，带动相关产业链发展。",
+      "theme_classification": {
+        "theme_type": "文化传媒/红色旅游",
+        "hardcore_level": "国家意志（中宣部文化工程）",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "文化传媒",
+          "旅游服务",
+          "出版发行"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下唯一上市公司，直接受益央视文化项目制作传播。该新闻由央视发布，后续可能衍生纪录片制作需求",
+          "policy_relevance": "直接承接央视文化宣传项目",
+          "urgency_level": "中期布局（1-3个月）",
+          "confidence_score": 0.72
+        },
+        {
+          "rank": 2,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "山东地区红色旅游核心运营商，在沂蒙山区有旅游布局。政策推动下红色旅游客流有望提升",
+          "policy_relevance": "直接受益红色旅游政策落地",
+          "urgency_level": "中长期配置（3-6个月）",
+          "confidence_score": 0.68
+        },
+        {
+          "rank": 3,
+          "stock_code": "601949",
+          "stock_name": "中国出版",
+          "recommendation_reason": "国家级出版集团，可能参与《烽火荣光》系列图书发行。主题出版项目受益文化政策支持",
+          "policy_relevance": "主题出版物政策红利",
+          "urgency_level": "中长期配置（3-6个月）",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:35:14"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

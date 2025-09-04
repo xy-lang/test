@@ -1,0 +1,99 @@
+{
+  "analysis_time": "2025-08-18 10:35:14",
+  "news_info": {
+    "id": "feaa167b86",
+    "title": "看见美丽中国 垃圾分类新时尚",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIBvg2FYLE4fMfeZyKGc0J250817.shtml",
+    "publish_time": "2025-08-18 10:34:44",
+    "summary": "看见美丽中国 垃圾分类新时尚"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7706500000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.64,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻虽然时效性和硬核程度评分较低，但作为央视新闻发布的时政要闻，具有较高的权威性和政策导向性。'垃圾分类新时尚'的提法表明国家在持续推进垃圾分类政策，这属于环保领域的长期政策方向。",
+    "policy_impact": "垃圾分类是国家生态文明建设的重要组成部分，政策持续性较强。虽然本次报道不涉及具体政策变动，但央视的报道往往预示着政策执行力度可能加强，对相关环保企业形成长期利好。",
+    "theme_classification": {
+      "theme_type": "环保/固废处理",
+      "hardcore_level": "国家意志",
+      "sustainability_score": 8,
+      "related_sectors": [
+        "环保工程",
+        "固废处理"
+      ]
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601200",
+        "stock_name": "上海环境",
+        "recommendation_reason": "作为上海地区固废处理龙头企业，直接受益于垃圾分类政策推进。央视报道可能带动市场对垃圾分类概念股的关注。",
+        "policy_relevance": "高度相关，主营业务包含生活垃圾处理",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "000826",
+        "stock_name": "启迪环境",
+        "recommendation_reason": "全国性环境综合治理服务商，垃圾分类全产业链布局。央视的权威报道可能提升板块估值。",
+        "policy_relevance": "高度相关，涉及垃圾分类多个环节",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "603686",
+        "stock_name": "龙马环卫",
+        "recommendation_reason": "环卫装备制造龙头，垃圾分类政策推动环卫设备升级需求。央视报道强化政策预期。",
+        "policy_relevance": "中度相关，间接受益于垃圾分类设备需求",
+        "urgency_level": "长期跟踪",
+        "confidence_score": 0.7
+      }
+    ],
+    "technical_verification": {
+      "original_count": 3,
+      "verified_count": 0,
+      "verified_stocks": [],
+      "sector_strength": 0.445,
+      "related_sectors": [
+        "环保工程",
+        "固废处理"
+      ],
+      "verification_method": "AI粗筛+板块强度+综合评分",
+      "verification_threshold": 0.6,
+      "verification_time": "2025-08-18 10:35:12"
+    },
+    "final_recommendations": [],
+    "analysis_stages": {
+      "stage1_ai_count": 3,
+      "stage2_verified_count": 0,
+      "verification_method": "AI粗筛+板块强度+综合评分"
+    }
+  },
+  "sector_analysis": {
+    "error": "'SectorAnalyzer' object has no attribute 'compare_sectors'",
+    "analysis_time": "2025-08-18 10:35:14"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

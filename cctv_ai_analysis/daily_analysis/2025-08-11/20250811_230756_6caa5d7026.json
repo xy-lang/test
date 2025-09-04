@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-11 23:07:56",
+  "news_info": {
+    "id": "6caa5d7026",
+    "title": "守山脉 兴水脉 承文脉——绿美吉林与文化吉林的双向奔赴",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTIGcgtU2jGWuOYOVYS1tO4250811.shtml",
+    "publish_time": "2025-08-11 20:58:03",
+    "summary": "守山脉 兴水脉 承文脉——绿美吉林与文化吉林的双向奔赴"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7455499999999999,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.77,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 2.16
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻聚焦吉林生态保护与文化发展，具有较高时效性(0.80)和政策导向性，央视新闻作为国家级媒体，其报道往往预示地方政策支持和产业导向，对相关概念股有显著提振作用。",
+    "policy_impact": "'绿美吉林'暗示生态环保政策加码，'文化吉林'指向文旅产业升级，双重政策红利将惠及环保基建、生态旅游、文化传媒等板块。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000856",
+        "stock_name": "冀东装备",
+        "recommendation_reason": "作为吉林环保设备龙头，直接受益生态治理政策，央视报道强化市场对其区域龙头地位的认知",
+        "policy_relevance": "环保装备+吉林本地企业",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "600359",
+        "stock_name": "新农开发",
+        "recommendation_reason": "吉林农业生态化改造核心标的，'水脉治理'概念直接关联其节水灌溉业务",
+        "policy_relevance": "生态农业+水资源管理",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "600189",
+        "stock_name": "吉林森工",
+        "recommendation_reason": "森林资源运营与文旅开发双主业，完美契合'守山脉+承文脉'的报道主题",
+        "policy_relevance": "林业资源+文化旅游",
+        "urgency_level": "中",
+        "confidence_score": 0.79
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

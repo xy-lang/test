@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-04 14:57:14",
+  "news_info": {
+    "id": "9e031ac396",
+    "title": "宁阳县第一人民医院：下肢动脉硬化走路疼痛莫忽视 早筛早治很重要",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904143105140264436.html",
+    "publish_time": "2025-09-04 14:31:00",
+    "summary": "宁阳县第一人民医院：下肢动脉硬化走路疼痛莫忽视 早筛早治很重要"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.42
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002223\",\n      \"stock_name\": \"鱼跃医疗\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术指标相对稳健，与新闻主题高度契合（医疗器械直接受益于下肢动脉硬化诊疗需求），公司在家用医疗设备领域具有品牌优势，短期催化剂明确，板块强度虽一般但个股基本面支撑较强\",\n      \"risk_warning\": \"医疗器械行业政策监管趋严风险，市场竞争加剧风险，估值偏高风险\"\n    },\n    {\n      \"stock_code\": \"600056\",\n      \"stock_name\": \"中国医药\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"医药流通龙头企业，受益于基层医疗设备及药品配送需求增长，与医院诊疗主题关联度较高，技术面相对稳定，政策受益程度中等\",\n      \"risk_warning\": \"医药流通行业利润率较低，集采政策影响，应收账款风险\"\n    },\n    {\n      \"stock_code\": \"600529\",\n      \"stock_name\": \"山东药玻\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"医药包装细分龙头，间接受益于医疗健康产业发展，但与本则新闻的直接关联度较弱，技术指标表现一般，缺乏短期强催化剂\",\n      \"risk_warning\": \"原材料成本上涨压力，下游客户集中度风险，行业增长放缓风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"医药板块整体强度一般（0.317），但细分领域存在结构性机会\",\n    \"technical_indicator\": \"平均技术评分0.32显示技术面支撑有限，需谨慎选择个股\",\n    \"investment_horizon\": \"建议短期关注（1-3个月）\"\n  },\n  \"general_risk_warning\": [\n    \"医药行业政策变化风险\",\n    \"市场整体流动性风险\",\n    \"个股估值回调风险\",\n    \"宏观经济波动影响消费医疗需求\",\n    \"建议控制仓位，分批建仓\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600056",
+        "stock_name": "中国医药",
+        "recommendation_reason": "作为医药流通龙头企业，受益于医疗健康意识提升带来的药品需求增长",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "recommendation_reason": "医疗器械包装供应商，间接受益于医疗检测需求",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "recommendation_reason": "家用医疗器械厂商，健康监测设备可能受益于疾病早筛意识提升",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然来自央视平台，但内容为地方医院健康科普类信息，缺乏重大政策导向和投资价值。新闻时效性、硬核程度和持续性评分均为0，表明其投资参考价值有限。央视的权威性主要体现在重大政策发布和国家级新闻事件，此类常规医疗科普内容对市场影响微弱。",
+      "policy_impact": "无显著政策影响。新闻内容属于常规医疗健康宣传，未涉及新的医保政策、医疗改革或产业扶持政策，对相关板块难以形成实质性推动。",
+      "theme_classification": {
+        "theme_type": "医疗健康科普",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600056",
+          "stock_name": "中国医药",
+          "recommendation_reason": "作为医药流通龙头企业，受益于医疗健康意识提升带来的药品需求增长",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "600529",
+          "stock_name": "山东药玻",
+          "recommendation_reason": "医疗器械包装供应商，间接受益于医疗检测需求",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "002223",
+          "stock_name": "鱼跃医疗",
+          "recommendation_reason": "家用医疗器械厂商，健康监测设备可能受益于疾病早筛意识提升",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 14:57:14"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

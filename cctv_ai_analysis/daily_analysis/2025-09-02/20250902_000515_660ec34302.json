@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-02 00:05:15",
+  "news_info": {
+    "id": "660ec34302",
+    "title": "多学科协作 建立长效随访机制 贵阳妇幼为“气切宝宝”编织无缝关怀网",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901230427301754848.html",
+    "publish_time": "2025-09-01 23:04:00",
+    "summary": "多学科协作 建立长效随访机制 贵阳妇幼为“气切宝宝”编织无缝关怀网"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.01
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术指标相对稳健，在医疗器械领域具有较强竞争力，与妇幼保健主题存在间接关联。公司心血管介入产品与医疗设备业务可能受益于基层医疗体系建设，技术评分在同类股票中表现较好，板块强度提供一定支撑\",\n      \"risk_warning\": \"医疗器械行业政策变化风险，集采政策可能影响产品利润率，市场情绪波动较大\"\n    },\n    {\n      \"stock_code\": \"002223\",\n      \"stock_name\": \"鱼跃医疗\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"家用医疗器械龙头，呼吸治疗、糖尿病护理等产品线与医疗关怀主题契合度较高。技术面相对稳定，在基层医疗和家庭医疗场景中有较强应用价值\",\n      \"risk_warning\": \"市场竞争加剧风险，原材料成本上升压力，估值水平相对较高\"\n    },\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.61,\n      \"recommendation_reason\": \"口腔医疗连锁龙头，虽与妇幼保健直接关联度较弱，但医疗服务属性与新闻中的多学科协作理念相符。品牌价值和医疗服务质量受到认可\",\n      \"risk_warning\": \"估值溢价较高，扩张速度可能受疫情影响，医疗服务行业监管政策变化风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_assessment\": \"板块强度0.267属于中等偏弱水平，技术评分0.27表明整体技术面支撑有限，需要谨慎选择个股\",\n    \"news_relevance\": \"新闻聚焦妇幼保健和医疗关怀，与医疗器械和医疗服务板块存在一定关联，但直接受益程度有限\",\n    \"risk_assessment\": \"医药板块当前面临政策不确定性，市场情绪偏谨慎，建议控制仓位，重点关注具有核心竞争力的龙头企业\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "作为口腔医疗龙头，受益于医疗服务升级趋势，但与该新闻直接关联度较低",
+        "policy_relevance": "间接相关-医疗服务品质提升",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "心血管医疗器械企业，与妇幼保健关联度有限",
+        "policy_relevance": "弱相关-医疗器械板块",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "recommendation_reason": "家用医疗器械厂商，与新闻中气切护理设备有一定关联",
+        "policy_relevance": "弱相关-医疗设备供应",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为贵阳妇幼保健院医疗案例报道，属于常规医疗健康服务内容，不具备重大政策导向或行业变革意义。央视新闻的权威性在此类报道中主要体现在医疗服务质量宣传层面，而非投资导向性。新闻时效性、硬核程度和持续性评分均为0，表明其投资价值有限。",
+      "policy_impact": "该新闻反映的是地方医疗机构服务创新，与国家层面医疗政策关联度较低。当前医疗政策重点在于医保改革、创新药审批、医疗器械国产化等方向，此类常规医疗服务报道不具备显著政策影响力。",
+      "theme_classification": {
+        "theme_type": "医疗服务/妇幼保健",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "作为口腔医疗龙头，受益于医疗服务升级趋势，但与该新闻直接关联度较低",
+          "policy_relevance": "间接相关-医疗服务品质提升",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "心血管医疗器械企业，与妇幼保健关联度有限",
+          "policy_relevance": "弱相关-医疗器械板块",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "002223",
+          "stock_name": "鱼跃医疗",
+          "recommendation_reason": "家用医疗器械厂商，与新闻中气切护理设备有一定关联",
+          "policy_relevance": "弱相关-医疗设备供应",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 00:05:15"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

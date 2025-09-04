@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-11 18:17:29",
+  "news_info": {
+    "id": "76e538b5f5",
+    "title": "特色赛事激活地方经济 为乡村振兴注入新动能",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTIBgIpDVWnMAkwvarZM1kD250811.shtml",
+    "publish_time": "2025-08-11 18:15:49",
+    "summary": "特色赛事激活地方经济 为乡村振兴注入新动能"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79375,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.71,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.02
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的政策导向性和市场影响力。本次报道聚焦特色赛事对乡村振兴的促进作用，体现了国家推动乡村经济发展的政策方向，综合强度0.79表明该主题具有较高的投资参考价值。",
+    "policy_impact": "该新闻虽未直接提及具体政策，但'乡村振兴'是国家长期战略，特色赛事作为新兴业态将获得政策持续支持，相关产业链企业将受益。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600158",
+        "stock_name": "中体产业",
+        "recommendation_reason": "作为国家体育总局旗下上市公司，在体育赛事运营方面具有资源优势，将直接受益于乡村特色赛事发展。",
+        "policy_relevance": "高度相关，直接参与体育赛事运营",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "603555",
+        "stock_name": "贵人鸟",
+        "recommendation_reason": "运动服饰龙头企业，乡村体育赛事发展将带动运动装备需求增长。",
+        "policy_relevance": "中等相关，产业链受益",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "000558",
+        "stock_name": "莱茵体育",
+        "recommendation_reason": "专注体育产业运营，在乡村体育旅游领域有布局，符合乡村振兴战略方向。",
+        "policy_relevance": "中等相关，业务契合",
+        "urgency_level": "中",
+        "confidence_score": 0.72
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

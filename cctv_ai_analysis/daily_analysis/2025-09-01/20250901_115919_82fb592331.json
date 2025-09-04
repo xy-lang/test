@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 11:59:19",
+  "news_info": {
+    "id": "82fb592331",
+    "title": "2025开学寄语丨北京师范大学东营实验学校：开启新征程 创造新精彩",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901114246703626494.html",
+    "publish_time": "2025-09-01 11:42:00",
+    "summary": "2025开学寄语丨北京师范大学东营实验学校：开启新征程 创造新精彩"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.28
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600661\",\n      \"stock_name\": \"昂立教育\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"技术指标相对稳健，在3只股票中表现最佳，与教育服务板块关联度较高，受益于开学季政策催化，短期存在业绩预期改善机会\",\n      \"risk_warning\": \"教育板块政策风险依然存在，技术评分0.23显示整体板块强度偏弱，需关注政策变化对个股的影响\"\n    },\n    {\n      \"stock_code\": \"002659\",\n      \"stock_name\": \"凯文教育\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"作为教育服务标的，与新闻主题有一定关联，但技术指标相对较弱，板块强度支撑有限，更多依赖政策预期\",\n      \"risk_warning\": \"基本面风险较高，技术评分偏低，市场情绪支撑不足，需谨慎关注政策落地效果\"\n    },\n    {\n      \"stock_code\": \"300010\",\n      \"stock_name\": \"豆神教育\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"与教育题材相关，但技术指标表现最弱，板块强度0.233显示整体支撑有限，短期催化效应相对较弱\",\n      \"risk_warning\": \"个股基本面风险较高，技术指标不配合，市场时机风险较大，建议谨慎参与\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"教育服务板块整体强度偏弱(0.233)，技术评分较低(0.23)，显示市场对该板块热情有限\",\n    \"policy_impact\": \"开学季政策催化存在但强度一般，需要更多实质性政策支持\",\n    \"recommendation_level\": \"谨慎推荐，建议控制仓位，重点关注政策面变化\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "recommendation_reason": "作为K12教育服务商，与北师大合作办学模式存在潜在关联，但新闻本身缺乏实质性利好",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "300010",
+        "stock_name": "豆神教育",
+        "recommendation_reason": "涉足教育信息化和课外辅导，但新闻未提及相关业务领域",
+        "policy_relevance": "很低",
+        "urgency_level": "很低",
+        "confidence_score": 0.2
+      },
+      {
+        "rank": 3,
+        "stock_code": "002659",
+        "stock_name": "凯文教育",
+        "recommendation_reason": "主营国际学校教育服务，与新闻中的实验学校模式有微弱关联性",
+        "policy_relevance": "很低",
+        "urgency_level": "很低",
+        "confidence_score": 0.15
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为北京师范大学东营实验学校的开学寄语，属于常规教育类报道，投资价值有限。央视新闻的权威性虽高，但内容本身缺乏实质性政策信号或行业变革信息，更多是教育系统的常规宣传，对资本市场直接影响较弱。",
+      "policy_impact": "低政策影响。新闻未涉及新的教育政策或财政投入，仅为现有教育体系的常规运营报道，对教育行业政策预期无显著影响。",
+      "theme_classification": {
+        "theme_type": "教育服务",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "教育",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600661",
+          "stock_name": "昂立教育",
+          "recommendation_reason": "作为K12教育服务商，与北师大合作办学模式存在潜在关联，但新闻本身缺乏实质性利好",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "300010",
+          "stock_name": "豆神教育",
+          "recommendation_reason": "涉足教育信息化和课外辅导，但新闻未提及相关业务领域",
+          "policy_relevance": "很低",
+          "urgency_level": "很低",
+          "confidence_score": 0.2
+        },
+        {
+          "rank": 3,
+          "stock_code": "002659",
+          "stock_name": "凯文教育",
+          "recommendation_reason": "主营国际学校教育服务，与新闻中的实验学校模式有微弱关联性",
+          "policy_relevance": "很低",
+          "urgency_level": "很低",
+          "confidence_score": 0.15
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:59:19"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

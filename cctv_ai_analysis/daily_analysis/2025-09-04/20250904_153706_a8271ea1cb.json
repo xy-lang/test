@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-09-04 15:37:06",
+  "news_info": {
+    "id": "a8271ea1cb",
+    "title": "【视评】“陪爬”的价值导向歪不得",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904151128842278315.html",
+    "publish_time": "2025-09-04 15:11:00",
+    "summary": "【视评】“陪爬”的价值导向歪不得"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7426,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.66,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.42
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其评论文章具有极强的政策导向性和市场影响力。本次评论聚焦'陪爬'现象的价值导向问题，综合强度0.74分表明该话题具有较高社会关注度和政策敏感性，虽未直接提及具体政策，但体现了国家对文化价值观引导的重视程度",
+    "policy_impact": "该评论暗示文化娱乐领域将加强价值导向监管，可能对相关文化产业、旅游服务、青少年教育等板块产生政策引导效应。央视的权威发声往往预示着后续可能出台相关规范政策，投资者需关注文化传媒、教育培训等相关行业的政策动向",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "603888",
+        "stock_name": "新华网",
+        "recommendation_reason": "作为央媒旗下上市公司，直接受益于主流价值观传播加强的趋势，央视权威评论往往带动整个央媒板块关注度提升",
+        "policy_relevance": "高度相关，属于主流媒体阵地建设",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "recommendation_reason": "作为文化传媒龙头企业，在价值观导向方面具有示范效应，可能受益于行业规范提升带来的市场集中度提高",
+        "policy_relevance": "中度相关，涉及文化内容生产与传播",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "recommendation_reason": "游戏及文化内容提供商，在青少年价值观引导方面具有社会责任，符合主流价值导向要求",
+        "policy_relevance": "中度相关，涉及文化产品价值导向",
+        "urgency_level": "中等",
+        "confidence_score": 0.72
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 15:37:06"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

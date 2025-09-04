@@ -1,0 +1,116 @@
+{
+  "analysis_time": "2025-08-18 17:10:05",
+  "news_info": {
+    "id": "8ad64a40f2",
+    "title": "国务院新闻办公室8月18日举行“高质量完成‘十四五’规划”系列主题新闻发布会，中央统战部、全国人大常委会、全国政协、国家民委的相关负责人介绍了“十四五”时期发展社会主义民主有关情况。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTI6nKOJ3hIvj3JbDnkcAXS250818.shtml",
+    "publish_time": "2025-08-18 11:04:00",
+    "summary": "国务院新闻办公室8月18日举行“高质量完成‘十四五’规划”系列主题新闻发布会，中央统战部、全国人大常..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.732,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.8,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 3,
+      "hours_since_publish": 6.09
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"中国建筑(601668)\",\n      \"score\": 0.82,\n      \"reason\": \"作为'十四五'基建核心标的，技术面呈现筑底形态，近期获主力资金小幅流入。政策直接受益于新型城镇化建设，订单储备充足。\",\n      \"risk\": \"房地产投资下滑可能影响部分业务\"\n    },\n    {\n      \"stock\": \"中国铁建(601186)\",\n      \"score\": 0.78,\n      \"reason\": \"交通强国战略主要实施主体，技术指标显示超卖反弹迹象。特别受益于中西部铁路网建设加速，PE处于历史低位。\",\n      \"risk\": \"地方政府财政压力可能延缓项目付款\"\n    },\n    {\n      \"stock\": \"中国石化(600028)\",\n      \"score\": 0.65,\n      \"reason\": \"能源安全战略标的，但技术面仍处下降通道。炼化转型升级与新能源布局符合规划方向，需等待油价企稳信号。\",\n      \"risk\": \"国际油价波动及新能源替代压力\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.45,\n    \"key_observation\": \"基建板块呈现政策底特征，但市场整体风险偏好仍低，建议采用防御性配置策略\"\n  },\n  \"time_horizon\": {\n    \"short_term\": \"3-6个月政策窗口期\",\n    \"medium_term\": \"需观察专项债发行进度和实物工作量\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "作为基建龙头，将直接受益于'十四五'规划中的基础设施建设投资",
+        "policy_relevance": "高",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "recommendation_reason": "铁路等重大基础设施建设是'十四五'重点，公司作为行业龙头将受益",
+        "policy_relevance": "高",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "recommendation_reason": "能源安全是'十四五'重要议题，公司作为能源央企将获得政策支持",
+        "policy_relevance": "中",
+        "urgency_level": "长期关注",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于国家层面的政策宣导，虽然内容较为宏观，但体现了'十四五'规划的重要政策导向。央视新闻作为国家级媒体，其权威性确保了信息的准确性和影响力，但具体到投资层面，需要更具体的政策细则才能产生直接影响。",
+      "policy_impact": "中等偏上。新闻涉及国家顶层设计，但缺乏具体行业或企业的直接关联信息。可能对基础设施建设、民生改善等相关领域产生长期利好。",
+      "theme_classification": {
+        "theme_type": "国家战略规划",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "基础设施建设",
+          "公共服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "作为基建龙头，将直接受益于'十四五'规划中的基础设施建设投资",
+          "policy_relevance": "高",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "601186",
+          "stock_name": "中国铁建",
+          "recommendation_reason": "铁路等重大基础设施建设是'十四五'重点，公司作为行业龙头将受益",
+          "policy_relevance": "高",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600028",
+          "stock_name": "中国石化",
+          "recommendation_reason": "能源安全是'十四五'重要议题，公司作为能源央企将获得政策支持",
+          "policy_relevance": "中",
+          "urgency_level": "长期关注",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": null,
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

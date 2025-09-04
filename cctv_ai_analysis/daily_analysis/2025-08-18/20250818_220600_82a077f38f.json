@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-08-18 22:06:00",
+  "news_info": {
+    "id": "82a077f38f",
+    "title": "大江南北“夜经济”的魅力，各具特色。在众多的城市中，湖南长沙可以说是非常热门的城市之一。数据显示，长沙夜间消费已经占全天消费比重的60%。现在，跟着我们的总台记者，一起去夜长沙感受这座城市不一样的烟火。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIkdSdrmUijDOwrRNXgWJp250818.shtml",
+    "publish_time": "2025-08-18 13:20:00",
+    "summary": "大江南北“夜经济”的魅力，各具特色。在众多的城市中，湖南长沙可以说是非常热门的城市之一。数据显示，长..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 8.75
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 22:06:00"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

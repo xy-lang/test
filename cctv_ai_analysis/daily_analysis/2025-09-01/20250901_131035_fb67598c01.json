@@ -1,0 +1,44 @@
+{
+  "analysis_time": "2025-09-01 13:10:35",
+  "news_info": {
+    "id": "fb67598c01",
+    "title": "情牵巴渝 山海守望——烟台毓璜顶医院李帆医师的巫山支医记",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901113935691403750.html",
+    "publish_time": "2025-09-01 11:39:00",
+    "summary": "情牵巴渝 山海守望——烟台毓璜顶医院李帆医师的巫山支医记"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7142,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.78,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.52
+    }
+  },
+  "ai_analysis": {
+    "status": "parse_error",
+    "content": "```json\n{\n    \"news_analysis\": \"该新闻为典型的地方医疗支援报道，内容涉及烟台毓璜顶医院医师在巫山的支医工作。从投资角度看，新闻本身缺乏直接的市场影响力和时效性，但体现了国家对基层医疗建设的持续重视。央视新闻的权威性虽高，但此类常规报道对股市的直接影响有限。\",\n    \n    \"policy_impact\": \"新闻反映了国家持续推进医疗资源下沉和区域医疗协作的政策导向。结合《\"健康中国2030\"规划纲要》和分级诊疗政策，预计将利好基层医疗设备采购和医疗信息化建设，但对具体上市公司的直接影响较为间接。\",\n    \n    \"theme_classification\": {\n        \"theme_type\": \"医疗支援/基层医疗建设\",\n        \"hardcore_level\": \"行业意志\",\n        \"sustainability_score\": 3,\n        \"related_sectors\": [\"医疗器械\", \"医疗服务\", \"医疗信息化\"]\n    },\n    \n    \"recommendations\": [\n        {\n            \"rank\": 1,\n            \"stock_code\": \"600587\",\n            \"stock_name\": \"新华医疗\",\n            \"recommendation_reason\": \"作为医疗器械龙头企业，受益于基层医疗设备采购政策，央视报道体现的医疗资源下沉趋势将带动设备需求\",\n            \"policy_relevance\": \"高 - 直接受益于基层医疗建设政策\",\n            \"urgency_level\": \"中等\",\n            \"confidence_score\": 0.65\n        },\n        {\n            \"rank\": 2,\n            \"stock_code\": \"300253\",\n            \"stock_name\": \"卫宁健康\",\n            \"recommendation_reason\": \"医疗信息化企业，区域医疗协作和分级诊疗推进将增加信息化系统需求\",\n            \"policy_relevance\": \"中 - 间接受益于医疗资源整合政策\",\n            \"urgency_level\": \"低\",\n            \"confidence_score\": 0.55\n        },\n        {\n            \"rank\": 3,\n            \"stock_code\": \"002223\",\n            \"stock_name\": \"鱼跃医疗\",\n            \"recommendation_reason\": \"家用医疗器械龙头，基层医疗建设将带动相关设备需求增长\",\n            \"policy_relevance\": \"中 - 受益于医疗设备普及政策\",\n            \"urgency_level\": \"低\",\n            \"confidence_score\": 0.50\n        }\n    ]\n}\n```",
+    "final_recommendations": [],
+    "analysis_method": "单阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 13:10:35"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

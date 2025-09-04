@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 00:33:43",
+  "news_info": {
+    "id": "cb2fa2af55",
+    "title": "据美国媒体8月13日报道，穆迪分析公司首席经济学家马克·赞迪日前发出警告，美国经济处于衰退边缘。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTIQENxxoDR374LCjr5rFaq250814.shtml",
+    "publish_time": "2025-08-15 00:31:19",
+    "summary": "据美国媒体8月13日报道，穆迪分析公司首席经济学家马克·赞迪日前发出警告，美国经济处于衰退边缘。"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.03
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的公信力和市场影响力。本次关于美国经济衰退风险的报道综合强度达0.82分，表明该消息对全球金融市场将产生显著影响，特别是对A股市场中的避险资产和出口相关板块。",
+    "policy_impact": "该新闻可能促使国内政策向稳经济方向倾斜，利好防御性板块和出口替代概念。同时可能加速人民币国际化进程，利好相关金融板块。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "作为优质银行股，在经济不确定性增加时具有防御属性，同时受益于可能的货币政策宽松预期",
+        "policy_relevance": "高 - 金融稳定是经济维稳的重要抓手",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "recommendation_reason": "医药板块作为传统防御性行业，在经济衰退预期下配置价值提升",
+        "policy_relevance": "中 - 医药行业受政策支持且需求刚性",
+        "urgency_level": "中",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "综合金融集团，在经济波动时期具有较强抗风险能力，同时受益于保险需求提升",
+        "policy_relevance": "中高 - 金融板块直接受益于经济维稳政策",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

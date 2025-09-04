@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-02 00:10:30",
+  "news_info": {
+    "id": "c216fcec9c",
+    "title": "丢了的苹果手机还能主动“找”回来 广西女孩点赞西安很神奇很OK",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901212551668823489.html",
+    "publish_time": "2025-09-01 21:25:00",
+    "summary": "丢了的苹果手机还能主动“找”回来 广西女孩点赞西安很神奇很OK"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.74
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002415\",\n      \"stock_name\": \"海康威视\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现稳健，板块强度0.600提供支撑，作为安防龙头直接受益于城市治理数字化趋势，新闻中提到的手机找回功能与公司视频监控业务高度相关，政策受益明确，基本面扎实\",\n      \"risk_alert\": \"需关注宏观经济对政府安防支出的影响，以及海外业务的地缘政治风险\"\n    },\n    {\n      \"stock_code\": \"300212\",\n      \"stock_name\": \"易华录\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"数据湖业务与城市数字化治理高度契合，技术评分符合板块平均水平，在数据存储和分析领域具有独特优势，受益于国家大数据战略\",\n      \"risk_alert\": \"业绩波动较大，需关注项目落地进度和现金流状况\"\n    },\n    {\n      \"stock_code\": \"603660\",\n      \"stock_name\": \"苏州科达\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"视频会议和安防监控业务与新闻主题相关，技术指标处于合理区间，市值相对较小具备弹性\",\n      \"risk_alert\": \"竞争激烈，毛利率承压，需关注盈利能力改善情况\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.600,\n    \"market_sentiment\": \"中性偏积极\",\n    \"policy_benefit_level\": \"国家意志驱动，中长期利好\",\n    \"risk_assessment\": \"板块风险中等，个股分化明显，建议重点关注龙头标的\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "recommendation_reason": "作为安防监控龙头，受益于城市治理数字化和公共安全建设，央视报道体现了社会治理需求",
+        "policy_relevance": "高 - 符合平安中国和智慧城市建设政策导向",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300212",
+        "stock_name": "易华录",
+        "recommendation_reason": "专注于智慧城市解决方案，新闻反映的城市治理需求与其业务高度相关",
+        "policy_relevance": "中高 - 契合城市数字化治理趋势",
+        "urgency_level": "中等",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "603660",
+        "stock_name": "苏州科达",
+        "recommendation_reason": "视频监控和视讯解决方案提供商，受益于公共安全领域投资增加",
+        "policy_relevance": "中 - 与城市安防治理相关",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻属于社会正能量报道，虽然内容本身不具备直接的投资价值，但体现了央视作为国家级媒体的舆论引导作用。新闻通过报道西安警方帮助找回丢失苹果手机的事件，传递了城市治理效能和警民关系的正面形象，间接反映了社会治理能力的提升。",
+      "policy_impact": "该新闻体现了'平安中国'建设和城市治理现代化的政策导向。虽然不涉及具体产业政策，但反映了社会治理数字化转型的趋势，间接利好安防监控、城市智能化等相关产业。",
+      "theme_classification": {
+        "theme_type": "社会治理数字化/城市安防",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "安防设备",
+          "智慧城市",
+          "公共安全"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002415",
+          "stock_name": "海康威视",
+          "recommendation_reason": "作为安防监控龙头，受益于城市治理数字化和公共安全建设，央视报道体现了社会治理需求",
+          "policy_relevance": "高 - 符合平安中国和智慧城市建设政策导向",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300212",
+          "stock_name": "易华录",
+          "recommendation_reason": "专注于智慧城市解决方案，新闻反映的城市治理需求与其业务高度相关",
+          "policy_relevance": "中高 - 契合城市数字化治理趋势",
+          "urgency_level": "中等",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "603660",
+          "stock_name": "苏州科达",
+          "recommendation_reason": "视频监控和视讯解决方案提供商，受益于公共安全领域投资增加",
+          "policy_relevance": "中 - 与城市安防治理相关",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 00:10:30"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

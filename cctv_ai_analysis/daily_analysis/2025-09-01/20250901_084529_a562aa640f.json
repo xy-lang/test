@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 08:45:29",
+  "news_info": {
+    "id": "a562aa640f",
+    "title": "第二届“新质文化生产力”论坛举办",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901064250362638356.html",
+    "publish_time": "2025-09-01 06:42:00",
+    "summary": "第二届“新质文化生产力”论坛举办"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6746,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.66,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.05
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300291\",\n      \"stock_name\": \"华录百纳\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术面表现最佳，板块强度0.733提供良好支撑，与'新质文化生产力'主题高度契合，作为文化科技龙头企业直接受益政策导向，技术指标显示短期突破形态\",\n      \"risk_warning\": \"需关注文化传媒板块整体估值风险，短期涨幅较大可能面临技术性回调\"\n    },\n    {\n      \"stock_code\": \"002238\",\n      \"stock_name\": \"天威视讯\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"技术评分位于中上水平，受益于文化数字化政策，作为广电系代表企业具备内容+技术双重优势，市场情绪对传媒板块关注度提升\",\n      \"risk_warning\": \"传统广电业务面临转型压力，需关注业绩兑现进度\"\n    },\n    {\n      \"stock_code\": \"300148\",\n      \"stock_name\": \"天舟文化\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"符合新质生产力主题，但在技术指标上相对偏弱，作为教育文化标的具备长期价值，但短期催化效应可能较弱\",\n      \"risk_warning\": \"基本面改善需要时间验证，市场关注度相对较低\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_favorable\": true,\n    \"technical_indicator_alignment\": \"良好\",\n    \"policy_benefit_level\": \"高\",\n    \"short_term_catalyst\": \"中等偏强\",\n    \"sector_risk_level\": \"中等\",\n    \"market_timing_risk\": \"中等\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300291",
+        "stock_name": "华录百纳",
+        "recommendation_reason": "作为央视长期合作伙伴，在文化内容制作和数字文化领域布局深入，直接受益于新质文化生产力政策",
+        "policy_relevance": "高度相关",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "002238",
+        "stock_name": "天威视讯",
+        "recommendation_reason": "广电系文化传媒企业，在文化数字化转型升级方面具备先发优势，符合新质文化生产力发展方向",
+        "policy_relevance": "中度相关",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "300148",
+        "stock_name": "天舟文化",
+        "recommendation_reason": "专注于文化教育装备领域，在新质文化生产力装备升级方面具有技术积累和市场优势",
+        "policy_relevance": "中度相关",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视报道的'新质文化生产力'论坛，虽然评分较低，但央视作为国家级媒体平台，其报道具有政策风向标意义。'新质文化生产力'概念结合了文化强国战略与新质生产力政策导向，体现了国家推动文化产业高质量发展的决心。",
+      "policy_impact": "该新闻反映了国家对文化科技融合的高度重视，预计将推动文化数字化、文化装备升级等相关政策落地。央视的权威报道往往能引发市场关注，形成短期政策催化效应。",
+      "theme_classification": {
+        "theme_type": "文化科技+新质生产力",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "文化传媒",
+          "数字文化",
+          "文化装备"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300291",
+          "stock_name": "华录百纳",
+          "recommendation_reason": "作为央视长期合作伙伴，在文化内容制作和数字文化领域布局深入，直接受益于新质文化生产力政策",
+          "policy_relevance": "高度相关",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "002238",
+          "stock_name": "天威视讯",
+          "recommendation_reason": "广电系文化传媒企业，在文化数字化转型升级方面具备先发优势，符合新质文化生产力发展方向",
+          "policy_relevance": "中度相关",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "300148",
+          "stock_name": "天舟文化",
+          "recommendation_reason": "专注于文化教育装备领域，在新质文化生产力装备升级方面具有技术积累和市场优势",
+          "policy_relevance": "中度相关",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 08:45:29"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

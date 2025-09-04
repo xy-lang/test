@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-13 00:25:00",
+  "news_info": {
+    "id": "fa5aab6c32",
+    "title": "“观演+互动+消费”：“避暑经济”释放城市夜经济新活力",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/12/ARTIEiv9sZmMHid03JUYvy8m250812.shtml",
+    "publish_time": "2025-08-13 00:23:46",
+    "summary": "“观演+互动+消费”：“避暑经济”释放城市夜经济新活力"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.81355,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.77,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有高度公信力和政策导向性。本次关于'避暑经济'释放城市夜经济新活力的报道，综合强度0.81分，表明这是一个具有较高关注度和持续性的经济热点。",
+    "policy_impact": "该新闻虽未直接提及具体政策，但'夜经济'是近年来国家重点培育的经济增长点，与促消费、稳增长等宏观政策方向高度契合，预计将获得持续政策支持。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "作为国内领先的酒店集团，将直接受益于避暑旅游和夜经济带动的住宿需求增长",
+        "policy_relevance": "高度契合促消费政策导向",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "主营避暑胜地九华山旅游业务，将显著受益于避暑经济热潮",
+        "policy_relevance": "直接受益于旅游消费政策",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "600754",
+        "stock_name": "锦江股份",
+        "recommendation_reason": "旗下众多酒店和餐饮品牌将受益于城市夜经济消费升级",
+        "policy_relevance": "符合夜间消费升级趋势",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

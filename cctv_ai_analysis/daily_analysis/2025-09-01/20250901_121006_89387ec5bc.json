@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-09-01 12:10:06",
+  "news_info": {
+    "id": "89387ec5bc",
+    "title": "隆尧县12对新人举办集体婚礼",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901115257006884243.html",
+    "publish_time": "2025-09-01 11:52:00",
+    "summary": "隆尧县12对新人举办集体婚礼"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7360000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.64,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.29
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"综合金融属性较强，技术指标相对稳健，在银行和综合板块中具备较好的防御性和稳定性，虽然与集体婚礼新闻直接关联度较低，但作为金融龙头在市场情绪平稳时具备配置价值\",\n      \"risk_warning\": \"保险业务受宏观经济影响较大，市场利率波动可能影响投资收益\"\n    },\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"银行板块中零售业务领先，技术评分相对较高，板块强度0.15显示一定支撑，但缺乏明确的短期催化剂\",\n      \"risk_warning\": \"银行业面临净息差收窄压力，房地产风险敞口需要关注\"\n    },\n    {\n      \"stock_code\": \"000001\",\n      \"stock_name\": \"平安银行\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"与集团协同效应明显，但技术指标相对较弱，板块支撑力度有限，缺乏与新闻事件的直接关联\",\n      \"risk_warning\": \"中小微企业贷款风险较高，需关注资产质量变化\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.15偏弱，市场情绪中性，技术指标平均评分0.15显示整体技术面支撑有限\",\n    \"news_relevance\": \"集体婚礼新闻与金融股关联度极低，缺乏直接政策受益和短期催化剂\",\n    \"risk_assessment\": \"银行板块面临息差压力和信用风险，综合金融股受市场波动影响较大，当前时机缺乏明确上涨动力\"\n  },\n  \"general_risk_warning\": \"推荐股票与新闻主题关联度较弱，缺乏明确的投资主题和催化剂。技术面支撑有限，板块强度偏弱。建议谨慎配置，控制仓位，关注后续政策面和基本面的变化。投资有风险，入市需谨慎。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "recommendation_reason": "基于新闻内容无投资价值，推荐关注基本面优质的金融股作为防御性配置",
+        "policy_relevance": "无关联",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 2,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "新闻缺乏投资指引，建议关注业绩稳定的银行股",
+        "policy_relevance": "无关联",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 3,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "无实质性新闻驱动，推荐关注保险龙头作为长期配置",
+        "policy_relevance": "无关联",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性集体婚礼报道，属于常规社会新闻范畴，投资价值极低。央视新闻的权威性在此类非政策导向、非经济类新闻中不产生实质性投资影响。新闻内容缺乏时效性、政策关联性和行业影响力，不具备投资分析价值。",
+      "policy_impact": "无实质性政策影响。集体婚礼属于地方性文化活动，与宏观经济政策、产业政策无直接关联，不会对任何行业或上市公司产生政策驱动效应。",
+      "theme_classification": {
+        "theme_type": "无投资主题",
+        "hardcore_level": "无投资意志",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000001",
+          "stock_name": "平安银行",
+          "recommendation_reason": "基于新闻内容无投资价值，推荐关注基本面优质的金融股作为防御性配置",
+          "policy_relevance": "无关联",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 2,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "新闻缺乏投资指引，建议关注业绩稳定的银行股",
+          "policy_relevance": "无关联",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 3,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "无实质性新闻驱动，推荐关注保险龙头作为长期配置",
+          "policy_relevance": "无关联",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 12:10:06"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

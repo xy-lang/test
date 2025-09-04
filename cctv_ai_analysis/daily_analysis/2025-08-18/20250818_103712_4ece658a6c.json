@@ -1,0 +1,99 @@
+{
+  "analysis_time": "2025-08-18 10:37:12",
+  "news_info": {
+    "id": "4ece658a6c",
+    "title": "闭幕式整体时长约60分钟，包括本届世运会精彩视频回顾、运动员入场仪式、交旗仪式、文体表演等多个环节。闭幕式有哪些独特设计？一场“花园里的闭幕式”是如何打造的呢？一起来了解。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTINUVRhJNG4o7ZqGzY0FVg250818.shtml",
+    "publish_time": "2025-08-18 10:34:44",
+    "summary": "闭幕式整体时长约60分钟，包括本届世运会精彩视频回顾、运动员入场仪式、交旗仪式、文体表演等多个环节。..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.04
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻为世运会闭幕式报道，属于常规体育赛事报道，内容偏重文化展示和仪式流程，缺乏直接影响资本市场的硬核信息。央视新闻的权威性在此类报道中主要体现在传播广度和官方背书价值，但对具体投资标的的直接指引性较弱。",
+    "policy_impact": "低政策影响。文体活动报道通常不涉及重大产业政策调整，但可能短期提振文体旅游相关消费预期。",
+    "theme_classification": {
+      "theme_type": "大型赛事/文化传播",
+      "hardcore_level": "行业意志",
+      "sustainability_score": 3,
+      "related_sectors": [
+        "文化传媒",
+        "体育产业"
+      ]
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600158",
+        "stock_name": "中体产业",
+        "recommendation_reason": "作为国家体育总局旗下唯一上市平台，大型赛事报道可能提升市场对其体育运营业务的关注度",
+        "policy_relevance": "间接关联体育产业政策导向",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "603000",
+        "stock_name": "人民网",
+        "recommendation_reason": "央视新闻的权威报道模式可能强化市场对主流媒体平台的价值认知",
+        "policy_relevance": "媒体融合政策受益标的",
+        "urgency_level": "中低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下上市公司，或受益于大型活动制作经验的市场联想",
+        "policy_relevance": "文化输出战略关联",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "technical_verification": {
+      "original_count": 3,
+      "verified_count": 0,
+      "verified_stocks": [],
+      "sector_strength": 0.476,
+      "related_sectors": [
+        "文化传媒",
+        "体育产业"
+      ],
+      "verification_method": "AI粗筛+板块强度+综合评分",
+      "verification_threshold": 0.6,
+      "verification_time": "2025-08-18 10:37:11"
+    },
+    "final_recommendations": [],
+    "analysis_stages": {
+      "stage1_ai_count": 3,
+      "stage2_verified_count": 0,
+      "verification_method": "AI粗筛+板块强度+综合评分"
+    }
+  },
+  "sector_analysis": {
+    "error": "'SectorAnalyzer' object has no attribute 'compare_sectors'",
+    "analysis_time": "2025-08-18 10:37:12"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

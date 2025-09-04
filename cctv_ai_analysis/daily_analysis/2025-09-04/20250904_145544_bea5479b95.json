@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 14:55:44",
+  "news_info": {
+    "id": "bea5479b95",
+    "title": "男子用无人机给95岁的外婆送坨子肉",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904143439968713729.html",
+    "publish_time": "2025-09-04 14:34:00",
+    "summary": "男子用无人机给95岁的外婆送坨子肉"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7459,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.67,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.35
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002829\",\n      \"stock_name\": \"星网宇达\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现最佳，无人机导航定位核心标的，与新闻中无人机配送应用高度契合，板块强度支撑较强，短期存在政策催化预期\",\n      \"risk_warning\": \"需关注无人机监管政策变化风险，技术面存在短期回调压力\"\n    },\n    {\n      \"stock_code\": \"300177\",\n      \"stock_name\": \"中海达\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"高精度定位技术提供商，受益于无人机物流应用场景拓展，技术指标相对稳健，但关联度略低于星网宇达\",\n      \"risk_warning\": \"业绩波动性较大，需关注订单落地进度\"\n    },\n    {\n      \"stock_code\": \"603713\",\n      \"stock_name\": \"密尔克卫\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"智慧物流概念标的，但无人机配送业务占比较小，技术评分相对较低，更多属于概念性跟随\",\n      \"risk_warning\": \"与核心主题关联度较弱，存在概念炒作风险\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.633,\n    \"market_sentiment\": \"中性偏积极\",\n    \"technical_indicator_status\": \"整体配合度一般，需精选个股\"\n  },\n  \"overall_risk_alert\": \"无人机应用板块仍处于早期发展阶段，政策不确定性较高；当前市场情绪对题材炒作存在分歧，建议控制仓位，重点关注具有实质业务支撑的标的\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002829",
+        "stock_name": "星网宇达",
+        "recommendation_reason": "公司为无人机导航控制系统龙头，央视报道提升无人机社会认知度，间接利好行业应用推广",
+        "policy_relevance": "符合低空经济政策方向，无人机物流配送应用场景拓展",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300177",
+        "stock_name": "中海达",
+        "recommendation_reason": "无人机测绘与位置服务供应商，新闻体现的无人机创新应用有助于行业需求培育",
+        "policy_relevance": "受益于无人机多元化应用场景政策支持",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "603713",
+        "stock_name": "密尔克卫",
+        "recommendation_reason": "智能物流服务商，无人机配送是智慧物流的重要发展方向",
+        "policy_relevance": "契合现代物流体系智能化升级政策要求",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻属于社会温情类报道，内容为无人机送餐的暖心事件，虽具有情感传播价值但投资属性较弱。央视新闻的权威性主要体现在政策解读和重大事件报道，此类社会新闻对资本市场直接影响有限。新闻评分显示第一时间性、硬核程度、持续性均为0分，表明不具备明显的投资时效性和深度价值。",
+      "policy_impact": "无人机配送符合国家'低空经济'政策导向，工信部《关于推动未来产业创新发展的实施意见》明确支持无人机物流配送应用。但该新闻为个案报道，未涉及具体政策发布或行业重大突破，政策影响程度有限。主要体现为对无人机应用场景的形象宣传，间接利好行业认知度提升。",
+      "theme_classification": {
+        "theme_type": "无人机应用/智慧物流",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "无人机",
+          "物流配送",
+          "低空经济"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002829",
+          "stock_name": "星网宇达",
+          "recommendation_reason": "公司为无人机导航控制系统龙头，央视报道提升无人机社会认知度，间接利好行业应用推广",
+          "policy_relevance": "符合低空经济政策方向，无人机物流配送应用场景拓展",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300177",
+          "stock_name": "中海达",
+          "recommendation_reason": "无人机测绘与位置服务供应商，新闻体现的无人机创新应用有助于行业需求培育",
+          "policy_relevance": "受益于无人机多元化应用场景政策支持",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "603713",
+          "stock_name": "密尔克卫",
+          "recommendation_reason": "智能物流服务商，无人机配送是智慧物流的重要发展方向",
+          "policy_relevance": "契合现代物流体系智能化升级政策要求",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 14:55:44"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

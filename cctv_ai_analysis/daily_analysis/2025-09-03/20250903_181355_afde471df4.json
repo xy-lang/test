@@ -1,0 +1,122 @@
+{
+  "analysis_time": "2025-09-03 18:13:55",
+  "news_info": {
+    "id": "afde471df4",
+    "title": "习近平会见印度尼西亚总统普拉博沃",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIsggBqpi8yran8jR9g0HW250903.shtml",
+    "publish_time": "2025-09-03 17:42:36",
+    "summary": "习近平会见印度尼西亚总统普拉博沃"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7921,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.66,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.51
+    }
+  },
+  "ai_analysis": {
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "作为'一带一路'基建龙头，中印尼基础设施合作主要受益标的，央视权威报道提升市场关注度",
+        "policy_relevance": "高度相关，直接受益于中印尼基建合作预期",
+        "urgency_level": "中等",
+        "confidence_score": 0.75,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 2,
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "recommendation_reason": "在东南亚地区具有丰富工程经验，高层会晤可能推动雅万高铁延伸等重大项目",
+        "policy_relevance": "高度相关，基建出海核心标的",
+        "urgency_level": "中等",
+        "confidence_score": 0.7,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 3,
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "recommendation_reason": "印尼是重要能源合作伙伴，双边能源合作可能涉及油气资源开发与贸易",
+        "policy_relevance": "中等相关，能源合作是双边重要议题",
+        "urgency_level": "一般",
+        "confidence_score": 0.65,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      }
+    ],
+    "stage2_status": "fallback_enhanced",
+    "fallback_reason": "使用规则增强的第一阶段结果",
+    "enhancement_applied": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为国家元首级别外交会晤，虽然内容简短但政治意义重大。央视新闻作为国家级权威媒体，其报道具有政策导向性和市场影响力。中印尼高层会晤通常涉及双边经贸合作、基础设施建设、能源资源等领域的合作意向，对相关板块具有潜在催化作用。",
+      "policy_impact": "高层外交会晤往往预示着后续具体合作项目的推进，特别是在'一带一路'框架下的基础设施建设和经贸合作。印尼作为东盟重要经济体，双边合作可能涉及数字经济、绿色能源、基础设施建设等重点领域。",
+      "theme_classification": {
+        "theme_type": "外交合作/一带一路",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "基础设施建设",
+          "国际工程承包",
+          "数字经济"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "作为'一带一路'基建龙头，中印尼基础设施合作主要受益标的，央视权威报道提升市场关注度",
+          "policy_relevance": "高度相关，直接受益于中印尼基建合作预期",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "601186",
+          "stock_name": "中国铁建",
+          "recommendation_reason": "在东南亚地区具有丰富工程经验，高层会晤可能推动雅万高铁延伸等重大项目",
+          "policy_relevance": "高度相关，基建出海核心标的",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600028",
+          "stock_name": "中国石化",
+          "recommendation_reason": "印尼是重要能源合作伙伴，双边能源合作可能涉及油气资源开发与贸易",
+          "policy_relevance": "中等相关，能源合作是双边重要议题",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:13:55"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

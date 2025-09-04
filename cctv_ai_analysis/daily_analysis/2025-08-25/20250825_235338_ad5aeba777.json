@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-25 23:53:38",
+  "news_info": {
+    "id": "ad5aeba777",
+    "title": "“剑鱼”在越南登陆 海南解除台风三级预警、终止防汛防风Ⅲ级应急响应",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIdenfeEphgkDFZlwYlFVR250825.shtml",
+    "publish_time": "2025-08-25 22:41:19",
+    "summary": "“剑鱼”在越南登陆 海南解除台风三级预警、终止防汛防风Ⅲ级应急响应"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.19
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_code\": \"601800\",\n      \"stock_name\": \"中国交建\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"台风灾害后的基础设施修复和重建需求直接利好基建龙头，技术指标显示相对稳健，政策受益程度高，短期催化剂明确\",\n      \"risk_warning\": \"基建项目周期较长，短期业绩兑现可能存在时滞；宏观经济政策变化可能影响基建投资力度\"\n    },\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"作为保险龙头，灾害后的理赔和保险需求增加带来业务机会，技术面相对稳定，具备防御属性\",\n      \"risk_warning\": \"保险赔付支出可能短期内增加；资本市场波动可能影响投资收益\"\n    },\n    {\n      \"stock_code\": \"000888\",\n      \"stock_name\": \"峨眉山A\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"台风过后旅游需求可能恢复性增长，但直接关联度相对较弱，技术评分一般，属于间接受益标的\",\n      \"risk_warning\": \"旅游行业复苏存在不确定性；季节性因素影响较大；技术面支撑相对较弱\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"中性偏积极\",\n    \"sector_strength_assessment\": \"基建板块受益明确，保险板块防御性较强，旅游板块间接受益\",\n    \"key_catalysts\": \"灾后重建政策支持、基础设施修复需求、保险理赔业务增长\",\n    \"major_risks\": \"板块技术强度一般(0.357)，市场整体情绪仍需观察，个别股票基本面与技术面匹配度有待验证\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000888",
+        "stock_name": "峨眉山A",
+        "recommendation_reason": "台风预警解除后，海南旅游市场将快速恢复，带动全国旅游板块情绪修复",
+        "policy_relevance": "间接受益于灾害预警解除带来的旅游消费恢复",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "台风未造成重大损失，保险理赔压力较小，利好保险板块",
+        "policy_relevance": "灾害风险消除降低保险赔付预期",
+        "urgency_level": "低",
+        "confidence_score": 0.4
+      },
+      {
+        "rank": 3,
+        "stock_code": "601800",
+        "stock_name": "中国交建",
+        "recommendation_reason": "灾害应急响应终止后，基础设施修复需求可能存在短期机会",
+        "policy_relevance": "灾后重建概念，但实际影响有限",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为台风灾害预警解除类报道，投资价值有限。虽然央视新闻具有权威性，但内容属于常规灾害预警信息，时效性极短，对资本市场影响微弱。新闻发布后海南解除台风预警，表明灾害风险已基本消除，对相关产业的负面影响有限。",
+      "policy_impact": "低政策影响。属于常规应急管理信息发布，不涉及重大政策调整或产业扶持政策。主要体现政府应急管理能力的提升，对投资决策的指导意义较弱。",
+      "theme_classification": {
+        "theme_type": "灾害应急/区域经济恢复",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "基础设施建设",
+          "保险",
+          "旅游酒店"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000888",
+          "stock_name": "峨眉山A",
+          "recommendation_reason": "台风预警解除后，海南旅游市场将快速恢复，带动全国旅游板块情绪修复",
+          "policy_relevance": "间接受益于灾害预警解除带来的旅游消费恢复",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "台风未造成重大损失，保险理赔压力较小，利好保险板块",
+          "policy_relevance": "灾害风险消除降低保险赔付预期",
+          "urgency_level": "低",
+          "confidence_score": 0.4
+        },
+        {
+          "rank": 3,
+          "stock_code": "601800",
+          "stock_name": "中国交建",
+          "recommendation_reason": "灾害应急响应终止后，基础设施修复需求可能存在短期机会",
+          "policy_relevance": "灾后重建概念，但实际影响有限",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 23:53:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-08-19 21:41:45",
+  "news_info": {
+    "id": "7b9ed7f924",
+    "title": "多元业态深度融合 助力中华优秀文化走向世界",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTIzfBOLc7abxU5xig5WxdH250819.shtml",
+    "publish_time": "2025-08-19 13:52:00",
+    "summary": "多元业态深度融合 助力中华优秀文化走向世界"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6577500000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.71,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 7.81
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有高度政策导向性和市场影响力。本次新闻聚焦'多元业态深度融合助力中华文化走向世界'，综合强度0.66分表明该主题具有较强政策延续性和市场关注度。新闻发布7.8小时处于政策响应黄金期，虽未直接提及具体政策文件，但'文化输出''业态融合'等关键词与当前文化强国战略高度契合",
+    "policy_impact": "该报道释放出文化产业升级和出海的政策支持信号，符合'十四五'文化产业发展规划方向。硬核程度0.67分表明产业指导性明确，持续性0.71分预示相关扶持政策可能持续加码。重点关注文化科技融合、跨境文化贸易、文化装备制造等领域政策红利",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "603888",
+        "stock_name": "新华网",
+        "recommendation_reason": "作为国家级媒体旗舰，直接受益文化出海政策。央视新闻的权威报道将强化市场对主流媒体平台价值重估，公司跨境媒体服务和文化数字化业务契合新闻主题",
+        "policy_relevance": "直接对应文化输出主体，政策匹配度90%",
+        "urgency_level": "高（24小时内决策）",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "recommendation_reason": "文旅演艺龙头，'千古情'系列海外拓展计划与新闻提及的文化输出高度契合。多元业态融合示范企业，近期海外项目推进获政策支持",
+        "policy_relevance": "文化出海实践主体，政策匹配度85%",
+        "urgency_level": "中高（72小时内决策）",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "recommendation_reason": "游戏出海领军企业，文化科技融合典范。新闻提及的业态深度融合对应公司'游戏+影视'跨界生态，海外业务占比超30%直接受益文化输出政策",
+        "policy_relevance": "数字文化输出代表，政策匹配度80%",
+        "urgency_level": "中（周内决策）",
+        "confidence_score": 0.79
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 21:41:45"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 17:08:05",
+  "news_info": {
+    "id": "07e5747931",
+    "title": "货架上的“上合味道”跨越山海 丰富消费者“菜篮子”“米袋子”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIJZNTfKdf4o6cWGBFwaHR250901.shtml",
+    "publish_time": "2025-09-01 16:33:20",
+    "summary": "货架上的“上合味道”跨越山海 丰富消费者“菜篮子”“米袋子”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.56
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600598\",\n      \"stock_name\": \"北大荒\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为国内最大的农业上市公司，直接受益于上合组织农产品贸易合作。技术面显示板块强度0.65支撑良好，公司基本面稳健，在农产品贸易和粮食安全政策背景下具有明确的政策受益逻辑，短期催化剂明确。\",\n      \"risk_warning\": \"需关注农产品价格波动风险和政策执行进度不及预期的风险\"\n    },\n    {\n      \"stock_code\": \"600057\",\n      \"stock_name\": \"厦门象屿\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"作为厦门地区重要的物流贸易企业，深度参与区域经济合作，在上合组织框架下的贸易往来中具有区位优势。技术评分符合板块平均水平，受益于一带一路和区域合作政策。\",\n      \"risk_warning\": \"国际贸易环境变化可能影响业务稳定性，需关注汇率波动风险\"\n    },\n    {\n      \"stock_code\": \"600735\",\n      \"stock_name\": \"新华锦\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"主营进出口贸易业务，间接受益于上合组织贸易合作扩大，但关联度相对较弱。技术面表现符合板块平均水平，具有一定的政策预期支撑。\",\n      \"risk_warning\": \"业务多元化程度较高，农产品贸易占比相对较小，政策受益程度有限\"\n    }\n  ],\n  \"overall_risk_alert\": \"当前板块整体强度中等（0.65），需警惕市场整体情绪波动风险。农产品贸易板块受政策影响较大，存在政策执行不及预期的风险。建议控制仓位，密切关注上合组织相关合作进展和农产品价格走势。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600598",
+        "stock_name": "北大荒",
+        "recommendation_reason": "央视报道凸显农产品进出口政策支持，公司作为农业龙头受益于'一带一路'农产品贸易深化",
+        "policy_relevance": "直接受益农产品贸易便利化政策",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "600735",
+        "stock_name": "新华锦",
+        "recommendation_reason": "主营进出口贸易，深度参与上合组织国家贸易，新闻体现的区域合作深化有利于公司业务拓展",
+        "policy_relevance": "区域贸易合作直接受益标的",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "recommendation_reason": "物流供应链企业，受益于农产品跨境贸易增长，新闻反映的'菜篮子'工程提升物流需求",
+        "policy_relevance": "间接受益农产品流通体系建设",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视报道，但内容属于常规时政要闻，报道上合组织农产品贸易进展，缺乏突发性和重大政策突破。央视权威性虽高，但该新闻投资价值有限，更多体现政策延续性而非新机遇。",
+      "policy_impact": "中等偏低。延续'一带一路'农产品贸易政策，无新增量信息。上合组织合作是长期战略，但此新闻未释放超预期政策信号，对市场影响偏中性。",
+      "theme_classification": {
+        "theme_type": "农产品贸易+区域经济合作",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "农产品加工",
+          "国际贸易",
+          "物流运输"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600598",
+          "stock_name": "北大荒",
+          "recommendation_reason": "央视报道凸显农产品进出口政策支持，公司作为农业龙头受益于'一带一路'农产品贸易深化",
+          "policy_relevance": "直接受益农产品贸易便利化政策",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "600735",
+          "stock_name": "新华锦",
+          "recommendation_reason": "主营进出口贸易，深度参与上合组织国家贸易，新闻体现的区域合作深化有利于公司业务拓展",
+          "policy_relevance": "区域贸易合作直接受益标的",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "600057",
+          "stock_name": "厦门象屿",
+          "recommendation_reason": "物流供应链企业，受益于农产品跨境贸易增长，新闻反映的'菜篮子'工程提升物流需求",
+          "policy_relevance": "间接受益农产品流通体系建设",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 17:08:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-09-01 11:52:05",
+  "news_info": {
+    "id": "340474e325",
+    "title": "【天眼问法】法律上不存在“试岗”概念",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901113743125736889.html",
+    "publish_time": "2025-09-01 11:37:00",
+    "summary": "【天眼问法】法律上不存在“试岗”概念"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7492000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.68,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.24
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"综合金融属性强，技术评分相对较高（0.18），受益于金融监管政策稳定预期，新闻中提及的法律概念对保险业务影响较小，具备较好的防御属性\",\n      \"risk_warning\": \"保险业务受宏观经济影响较大，市场利率波动可能影响投资收益\"\n    },\n    {\n      \"stock_code\": \"000001\",\n      \"stock_name\": \"平安银行\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"银行板块整体强度0.15提供一定支撑，技术指标相对稳定，银行业务与新闻主题关联度较低，受政策影响相对间接\",\n      \"risk_warning\": \"银行业面临净息差收窄压力，房地产相关风险需要关注\"\n    },\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"零售银行龙头，但技术评分相对较低，板块整体强度有限，与新闻主题关联度弱，短期缺乏明显催化剂\",\n      \"risk_warning\": \"零售银行业务竞争激烈，财富管理业务可能受市场波动影响\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"板块强度0.15偏弱，技术指标平均评分0.15显示整体技术面支撑有限，市场情绪偏向谨慎\",\n    \"news_correlation\": \"新闻内容涉及劳动法律概念，与金融股关联度较低，政策受益程度有限，缺乏短期催化剂\",\n    \"risk_assessment\": \"银行和综合金融板块面临宏观经济压力和监管环境变化风险，建议控制仓位，注重防御性配置\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "recommendation_reason": "央视新闻无投资价值，推荐优质蓝筹股作为防御性配置",
+        "policy_relevance": "无直接关联",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 2,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "新闻缺乏投资指引，建议关注基本面稳健的金融股",
+        "policy_relevance": "无直接关联",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 3,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "普法类新闻无投资机会，推荐保险龙头作为长期配置",
+        "policy_relevance": "无直接关联",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视发布的普法类时政要闻，虽然内容涉及劳动法概念澄清，但投资价值极低。新闻时效性、硬核程度和持续性评分均为0/10，表明该内容属于常规普法宣传，不具备投资指导意义。央视权威性在此类新闻中主要体现在舆论引导作用，而非投资信号释放。",
+      "policy_impact": "无实质性政策影响。该新闻仅为法律概念澄清，不涉及新政策出台或政策方向调整，对市场无直接影响。属于常规法治宣传内容，不具备政策转折点特征。",
+      "theme_classification": {
+        "theme_type": "无投资主题",
+        "hardcore_level": "无投资意志体现",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000001",
+          "stock_name": "平安银行",
+          "recommendation_reason": "央视新闻无投资价值，推荐优质蓝筹股作为防御性配置",
+          "policy_relevance": "无直接关联",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 2,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "新闻缺乏投资指引，建议关注基本面稳健的金融股",
+          "policy_relevance": "无直接关联",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 3,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "普法类新闻无投资机会，推荐保险龙头作为长期配置",
+          "policy_relevance": "无直接关联",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:52:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

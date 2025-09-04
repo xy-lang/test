@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 00:28:16",
+  "news_info": {
+    "id": "59ab61baed",
+    "title": "【图云关·跨越八十年的回响】美国援华护士陈贞洁女儿伊莱恩·袁：在这里，我懂得了她的义无反顾",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250831210335489445702.html",
+    "publish_time": "2025-08-31 21:03:00",
+    "summary": "【图云关·跨越八十年的回响】美国援华护士陈贞洁女儿伊莱恩·袁：在这里，我懂得了她的义无反顾"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 3.41
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600056\",\n      \"stock_name\": \"中国医药\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现稳健，板块强度0.583提供支撑，与新闻主题高度契合（医疗国际合作），作为央企医药龙头直接受益于国际医疗合作政策，短期催化剂明确\",\n      \"risk_warning\": \"需关注医药集采政策变化风险，板块整体估值偏高风险\"\n    },\n    {\n      \"stock_code\": \"600196\",\n      \"stock_name\": \"复星医药\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"国际化布局深入，与新闻中美国援华医疗主题形成良好呼应，技术指标处于相对低位具备反弹空间，创新药管线丰富提供长期价值支撑\",\n      \"risk_warning\": \"研发投入较大影响短期利润，海外业务面临地缘政治风险\"\n    },\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"心血管器械龙头，受益于医疗设备国产化趋势，技术面相对稳健，但与国际医疗合作主题关联度稍弱于前两只\",\n      \"risk_warning\": \"医疗器械集采压力较大，竞争格局激烈影响盈利能力\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.583,\n    \"market_sentiment\": \"中性偏积极\",\n    \"technical_indicator_score\": 0.58,\n    \"news_relevance\": \"高度相关\",\n    \"risk_level\": \"中等\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600056",
+        "stock_name": "中国医药",
+        "recommendation_reason": "作为央企医药流通龙头，具有丰富的国际医疗合作经验，与新闻中医疗国际合作主题高度契合，央视权威报道可能提升公司品牌价值",
+        "policy_relevance": "受益于医疗国际合作政策支持，央企背景与新闻主题匹配度高",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "心血管医疗器械龙头，具有国际化布局，产品出口多个国家，符合医疗国际合作主题",
+        "policy_relevance": "医疗器械国际化政策受益标的，与中美医疗合作历史主题形成呼应",
+        "urgency_level": "一般",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "recommendation_reason": "国际化程度较高的医药企业，在全球拥有研发中心和业务布局，与新闻中的国际医疗合作主题相关",
+        "policy_relevance": "受益于医药国际化政策，公司全球布局与主题契合",
+        "urgency_level": "一般",
+        "confidence_score": 0.5
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于历史纪念类时政要闻，内容为美国援华护士后代回忆历史事件。从投资角度看，新闻本身缺乏直接的市场影响力和时效性，但央视新闻的权威背书可能引发对中美医疗合作、国际人道主义等主题的关注。央视作为国家级媒体，其报道往往具有政策导向意义，可能暗示相关领域的政策支持倾向。",
+      "policy_impact": "该新闻反映了中美医疗合作的历史渊源，在当前中美关系背景下可能具有特殊意义。政策层面可能加强对医疗国际合作、公共卫生体系建设的支持，特别是具有国际交流背景的医疗企业和机构可能获得更多关注。但直接政策影响有限，更多是主题性投资机会。",
+      "theme_classification": {
+        "theme_type": "医疗国际合作/公共卫生",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械",
+          "生物医药"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600056",
+          "stock_name": "中国医药",
+          "recommendation_reason": "作为央企医药流通龙头，具有丰富的国际医疗合作经验，与新闻中医疗国际合作主题高度契合，央视权威报道可能提升公司品牌价值",
+          "policy_relevance": "受益于医疗国际合作政策支持，央企背景与新闻主题匹配度高",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "心血管医疗器械龙头，具有国际化布局，产品出口多个国家，符合医疗国际合作主题",
+          "policy_relevance": "医疗器械国际化政策受益标的，与中美医疗合作历史主题形成呼应",
+          "urgency_level": "一般",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "600196",
+          "stock_name": "复星医药",
+          "recommendation_reason": "国际化程度较高的医药企业，在全球拥有研发中心和业务布局，与新闻中的国际医疗合作主题相关",
+          "policy_relevance": "受益于医药国际化政策，公司全球布局与主题契合",
+          "urgency_level": "一般",
+          "confidence_score": 0.5
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 00:28:16"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

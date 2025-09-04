@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-31 23:44:51",
+  "news_info": {
+    "id": "65991081a5",
+    "title": "“老空间”变身“新地标” 燃动经济新热力",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/31/ARTIpHlLpwsLIxLUlS8DDgNJ250831.shtml",
+    "publish_time": "2025-08-31 14:36:00",
+    "summary": "“老空间”变身“新地标” 燃动经济新热力"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.65445,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.7,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 9.13
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600663\",\n      \"stock_name\": \"陆家嘴\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"作为城市更新核心标的，直接受益于'老空间变新地标'政策导向。技术面显示板块强度0.8支撑良好，位于上海核心区位，具备稀缺资产重估价值，短期催化剂明确。\",\n      \"risk_warning\": \"需关注房地产政策变化风险及项目推进不及预期风险\"\n    },\n    {\n      \"stock_code\": \"600258\",\n      \"stock_name\": \"首旅酒店\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"文旅融合主题明确，受益于城市更新带来的商业活力提升。技术指标配合度较高，酒店行业复苏趋势延续，具备业绩弹性。\",\n      \"risk_warning\": \"消费复苏不及预期风险，行业竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"000786\",\n      \"stock_name\": \"北新建材\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"作为建筑材料龙头，间接受益于城市更新项目建设需求。技术评分中等，但基本面稳健，具备长期配置价值。\",\n      \"risk_warning\": \"原材料价格波动风险，房地产投资下滑风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"板块强度0.8显示良好支撑，市场情绪偏向积极，技术指标整体配合度较高\",\n    \"news_relevance\": \"城市更新+文旅融合主题与新闻高度契合，政策受益程度明确，短期催化剂强度中等偏上\",\n    \"risk_assessment\": \"板块风险中等，个股基本面风险可控，市场时机风险需关注政策落地节奏\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600663",
+        "stock_name": "陆家嘴",
+        "recommendation_reason": "作为城市更新和商业地产运营龙头，深度参与老旧物业改造升级，契合'老空间变新地标'主题，央视报道提升市场预期",
+        "policy_relevance": "高度相关，直接受益城市更新政策",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "文旅融合标杆企业，旗下多个项目涉及老旧建筑改造为特色酒店，符合'新地标'打造理念，央视权威背书增强投资逻辑",
+        "policy_relevance": "中度相关，受益文旅产业发展政策",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "000786",
+        "stock_name": "北新建材",
+        "recommendation_reason": "建筑更新材料龙头，提供城市更新所需的新型建材解决方案，间接受益于老旧空间改造需求释放",
+        "policy_relevance": "间接相关，受益于更新改造产业链",
+        "urgency_level": "中低",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的时政要闻，具有极高的权威性和政策导向性。'老空间变身新地标'主题契合城市更新、文旅融合等国家战略，体现了推动经济高质量发展的政策意图。央视新闻的传播力将显著提升相关概念的市场关注度。",
+      "policy_impact": "高度政策驱动型，符合'城市更新行动'、'文化强国建设'等国家战略。预计将带动地方政府配套政策出台，形成政策-资本-产业联动效应，具有较强的示范引领作用。",
+      "theme_classification": {
+        "theme_type": "城市更新+文旅融合",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "房地产开发",
+          "文化旅游",
+          "商业运营"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600663",
+          "stock_name": "陆家嘴",
+          "recommendation_reason": "作为城市更新和商业地产运营龙头，深度参与老旧物业改造升级，契合'老空间变新地标'主题，央视报道提升市场预期",
+          "policy_relevance": "高度相关，直接受益城市更新政策",
+          "urgency_level": "中高",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "文旅融合标杆企业，旗下多个项目涉及老旧建筑改造为特色酒店，符合'新地标'打造理念，央视权威背书增强投资逻辑",
+          "policy_relevance": "中度相关，受益文旅产业发展政策",
+          "urgency_level": "中",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "000786",
+          "stock_name": "北新建材",
+          "recommendation_reason": "建筑更新材料龙头，提供城市更新所需的新型建材解决方案，间接受益于老旧空间改造需求释放",
+          "policy_relevance": "间接相关，受益于更新改造产业链",
+          "urgency_level": "中低",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-31 23:44:51"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

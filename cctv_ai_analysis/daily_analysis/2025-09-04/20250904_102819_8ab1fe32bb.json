@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 10:28:19",
+  "news_info": {
+    "id": "8ab1fe32bb",
+    "title": "南京医生为世界性难题提供新解决方案",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904074008269613540.html",
+    "publish_time": "2025-09-04 07:40:00",
+    "summary": "南京医生为世界性难题提供新解决方案"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6779,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.67,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.79
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_name\": \"通策医疗(600763)\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"作为口腔医疗龙头，与新闻中医疗创新主题高度契合，技术指标相对稳健，受益于医疗创新政策导向，短期催化剂明确\",\n      \"risk_warning\": \"估值偏高，需关注业绩兑现情况\"\n    },\n    {\n      \"stock_name\": \"复星医药(600196)\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"综合性医药集团，创新药布局广泛，与新闻主题匹配度较高，技术面相对稳定，受益于行业政策红利\",\n      \"risk_warning\": \"研发投入较大，短期业绩承压风险\"\n    },\n    {\n      \"stock_name\": \"乐普医疗(300003)\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"心血管器械领域领先企业，与医疗创新主题相关，但技术指标相对较弱，板块支撑力度一般\",\n      \"risk_warning\": \"市场竞争激烈，技术面偏弱需谨慎\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.3属于中等偏弱水平，市场情绪对医疗板块谨慎乐观，技术指标评分0.30显示整体技术面偏弱\",\n    \"news_matching\": \"新闻涉及医疗创新突破，与推荐股票业务高度相关，政策受益明显，短期催化剂强度中等\",\n    \"risk_assessment\": \"医疗板块受政策影响较大，个股基本面分化明显，当前市场时机需关注估值风险\"\n  },\n  \"general_risk_warning\": \"医疗板块受政策调控影响较大，创新药研发存在不确定性，建议控制仓位，关注政策动向和个股业绩兑现情况\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "作为口腔医疗龙头，受益于医疗技术创新趋势，但新闻关联度较弱",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "心血管器械龙头，关注医疗创新领域发展机会",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "recommendation_reason": "综合性医药集团，在创新药研发领域布局广泛",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然报道南京医生为世界性难题提供新解决方案，但评分显示第一时间性、硬核程度、持续性均为0分，表明该新闻缺乏投资时效性和实质性内容。央视新闻的权威性虽高，但此类医疗突破类新闻通常需要更详细的临床数据和产业化验证，短期内难以形成明确投资机会。",
+      "policy_impact": "医疗创新符合国家'健康中国2030'政策导向，但具体政策支持需等待后续配套措施。当前缺乏明确的产业政策指引，投资价值有待进一步验证。",
+      "theme_classification": {
+        "theme_type": "医疗创新/生物医药",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "医疗器械",
+          "生物制药",
+          "医疗服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "作为口腔医疗龙头，受益于医疗技术创新趋势，但新闻关联度较弱",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "心血管器械龙头，关注医疗创新领域发展机会",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "600196",
+          "stock_name": "复星医药",
+          "recommendation_reason": "综合性医药集团，在创新药研发领域布局广泛",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:28:19"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 09:37:49",
+  "news_info": {
+    "id": "b570d9ee73",
+    "title": "辅助驾驶≠自动驾驶，为何反复强调？",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/15/ARTIXzJbQInWgP3vuvIxt4jV250815.shtml",
+    "publish_time": "2025-08-15 09:36:53",
+    "summary": "辅助驾驶≠自动驾驶，为何反复强调？"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.78055,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.67,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其关于'辅助驾驶≠自动驾驶'的报道具有高度政策导向性，综合强度0.78表明该议题受到官方重点关注，可能预示相关行业监管趋严",
+    "policy_impact": "该报道可能引发对自动驾驶技术标准的重新审视，利好具备合规辅助驾驶技术的龙头企业，同时对过度宣传自动驾驶概念的公司形成压力",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002906",
+        "stock_name": "华阳集团",
+        "recommendation_reason": "国内汽车电子龙头，专注ADAS辅助驾驶系统研发，符合央视强调的技术路线",
+        "policy_relevance": "直接涉及辅助驾驶系统研发，符合政策导向",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "600741",
+        "stock_name": "华域汽车",
+        "recommendation_reason": "上汽系核心零部件供应商，在辅助驾驶传感器领域布局完善",
+        "policy_relevance": "产业链关键环节，技术积累深厚",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "002920",
+        "stock_name": "德赛西威",
+        "recommendation_reason": "智能驾驶舱系统领先企业，L2级辅助驾驶系统已批量供货",
+        "policy_relevance": "实际落地项目符合监管要求",
+        "urgency_level": "中",
+        "confidence_score": 0.79
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

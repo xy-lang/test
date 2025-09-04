@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-08-18 11:00:49",
+  "news_info": {
+    "id": "feaa167b86",
+    "title": "看见美丽中国 垃圾分类新时尚",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIBvg2FYLE4fMfeZyKGc0J250817.shtml",
+    "publish_time": "2025-08-18 11:00:00",
+    "summary": "看见美丽中国 垃圾分类新时尚"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7706500000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.64,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的政策导向性和市场影响力。本次关于垃圾分类的报道综合强度达0.77，表明该主题在当前政策议程中的重要地位。",
+    "policy_impact": "垃圾分类作为生态文明建设的重要组成部分，将持续获得政策支持。相关企业将受益于政策红利和市场需求增长。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601200",
+        "stock_name": "上海环境",
+        "recommendation_reason": "作为上海地区领先的固废处理企业，直接受益于垃圾分类政策推进",
+        "policy_relevance": "高度相关，主营业务包含垃圾分类处理",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "000826",
+        "stock_name": "启迪环境",
+        "recommendation_reason": "全国性环境综合服务商，在垃圾分类处理领域有完整产业链",
+        "policy_relevance": "高度相关，涉及垃圾分类全流程服务",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "603686",
+        "stock_name": "龙马环卫",
+        "recommendation_reason": "环卫装备制造龙头企业，垃圾分类政策将带动设备需求增长",
+        "policy_relevance": "相关，主营环卫装备制造",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:00:49"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

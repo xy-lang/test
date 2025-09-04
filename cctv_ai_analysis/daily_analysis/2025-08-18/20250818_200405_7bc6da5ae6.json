@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 20:04:05",
+  "news_info": {
+    "id": "7bc6da5ae6",
+    "title": "国新办将举行新闻发布会 介绍阅兵准备工作有关情况",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIPz90w7e26dRwfdkIferX250818.shtml",
+    "publish_time": "2025-08-18 10:02:00",
+    "summary": "国新办将举行新闻发布会 介绍阅兵准备工作有关情况"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.66765,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 10.02
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600760\",\n      \"stock_name\": \"中航沈飞\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"作为军工板块龙头，直接受益于阅兵装备展示需求。技术面呈现突破形态，板块强度支撑明显，近期量价配合良好。\",\n      \"risk_warning\": \"需警惕短期利好兑现后的回调风险，关注60日均线支撑。\"\n    },\n    {\n      \"stock_code\": \"002414\",\n      \"stock_name\": \"高德红外\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"军民融合标杆企业，红外设备将参与阅兵保障。技术指标显示MACD金叉，但上方存在前高压力位。\",\n      \"risk_warning\": \"注意解禁股压力，需观察突破量能是否持续。\"\n    },\n    {\n      \"stock_code\": \"600685\",\n      \"stock_name\": \"中船防务\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"海军装备核心供应商，存在阅兵主题催化。但技术面相对弱势，需等待均线系统修复。\",\n      \"risk_warning\": \"船舶行业周期影响较大，短期波动率较高。\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.67,\n    \"technical_sentiment\": \"中性偏多\",\n    \"catalyst_timing\": \"阅兵前2周为最佳窗口期\"\n  },\n  \"risk_factors\": [\n    \"军工板块易受地缘政治事件扰动\",\n    \"需警惕发布会后'利好出尽'效应\",\n    \"三季度机构调仓可能引发波动\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "作为歼击机核心制造商，历次阅兵装备展示直接关联公司产品，央视报道易引发市场关注",
+        "policy_relevance": "高（直接装备供应商）",
+        "urgency_level": "中（事件驱动型机会）",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "002414",
+        "stock_name": "高德红外",
+        "recommendation_reason": "军用红外设备核心供应商，央视报道可能带动军工高科技装备概念热度",
+        "policy_relevance": "中（技术装备供应商）",
+        "urgency_level": "中低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "600685",
+        "stock_name": "中船防务",
+        "recommendation_reason": "海军装备主要上市公司，阅兵可能涉及海军新型装备展示",
+        "policy_relevance": "中（潜在装备展示方）",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为官方发布的阅兵准备工作信息，具有高度权威性但时效性较短。作为国家重大活动报道，虽不具备直接市场影响，但可能带动军工、安防等相关概念股短期表现。",
+      "policy_impact": "阅兵作为国家重大政治活动，将强化国防军工领域的政策支持预期，但对具体上市公司业绩无直接影响。属于象征性政策信号释放。",
+      "theme_classification": {
+        "theme_type": "军工/安防/军民融合",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "国防军工",
+          "安防设备"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600760",
+          "stock_name": "中航沈飞",
+          "recommendation_reason": "作为歼击机核心制造商，历次阅兵装备展示直接关联公司产品，央视报道易引发市场关注",
+          "policy_relevance": "高（直接装备供应商）",
+          "urgency_level": "中（事件驱动型机会）",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "002414",
+          "stock_name": "高德红外",
+          "recommendation_reason": "军用红外设备核心供应商，央视报道可能带动军工高科技装备概念热度",
+          "policy_relevance": "中（技术装备供应商）",
+          "urgency_level": "中低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "600685",
+          "stock_name": "中船防务",
+          "recommendation_reason": "海军装备主要上市公司，阅兵可能涉及海军新型装备展示",
+          "policy_relevance": "中（潜在装备展示方）",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 20:04:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-25 23:54:33",
+  "news_info": {
+    "id": "9b9fdeeaf1",
+    "title": "“鲁迅夹烟墙画”被指误导青少年？景区回应",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIDgkts31iPdCV19D0teUQ250825.shtml",
+    "publish_time": "2025-08-25 22:40:46",
+    "summary": "“鲁迅夹烟墙画”被指误导青少年？景区回应"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.72245,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.7,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.21
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为国内领先的综合旅游服务商，直接受益于文化旅游监管政策趋严带来的行业规范化红利。公司业务涵盖景区运营、旅行社服务等多维度，与新闻事件关联度最高。技术面相对稳健，在板块中表现较为突出，具备政策催化下的估值修复空间。\",\n      \"risk_warning\": \"旅游行业受季节性影响较大，需关注三季度业绩表现；宏观经济波动可能影响旅游消费需求\"\n    },\n    {\n      \"stock_code\": \"603199\",\n      \"stock_name\": \"九华旅游\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"专注于宗教文化旅游景区运营，在文化内容监管趋严背景下，具备规范化运营优势。公司景区管理经验丰富，受益于行业整顿带来的市场份额提升机会。技术指标显示相对抗跌性，但板块整体强度偏弱需谨慎。\",\n      \"risk_warning\": \"单一景区依赖度较高，客流波动风险较大；宗教文化类景区监管政策存在不确定性\"\n    },\n    {\n      \"stock_code\": \"300144\",\n      \"stock_name\": \"宋城演艺\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"作为文旅演艺龙头企业，在文化内容创作和呈现方面具有专业优势，可能间接受益于文化监管规范化。但公司业务模式更侧重演艺而非传统景区，与新闻直接关联度相对较低。技术面表现一般，需观察市场情绪转化。\",\n      \"risk_warning\": \"演艺项目投资回收周期较长；新项目培育存在不确定性；疫情后复苏进度仍需观察\"\n    }\n  ],\n  \"overall_risk_alert\": \"当前板块技术强度偏弱（0.35），整体市场情绪谨慎，建议控制仓位，重点关注政策落地进度和行业基本面改善信号。文化旅游板块受政策影响较大，需密切关注监管动态和舆情变化。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，央视对文旅行业的关注可能提升市场对规范运营旅游企业的关注度",
+        "policy_relevance": "中等，受益于文旅行业规范化趋势",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "景区运营企业，央视对景区内容管理的关注可能促使行业加强自律，优质景区企业长期受益",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "recommendation_reason": "文化演艺企业，央视对文化内容的关注可能提升市场对合规文化企业的价值重估",
+        "policy_relevance": "中等偏低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于社会文化类事件报道，投资价值较低。央视新闻作为国家级媒体，其报道具有权威性和广泛影响力，但此新闻内容涉及景区文化争议，时效性、硬核程度和持续性评分均为0，表明对资本市场直接影响有限。主要价值在于体现央视在文化导向方面的舆论监督作用。",
+      "policy_impact": "政策影响主要体现在文化旅游监管趋严方向。国家近年来持续加强文化旅游场所的内容审核和青少年保护，此类报道可能促使景区加强内容管理，但对整体文旅政策影响有限，属于局部性事件。",
+      "theme_classification": {
+        "theme_type": "文化旅游监管",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化旅游",
+          "景区运营",
+          "内容审核"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，央视对文旅行业的关注可能提升市场对规范运营旅游企业的关注度",
+          "policy_relevance": "中等，受益于文旅行业规范化趋势",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "景区运营企业，央视对景区内容管理的关注可能促使行业加强自律，优质景区企业长期受益",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "300144",
+          "stock_name": "宋城演艺",
+          "recommendation_reason": "文化演艺企业，央视对文化内容的关注可能提升市场对合规文化企业的价值重估",
+          "policy_relevance": "中等偏低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 23:54:33"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

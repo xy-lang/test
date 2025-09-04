@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-09-01 15:12:04",
+  "news_info": {
+    "id": "4006747779",
+    "title": "记者从雄安高速铁路有限公司获悉，9月1日，京港（台）通道雄安新区至商丘高速铁路全线正式进入铺轨阶段。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIimZiIOx1LYuHyhjel8Z1250901.shtml",
+    "publish_time": "2025-09-01 13:21:00",
+    "summary": "记者从雄安高速铁路有限公司获悉，9月1日，京港（台）通道雄安新区至商丘高速铁路全线正式进入铺轨阶段。"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.84
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601766\",\n      \"stock_name\": \"中国中车\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"直接受益于高铁铺轨建设，作为轨道交通装备制造龙头，技术指标显示强势突破形态，板块强度0.75提供有力支撑，政策催化明确，短期业绩弹性最大\",\n      \"risk_warning\": \"需关注原材料价格波动风险及项目交付进度风险\"\n    },\n    {\n      \"stock_code\": \"601186\",\n      \"stock_name\": \"中国铁建\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"高铁建设主力承包商，直接参与雄商高铁项目，基建板块强度支撑明显，技术面呈现多头排列，受益国家基建投资政策\",\n      \"risk_warning\":存在应收账款回收风险及项目利润率压力\"\n    },\n    {\n      \"stock_code\": \"600528\",\n      \"stock_name\": \"中铁工业\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"专业工程机械供应商，间接受益高铁建设需求，技术指标相对稳健但弹性稍弱，受益于基建投资链条\",\n      \"risk_warning\": \"竞争激烈可能导致毛利率承压，订单获取存在不确定性\"\n    }\n  ],\n  \"overall_risk_alert\": \"需警惕基建投资政策变化风险、宏观经济下行风险以及市场流动性收紧风险，建议控制仓位并设置止损位\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "recommendation_reason": "作为国内轨道交通装备制造龙头，直接受益于高铁建设需求，央视报道提升市场关注度",
+        "policy_relevance": "高度相关，国家高铁建设核心供应商",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "recommendation_reason": "国内领先的铁路工程建设企业，参与多项高铁项目建设，受益基建投资加速",
+        "policy_relevance": "高度相关，铁路建设主力军",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600528",
+        "stock_name": "中铁工业",
+        "recommendation_reason": "专业从事铁路工程装备制造，高铁铺轨阶段需要相关专用设备支持",
+        "policy_relevance": "中度相关，设备供应商",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为常规工程进展报道，但涉及雄安新区重大基建项目，具有重要政策信号意义。央视新闻作为国家级权威媒体，其报道具有政策导向性和市场影响力，虽时效性评分较低，但作为国家战略项目，其长期投资价值值得关注。",
+      "policy_impact": "高铁建设属于国家'新基建'战略核心领域，雄安新区作为国家级新区，其基础设施建设具有示范效应。该项目将带动沿线经济发展，对轨道交通、建筑材料、工程机械等产业形成直接拉动。",
+      "theme_classification": {
+        "theme_type": "基建投资/轨道交通",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "基础设施建设",
+          "轨道交通",
+          "建筑材料",
+          "工程机械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601766",
+          "stock_name": "中国中车",
+          "recommendation_reason": "作为国内轨道交通装备制造龙头，直接受益于高铁建设需求，央视报道提升市场关注度",
+          "policy_relevance": "高度相关，国家高铁建设核心供应商",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "601186",
+          "stock_name": "中国铁建",
+          "recommendation_reason": "国内领先的铁路工程建设企业，参与多项高铁项目建设，受益基建投资加速",
+          "policy_relevance": "高度相关，铁路建设主力军",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600528",
+          "stock_name": "中铁工业",
+          "recommendation_reason": "专业从事铁路工程装备制造，高铁铺轨阶段需要相关专用设备支持",
+          "policy_relevance": "中度相关，设备供应商",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 15:12:04"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

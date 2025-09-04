@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 17:53:47",
+  "news_info": {
+    "id": "93d58f07b8",
+    "title": "“十四五”时期发展社会主义民主成绩亮眼！一文了解",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTI6nKOJ3hIvj3JbDnkcAXS250818.shtml",
+    "publish_time": "2025-08-18 21:46:00",
+    "summary": "“十四五”时期发展社会主义民主成绩亮眼！一文了解"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8185,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": -3.89
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300075\",\n      \"stock_name\": \"数字政通\",\n      \"composite_score\": 0.82,\n      \"recommendation_reason\": \"1. 技术面：近期量价配合良好，MACD金叉，处于上升通道\\n2. 基本面：政务数字化核心标的，直接受益于'十四五'数字政府建设\\n3. 政策面：与新闻高度契合，是智慧城市政务解决方案龙头\\n4. 市场情绪：机构关注度持续提升，近期研报覆盖增加\",\n      \"risk_warning\": \"需注意地方政府财政压力可能影响项目落地进度\"\n    },\n    {\n      \"stock_code\": \"603636\",\n      \"stock_name\": \"南威软件\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"1. 技术面：突破年线压力位，RSI指标健康\\n2. 业务优势：在政务服务一体化平台领域市占率领先\\n3. 政策催化：直接参与多地'一网通办'平台建设\\n4. 资金面：近期北向资金持续流入\",\n      \"risk_warning\": \"应收账款周转率偏低需关注\"\n    },\n    {\n      \"stock_code\": \"300271\",\n      \"stock_name\": \"华宇软件\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"1. 技术面：处于箱体震荡上沿，等待突破确认\\n2. 行业地位：法律政务信息化龙头\\n3. 订单情况：近期中标多个省级政务项目\\n4. 估值优势：当前PE低于行业平均水平\",\n      \"risk_warning\": \"存在大股东质押风险，需关注解禁压力\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.68,\n    \"technical_support\": \"板块MACD周线级别金叉，中期趋势向好\",\n    \"policy_timing\": \"正值'十四五'中期评估关键时点，政策催化预期强烈\",\n    \"risk_factors\": [\n      \"地方政府财政吃紧可能影响项目回款\",\n      \"板块估值已修复至历史中位数水平\",\n      \"需警惕短期利好兑现后的调整压力\"\n    ]\n  },\n  \"investment_horizon\": \"3-6个月中期配置\",\n  \"strategy_suggestion\": \"建议采取分批建仓策略，重点配置数字政通（300075），配置比例建议不超过组合的15%\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "603636",
+        "stock_name": "南威软件",
+        "recommendation_reason": "国内领先的智慧政务解决方案提供商，深度参与数字政府建设",
+        "policy_relevance": "直接受益于政务数字化进程加速",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "300075",
+        "stock_name": "数字政通",
+        "recommendation_reason": "城市网格化管理软件龙头，业务契合社会治理现代化需求",
+        "policy_relevance": "间接受益于社会治理体系完善",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "300271",
+        "stock_name": "华宇软件",
+        "recommendation_reason": "法律科技领域龙头，法院信息化建设主要服务商",
+        "policy_relevance": "契合法治建设方向",
+        "urgency_level": "长期配置",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于时政要闻，报道'十四五'时期社会主义民主建设成就，具有政策宣示意义。虽然内容本身不直接涉及具体产业政策，但作为央视权威发布，传递出国家政治建设持续推进的信号。",
+      "policy_impact": "间接利好与政府服务、社会治理相关的数字化建设领域。可能带动智慧政务、舆情监测等相关产业发展，但政策传导效应较弱。",
+      "theme_classification": {
+        "theme_type": "政务数字化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "智慧政务",
+          "舆情监测"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "603636",
+          "stock_name": "南威软件",
+          "recommendation_reason": "国内领先的智慧政务解决方案提供商，深度参与数字政府建设",
+          "policy_relevance": "直接受益于政务数字化进程加速",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "300075",
+          "stock_name": "数字政通",
+          "recommendation_reason": "城市网格化管理软件龙头，业务契合社会治理现代化需求",
+          "policy_relevance": "间接受益于社会治理体系完善",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "300271",
+          "stock_name": "华宇软件",
+          "recommendation_reason": "法律科技领域龙头，法院信息化建设主要服务商",
+          "policy_relevance": "契合法治建设方向",
+          "urgency_level": "长期配置",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 17:53:47"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

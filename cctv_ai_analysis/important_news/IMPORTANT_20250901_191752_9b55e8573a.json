@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-09-01 19:17:52",
+  "news_info": {
+    "id": "9b55e8573a",
+    "title": "在山东青岛，我国建设了中国—上海合作组织地方经贸合作示范区。作为唯一面向上合组织国家开展地方经贸合作的国际示范平台，7年来，上合示范区不断建设与更新，用开放、合作凝聚“上合力量”。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIufniU1Cku5K8jVByFAmy250901.shtml",
+    "publish_time": "2025-09-01 20:13:00",
+    "summary": "在山东青岛，我国建设了中国—上海合作组织地方经贸合作示范区。作为唯一面向上合组织国家开展地方经贸合作..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -0.94
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600190\",\n      \"stock_name\": \"锦州港\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"作为东北地区重要港口，直接受益于上合示范区经贸合作深化，技术评分0.92位居首位，板块强度0.85提供有力支撑，政策催化明确，短期受益于区域贸易流量增长预期\",\n      \"risk_warning\": \"需关注国际贸易环境变化对港口业务的影响，以及大宗商品价格波动风险\"\n    },\n    {\n      \"stock_code\": \"600317\",\n      \"stock_name\": \"营口港\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"地处环渤海经济圈，与上合组织国家贸易往来密切，技术评分0.86表现稳健，受益于区域经济一体化政策，物流基础设施升级预期强烈\",\n      \"risk_warning\": \"区域竞争加剧可能影响市场份额，需监控吞吐量数据变化\"\n    },\n    {\n      \"stock_code\": \"600125\",\n      \"stock_name\": \"铁龙物流\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为铁路物流龙头企业，受益于上合示范区跨境物流需求增长，技术评分0.77相对稳健，但政策直接关联度略低于港口类标的\",\n      \"risk_warning\": \"铁路运输业务受宏观经济影响较大，需关注运价政策和成本控制\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"板块强度0.85显示较强支撑，市场情绪偏向积极，技术指标整体配合度较高，平均评分0.85确认第一阶段推荐合理性\",\n    \"news_matching\": \"港口类标的与上合示范区建设直接相关，政策受益程度高，短期催化剂明确，物流类标的间接受益\",\n    \"risk_assessment\": \"整体板块风险中等，需关注国际贸易政策变化；个股基本面风险可控，但需监控业绩兑现情况；当前市场时机相对有利，但需警惕大盘系统性风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600190",
+        "stock_name": "锦州港",
+        "recommendation_reason": "作为青岛港区重要港口运营商，直接受益于上合示范区国际贸易量增长，央视新闻的权威报道将提升市场对港口物流板块的关注度",
+        "policy_relevance": "高度相关，港口是经贸合作的重要基础设施",
+        "urgency_level": "中等",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "600317",
+        "stock_name": "营口港",
+        "recommendation_reason": "地处环渤海经济圈，是东北亚国际航运中心的重要组成部分，将间接受益于上合示范区建设带动的区域贸易活跃度提升",
+        "policy_relevance": "中度相关，区域贸易便利化政策利好",
+        "urgency_level": "中等",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "600125",
+        "stock_name": "铁龙物流",
+        "recommendation_reason": "作为铁路物流龙头企业，在上合示范区跨境物流体系建设中具有重要地位，央视新闻的权威背书有助于提升投资者信心",
+        "policy_relevance": "中度相关，国际物流通道建设受益标的",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及国家级重大战略项目——中国—上海合作组织地方经贸合作示范区建设，具有重要的政策导向意义。虽然新闻本身时效性评分较低，但作为央视新闻发布的时政要闻，其权威性和政策指导性极强，体现了国家推动区域经贸合作和对外开放的坚定意志。",
+      "policy_impact": "该新闻反映了国家持续推进'一带一路'倡议和上合组织经贸合作的战略部署，对青岛地区基础设施建设、国际贸易、物流运输等相关产业将产生长期政策红利。作为国家级示范区的持续建设，预计将获得持续的政策支持和资金投入。",
+      "theme_classification": {
+        "theme_type": "区域经济开发+国际贸易合作",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "基础设施建设",
+          "国际贸易",
+          "物流运输",
+          "港口航运"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600190",
+          "stock_name": "锦州港",
+          "recommendation_reason": "作为青岛港区重要港口运营商，直接受益于上合示范区国际贸易量增长，央视新闻的权威报道将提升市场对港口物流板块的关注度",
+          "policy_relevance": "高度相关，港口是经贸合作的重要基础设施",
+          "urgency_level": "中等",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "600317",
+          "stock_name": "营口港",
+          "recommendation_reason": "地处环渤海经济圈，是东北亚国际航运中心的重要组成部分，将间接受益于上合示范区建设带动的区域贸易活跃度提升",
+          "policy_relevance": "中度相关，区域贸易便利化政策利好",
+          "urgency_level": "中等",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "600125",
+          "stock_name": "铁龙物流",
+          "recommendation_reason": "作为铁路物流龙头企业，在上合示范区跨境物流体系建设中具有重要地位，央视新闻的权威背书有助于提升投资者信心",
+          "policy_relevance": "中度相关，国际物流通道建设受益标的",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 19:17:52"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

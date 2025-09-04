@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 11:35:11",
+  "news_info": {
+    "id": "1e6c7286be",
+    "title": "最近一段时间，位于江苏南通通州区的2000多亩大棚葡萄迎来丰收季，在现代科技农业设施的助力下这些葡萄长势良好，目前正陆续上市。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTITRUIg7hH5tMD8VOzLfrD250818.shtml",
+    "publish_time": "2025-08-18 11:28:58",
+    "summary": "最近一段时间，位于江苏南通通州区的2000多亩大棚葡萄迎来丰收季，在现代科技农业设施的助力下这些葡萄..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.09
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"北大荒(600598)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"技术指标表现最佳，上涨趋势明显\",\n        \"作为农业龙头，与现代农业科技主题高度契合\",\n        \"政策支持力度大，受益于农业现代化政策\",\n        \"基本面稳健，风险相对较低\"\n      ],\n      \"risk_warnings\": [\n        \"农业板块整体强度偏弱\",\n        \"需警惕短期获利回吐风险\"\n      ]\n    },\n    {\n      \"stock\": \"神农科技(300189)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"技术面呈现上涨态势\",\n        \"农业科技概念与新闻主题高度相关\",\n        \"市值较小，弹性较大\",\n        \"受益于农业科技创新政策\"\n      ],\n      \"risk_warnings\": [\n        \"波动性较大\",\n        \"需关注业绩兑现情况\"\n      ]\n    },\n    {\n      \"stock\": \"农产品(000061)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"技术指标显示上涨\",\n        \"农产品流通领域代表\",\n        \"受益于农产品上市旺季\"\n      ],\n      \"risk_warnings\": [\n        \"与新闻直接关联度稍弱\",\n        \"需关注大宗商品价格波动\"\n      ]\n    }\n  ],\n  \"additional_notes\": {\n    \"market_conditions\": \"农业板块整体强度一般，但个股技术面表现良好\",\n    \"investment_horizon\": \"建议短期至中期持有\",\n    \"monitoring_focus\": \"重点关注农业政策动向和个股量能变化\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600598",
+        "stock_name": "北大荒",
+        "recommendation_reason": "作为农业龙头企业，北大荒在现代农业领域有较强布局，可能受益于农业现代化主题。",
+        "policy_relevance": "高",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 2,
+        "stock_code": "000061",
+        "stock_name": "农产品",
+        "recommendation_reason": "公司主营农产品批发市场业务，可能间接受益于农产品丰收和流通量增加。",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "300189",
+        "stock_name": "神农科技",
+        "recommendation_reason": "公司专注于农业高科技领域，与新闻中提到的科技农业设施概念相关。",
+        "policy_relevance": "中等",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻主要报道了江苏南通通州区2000多亩大棚葡萄丰收的情况，强调了现代科技农业设施的作用。虽然新闻本身属于常规农业报道，但由于央视新闻的权威性，可能对农业科技和现代农业板块产生短期提振作用。",
+      "policy_impact": "新闻体现了国家对现代农业发展的支持，符合乡村振兴和农业现代化的政策导向。但新闻中并未提及具体政策支持，因此政策影响有限。",
+      "theme_classification": {
+        "theme_type": "现代农业/农业科技",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "农业",
+          "农业科技"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600598",
+          "stock_name": "北大荒",
+          "recommendation_reason": "作为农业龙头企业，北大荒在现代农业领域有较强布局，可能受益于农业现代化主题。",
+          "policy_relevance": "高",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 2,
+          "stock_code": "000061",
+          "stock_name": "农产品",
+          "recommendation_reason": "公司主营农产品批发市场业务，可能间接受益于农产品丰收和流通量增加。",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "300189",
+          "stock_name": "神农科技",
+          "recommendation_reason": "公司专注于农业高科技领域，与新闻中提到的科技农业设施概念相关。",
+          "policy_relevance": "中等",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析：粗筛+技术精准",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:35:11"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

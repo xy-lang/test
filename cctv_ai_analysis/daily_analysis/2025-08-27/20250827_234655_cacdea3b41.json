@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-27 23:46:55",
+  "news_info": {
+    "id": "cacdea3b41",
+    "title": "瑞梅铁路首座超5公里隧道实现贯通",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/27/ARTIAc7PHb0Eex4tzBTHD3HK250827.shtml",
+    "publish_time": "2025-08-27 14:05:00",
+    "summary": "瑞梅铁路首座超5公里隧道实现贯通"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.64125,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.66,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 9.68
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_name\": \"中国铁建(601186)\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"作为铁路基建龙头企业，直接受益于瑞梅铁路项目进展。技术指标显示相对稳健，板块强度中等但政策催化明确，短期具备较强的事件驱动效应。公司在铁路建设领域市场份额领先，项目订单充足。\",\n      \"risk_warning\": \"基建板块整体估值偏低反映市场对行业增长预期谨慎；宏观经济波动可能影响基建投资节奏；需关注项目回款风险和现金流状况。\"\n    },\n    {\n      \"stock_name\": \"中国中铁(601390)\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"国内铁路建设主要承包商之一，与新闻事件关联度较高。技术面相对稳定，受益于基建政策支持，但近期市场情绪对大盘基建股偏好有限。公司业务多元化程度较高，抗风险能力相对较强。\",\n      \"risk_warning\": \"基建行业竞争激烈，利润率承压；债务水平较高需关注财务成本；宏观经济下行可能影响新项目开工进度。\"\n    },\n    {\n      \"stock_name\": \"众合科技(000925)\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"作为铁路信号系统和智能化设备供应商，间接受益于铁路项目建设。技术评分相对较低，但具备科技属性，在智能交通领域有差异化优势。短期催化强度中等，需要更多项目订单验证。\",\n      \"risk_warning\": \"公司规模相对较小，抗风险能力有限；科技板块近期波动较大；铁路设备采购周期可能影响业绩兑现时间。\"\n    }\n  ],\n  \"overall_market_analysis\": {\n    \"sector_strength\": 0.30,\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"technical_indicator_status\": \"整体偏弱但有个别亮点\",\n    \"policy_benefit_level\": \"中等偏强\",\n    \"short_term_catalyst\": \"明确但持续性待观察\"\n  },\n  \"general_risk_warning\": \"基建板块受政策影响较大，需密切关注后续政策落地情况；当前市场整体风险偏好较低，可能影响板块表现；建议控制仓位，重点关注有实质性订单支撑的龙头企业。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "recommendation_reason": "作为国内铁路建设龙头企业，可能参与瑞梅铁路项目建设，但新闻本身影响力有限",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "recommendation_reason": "铁路基建主要承包商，但单一隧道贯通新闻对业绩影响微弱",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "000925",
+        "stock_name": "众合科技",
+        "recommendation_reason": "铁路信号系统供应商，但新闻未涉及相关设备采购信息",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然报道了瑞梅铁路重要工程节点，但作为央视新闻发布，其投资价值有限。新闻内容仅为工程进展通报，缺乏实质性政策信号或资金投入信息，且评分显示第一时间性、硬核程度、持续性均为0分，表明该新闻对市场影响微弱。",
+      "policy_impact": "低影响级别。瑞梅铁路作为区域基础设施项目，其单条隧道贯通属于常规工程进展，不涉及新的政策导向或重大资金安排，对相关板块的刺激作用有限。",
+      "theme_classification": {
+        "theme_type": "基建工程进展",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "基础设施建设",
+          "铁路设备"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601186",
+          "stock_name": "中国铁建",
+          "recommendation_reason": "作为国内铁路建设龙头企业，可能参与瑞梅铁路项目建设，但新闻本身影响力有限",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "601390",
+          "stock_name": "中国中铁",
+          "recommendation_reason": "铁路基建主要承包商，但单一隧道贯通新闻对业绩影响微弱",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "000925",
+          "stock_name": "众合科技",
+          "recommendation_reason": "铁路信号系统供应商，但新闻未涉及相关设备采购信息",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-27 23:46:55"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

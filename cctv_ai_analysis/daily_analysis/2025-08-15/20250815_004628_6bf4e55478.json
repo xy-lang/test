@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 00:46:28",
+  "news_info": {
+    "id": "6bf4e55478",
+    "title": "8月14日国新办举行“高质量完成‘十四五’规划”系列主题新闻发布会，相关部门负责人介绍“十四五”时期数字中国建设发展成就。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTI8QkfhgMTp7m26Go1K3iS250814.shtml",
+    "publish_time": "2025-08-15 00:45:40",
+    "summary": "8月14日国新办举行“高质量完成‘十四五’规划”系列主题新闻发布会，相关部门负责人介绍“十四五”时期..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8531500000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.755,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 2,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由央视发布，具有最高级别权威性，且涉及'十四五'规划这一国家战略层面的政策发布，综合强度0.85表明这是当前最重要的政策导向之一。数字中国建设作为核心议题，将直接利好相关产业。",
+    "policy_impact": "数字中国建设政策将推动云计算、大数据、人工智能等新基建领域加速发展，相关企业将获得政策红利和业务增量。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600536",
+        "stock_name": "中国软件",
+        "recommendation_reason": "作为数字中国建设核心企业，直接受益于政务信息化和信创产业发展",
+        "policy_relevance": "直接对应数字政府建设要求",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "recommendation_reason": "服务器龙头将受益于数字基础设施建设加速",
+        "policy_relevance": "支撑数字经济发展的基础设施提供商",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "recommendation_reason": "高性能计算国家队，符合数字中国建设对算力基础设施的要求",
+        "policy_relevance": "国家算力网络建设核心企业",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 20:00:24",
+  "news_info": {
+    "id": "864400369c",
+    "title": "“夜经济”绽放新光彩 “古风夜拍”成文旅消费新亮点",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIkdSdrmUijDOwrRNXgWJp250818.shtml",
+    "publish_time": "2025-08-18 13:32:00",
+    "summary": "“夜经济”绽放新光彩 “古风夜拍”成文旅消费新亮点"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6709499999999999,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.75,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 6.46
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"composite_score\": 0.82,\n      \"recommendation_reason\": \"作为国内领先的综合旅游服务商，中青旅在文旅消费领域具有显著优势。技术指标显示近期成交量温和放大，MACD金叉形成，配合板块强度0.733的支撑，短期有望受益于'夜经济'政策红利。公司旗下乌镇等景区已开展夜间旅游项目，与新闻主题高度契合。\",\n      \"risk_warning\": \"需警惕旅游行业季节性波动风险及疫情反复可能带来的影响。\"\n    },\n    {\n      \"stock_code\": \"603199\",\n      \"stock_name\": \"九华旅游\",\n      \"composite_score\": 0.76,\n      \"recommendation_reason\": \"区域性旅游龙头，九华山景区已推出夜间佛事体验等特色项目。技术面呈现突破平台态势，RSI指标处于健康区间。作为'古风夜拍'概念的直接受益标的，短期存在事件驱动机会。\",\n      \"risk_warning\": \"公司业务区域集中度较高，需关注极端天气对景区客流的影响。\"\n    },\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"composite_score\": 0.68,\n      \"recommendation_reason\": \"虽具备文化传媒属性，但与夜间经济的直接关联度稍弱。技术指标显示均线系统开始多头排列，但量能配合不足。可能间接受益于文旅宣传需求增加。\",\n      \"risk_warning\": \"主营业务与新闻主题契合度较低，存在概念炒作风险。\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.733,\n    \"sentiment_indicator\": \"中性偏多\",\n    \"key_observation\": \"文旅板块技术评分高于市场平均水平，MACD指标显示资金开始关注该板块，但需注意近期大盘震荡可能带来的波动。\"\n  },\n  \"investment_horizon\": \"短期（1-3个月）主题投资机会\",\n  \"disclaimer\": \"以上分析基于当前可获得信息，技术指标可能快速变化，建议结合实时数据动态调整策略。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，在文旅融合和夜游产品开发方面具有优势，直接受益于夜经济发展。",
+        "policy_relevance": "高",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "景区运营企业，积极开发夜间旅游项目，契合'古风夜拍'等新型文旅消费趋势。",
+        "policy_relevance": "中高",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下上市公司，可能受益于央视对文旅产业的宣传推广，具备主题联动效应。",
+        "policy_relevance": "中",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻聚焦'夜经济'和文旅消费新趋势，虽然时效性和硬核程度评分较低，但央视新闻作为国家级媒体，其报道往往具有政策导向性，可能预示着相关产业将获得政策支持。",
+      "policy_impact": "中等偏上。'夜经济'是促进消费的重要抓手，符合当前扩大内需的政策方向，但具体政策力度尚不明确。",
+      "theme_classification": {
+        "theme_type": "文旅消费/夜间经济",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "旅游",
+          "商业零售",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，在文旅融合和夜游产品开发方面具有优势，直接受益于夜经济发展。",
+          "policy_relevance": "高",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "景区运营企业，积极开发夜间旅游项目，契合'古风夜拍'等新型文旅消费趋势。",
+          "policy_relevance": "中高",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下上市公司，可能受益于央视对文旅产业的宣传推广，具备主题联动效应。",
+          "policy_relevance": "中",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 20:00:24"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

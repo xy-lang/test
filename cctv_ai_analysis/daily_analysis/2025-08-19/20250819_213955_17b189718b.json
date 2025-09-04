@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-19 21:39:55",
+  "news_info": {
+    "id": "17b189718b",
+    "title": "“创新机制+联动统筹”破解住宅老旧电梯“换梯难”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTICOUliHeU21VuJOt0KEjM250819.shtml",
+    "publish_time": "2025-08-19 16:20:00",
+    "summary": "“创新机制+联动统筹”破解住宅老旧电梯“换梯难”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.73565,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 5.32
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002367\",\n      \"stock_name\": \"康力电梯\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"技术面表现强劲，板块强度0.733提供有力支撑，作为电梯行业龙头直接受益于老旧小区改造政策，政策催化明确，市场情绪积极，技术指标配合度高\",\n      \"risk_warning\": \"需关注房地产行业整体景气度变化，可能存在政策执行进度不及预期风险\"\n    },\n    {\n      \"stock_code\": \"600835\",\n      \"stock_name\": \"上海机电\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术评分较高，受益于上海地区老旧小区改造政策推进，公司综合实力较强，与新闻主题匹配度较高，具备稳定的基本面和政策红利\",\n      \"risk_warning\": \"估值相对较高，需防范市场风格切换风险，关注订单落地进度\"\n    },\n    {\n      \"stock_code\": \"002774\",\n      \"stock_name\": \"快意电梯\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术指标表现良好，作为区域性电梯企业受益政策推动，但相比龙头公司政策受益程度稍弱，短期催化剂强度中等\",\n      \"risk_warning\": \"公司规模相对较小，抗风险能力较弱，需关注市场竞争加剧风险\"\n    }\n  ],\n  \"overall_risk_alert\": [\n    \"板块风险：电梯行业受房地产周期影响较大，需关注政策执行力度和进度\",\n    \"市场时机风险：当前市场情绪波动较大，需控制仓位，分批布局\",\n    \"基本面风险：关注各公司订单获取能力和盈利能力变化\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002367",
+        "stock_name": "康力电梯",
+        "recommendation_reason": "作为国内电梯行业龙头，央视新闻政策导向将直接提升公司订单预期，老旧电梯更新市场需求爆发在即",
+        "policy_relevance": "高度相关，直接受益于老旧电梯更新政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600835",
+        "stock_name": "上海机电",
+        "recommendation_reason": "旗下上海三菱电梯是国内知名品牌，在老旧小区电梯改造市场占有率高，政策推动下业绩弹性较大",
+        "policy_relevance": "高度相关，电梯业务占比超70%",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "002774",
+        "stock_name": "快意电梯",
+        "recommendation_reason": "专注于电梯研发制造，在旧楼加装电梯领域技术积累深厚，政策利好下成长空间明确",
+        "policy_relevance": "中度相关，受益于行业整体政策红利",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性评分较低，但作为央视新闻发布的时政要闻，具有极高的政策导向性和权威性。新闻聚焦老旧电梯更新改造这一民生痛点，体现了国家在基础设施建设领域的政策倾斜，对电梯制造、维保等相关产业具有明确的政策指引作用。",
+      "policy_impact": "政策影响显著。老旧小区改造是'十四五'规划重点工程，电梯更新作为重要组成部分，预计将获得财政补贴和政策支持。该政策导向将直接拉动电梯制造、安装、维保等产业链需求，具有中长期投资价值。",
+      "theme_classification": {
+        "theme_type": "老旧小区改造/电梯更新",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "机械设备",
+          "建筑装饰",
+          "公用事业"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002367",
+          "stock_name": "康力电梯",
+          "recommendation_reason": "作为国内电梯行业龙头，央视新闻政策导向将直接提升公司订单预期，老旧电梯更新市场需求爆发在即",
+          "policy_relevance": "高度相关，直接受益于老旧电梯更新政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600835",
+          "stock_name": "上海机电",
+          "recommendation_reason": "旗下上海三菱电梯是国内知名品牌，在老旧小区电梯改造市场占有率高，政策推动下业绩弹性较大",
+          "policy_relevance": "高度相关，电梯业务占比超70%",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "002774",
+          "stock_name": "快意电梯",
+          "recommendation_reason": "专注于电梯研发制造，在旧楼加装电梯领域技术积累深厚，政策利好下成长空间明确",
+          "policy_relevance": "中度相关，受益于行业整体政策红利",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 21:39:55"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

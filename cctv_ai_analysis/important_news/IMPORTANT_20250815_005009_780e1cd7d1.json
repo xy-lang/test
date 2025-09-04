@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 00:50:09",
+  "news_info": {
+    "id": "780e1cd7d1",
+    "title": "穆迪首席经济学家发出警告：美国经济处于衰退边缘",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTIQENxxoDR374LCjr5rFaq250814.shtml",
+    "publish_time": "2025-08-15 00:45:40",
+    "summary": "穆迪首席经济学家发出警告：美国经济处于衰退边缘"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80035,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.07
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的公信力和市场影响力。本次关于美国经济衰退风险的报道综合强度达0.80，将显著影响市场避险情绪和资金流向。",
+    "policy_impact": "该新闻可能促使国内政策更加注重经济内循环和金融稳定，利好防御性板块和避险资产。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "recommendation_reason": "作为避险消费龙头，在经济不确定性增加时更具防御性",
+        "policy_relevance": "受益于内需消费政策支持",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "保险板块在经济下行周期中表现相对稳健",
+        "policy_relevance": "符合金融稳定政策导向",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "优质银行股在经济波动中更具抗风险能力",
+        "policy_relevance": "受益于金融系统稳定政策",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 16:42:44",
+  "news_info": {
+    "id": "c4855532cf",
+    "title": "工信部：416家企业符合2025年环保装备制造业规范条件",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://jingji.cctv.com/2025/08/15/ARTIWzQaOaBpTDHy0Him2Auk250815.shtml",
+    "publish_time": "2025-08-15 16:42:22",
+    "summary": "工信部：416家企业符合2025年环保装备制造业规范条件"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8317000000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.78,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由权威媒体央视发布，涉及工信部最新政策，具有高度权威性和时效性。综合强度0.83表明该新闻对环保装备制造业将产生显著影响。",
+    "policy_impact": "工信部规范条件将加速行业整合，利好符合标准的龙头企业。政策导向明确，将推动环保装备制造业高质量发展。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300137",
+        "stock_name": "先河环保",
+        "recommendation_reason": "国内环境监测设备龙头，符合工信部规范条件，将直接受益于政策支持",
+        "policy_relevance": "高度相关，主营环保监测装备",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "600526",
+        "stock_name": "菲达环保",
+        "recommendation_reason": "大气污染治理装备领先企业，符合规范条件，政策红利明显",
+        "policy_relevance": "高度相关，专注环保装备制造",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "002573",
+        "stock_name": "清新环境",
+        "recommendation_reason": "工业烟气治理领域龙头企业，技术实力强，符合政策要求",
+        "policy_relevance": "高度相关，主营环保装备及工程",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-03 17:46:07",
+  "news_info": {
+    "id": "aa5ceda0d4",
+    "title": "守护胆囊，微创取石——临沂市人民医院为患者的健康保驾护航",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903171042892231099.html",
+    "publish_time": "2025-09-03 17:10:00",
+    "summary": "守护胆囊，微创取石——临沂市人民医院为患者的健康保驾护航"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7822,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.78,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.59
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 17:46:07"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

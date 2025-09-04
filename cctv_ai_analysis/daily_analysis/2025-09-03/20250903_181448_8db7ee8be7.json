@@ -1,0 +1,122 @@
+{
+  "analysis_time": "2025-09-03 18:14:48",
+  "news_info": {
+    "id": "8db7ee8be7",
+    "title": "独家视频丨纪念中国人民抗日战争暨世界反法西斯战争胜利80周年招待会在京隆重举行",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIG8hJ6pjsIGWnt15bU9H5250903.shtml",
+    "publish_time": "2025-09-03 17:35:24",
+    "summary": "独家视频丨纪念中国人民抗日战争暨世界反法西斯战争胜利80周年招待会在京隆重举行"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.64
+    }
+  },
+  "ai_analysis": {
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601606",
+        "stock_name": "长城军工",
+        "recommendation_reason": "作为军工板块代表企业，抗战纪念活动往往带动军工板块关注度提升，央视权威报道增强政策预期",
+        "policy_relevance": "高度相关，国防建设与抗战纪念主题直接关联",
+        "urgency_level": "中等",
+        "confidence_score": 0.75,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 2,
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "recommendation_reason": "军工直升机龙头，历次重大纪念活动均有装备展示，受益于国防现代化主题",
+        "policy_relevance": "较高，装备展示与国防建设主题相关",
+        "urgency_level": "中等",
+        "confidence_score": 0.7,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 3,
+        "stock_code": "600706",
+        "stock_name": "曲江文旅",
+        "recommendation_reason": "红色旅游概念股，抗战纪念活动带动爱国主义教育基地和红色旅游线路关注度",
+        "policy_relevance": "中等，文化旅游与爱国主义教育主题相关",
+        "urgency_level": "一般",
+        "confidence_score": 0.65,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      }
+    ],
+    "stage2_status": "fallback_enhanced",
+    "fallback_reason": "使用规则增强的第一阶段结果",
+    "enhancement_applied": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为纪念抗战胜利80周年重大政治活动报道，虽然新闻本身时效性较弱，但央视新闻作为国家级权威媒体发布此类重大时政新闻，具有极强的政策信号意义。此类报道往往预示着相关主题的政策支持和舆论导向，对资本市场具有重要指引作用。",
+      "policy_impact": "抗战纪念活动体现国家意志，通常伴随爱国主义教育、红色旅游、军工装备展示等相关政策支持。此类活动往往带动相关产业的政策红利，特别是在国防军工、文化旅游等领域的政策倾斜。",
+      "theme_classification": {
+        "theme_type": "爱国主义教育/国防军工/红色旅游",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "国防军工",
+          "文化旅游",
+          "传媒出版"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601606",
+          "stock_name": "长城军工",
+          "recommendation_reason": "作为军工板块代表企业，抗战纪念活动往往带动军工板块关注度提升，央视权威报道增强政策预期",
+          "policy_relevance": "高度相关，国防建设与抗战纪念主题直接关联",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600038",
+          "stock_name": "中直股份",
+          "recommendation_reason": "军工直升机龙头，历次重大纪念活动均有装备展示，受益于国防现代化主题",
+          "policy_relevance": "较高，装备展示与国防建设主题相关",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600706",
+          "stock_name": "曲江文旅",
+          "recommendation_reason": "红色旅游概念股，抗战纪念活动带动爱国主义教育基地和红色旅游线路关注度",
+          "policy_relevance": "中等，文化旅游与爱国主义教育主题相关",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:14:48"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

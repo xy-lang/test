@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-11 23:08:56",
+  "news_info": {
+    "id": "a484405002",
+    "title": "成都世运会：赛程过半 中国队暂列金牌榜第一位",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTIRGUR4CBh9UUwimYEb7Qq250811.shtml",
+    "publish_time": "2025-08-11 20:28:02",
+    "summary": "成都世运会：赛程过半 中国队暂列金牌榜第一位"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.72905,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 2.68
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻涉及成都世运会这一国际性赛事，中国队暂列金牌榜第一位，具有较高的国家荣誉感和民族自豪感，且由央视新闻发布，权威性高。综合强度0.73表明该新闻具有较强的影响力和传播价值。",
+    "policy_impact": "虽然新闻本身不直接涉及具体政策，但世运会作为国际赛事，可能带动相关地区的经济和文化发展，间接利好当地企业和相关产业。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "recommendation_reason": "作为四川本地知名企业，五粮液可能受益于世运会带来的品牌曝光和消费增长。",
+        "policy_relevance": "间接相关，受益于地方经济和品牌效应。",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "世运会可能带动成都旅游业发展，中青旅作为旅游行业龙头有望受益。",
+        "policy_relevance": "间接相关，受益于旅游和消费增长。",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "recommendation_reason": "世运会期间酒店需求可能增加，锦江酒店作为国内酒店龙头有望受益。",
+        "policy_relevance": "间接相关，受益于住宿需求增长。",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

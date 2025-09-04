@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-12 17:20:40",
+  "news_info": {
+    "id": "ef85817dee",
+    "title": "透过重磅数据“数”览多种经营主体活力满格",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/12/ARTIx0X6AjeXX3RQv8cCN73T250812.shtml",
+    "publish_time": "2025-08-12 17:20:16",
+    "summary": "透过重磅数据“数”览多种经营主体活力满格"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79045,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.7,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的政策导向性和市场影响力。本次报道聚焦多种经营主体活力，暗示政府将继续支持市场主体发展，利好相关企业。",
+    "policy_impact": "该新闻反映了当前经济政策对市场主体的支持导向，可能预示着后续会有更多扶持政策出台，对相关行业形成长期利好。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "作为综合金融集团，受益于市场主体活力提升带来的金融需求增长",
+        "policy_relevance": "高度相关，金融支持是市场主体发展的重要保障",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "优质商业银行，将直接受益于市场主体融资需求增加",
+        "policy_relevance": "高度相关，银行业是支持市场主体发展的主力军",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "recommendation_reason": "作为制造业龙头，将受益于市场主体活力提升带来的消费需求增长",
+        "policy_relevance": "相关，制造业是市场主体重要组成部分",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

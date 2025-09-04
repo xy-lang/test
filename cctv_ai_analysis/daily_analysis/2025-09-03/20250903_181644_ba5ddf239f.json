@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 18:16:44",
+  "news_info": {
+    "id": "ba5ddf239f",
+    "title": "上海：乡村呈现纪念抗战胜利80周年主题稻田画",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://photo.cctv.com/2025/09/03/PHOA7vLHQXhnUg1Mew1tiMeh250903.shtml",
+    "publish_time": "2025-09-03 17:34:35",
+    "summary": "上海：乡村呈现纪念抗战胜利80周年主题稻田画"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79705,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.69
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为央视旗下唯一上市平台，直接受益于红色文化宣传主题，技术面呈现突破形态，成交量配合放大，与国家意志高度契合，短期催化剂明确\",\n      \"risk_warning\": \"需关注市场整体情绪变化及传媒板块估值压力\"\n    },\n    {\n      \"stock_code\": \"601949\",\n      \"stock_name\": \"中国出版\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"作为国家级出版龙头，深度参与红色文化内容创作，技术指标显示稳健上升趋势，政策受益确定性较高，具备中长期投资价值\",\n      \"risk_warning\": \"出版行业数字化转型压力，需关注业绩兑现进度\"\n    },\n    {\n      \"stock_code\": \"600358\",\n      \"stock_name\": \"国旅联合\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"受益于红色旅游主题，但业务关联度相对间接，技术面表现中等，需观察后续政策落地对旅游板块的实际拉动效果\",\n      \"risk_warning\": \"旅游行业复苏存在不确定性，个股基本面改善需要时间验证\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.7支撑个股表现，市场情绪偏向积极，技术指标整体配合度良好\",\n    \"news_matching\": \"红色文化+乡村振兴主题明确，政策受益程度高，短期催化剂强度中等偏上\",\n    \"risk_assessment\": \"板块风险可控，但需警惕市场整体调整风险；个股基本面差异明显，建议优选龙头\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "作为央视旗下唯一上市公司，直接受益于央视重大主题宣传报道，具备内容制作和传播优势",
+        "policy_relevance": "高度相关，央视平台属性与新闻发布渠道高度契合",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600358",
+        "stock_name": "国旅联合",
+        "recommendation_reason": "主营文化旅游业务，抗战纪念主题将带动红色旅游发展，受益于相关政策支持",
+        "policy_relevance": "中度相关，契合红色文化旅游主题",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "601949",
+        "stock_name": "中国出版",
+        "recommendation_reason": "作为国家级出版传媒集团，将受益于抗战主题相关出版物和宣传材料的出版需求",
+        "policy_relevance": "中度相关，主题出版和政策宣传受益标的",
+        "urgency_level": "一般",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为纪念抗战胜利80周年的主题宣传报道，属于典型的国家级政治宣传内容。虽然新闻本身投资价值有限（各项评分均为0），但央视新闻作为国家级媒体平台，其报道具有强烈的政策导向性和权威性，往往预示着相关主题的政策支持和资源倾斜。",
+      "policy_impact": "抗战纪念主题属于国家重大政治活动，相关宣传报道往往伴随着文化旅游、乡村振兴等配套政策支持。此类新闻虽不直接产生投资机会，但反映了国家对红色文化、乡村振兴等领域的持续重视，具有政策风向标意义。",
+      "theme_classification": {
+        "theme_type": "红色文化旅游+乡村振兴",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "文化旅游",
+          "乡村振兴",
+          "传媒出版"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "作为央视旗下唯一上市公司，直接受益于央视重大主题宣传报道，具备内容制作和传播优势",
+          "policy_relevance": "高度相关，央视平台属性与新闻发布渠道高度契合",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600358",
+          "stock_name": "国旅联合",
+          "recommendation_reason": "主营文化旅游业务，抗战纪念主题将带动红色旅游发展，受益于相关政策支持",
+          "policy_relevance": "中度相关，契合红色文化旅游主题",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "601949",
+          "stock_name": "中国出版",
+          "recommendation_reason": "作为国家级出版传媒集团，将受益于抗战主题相关出版物和宣传材料的出版需求",
+          "policy_relevance": "中度相关，主题出版和政策宣传受益标的",
+          "urgency_level": "一般",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:16:44"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-02 23:57:59",
+  "news_info": {
+    "id": "1cbc158f5c",
+    "title": "浙江大学西迁后代话西迁｜储西印：补上一堂迟到了几十年的“历史课”",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250902233419858798311.html",
+    "publish_time": "2025-09-02 23:34:00",
+    "summary": "浙江大学西迁后代话西迁｜储西印：补上一堂迟到了几十年的“历史课”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.39
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600661\",\n      \"stock_name\": \"昂立教育\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为教育板块龙头，与浙江大学历史文化主题具有较高关联度，技术面相对稳健，在历史文化教育题材中受益程度最直接，短期催化剂效应明显\",\n      \"risk_warning\": \"教育政策监管风险、板块轮动风险、技术面整体偏弱可能影响短期表现\"\n    },\n    {\n      \"stock_code\": \"000526\",\n      \"stock_name\": \"学大教育\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"教育服务企业，与新闻主题存在一定关联，但技术指标相对较弱，受益于教育板块情绪回暖\",\n      \"risk_warning\": \"基本面业绩波动风险、技术面支撑不足、市场情绪变化风险\"\n    },\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"传媒板块与历史文化主题存在间接关联，但技术评分较低，板块强度支撑不足，短期催化效应有限\",\n      \"risk_warning\": \"板块强度较弱风险、与新闻主题关联度不高、技术面支撑不足风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"较弱（0.250）\",\n    \"key_drivers\": \"历史文化教育主题催化、政策预期支撑\",\n    \"major_risks\": \"整体板块技术面偏弱、市场情绪不稳定、个股基本面分化\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "recommendation_reason": "作为教育服务企业，与高校历史传承有一定关联性，但新闻本身投资价值有限",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下传媒公司，但新闻内容不具备投资催化作用",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "000526",
+        "stock_name": "学大教育",
+        "recommendation_reason": "教育板块标的，但与新闻关联度较弱，谨慎推荐",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为浙江大学西迁历史回顾类内容，属于文化教育类报道，投资价值较低。央视新闻的权威性主要体现在政策解读和重大事件报道，此类历史回顾类新闻对资本市场直接影响有限，更多体现文化传承价值。",
+      "policy_impact": "低影响。新闻内容不涉及当前政策导向或产业规划，属于历史文化类报道，对相关产业政策影响微乎其微，不具备投资指导意义。",
+      "theme_classification": {
+        "theme_type": "历史文化教育",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "教育服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600661",
+          "stock_name": "昂立教育",
+          "recommendation_reason": "作为教育服务企业，与高校历史传承有一定关联性，但新闻本身投资价值有限",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下传媒公司，但新闻内容不具备投资催化作用",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "000526",
+          "stock_name": "学大教育",
+          "recommendation_reason": "教育板块标的，但与新闻关联度较弱，谨慎推荐",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 23:57:59"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

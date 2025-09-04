@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 20:37:23",
+  "news_info": {
+    "id": "a2cd7c0540",
+    "title": "大后方 | 传唱着他们唱过的歌，传唱着他们的故事",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903185149116512338.html",
+    "publish_time": "2025-09-03 18:51:00",
+    "summary": "大后方 | 传唱着他们唱过的歌，传唱着他们的故事"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.701,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.74,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.76
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为央视旗下核心传媒平台，与红色文化传播主题高度契合，技术面显示突破形态，受益于国家意志推动的文化传媒政策，短期催化剂明确\",\n      \"risk_alert\": \"需关注传媒板块政策变化风险及市场情绪波动\"\n    },\n    {\n      \"stock_code\": \"300251\",\n      \"stock_name\": \"光线传媒\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"影视内容制作龙头，在红色题材影视制作方面具有优势，技术指标显示温和放量，受益于文化自信政策导向\",\n      \"risk_alert\": \"影视行业内容审核风险较高，需关注具体项目进展\"\n    },\n    {\n      \"stock_code\": \"600706\",\n      \"stock_name\": \"曲江文旅\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"文旅融合标的，具备红色旅游资源优势，但技术面相对较弱，属于主题投资范畴\",\n      \"risk_alert\": \"旅游行业受季节性影响较大，需警惕业绩兑现不及预期\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength\": 0.683,\n    \"market_sentiment\": \"积极\",\n    \"policy_benefit_level\": \"高\",\n    \"overall_risk_level\": \"中等\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下唯一上市平台，直接受益央视内容制作和传播需求，红色文化题材制作经验丰富",
+        "policy_relevance": "高度相关",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "recommendation_reason": "头部影视内容制作商，具备红色题材影视剧制作能力，可能获得相关项目订单",
+        "policy_relevance": "中度相关",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "600706",
+        "stock_name": "曲江文旅",
+        "recommendation_reason": "文旅运营企业，红色旅游线路开发与央视宣传形成协同效应，受益文化传播带动的客流增长",
+        "policy_relevance": "中度相关",
+        "urgency_level": "一般",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视时政要闻，内容涉及红色文化传承主题，虽评分较低但央视平台具有权威背书效应。央视新闻作为国家级媒体，其报道往往隐含政策导向信号，对相关题材具有显著催化作用。",
+      "policy_impact": "符合文化强国战略导向，十四五规划明确支持红色文化传承发展。新闻虽未直接提及具体政策，但央视报道暗示文化传播领域将持续获得政策支持，相关企业可能受益于文化基础设施建设和内容采购需求增加。",
+      "theme_classification": {
+        "theme_type": "文化传媒/红色文旅",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "文化传媒",
+          "旅游服务",
+          "影视制作"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下唯一上市平台，直接受益央视内容制作和传播需求，红色文化题材制作经验丰富",
+          "policy_relevance": "高度相关",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "300251",
+          "stock_name": "光线传媒",
+          "recommendation_reason": "头部影视内容制作商，具备红色题材影视剧制作能力，可能获得相关项目订单",
+          "policy_relevance": "中度相关",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "600706",
+          "stock_name": "曲江文旅",
+          "recommendation_reason": "文旅运营企业，红色旅游线路开发与央视宣传形成协同效应，受益文化传播带动的客流增长",
+          "policy_relevance": "中度相关",
+          "urgency_level": "一般",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 20:37:23"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

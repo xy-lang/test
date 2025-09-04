@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 17:09:05",
+  "news_info": {
+    "id": "ec2d8d011b",
+    "title": "习近平提出全球治理倡议",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIjm9ZZFGSydu6gJaiktK7250901.shtml",
+    "publish_time": "2025-09-01 16:32:49",
+    "summary": "习近平提出全球治理倡议"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7756000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.61,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.59
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601668\",\n      \"stock_name\": \"中国建筑\",\n      \"comprehensive_score\": 0.87,\n      \"recommendation_reason\": \"技术指标表现最佳（评分0.88），直接受益于全球基建倡议，作为建筑行业龙头将获得海外订单增长。板块强度0.833提供有力支撑，政策催化剂明确。\",\n      \"risk_warning\": \"海外项目执行风险、汇率波动风险、基建投资周期较长\"\n    },\n    {\n      \"stock_code\": \"601390\",\n      \"stock_name\": \"中国中铁\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术评分0.84表现良好，一带一路基建核心标的，海外工程经验丰富。受益于全球治理倡议下的基础设施合作项目，市场情绪积极。\",\n      \"risk_warning\": \"海外政治风险、项目毛利率压力、债务水平较高\"\n    },\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.76,\n      \"recommendation_reason\": \"技术评分0.77相对稳健，受益于海外投资和保险业务国际化。作为综合金融集团，在全球治理框架下可能获得更多跨境业务机会。\",\n      \"risk_warning\": \"与政策直接关联度较弱、金融监管风险、投资收益波动\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_support\": \"板块强度0.833显示良好支撑，平均技术评分0.83表明整体技术面健康，市场情绪偏向积极\",\n    \"policy_benefit\": \"全球治理倡议直接利好基建和国际化企业，中国建筑和中国中铁受益最为直接\",\n    \"risk_assessment\": \"整体风险可控，但需关注海外项目执行风险和宏观经济波动影响\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "作为全球最大的工程承包商，将直接受益于全球治理倡议下的海外基建项目，央视新闻的权威报道预示政策支持力度加大",
+        "policy_relevance": "高度相关，海外基建是倡议重要组成部分",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "recommendation_reason": "一带一路核心标的，全球治理倡议将推动国际基础设施合作，公司海外订单有望显著增长",
+        "policy_relevance": "高度相关，国际工程承包直接受益",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "金融国际化重要参与者，全球治理倡议将促进跨境金融合作，公司国际业务布局有望加速",
+        "policy_relevance": "中度相关，金融合作是治理倡议重要内容",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为习近平主席提出的全球治理倡议，属于国家级重大政策导向。虽然评分显示第一时间性、硬核程度和持续性均为0分，但央视新闻作为国家级权威媒体，其报道具有极高的政策信号意义。此类新闻往往预示着后续具体政策的落地，对相关产业具有重要指导作用。",
+      "policy_impact": "全球治理倡议将推动中国在国际事务中发挥更大作用，相关企业将受益于政策红利。重点关注一带一路、基础设施建设、国际金融合作等领域，预计将带动相关企业海外业务拓展和国际化进程加速。",
+      "theme_classification": {
+        "theme_type": "国家战略/外交政策",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "基础设施建设",
+          "国际工程承包",
+          "金融国际化"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "作为全球最大的工程承包商，将直接受益于全球治理倡议下的海外基建项目，央视新闻的权威报道预示政策支持力度加大",
+          "policy_relevance": "高度相关，海外基建是倡议重要组成部分",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "601390",
+          "stock_name": "中国中铁",
+          "recommendation_reason": "一带一路核心标的，全球治理倡议将推动国际基础设施合作，公司海外订单有望显著增长",
+          "policy_relevance": "高度相关，国际工程承包直接受益",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "金融国际化重要参与者，全球治理倡议将促进跨境金融合作，公司国际业务布局有望加速",
+          "policy_relevance": "中度相关，金融合作是治理倡议重要内容",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 17:09:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

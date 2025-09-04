@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 00:46:05",
+  "news_info": {
+    "id": "3fd727d735",
+    "title": "国家级数据基建实现数据领域“车同轨、书同文”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTI8QkfhgMTp7m26Go1K3iS250814.shtml",
+    "publish_time": "2025-08-15 00:45:40",
+    "summary": "国家级数据基建实现数据领域“车同轨、书同文”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79705,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻涉及国家级数据基建建设，具有重要政策导向意义。央视新闻作为国家级权威媒体，其报道具有高度可信度和市场影响力。综合强度0.80表明该新闻对相关板块将产生显著影响。",
+    "policy_impact": "数据基建作为数字经济发展的重要基础，将直接受益于政策支持。'车同轨、书同文'的表述暗示将推进数据标准化和互联互通，利好数据基础设施和服务提供商。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600845",
+        "stock_name": "宝信软件",
+        "recommendation_reason": "国内领先的工业互联网和数据中心解决方案提供商，直接受益于数据基建政策推进",
+        "policy_relevance": "高度相关，主营业务涉及数据中心建设和工业互联网平台",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "300212",
+        "stock_name": "易华录",
+        "recommendation_reason": "央企背景的数据湖建设龙头企业，符合国家数据要素市场化配置改革方向",
+        "policy_relevance": "高度相关，专注于数据存储和管理基础设施建设",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "603881",
+        "stock_name": "数据港",
+        "recommendation_reason": "专业的数据中心服务商，将受益于数据标准化和互联互通政策",
+        "policy_relevance": "相关，主营业务为数据中心运营服务",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

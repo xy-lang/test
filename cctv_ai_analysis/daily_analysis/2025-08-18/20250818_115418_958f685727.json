@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 11:54:18",
+  "news_info": {
+    "id": "958f685727",
+    "title": "“十四五”时期统战工作取得显著成就",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIQSVQcTy4VwaVbGxoRBaU250818.shtml",
+    "publish_time": "2025-08-18 11:48:08",
+    "summary": "“十四五”时期统战工作取得显著成就"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.78055,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.67,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.09
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"中国银行(601988)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"直接受益于'十四五'金融政策支持\",\n        \"所属银行板块强度0.454提供支撑\",\n        \"技术指标显示上涨趋势\",\n        \"低估值提供安全边际\"\n      ],\n      \"risk_warning\": [\n        \"银行业整体面临净息差收窄压力\",\n        \"需关注房地产贷款风险敞口\"\n      ]\n    },\n    {\n      \"stock\": \"中国平安(601318)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"综合金融集团受益于经济复苏\",\n        \"技术面呈现企稳回升态势\",\n        \"保险+银行双轮驱动\"\n      ],\n      \"risk_warning\": [\n        \"寿险改革成效仍需观察\",\n        \"资本市场波动影响投资收益\"\n      ]\n    },\n    {\n      \"stock\": \"中国石化(600028)\",\n      \"score\": 0.65,\n      \"reasons\": [\n        \"能源安全战略受益标的\",\n        \"高股息率具备防御性\"\n      ],\n      \"risk_warning\": [\n        \"国际油价波动风险\",\n        \"新能源转型压力\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"key_factors\": [\n      \"银行板块技术面最具支撑\",\n      \"政策导向型投资逻辑明确\",\n      \"市场风险偏好趋于保守\"\n    ],\n    \"general_risk\": [\n      \"需警惕宏观经济复苏不及预期\",\n      \"注意美联储货币政策外溢效应\"\n    ]\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "作为综合金融集团，与政府合作密切，可能受益于统战工作带来的政企合作机会",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "recommendation_reason": "国有大行，在服务国家战略和统战工作中发挥重要作用",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "recommendation_reason": "央企龙头，在国家重大战略实施中扮演关键角色",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于时政要闻，报道'十四五'时期统战工作成就，内容权威但投资直接关联性较弱。央视新闻作为国家级媒体，其报道具有政策导向意义，但该新闻缺乏具体产业或经济数据支撑。",
+      "policy_impact": "统战工作主要涉及政治层面，对资本市场直接影响有限。但可能间接利好与政府关系密切的国企、央企，以及参与国家战略项目的企业。",
+      "theme_classification": {
+        "theme_type": "政策导向型",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "央企改革",
+          "政府服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "作为综合金融集团，与政府合作密切，可能受益于统战工作带来的政企合作机会",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "601988",
+          "stock_name": "中国银行",
+          "recommendation_reason": "国有大行，在服务国家战略和统战工作中发挥重要作用",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "600028",
+          "stock_name": "中国石化",
+          "recommendation_reason": "央企龙头，在国家重大战略实施中扮演关键角色",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:54:18"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

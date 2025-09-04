@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 11:16:52",
+  "news_info": {
+    "id": "fe257001c0",
+    "title": "校园智慧食堂加速建设 守护学生“盘中餐”",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901105849438508218.html",
+    "publish_time": "2025-09-01 10:58:00",
+    "summary": "校园智慧食堂加速建设 守护学生“盘中餐”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7558,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.7,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.3
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300248\",\n      \"stock_name\": \"新开普\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现相对稳健，板块强度0.567提供支撑，与校园智慧食堂建设主题高度契合，作为校园信息化龙头直接受益政策推动，短期催化剂明确\",\n      \"risk_warning\": \"需关注板块整体回调风险，个股估值偏高可能面临调整压力\"\n    },\n    {\n      \"stock_code\": \"300271\",\n      \"stock_name\": \"华宇软件\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"技术评分中等，在智慧校园和食品安全信息化领域有布局，受益于行业数字化升级趋势，但直接关联度略低于新开普\",\n      \"risk_warning\": \"软件行业竞争激烈，业绩增长存在不确定性，需关注订单获取情况\"\n    },\n    {\n      \"stock_code\": \"603636\",\n      \"stock_name\": \"南威软件\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"技术面相对较弱，但在政务信息化领域有积累，可能间接受益于校园数字化建设，政策关联度存在但不够直接\",\n      \"risk_warning\": \"市场情绪偏谨慎，技术指标配合度一般，短期上涨空间有限\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_support\": \"板块强度0.567处于中等水平，为个股提供一定支撑但不够强劲\",\n    \"news_relevance\": \"智慧校园建设政策明确，短期催化剂强度较高，直接受益标的有限\",\n    \"risk_assessment\": \"综合板块风险中等，需警惕市场整体调整带来的系统性风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300248",
+        "stock_name": "新开普",
+        "recommendation_reason": "公司为校园一卡通和智慧校园解决方案龙头，直接受益于校园智慧食堂建设需求",
+        "policy_relevance": "高度相关，业务涵盖校园消费系统和智慧食堂管理",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "603636",
+        "stock_name": "南威软件",
+        "recommendation_reason": "在智慧政务和智慧教育领域有布局，可能参与校园信息化项目建设",
+        "policy_relevance": "中度相关，通过教育信息化业务间接受益",
+        "urgency_level": "较低",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "300271",
+        "stock_name": "华宇软件",
+        "recommendation_reason": "教育信息化服务商，在智慧校园解决方案方面有技术积累",
+        "policy_relevance": "中度相关，业务涉及教育行业信息化建设",
+        "urgency_level": "较低",
+        "confidence_score": 0.5
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视报道，但内容属于常规教育信息化建设报道，缺乏重大政策突破或行业变革信息。央视权威性虽能带来一定关注度，但新闻本身硬核程度和时效性评分均为0，表明投资价值有限，更多是概念性机会。",
+      "policy_impact": "属于教育信息化政策延续性推动，非重大新政发布。政策影响程度中等，主要受益于'智慧校园'和'食品安全'双重政策导向，但缺乏强制性和紧迫性要求。",
+      "theme_classification": {
+        "theme_type": "智慧校园+食品安全信息化",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "教育信息化",
+          "智慧食堂设备",
+          "食品安全监测"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300248",
+          "stock_name": "新开普",
+          "recommendation_reason": "公司为校园一卡通和智慧校园解决方案龙头，直接受益于校园智慧食堂建设需求",
+          "policy_relevance": "高度相关，业务涵盖校园消费系统和智慧食堂管理",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "603636",
+          "stock_name": "南威软件",
+          "recommendation_reason": "在智慧政务和智慧教育领域有布局，可能参与校园信息化项目建设",
+          "policy_relevance": "中度相关，通过教育信息化业务间接受益",
+          "urgency_level": "较低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "300271",
+          "stock_name": "华宇软件",
+          "recommendation_reason": "教育信息化服务商，在智慧校园解决方案方面有技术积累",
+          "policy_relevance": "中度相关，业务涉及教育行业信息化建设",
+          "urgency_level": "较低",
+          "confidence_score": 0.5
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:16:52"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

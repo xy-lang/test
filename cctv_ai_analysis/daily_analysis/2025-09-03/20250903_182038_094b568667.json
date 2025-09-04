@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-03 18:20:38",
+  "news_info": {
+    "id": "094b568667",
+    "title": "暑运落幕 长三角多个交通部门客发量创历史纪录",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIsN7ThJAjRKaLPkyjyziN250903.shtml",
+    "publish_time": "2025-09-03 17:20:28",
+    "summary": "暑运落幕 长三角多个交通部门客发量创历史纪录"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79705,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.99
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:20:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

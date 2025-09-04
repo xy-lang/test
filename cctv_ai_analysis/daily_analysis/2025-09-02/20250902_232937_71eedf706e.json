@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-02 23:29:37",
+  "news_info": {
+    "id": "71eedf706e",
+    "title": "杭州启用华东首个宠物候机厅 “毛孩子”航空出行告别奔波",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250902204845841364006.html",
+    "publish_time": "2025-09-02 20:48:00",
+    "summary": "杭州启用华东首个宠物候机厅 “毛孩子”航空出行告别奔波"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7109,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.77,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.68
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600004\",\n      \"stock_name\": \"白云机场\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"直接受益于宠物候机厅建设概念，作为机场运营龙头具备先发优势。技术面相对稳健，板块强度中等但个股具备独立行情特征，新闻催化直接且短期可见效。\",\n      \"risk_warning\": \"机场运营受宏观经济影响较大，宠物服务收入占比初期较小，需关注实际业务落地进度\"\n    },\n    {\n      \"stock_code\": \"002891\",\n      \"stock_name\": \"中宠股份\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"宠物经济核心标的，受益于宠物出行需求增长带动的宠物用品消费。技术指标显示企稳迹象，属于宠物产业链直接受益方，具备中长期投资价值。\",\n      \"risk_warning\": \"估值相对较高，市场竞争激烈，需关注业绩兑现情况和行业竞争格局变化\"\n    },\n    {\n      \"stock_code\": \"300119\",\n      \"stock_name\": \"瑞普生物\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"宠物疫苗和医药业务与宠物出行健康需求相关，但关联度相对间接。技术面表现一般，属于宠物医疗细分领域，具备一定的防御属性。\",\n      \"risk_warning\": \"与新闻主题关联度较弱，业绩增长依赖宠物医疗整体市场发展，短期催化效应有限\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"中性偏积极\",\n    \"sector_strength\": \"中等(0.4/1.0)\",\n    \"recommendation_strategy\": \"重点配置直接受益标的，适度配置产业链相关个股，控制仓位防范市场波动风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600004",
+        "stock_name": "白云机场",
+        "recommendation_reason": "作为国内主要机场运营商，可能受益于宠物出行服务标准化趋势，但直接关联度有限",
+        "policy_relevance": "中等，机场服务升级概念",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      },
+      {
+        "rank": 2,
+        "stock_code": "300119",
+        "stock_name": "瑞普生物",
+        "recommendation_reason": "宠物医疗相关企业，间接受益于宠物出行便利化带来的宠物消费需求提升",
+        "policy_relevance": "低，间接关联",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 3,
+        "stock_code": "002891",
+        "stock_name": "中宠股份",
+        "recommendation_reason": "宠物食品龙头，宠物出行便利化可能带动宠物消费频次提升",
+        "policy_relevance": "低，间接关联",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视报道，但内容属于地方性便民服务设施建设，投资价值有限。央视权威性虽能带来一定关注度，但新闻本身缺乏实质性政策支撑和产业影响，属于一般性民生新闻，投资指导意义较弱。",
+      "policy_impact": "低级别政策影响，属于地方便民服务优化，无全国性政策导向。宠物出行服务属于消费升级细分领域，但缺乏明确的产业政策支持，对相关上市公司业绩影响有限。",
+      "theme_classification": {
+        "theme_type": "宠物经济/机场服务",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "交通运输",
+          "宠物服务",
+          "消费服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600004",
+          "stock_name": "白云机场",
+          "recommendation_reason": "作为国内主要机场运营商，可能受益于宠物出行服务标准化趋势，但直接关联度有限",
+          "policy_relevance": "中等，机场服务升级概念",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        },
+        {
+          "rank": 2,
+          "stock_code": "300119",
+          "stock_name": "瑞普生物",
+          "recommendation_reason": "宠物医疗相关企业，间接受益于宠物出行便利化带来的宠物消费需求提升",
+          "policy_relevance": "低，间接关联",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 3,
+          "stock_code": "002891",
+          "stock_name": "中宠股份",
+          "recommendation_reason": "宠物食品龙头，宠物出行便利化可能带动宠物消费频次提升",
+          "policy_relevance": "低，间接关联",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 23:29:37"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

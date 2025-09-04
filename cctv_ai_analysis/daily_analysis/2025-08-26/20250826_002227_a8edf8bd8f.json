@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-26 00:22:27",
+  "news_info": {
+    "id": "a8edf8bd8f",
+    "title": "从演训场到训练场 九三阅兵空军方队汇聚成钢铁长城",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIS4WEftq6C9vf09lH7bIH250825.shtml",
+    "publish_time": "2025-08-25 10:29:00",
+    "summary": "从演训场到训练场 九三阅兵空军方队汇聚成钢铁长城"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.66765,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 13.88
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600760\",\n      \"stock_name\": \"中航沈飞\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"作为歼击机核心制造商，与阅兵新闻高度契合，技术评分0.85领先板块，受益于国防现代化政策，短期催化剂明确，板块强度0.8提供有力支撑\",\n      \"risk_warning\": \"需关注军工订单波动风险和估值偏高风险\"\n    },\n    {\n      \"stock_code\": \"000768\",\n      \"stock_name\": \"中航西飞\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"军用运输机主力生产商，阅兵装备直接供应商，技术评分0.82稳健，受益于空军装备升级需求，市场情绪积极\",\n      \"risk_warning\": \"存在业绩兑现不及预期风险和行业竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"600893\",\n      \"stock_name\": \"航发动力\",\n      \"comprehensive_score\": 0.79,\n      \"recommendation_reason\": \"航空发动机核心企业，技术壁垒高，受益于国产替代政策，但技术评分0.73相对较低，需观察突破信号\",\n      \"risk_warning\": \"技术研发风险较高，业绩释放周期较长，短期波动可能较大\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.80,\n    \"market_sentiment\": \"积极\",\n    \"policy_support\": \"国家意志级别\",\n    \"risk_assessment\": \"中等风险，需关注板块轮动和估值风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "作为国内主要战斗机生产企业，直接受益于空军装备现代化建设，央视阅兵报道提升市场关注度",
+        "policy_relevance": "高度相关，空军装备核心供应商",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "recommendation_reason": "航空发动机核心企业，阅兵展示的先进战机均需配套发动机，体现国家航空工业实力",
+        "policy_relevance": "高度相关，航空动力系统核心",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "recommendation_reason": "军用运输机、轰炸机等大型军机主要制造商，阅兵装备展示间接体现公司产品价值",
+        "policy_relevance": "中度相关，大型军机平台供应商",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威发布的时政要闻，虽然时效性评分较低，但央视新闻作为国家级媒体平台，其报道具有极强的政策导向性和权威性。九三阅兵相关报道通常涉及国防建设、军工装备等国家战略层面内容，对相关产业具有明确的政策指引作用。",
+      "policy_impact": "阅兵报道体现了国家在国防现代化建设方面的持续投入决心，预计将推动军工装备采购、航空航天技术升级等相关政策加速落地，对军工产业链形成长期利好。",
+      "theme_classification": {
+        "theme_type": "军工装备/航空航天",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "国防军工",
+          "航空航天",
+          "高端装备制造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600760",
+          "stock_name": "中航沈飞",
+          "recommendation_reason": "作为国内主要战斗机生产企业，直接受益于空军装备现代化建设，央视阅兵报道提升市场关注度",
+          "policy_relevance": "高度相关，空军装备核心供应商",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "600893",
+          "stock_name": "航发动力",
+          "recommendation_reason": "航空发动机核心企业，阅兵展示的先进战机均需配套发动机，体现国家航空工业实力",
+          "policy_relevance": "高度相关，航空动力系统核心",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "000768",
+          "stock_name": "中航西飞",
+          "recommendation_reason": "军用运输机、轰炸机等大型军机主要制造商，阅兵装备展示间接体现公司产品价值",
+          "policy_relevance": "中度相关，大型军机平台供应商",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-26 00:22:27"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

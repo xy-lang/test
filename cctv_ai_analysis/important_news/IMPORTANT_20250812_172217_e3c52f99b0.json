@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-12 17:22:17",
+  "news_info": {
+    "id": "e3c52f99b0",
+    "title": "“夏日经济”效应显现 居民消费热情和信心不断增强",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/12/ARTIbhGoBi8CRgmpZHIXaujn250812.shtml",
+    "publish_time": "2025-08-12 17:20:16",
+    "summary": "“夏日经济”效应显现 居民消费热情和信心不断增强"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80365,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.03
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有高度公信力和政策导向性。本次关于'夏日经济'的报道综合强度达0.80，表明消费复苏趋势得到官方确认，将显著影响市场预期。",
+    "policy_impact": "报道虽未直接提及具体政策，但'居民消费信心增强'的表述暗示消费刺激政策将持续，利好大消费板块。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "recommendation_reason": "作为乳制品龙头直接受益夏季冷饮消费旺季，央视背书消费信心将提振业绩预期",
+        "policy_relevance": "高 - 符合国家促进内需政策方向",
+        "urgency_level": "高 - 夏季消费旺季即将到来",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "recommendation_reason": "必选消费龙头，央视报道提升消费板块整体估值",
+        "policy_relevance": "中高 - 民生消费基础领域",
+        "urgency_level": "中 - 季节性影响相对平缓",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "recommendation_reason": "高端消费回暖信号明确，暑期宴请场景增加",
+        "policy_relevance": "中 - 消费升级代表",
+        "urgency_level": "中高 - 中秋旺季备货期临近",
+        "confidence_score": 0.79
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-09-01 09:33:48",
+  "news_info": {
+    "id": "76713a904a",
+    "title": "各地举办多种活动纪念抗战胜利80周年",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIOFTMYsiS33JnlK6pIczR250901.shtml",
+    "publish_time": "2025-09-01 17:30:00",
+    "summary": "各地举办多种活动纪念抗战胜利80周年"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7838499999999999,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.68,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -7.95
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，纪念抗战胜利80周年报道具有重大政治意义和舆论导向作用。综合强度0.78表明新闻传播价值较高，虽政策词数量较少，但源权重0.95体现极强的官方权威性，对相关主题投资具有明确指引作用",
+    "policy_impact": "该新闻反映国家层面对红色文化传承的重视，预计将带动爱国主义教育、红色旅游、军工文化等相关产业政策支持。时效性评分1.00显示新闻刚发布，投资窗口期较为紧迫，建议重点关注与抗战纪念直接相关的标的",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000065",
+        "stock_name": "北方国际",
+        "recommendation_reason": "公司主营军工贸易和国防装备出口，与抗战纪念主题高度契合，央视权威报道将提升国防板块关注度",
+        "policy_relevance": "直接受益于爱国主义教育强化和国防意识提升政策导向",
+        "urgency_level": "高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "旗下拥有多家红色旅游酒店资源，抗战纪念活动将带动红色旅游热潮，受益于文旅部相关政策支持",
+        "policy_relevance": "契合文化传承和红色旅游发展政策方向",
+        "urgency_level": "中高",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "600037",
+        "stock_name": "歌华有线",
+        "recommendation_reason": "作为北京地区主流媒体运营商，将承接抗战纪念相关宣传任务，央视权威报道提升媒体板块价值重估",
+        "policy_relevance": "受益于主流媒体传播体系建设政策",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 09:33:48"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

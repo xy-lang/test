@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-11 16:15:37",
+  "news_info": {
+    "id": "8de68b511c",
+    "title": "记者从国铁集团了解到，自7月1日暑运启动以来至8月10日，全国铁路累计发送旅客5.99亿人次，同比增长3.9%。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTIZxzQI5Cd7yPYBRBDCapU250811.shtml",
+    "publish_time": "2025-08-11 16:14:55",
+    "summary": "记者从国铁集团了解到，自7月1日暑运启动以来至8月10日，全国铁路累计发送旅客5.99亿人次，同比增..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由央视发布，具有极高的权威性和时效性，反映了铁路客运的强劲复苏趋势，对相关产业链具有直接利好影响。",
+    "policy_impact": "暑运数据超预期显示消费复苏态势良好，可能带动交通基建、旅游消费等相关政策持续加码。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601333",
+        "stock_name": "广深铁路",
+        "recommendation_reason": "直接受益于铁路客运量增长，区域铁路龙头",
+        "policy_relevance": "直接相关",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "600115",
+        "stock_name": "中国东航",
+        "recommendation_reason": "暑运旺季带动航空铁路联动效应",
+        "policy_relevance": "间接相关",
+        "urgency_level": "中高",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 3,
+        "stock_code": "601800",
+        "stock_name": "中国交建",
+        "recommendation_reason": "铁路基建投资可能随客运需求增加而提升",
+        "policy_relevance": "潜在相关",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

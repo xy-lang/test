@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 16:37:14",
+  "news_info": {
+    "id": "82a077f38f",
+    "title": "大江南北“夜经济”的魅力，各具特色。在众多的城市中，湖南长沙可以说是非常热门的城市之一。数据显示，长沙夜间消费已经占全天消费比重的60%。现在，跟着我们的总台记者，一起去夜长沙感受这座城市不一样的烟火。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIkdSdrmUijDOwrRNXgWJp250818.shtml",
+    "publish_time": "2025-08-18 08:12:00",
+    "summary": "大江南北“夜经济”的魅力，各具特色。在众多的城市中，湖南长沙可以说是非常热门的城市之一。数据显示，长..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 8.41
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000721\",\n      \"stock_name\": \"西安饮食\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"1. 技术面：技术评分较高，处于上涨趋势，配合夜间经济题材热度\\n2. 关联度：直接受益于夜间消费增长，餐饮行业龙头\\n3. 催化剂：暑期旅游旺季+夜市消费旺季双重利好\",\n      \"risk_warning\": \"1. 短期涨幅可能已部分反映预期\\n2. 需关注实际客流恢复数据\"\n    },\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"1. 技术面：稳定上升通道，量价配合良好\\n2. 关联度：文旅综合体业务深度参与夜间经济\\n3. 政策面：暑期旅游政策支持力度大\",\n      \"risk_warning\": \"1. 旅游行业复苏存在波动性\\n2. 异地业务可能受疫情反复影响\"\n    },\n    {\n      \"stock_code\": \"603123\",\n      \"stock_name\": \"翠微股份\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"1. 技术面：突破平台整理，MACD金叉\\n2. 关联度：商业零售受益消费回暖\\n3. 估值优势：PE低于行业平均水平\",\n      \"risk_warning\": \"1. 零售行业竞争激烈\\n2. 线上分流压力持续存在\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": \"中性\",\n    \"technical_sentiment\": \"偏多\",\n    \"news_catalyst\": \"较强\",\n    \"overall_risk_level\": \"中等\"\n  },\n  \"strategy_suggestion\": \"建议采用：\\n1. 西安饮食可短线参与\\n2. 中青旅适合中线布局\\n3. 翠微股份需观察持续性放量\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000721",
+        "stock_name": "西安饮食",
+        "recommendation_reason": "公司旗下拥有多个餐饮品牌，受益于夜间餐饮消费增长。央视报道将提升市场对餐饮板块关注度。",
+        "policy_relevance": "直接受益于夜经济政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "603123",
+        "stock_name": "翠微股份",
+        "recommendation_reason": "商业零售企业，在长沙有业务布局，可能直接受益于当地夜消费增长。",
+        "policy_relevance": "区域消费升级受益标的",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "旅游服务企业，夜间文旅活动是夜经济重要组成部分，可能间接受益。",
+        "policy_relevance": "文旅消费升级概念",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由央视新闻发布，具有较高的权威性和公信力，能够有效引导市场关注夜经济相关产业。虽然新闻本身时效性不强，但作为国家级媒体对长沙夜经济的正面报道，可能引发市场对相关消费板块的关注。",
+      "policy_impact": "夜经济是国家促进消费升级的重要抓手，长沙作为示范城市获得央视报道，可能带动其他城市跟进相关政策，利好消费服务行业。",
+      "theme_classification": {
+        "theme_type": "夜间经济/消费升级",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "商业零售",
+          "餐饮旅游",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000721",
+          "stock_name": "西安饮食",
+          "recommendation_reason": "公司旗下拥有多个餐饮品牌，受益于夜间餐饮消费增长。央视报道将提升市场对餐饮板块关注度。",
+          "policy_relevance": "直接受益于夜经济政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "603123",
+          "stock_name": "翠微股份",
+          "recommendation_reason": "商业零售企业，在长沙有业务布局，可能直接受益于当地夜消费增长。",
+          "policy_relevance": "区域消费升级受益标的",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "旅游服务企业，夜间文旅活动是夜经济重要组成部分，可能间接受益。",
+          "policy_relevance": "文旅消费升级概念",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 16:37:14"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

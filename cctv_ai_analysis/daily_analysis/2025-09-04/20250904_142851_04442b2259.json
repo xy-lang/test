@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-04 14:28:51",
+  "news_info": {
+    "id": "04442b2259",
+    "title": "剧痛30天VS一夜安眠！老人患带状疱疹，“一针”下去，疼痛评分从10分降到2分……",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904132256450177477.html",
+    "publish_time": "2025-09-04 13:22:00",
+    "summary": "剧痛30天VS一夜安眠！老人患带状疱疹，“一针”下去，疼痛评分从10分降到2分……"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.1
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002773\",\n      \"stock_name\": \"康弘药业\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术面相对稳健，新闻直接关联度最高，带状疱疹治疗领域具有明确的产品布局，短期催化剂强度突出，政策受益程度较高\",\n      \"risk_warning\": \"医药政策变动风险，研发进展不及预期风险，市场竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"300142\",\n      \"stock_name\": \"沃森生物\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"生物疫苗领域龙头，技术指标相对稳定，带状疱疹疫苗研发具备一定优势，但短期直接关联度略低于康弘药业\",\n      \"risk_warning\": \"疫苗研发周期长风险，监管审批不确定性，估值偏高风险\"\n    },\n    {\n      \"stock_code\": \"600161\",\n      \"stock_name\": \"天坛生物\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"血液制品龙头企业，但带状疱疹治疗领域关联度相对较弱，技术面表现一般，板块支撑力度有限\",\n      \"risk_warning\": \"主营业务与新闻关联度较低，短期催化效应有限，医药板块整体调整风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"医药板块强度0.3属于中等偏弱水平，市场情绪对医药板块谨慎，技术指标平均评分0.30显示个股技术面整体偏弱\",\n    \"news_matching\": \"带状疱疹治疗细分领域直接受益，康弘药业关联度最高，短期催化剂明确但持续性有待观察\",\n    \"risk_assessment\": \"医药板块面临政策不确定性风险，个股基本面分化明显，当前市场时机需谨慎选择标的\"\n  },\n  \"investment_note\": \"建议重点关注与新闻直接相关的带状疱疹治疗标的，控制仓位，设置止损位，关注后续政策动向和研发进展\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600161",
+        "stock_name": "天坛生物",
+        "recommendation_reason": "涉及疫苗研发，带状疱疹疫苗为潜在发展方向，但新闻关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300142",
+        "stock_name": "沃森生物",
+        "recommendation_reason": "疫苗研发企业，带状疱疹疫苗布局但非主营业务",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "002773",
+        "stock_name": "康弘药业",
+        "recommendation_reason": "神经疼痛治疗药物研发企业，与带状疱疹后神经痛治疗相关",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视发布，但内容为单一医疗案例报道，缺乏政策导向和行业深度。带状疱疹治疗属于细分医疗领域，新闻时效性、硬核程度和持续性评分均为0，表明其投资价值有限。央视权威性在此类常规医疗报道中难以形成显著市场影响力。",
+      "policy_impact": "无明确政策导向支撑。带状疱疹治疗未列入当前医保重点或医疗政策优先领域，缺乏政策催化因素。属于常规医疗技术进步报道，不具备政策驱动型投资机会。",
+      "theme_classification": {
+        "theme_type": "医疗细分-疱疹治疗",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "生物制药",
+          "医疗器械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600161",
+          "stock_name": "天坛生物",
+          "recommendation_reason": "涉及疫苗研发，带状疱疹疫苗为潜在发展方向，但新闻关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300142",
+          "stock_name": "沃森生物",
+          "recommendation_reason": "疫苗研发企业，带状疱疹疫苗布局但非主营业务",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "002773",
+          "stock_name": "康弘药业",
+          "recommendation_reason": "神经疼痛治疗药物研发企业，与带状疱疹后神经痛治疗相关",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 14:28:51"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

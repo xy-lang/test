@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 11:52:49",
+  "news_info": {
+    "id": "17d030c7a3",
+    "title": "【天眼问医】痛心！苏州越野跑达人误食毒蘑菇离世，这些保命知识要记牢",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901113720000294899.html",
+    "publish_time": "2025-09-01 11:37:00",
+    "summary": "【天眼问医】痛心！苏州越野跑达人误食毒蘑菇离世，这些保命知识要记牢"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.25
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300012\",\n      \"stock_name\": \"华测检测\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"食品安全检测龙头，与新闻事件高度契合。技术面相对稳健，板块强度中等但具备政策催化预期。公司作为第三方检测机构，在食品安全事件频发背景下业务需求增长确定性强\",\n      \"risk_warning\": \"检测行业竞争加剧风险，估值相对较高风险\"\n    },\n    {\n      \"stock_code\": \"600557\",\n      \"stock_name\": \"康缘药业\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"中药企业，具备解毒类药品研发能力。技术指标显示短期超跌反弹机会，医药板块整体情绪回暖。事件可能引发公众对解毒类药物关注\",\n      \"risk_warning\": \"与事件关联度相对间接，医药板块政策风险仍需关注\"\n    },\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"医疗器械公司，关联度较弱但技术面相对稳定。在医疗急救领域有一定业务布局，但直接受益程度有限\",\n      \"risk_warning\": \"与新闻事件关联度最低，缺乏直接催化剂，板块整体技术评分偏低\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"中等偏弱(0.367)\",\n    \"key_drivers\": \"食品安全事件催化检测需求，医药板块超跌反弹机会\",\n    \"major_risks\": \"整体市场情绪偏弱，板块技术面支撑不足，事件驱动持续性存疑\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "recommendation_reason": "作为第三方检测机构，可能受益于食品安全检测需求提升，央视报道可能引发公众对食品安全的关注",
+        "policy_relevance": "中等，符合国家食品安全监管趋势",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      },
+      {
+        "rank": 2,
+        "stock_code": "600557",
+        "stock_name": "康缘药业",
+        "recommendation_reason": "涉及解毒药物研发生产，虽然毒蘑菇解毒并非主营业务，但具备相关药物生产能力",
+        "policy_relevance": "较低，属于间接关联",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 3,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "医疗器械公司，可能受益于急救设备需求，但关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "很低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为食品安全警示类报道，虽然内容重要但投资价值有限。央视新闻的权威性使其具有广泛传播效应，但该事件属于偶发个案，缺乏持续性的投资催化作用。新闻时效性较差，属于事后警示性质，对资本市场直接影响较小。",
+      "policy_impact": "可能引发对食品安全监管政策的关注，但短期内不会产生重大政策调整。国家层面可能加强野生食材安全宣传教育，但不会出台针对性的产业政策。对相关上市公司影响较为间接。",
+      "theme_classification": {
+        "theme_type": "食品安全警示",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "食品检测",
+          "医疗急救",
+          "健康教育"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300012",
+          "stock_name": "华测检测",
+          "recommendation_reason": "作为第三方检测机构，可能受益于食品安全检测需求提升，央视报道可能引发公众对食品安全的关注",
+          "policy_relevance": "中等，符合国家食品安全监管趋势",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        },
+        {
+          "rank": 2,
+          "stock_code": "600557",
+          "stock_name": "康缘药业",
+          "recommendation_reason": "涉及解毒药物研发生产，虽然毒蘑菇解毒并非主营业务，但具备相关药物生产能力",
+          "policy_relevance": "较低，属于间接关联",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 3,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "医疗器械公司，可能受益于急救设备需求，但关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "很低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:52:49"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

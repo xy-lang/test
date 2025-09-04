@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 11:27:06",
+  "news_info": {
+    "id": "a44757ed5f",
+    "title": "成武县职业中等专业学校：感恩母校培育情 体育健儿赠锦旗",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901110130352199393.html",
+    "publish_time": "2025-09-01 11:01:00",
+    "summary": "成武县职业中等专业学校：感恩母校培育情 体育健儿赠锦旗"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7789,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.77,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.42
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600636\",\n      \"stock_name\": \"国新文化\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为职业教育信息化龙头企业，与新闻中职业教育主题高度契合。技术面相对稳健，在职业教育政策持续利好背景下，具备较强的政策受益性和行业地位优势。短期催化剂明确，受益于职业教育数字化转型趋势。\",\n      \"risk_warning\": \"需关注教育政策变化风险、市场竞争加剧风险以及技术面整体板块强度偏弱带来的系统性风险\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"教育信息化服务商，与职业教育题材有一定关联度。技术评分中等，在在线教育复苏背景下具备一定弹性。公司业务覆盖K12及职业教育领域，受益于教育数字化升级趋势。\",\n      \"risk_warning\": \"业绩波动较大风险、行业竞争激烈、技术面支撑相对较弱，需警惕市场情绪变化\"\n    },\n    {\n      \"stock_code\": \"603899\",\n      \"stock_name\": \"晨光股份\",\n      \"comprehensive_score\": 0.35,\n      \"recommendation_reason\": \"文具行业龙头，与体育产业有一定间接关联，但关联度相对较弱。基本面稳健，但技术评分较低，与新闻主题匹配度有限，更多体现为泛教育概念。\",\n      \"risk_warning\": \"与新闻主题关联度较低、技术面支撑不足、消费复苏不及预期风险、板块轮动风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"偏弱（0.317）\",\n    \"recommendation_strategy\": \"重点关注职业教育主线，控制仓位，注意风险管控\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600636",
+        "stock_name": "国新文化",
+        "recommendation_reason": "公司主营职业教育信息化业务，与新闻中职业教育主题相关，央视报道可能提升职业教育板块关注度",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "涉及职业教育信息化服务，与职业院校业务关联度较高",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "603899",
+        "stock_name": "晨光股份",
+        "recommendation_reason": "作为文教用品龙头，受益于职业教育发展带来的办公文具需求",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性教育体育类报道，内容涉及职业教育和体育人才培养，但缺乏重大政策导向和投资价值。央视新闻的权威性在此类常规报道中主要体现在传播渠道的公信力，但内容本身不具备显著的投资指导意义。",
+      "policy_impact": "新闻本身不涉及重大政策发布，但可关联到国家职业教育改革和体育强国战略的长期政策背景，属于政策执行层面的微观体现，投资影响有限。",
+      "theme_classification": {
+        "theme_type": "职业教育+体育产业",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "教育服务",
+          "文教休闲"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600636",
+          "stock_name": "国新文化",
+          "recommendation_reason": "公司主营职业教育信息化业务，与新闻中职业教育主题相关，央视报道可能提升职业教育板块关注度",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "涉及职业教育信息化服务，与职业院校业务关联度较高",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "603899",
+          "stock_name": "晨光股份",
+          "recommendation_reason": "作为文教用品龙头，受益于职业教育发展带来的办公文具需求",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:27:06"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

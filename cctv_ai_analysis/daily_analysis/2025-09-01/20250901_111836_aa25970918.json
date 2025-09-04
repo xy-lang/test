@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 11:18:36",
+  "news_info": {
+    "id": "aa25970918",
+    "title": "深耕舜文化研究的史学耕耘者——访山东大舜文化传承者孟祥才",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901105426381644109.html",
+    "publish_time": "2025-09-01 10:54:00",
+    "summary": "深耕舜文化研究的史学耕耘者——访山东大舜文化传承者孟祥才"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7822,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.78,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.4
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为央视旗下文化传媒平台，与舜文化传承主题高度契合，具备政策受益和品牌优势。技术面显示近期有资金关注迹象，板块强度0.617提供支撑，短期存在文化政策催化预期\",\n      \"risk_warning\": \"传媒板块波动较大，需关注政策变化风险；个股估值偏高，存在回调压力\"\n    },\n    {\n      \"stock_code\": \"600037\",\n      \"stock_name\": \"歌华有线\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"北京地区有线电视运营商，在传统文化内容传播方面具有渠道优势。技术评分处于合理区间，受益于文化数字化政策推进，具备稳定的现金流支撑\",\n      \"risk_warning\": \"传统有线业务面临新媒体冲击，增长空间有限；技术面缺乏明显突破信号\"\n    },\n    {\n      \"stock_code\": \"300413\",\n      \"stock_name\": \"芒果超媒\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"作为新媒体平台，在文化内容制作方面有一定优势，但与本轮舜文化主题关联度相对较弱。技术面表现平稳，但缺乏明显催化剂\",\n      \"risk_warning\": \"估值较高，市场情绪敏感；竞争激烈，内容成本压力较大\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.617,\n    \"market_sentiment\": \"中性偏积极\",\n    \"technical_indicator_support\": \"中等\",\n    \"news_relevance\": \"中视传媒>歌华有线>芒果超媒\",\n    \"policy_benefit_level\": \"文化传承政策受益明确\",\n    \"risk_assessment\": \"板块风险中等，需关注市场整体情绪变化；个股选择需注重基本面支撑\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下上市公司，受益于央视平台的文化传播影响力，虽新闻本身投资价值有限，但作为央视体系内标的具备长期配置价值",
+        "policy_relevance": "间接相关，文化传媒板块政策受益",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300413",
+        "stock_name": "芒果超媒",
+        "recommendation_reason": "文化传媒龙头企业，在传统文化内容制作和传播方面具有优势，符合文化自信政策方向",
+        "policy_relevance": "行业层面相关",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "600037",
+        "stock_name": "歌华有线",
+        "reason": "北京地区文化传媒企业，受益于传统文化数字化传播趋势，但与该新闻直接关联度较低",
+        "policy_relevance": "弱相关",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为文化传承类报道，聚焦舜文化研究，虽出自央视平台但内容偏向文化传承而非重大政策发布。央视新闻的权威性主要体现在政策解读和重大事件报道，此类文化类新闻对资本市场直接影响有限。新闻评分较低（第一时间性0/10、硬核程度0/10、持续性0/10），表明其投资价值较弱。",
+      "policy_impact": "文化传承符合国家文化自信政策导向，但该新闻未涉及具体产业政策或资金支持，政策影响较为间接。属于长期文化建设项目，短期难以产生实质性业绩影响。",
+      "theme_classification": {
+        "theme_type": "文化传媒/传统文化传承",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "文化传媒",
+          "教育服务",
+          "旅游"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下上市公司，受益于央视平台的文化传播影响力，虽新闻本身投资价值有限，但作为央视体系内标的具备长期配置价值",
+          "policy_relevance": "间接相关，文化传媒板块政策受益",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300413",
+          "stock_name": "芒果超媒",
+          "recommendation_reason": "文化传媒龙头企业，在传统文化内容制作和传播方面具有优势，符合文化自信政策方向",
+          "policy_relevance": "行业层面相关",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "600037",
+          "stock_name": "歌华有线",
+          "reason": "北京地区文化传媒企业，受益于传统文化数字化传播趋势，但与该新闻直接关联度较低",
+          "policy_relevance": "弱相关",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:18:36"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

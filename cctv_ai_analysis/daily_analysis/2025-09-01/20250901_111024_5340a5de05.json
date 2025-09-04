@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 11:10:24",
+  "news_info": {
+    "id": "5340a5de05",
+    "title": "暑假文旅订单量持续增长 “票根经济”“谷子经济”拉动消费-中国网",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901095951895956305.html",
+    "publish_time": "2025-09-01 09:59:00",
+    "summary": "暑假文旅订单量持续增长 “票根经济”“谷子经济”拉动消费-中国网"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7867999999999999,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 1.0,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.18
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为国内领先的综合旅游服务商，直接受益于暑期文旅消费复苏。技术面显示板块强度0.65支撑良好，公司业务涵盖旅行社、景区运营、酒店等多领域，与新闻中'票根经济'高度契合，政策受益明显。近期成交量温和放大，技术指标呈现多头排列。\",\n      \"risk_alert\": \"需关注暑期过后旅游淡季影响，以及宏观经济波动对消费能力的潜在制约\"\n    },\n    {\n      \"stock_code\": \"603199\",\n      \"stock_name\": \"九华旅游\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"专注于景区运营管理，直接受益于暑期旅游旺季。技术面相对稳健，位于板块中游水平。公司拥有九华山核心景区资源，'谷子经济'概念突出，暑期订单增长预期强烈。估值相对合理，具备一定的安全边际。\",\n      \"risk_alert\": \"景区业务受天气、疫情等不可控因素影响较大，需注意季节性波动风险\"\n    },\n    {\n      \"stock_code\": \"002707\",\n      \"stock_name\": \"众信旅游\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"出境游业务龙头企业，随着跨境旅游逐步恢复，具备较大的弹性空间。虽然当前技术评分略低于前两只，但公司品牌优势明显，在'票根经济'中占据重要地位。近期有资金关注迹象，具备补涨潜力。\",\n      \"risk_alert\": \"出境游恢复进度存在不确定性，汇率波动可能影响业绩，需密切关注政策变化\"\n    }\n  ],\n  \"overall_risk_warning\": \"当前板块强度0.65属于中等偏上水平，但需注意：1）暑期过后旅游板块可能面临季节性调整；2）消费复苏力度仍需宏观经济数据验证；3）个股估值分化明显，建议控制仓位，分批布局。推荐配置比例：中青旅40%，九华旅游35%，众信旅游25%。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，直接受益于文旅订单增长，暑期业务量提升明显",
+        "policy_relevance": "中等，契合消费复苏主题但无直接政策驱动",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "景区运营企业，暑期旅游旺季业绩弹性较大，受益于门票经济复苏",
+        "policy_relevance": "中等，景区消费属于文旅产业链核心环节",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "002707",
+        "stock_name": "众信旅游",
+        "recommendation_reason": "出境游服务商，暑期跨境旅游需求回升，但复苏程度仍需观察",
+        "policy_relevance": "中等偏低，出境游政策环境尚未完全放开",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然来自央视新闻平台，但内容为常规消费数据报道，缺乏重大政策导向和独家信息价值。新闻时效性较差（9月1日报道暑假数据），硬核程度低，对市场直接影响有限。央视新闻的权威性在此类常规报道中主要体现在信息真实性保障，但投资指导价值较弱。",
+      "policy_impact": "低影响级别。新闻仅反映消费市场自然复苏趋势，未涉及重大政策调整或产业扶持政策。'票根经济''谷子经济'属于市场自发形成的消费现象，缺乏明确的政策支撑和持续性推力。",
+      "theme_classification": {
+        "theme_type": "消费复苏/文旅消费",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "文化旅游",
+          "消费服务",
+          "影视传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，直接受益于文旅订单增长，暑期业务量提升明显",
+          "policy_relevance": "中等，契合消费复苏主题但无直接政策驱动",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "景区运营企业，暑期旅游旺季业绩弹性较大，受益于门票经济复苏",
+          "policy_relevance": "中等，景区消费属于文旅产业链核心环节",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "002707",
+          "stock_name": "众信旅游",
+          "recommendation_reason": "出境游服务商，暑期跨境旅游需求回升，但复苏程度仍需观察",
+          "policy_relevance": "中等偏低，出境游政策环境尚未完全放开",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:10:24"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

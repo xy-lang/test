@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 14:33:55",
+  "news_info": {
+    "id": "04c2aab924",
+    "title": "公安机关打击非法破解无人机飞控系统黑客违法犯罪",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTI0U4YoVgcYyWRQOy9MZAt250901.shtml",
+    "publish_time": "2025-09-01 14:08:00",
+    "summary": "公安机关打击非法破解无人机飞控系统黑客违法犯罪"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80035,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.42
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002415\",\n      \"stock_name\": \"海康威视\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术评分领先（约0.68），作为安防龙头直接受益于无人机安全监管政策，产品线涵盖无人机反制系统，与新闻主题高度契合。板块强度0.617提供支撑，机构持仓稳定，短期政策催化剂明确\",\n      \"risk_warning\": \"需警惕宏观经济对政府采购的影响，以及中美科技摩擦可能带来的供应链风险\"\n    },\n    {\n      \"stock_code\": \"300454\",\n      \"stock_name\": \"深信服\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"网络安全核心标的，技术评分约0.65，在无人机网络安全领域有技术积累。政策驱动网络安全需求提升，与打击黑客犯罪的新闻主题直接相关，市场情绪偏向科技安全板块\",\n      \"risk_warning\": \"估值相对较高，需关注业绩兑现情况；网络安全行业竞争激烈\"\n    },\n    {\n      \"stock_code\": \"600435\",\n      \"stock_name\": \"北方导航\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"军工导航概念，技术评分约0.53相对较弱但处于上升趋势。受益于无人机监管和军工信息化建设，但与新闻的直接关联度略低于前两者，需要更多政策催化\",\n      \"risk_warning\": \"军工板块波动较大，订单可见性相对较低；技术面需要进一步确认突破\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.617,\n    \"sentiment_support\": \"政策驱动型行情，网络安全板块关注度提升\",\n    \"technical_outlook\": \"整体技术面中性偏积极，平均评分0.62显示有一定上涨动能\"\n  },\n  \"overall_risk_alert\": \"板块整体风险中等，需注意：1）政策执行力度可能不及预期；2）科技板块受市场风险偏好影响较大；3）个股基本面分化明显，建议控制仓位\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "recommendation_reason": "作为安防龙头，其无人机业务及网络安全能力受益于监管趋严，央视报道确认政策方向",
+        "policy_relevance": "高 - 直接涉及无人机安全监管",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "recommendation_reason": "网络安全厂商，无人机系统安全属于工业互联网安全范畴，政策关注提升行业需求",
+        "policy_relevance": "中 - 网络安全政策延伸",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "600435",
+        "stock_name": "北方导航",
+        "recommendation_reason": "军工导航企业，涉及无人机控制系统，政策规范有利于正规军企业发展",
+        "policy_relevance": "中 - 无人机控制技术相关",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视权威发布，但内容为常规执法通报，缺乏重大政策突破或产业变革信息。无人机安全监管属于常态化工作，新闻时效性、硬核程度和持续性评分均为0，表明其投资价值有限。央视的权威性主要体现在政策导向确认，而非创造新的投资机会。",
+      "policy_impact": "政策影响中性偏正面，确认国家对无人机安全的重视，但未出台新规或加大扶持力度。对现有合规企业形成轻微利好，但不足以改变行业格局。属于政策执行层面的常规动作，非战略性政策转向。",
+      "theme_classification": {
+        "theme_type": "无人机安全/网络安全",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "国防军工",
+          "计算机"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002415",
+          "stock_name": "海康威视",
+          "recommendation_reason": "作为安防龙头，其无人机业务及网络安全能力受益于监管趋严，央视报道确认政策方向",
+          "policy_relevance": "高 - 直接涉及无人机安全监管",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300454",
+          "stock_name": "深信服",
+          "recommendation_reason": "网络安全厂商，无人机系统安全属于工业互联网安全范畴，政策关注提升行业需求",
+          "policy_relevance": "中 - 网络安全政策延伸",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "600435",
+          "stock_name": "北方导航",
+          "recommendation_reason": "军工导航企业，涉及无人机控制系统，政策规范有利于正规军企业发展",
+          "policy_relevance": "中 - 无人机控制技术相关",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 14:33:55"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

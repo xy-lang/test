@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 12:01:18",
+  "news_info": {
+    "id": "61b60db31c",
+    "title": "数据勾勒上半年冷链物流运行稳中有升“成绩单”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIvpfGwZxUQm3Rw0XhfDf6250818.shtml",
+    "publish_time": "2025-08-18 11:56:44",
+    "summary": "数据勾勒上半年冷链物流运行稳中有升“成绩单”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79705,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.06
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600270\",\n      \"stock_name\": \"外运发展\",\n      \"composite_score\": 0.75,\n      \"recommendation_reason\": \"作为中国外运旗下核心物流平台，直接受益于冷链物流政策红利。技术面虽板块整体偏弱，但该股相对抗跌，60日均线支撑明显，具备政策驱动下的估值修复机会。\",\n      \"risk_warning\": \"需警惕物流行业成本上升压力及国际贸易环境波动风险\"\n    },\n    {\n      \"stock_code\": \"002210\",\n      \"stock_name\": \"飞马国际\",\n      \"composite_score\": 0.65,\n      \"recommendation_reason\": \"供应链管理业务涉及冷链领域，技术面呈现底部放量特征。但需注意公司近年业绩波动较大，更适合作为题材博弈标的。\",\n      \"risk_warning\": \"高负债率及商誉减值风险需重点关注\"\n    },\n    {\n      \"stock_code\": \"600983\",\n      \"stock_name\": \"惠而浦\",\n      \"composite_score\": 0.55,\n      \"recommendation_reason\": \"白色家电企业间接受益冷链设备升级需求，但技术面尚未形成有效突破，20日均线存在压力。\",\n      \"risk_warning\": \"地产产业链需求疲软可能压制估值修复空间\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.4,\n    \"technical_sentiment\": \"中性偏弱\",\n    \"policy_impact\": \"强政策驱动但市场反应滞后\",\n    \"key_observation\": \"需等待板块资金关注度提升信号\"\n  },\n  \"investment_strategy\": {\n    \"suggested_position\": \"建议总仓位不超过15%\",\n    \"entry_timing\": \"外运发展回调至60日线可分批建仓\",\n    \"stop_loss\": \"板块强度连续3日低于0.3应考虑止损\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600270",
+        "stock_name": "外运发展",
+        "recommendation_reason": "央企背景的综合物流服务商，冷链物流业务布局完善，直接受益于行业政策红利。",
+        "policy_relevance": "高",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 2,
+        "stock_code": "002210",
+        "stock_name": "飞马国际",
+        "recommendation_reason": "冷链物流核心标的，拥有全国性冷链网络，业务增速与新闻描述高度吻合。",
+        "policy_relevance": "高",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 3,
+        "stock_code": "600983",
+        "stock_name": "惠而浦",
+        "recommendation_reason": "白色家电龙头企业，冷链技术储备丰富，可能延伸布局商用冷链设备领域。",
+        "policy_relevance": "中",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由央视发布，虽然时效性评分较低，但作为国家级媒体，其权威性和政策导向性不容忽视。新闻聚焦冷链物流行业上半年稳中有升的运行情况，暗示该行业可能获得政策支持或市场需求增长。",
+      "policy_impact": "冷链物流是农产品流通、医药配送等领域的关键基础设施，符合国家乡村振兴和消费升级战略。新闻释放积极信号，可能预示后续会有配套政策出台。",
+      "theme_classification": {
+        "theme_type": "冷链物流/新基建",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "物流",
+          "农产品加工"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600270",
+          "stock_name": "外运发展",
+          "recommendation_reason": "央企背景的综合物流服务商，冷链物流业务布局完善，直接受益于行业政策红利。",
+          "policy_relevance": "高",
+          "urgency_level": "中高",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 2,
+          "stock_code": "002210",
+          "stock_name": "飞马国际",
+          "recommendation_reason": "冷链物流核心标的，拥有全国性冷链网络，业务增速与新闻描述高度吻合。",
+          "policy_relevance": "高",
+          "urgency_level": "中",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 3,
+          "stock_code": "600983",
+          "stock_name": "惠而浦",
+          "recommendation_reason": "白色家电龙头企业，冷链技术储备丰富，可能延伸布局商用冷链设备领域。",
+          "policy_relevance": "中",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 12:01:18"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

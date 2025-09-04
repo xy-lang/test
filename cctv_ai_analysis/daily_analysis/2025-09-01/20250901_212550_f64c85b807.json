@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 21:25:50",
+  "news_info": {
+    "id": "f64c85b807",
+    "title": "电影市场持续“沸腾” 从“新”出发中国故事扬帆出海",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIHUXrN9wa0NEuU5pBr6gw250901.shtml",
+    "publish_time": "2025-09-01 12:20:00",
+    "summary": "电影市场持续“沸腾” 从“新”出发中国故事扬帆出海"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.73695,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.95,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 9.08
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300133\",\n      \"stock_name\": \"华策影视\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"技术面表现最佳，板块强度0.85提供强力支撑，作为影视内容出海龙头企业直接受益于文化出海政策，近期技术指标显示资金流入明显，与新闻主题高度契合\",\n      \"risk_warning\": \"需关注影视行业政策变化风险及内容制作成本上升风险\"\n    },\n    {\n      \"stock_code\": \"601595\",\n      \"stock_name\": \"上海电影\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术评分较高，受益于电影市场复苏和国产影片出海趋势，作为院线龙头具备渠道优势，政策催化效应明显，市场情绪积极\",\n      \"risk_warning\": \"院线经营受疫情影响较大，需关注票房波动风险\"\n    },\n    {\n      \"stock_code\": \"300027\",\n      \"stock_name\": \"华谊兄弟\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"虽然技术面相对较弱，但作为老牌影视公司具备内容制作优势，受益于文化出海政策，存在估值修复机会\",\n      \"risk_warning\": \"公司基本面存在一定压力，需关注财务风险和内容制作进度\"\n    }\n  ],\n  \"overall_risk_alert\": \"影视传媒板块受政策影响较大，需密切关注行业监管政策变化；市场整体情绪波动可能影响个股表现；建议控制仓位，设置止损位\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300027",
+        "stock_name": "华谊兄弟",
+        "recommendation_reason": "作为国内头部影视公司，具备强大的内容制作能力和出海经验，央视新闻强调'中国故事扬帆出海'，华谊兄弟在海外发行和合拍片领域布局较早，直接受益于政策支持。",
+        "policy_relevance": "高关联度，公司多次参与国家级文化输出项目",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601595",
+        "stock_name": "上海电影",
+        "recommendation_reason": "国内电影院线龙头，受益于电影市场'持续沸腾'，票房回暖直接提升业绩。同时具备内容投资和发行能力，参与多部出海影片的院线发行。",
+        "policy_relevance": "中高关联度，院线是电影产业基础设施",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "300133",
+        "stock_name": "华策影视",
+        "recommendation_reason": "电视剧出海龙头企业，在海外新媒体平台发行量领先，'中国故事出海'战略下，公司海外业务占比有望进一步提升，具备长期成长性。",
+        "policy_relevance": "高关联度，专注内容出海",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻由央视新闻发布，具有国家级媒体权威背书，虽然评分显示第一时间性、硬核程度和持续性均为0分，但央视新闻作为官方喉舌，其报道往往代表政策导向和产业支持方向。电影市场'沸腾'和'中国故事扬帆出海'的表述，暗示文化输出和影视产业升级受到国家层面重视。",
+      "policy_impact": "高政策影响力。央视新闻报道通常与文化产业政策紧密相关，'中国故事出海'符合文化自信和国家软实力建设战略，可能预示后续会有配套政策支持，如税收优惠、出海补贴、内容审核优先等，对影视传媒板块形成长期利好。",
+      "theme_classification": {
+        "theme_type": "影视传媒/文化出海",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "影视传媒",
+          "文化娱乐",
+          "互联网视频"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300027",
+          "stock_name": "华谊兄弟",
+          "recommendation_reason": "作为国内头部影视公司，具备强大的内容制作能力和出海经验，央视新闻强调'中国故事扬帆出海'，华谊兄弟在海外发行和合拍片领域布局较早，直接受益于政策支持。",
+          "policy_relevance": "高关联度，公司多次参与国家级文化输出项目",
+          "urgency_level": "中高",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "601595",
+          "stock_name": "上海电影",
+          "recommendation_reason": "国内电影院线龙头，受益于电影市场'持续沸腾'，票房回暖直接提升业绩。同时具备内容投资和发行能力，参与多部出海影片的院线发行。",
+          "policy_relevance": "中高关联度，院线是电影产业基础设施",
+          "urgency_level": "中",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "300133",
+          "stock_name": "华策影视",
+          "recommendation_reason": "电视剧出海龙头企业，在海外新媒体平台发行量领先，'中国故事出海'战略下，公司海外业务占比有望进一步提升，具备长期成长性。",
+          "policy_relevance": "高关联度，专注内容出海",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 21:25:50"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

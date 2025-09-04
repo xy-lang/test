@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 09:38:06",
+  "news_info": {
+    "id": "7de2b730ca",
+    "title": "近日，市场监管总局会同工业和信息化部研究起草的《市场监管总局 工业和信息化部关于加强智能网联新能源汽车产品召回、生产一致性监督管理与规范宣传的通知（征求意见稿）》向社会发布。对于进一步规范车企组合辅助驾驶系统（L2级）的宣传和使用。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/15/ARTIXzJbQInWgP3vuvIxt4jV250815.shtml",
+    "publish_time": "2025-08-15 09:36:53",
+    "summary": "近日，市场监管总局会同工业和信息化部研究起草的《市场监管总局 工业和信息化部关于加强智能网联新能源汽..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8894500000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 1.0,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.02
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由央视发布，具有极高的权威性和时效性。内容涉及智能网联新能源汽车监管政策，将对相关行业产生直接影响。综合强度0.89表明这是当前市场关注的重要政策动向。",
+    "policy_impact": "该政策将规范L2级辅助驾驶系统的宣传和使用，利好具备合规技术和完善生产管理体系的车企，同时对行业整体发展具有引导作用。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "recommendation_reason": "作为国内龙头车企，在智能网联领域布局完善，政策规范将强化其竞争优势",
+        "policy_relevance": "直接受益于新能源汽车监管政策",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "601633",
+        "stock_name": "长城汽车",
+        "recommendation_reason": "在L2级辅助驾驶技术领域投入较大，政策规范有利于其技术优势变现",
+        "policy_relevance": "高度相关",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "002594",
+        "stock_name": "比亚迪",
+        "recommendation_reason": "新能源汽车领军企业，政策规范将进一步提升其行业地位",
+        "policy_relevance": "相关",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

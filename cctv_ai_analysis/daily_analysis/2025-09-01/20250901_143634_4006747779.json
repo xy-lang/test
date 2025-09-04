@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-09-01 14:36:34",
+  "news_info": {
+    "id": "4006747779",
+    "title": "记者从雄安高速铁路有限公司获悉，9月1日，京港（台）通道雄安新区至商丘高速铁路全线正式进入铺轨阶段。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIimZiIOx1LYuHyhjel8Z1250901.shtml",
+    "publish_time": "2025-09-01 18:25:00",
+    "summary": "记者从雄安高速铁路有限公司获悉，9月1日，京港（台）通道雄安新区至商丘高速铁路全线正式进入铺轨阶段。"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -3.82
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601390\",\n      \"stock_name\": \"中国中铁\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"作为国内铁路建设龙头企业，直接受益于雄商高铁全线铺轨的重大基建项目。技术评分0.91，板块强度0.883提供强力支撑，政策受益程度最高，短期催化剂明确。公司在高铁建设领域市场份额领先，订单确定性最强。\",\n      \"risk_warning\": \"需关注基建投资进度变化风险、原材料价格波动风险以及宏观经济政策调整风险\"\n    },\n    {\n      \"stock_code\": \"601186\",\n      \"stock_name\": \"中国铁建\",\n      \"comprehensive_score\": 0.89,\n      \"recommendation_reason\": \"铁路基建核心标的，技术评分0.89与板块强度高度匹配。在高铁轨道工程领域具有显著优势，直接参与雄商高铁建设。政策受益明确，市场情绪积极，技术指标显示上升趋势良好。\",\n      \"risk_warning\": \"存在项目执行进度不及预期风险、行业竞争加剧风险以及应收账款回收风险\"\n    },\n    {\n      \"stock_code\": \"600528\",\n      \"stock_name\": \"中铁工业\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"作为轨道交通装备制造商，受益于高铁建设设备需求增长。技术评分0.84，虽略低于前两只但仍在强势区间。铺轨阶段直接拉动轨交设备采购，具备中期成长逻辑。\",\n      \"risk_warning\": \"需警惕设备订单交付周期风险、技术更新换代风险以及行业周期性波动风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_positive\": true,\n    \"technical_indicators_aligned\": true,\n    \"overall_risk_level\": \"中等\",\n    \"recommendation_period\": \"短期至中期\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "recommendation_reason": "作为国内高铁建设龙头，直接参与雄安新区基建项目，央视新闻确认的项目进展将直接提升公司业绩预期",
+        "policy_relevance": "高度相关，主营铁路工程建设",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "recommendation_reason": "高铁建设主力军，在雄安新区已有深度布局，铺轨阶段意味着项目进入收入确认高峰期",
+        "policy_relevance": "高度相关，铁路建设综合服务商",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "600528",
+        "stock_name": "中铁工业",
+        "recommendation_reason": "专业铁路装备制造商，铺轨阶段对轨交设备需求提升，受益于高铁建设进度加速",
+        "policy_relevance": "中度相关，设备供应商",
+        "urgency_level": "中",
+        "confidence_score": 0.82
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的雄安新区重大基建进展，具有极高的政策权威性。京港（台）高铁作为国家战略通道，铺轨阶段标志着项目进入关键建设期，对基建产业链具有实质性拉动作用。央视新闻的发布进一步强化了政策信号的权威性和市场关注度。",
+      "policy_impact": "该新闻体现'交通强国'战略的深入推进，符合'十四五'现代综合交通运输体系发展规划。雄安新区作为国家级新区，其基建项目具有示范效应，预计将带动千亿级投资，对轨道交通、建材、工程机械等产业形成持续政策红利。",
+      "theme_classification": {
+        "theme_type": "高铁基建/雄安新区",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "基础设施建设",
+          "轨道交通",
+          "水泥建材",
+          "工程机械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601390",
+          "stock_name": "中国中铁",
+          "recommendation_reason": "作为国内高铁建设龙头，直接参与雄安新区基建项目，央视新闻确认的项目进展将直接提升公司业绩预期",
+          "policy_relevance": "高度相关，主营铁路工程建设",
+          "urgency_level": "高",
+          "confidence_score": 0.88
+        },
+        {
+          "rank": 2,
+          "stock_code": "601186",
+          "stock_name": "中国铁建",
+          "recommendation_reason": "高铁建设主力军，在雄安新区已有深度布局，铺轨阶段意味着项目进入收入确认高峰期",
+          "policy_relevance": "高度相关，铁路建设综合服务商",
+          "urgency_level": "中高",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 3,
+          "stock_code": "600528",
+          "stock_name": "中铁工业",
+          "recommendation_reason": "专业铁路装备制造商，铺轨阶段对轨交设备需求提升，受益于高铁建设进度加速",
+          "policy_relevance": "中度相关，设备供应商",
+          "urgency_level": "中",
+          "confidence_score": 0.82
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 14:36:34"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

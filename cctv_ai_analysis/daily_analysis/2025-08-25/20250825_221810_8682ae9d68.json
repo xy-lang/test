@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-25 22:18:10",
+  "news_info": {
+    "id": "8682ae9d68",
+    "title": "从多领域“硬核”数据透视经济运行亮点",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTI3VfqrnD5xRM5Im9MxZh9250825.shtml",
+    "publish_time": "2025-08-25 17:39:00",
+    "summary": "从多领域“硬核”数据透视经济运行亮点"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.71585,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.68,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 4.64
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601668\",\n      \"stock_name\": \"中国建筑\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术面表现最佳，板块强度0.743支撑强劲，基建板块直接受益于宏观经济政策导向，技术指标配合度高，符合国家意志的硬核等级，短期催化剂明确\",\n      \"risk_warning\": \"基建板块受政策周期影响较大，需关注后续政策落地进度；个股估值相对合理但需防范市场整体回调风险\"\n    },\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.76,\n      \"recommendation_reason\": \"综合板块龙头，受益于经济复苏预期，技术评分中等但基本面稳健，作为金融权重股具备政策受益属性，市场情绪相对稳定\",\n      \"risk_warning\": \"保险行业面临利率环境变化压力；金融监管政策变化可能带来不确定性；市场波动对权重股影响较大\"\n    },\n    {\n      \"stock_code\": \"000858\",\n      \"stock_name\": \"五粮液\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"消费板块代表，间接受益于经济回暖，但技术面相对较弱，与新闻直接关联度较低，属于中长期配置品种\",\n      \"risk_warning\": \"消费复苏节奏存在不确定性；白酒行业竞争激烈；估值相对较高，需防范估值回调风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"total_recommended\": 3,\n    \"average_score\": 0.75,\n    \"primary_sector\": \"基建/综合\",\n    \"investment_thesis\": \"基于宏观经济政策导向的硬核投资逻辑，优先选择政策受益明确、技术面支撑强的基建和综合板块龙头\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "作为综合金融龙头，受益于经济回暖预期和保险资金投资政策放宽，央视经济正面报道往往提振金融板块信心",
+        "policy_relevance": "高 - 金融供给侧改革受益标的",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "recommendation_reason": "消费升级代表性企业，经济运行亮点报道通常利好消费板块，特别是高端消费品牌",
+        "policy_relevance": "中高 - 内需拉动政策受益",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "基建投资是经济稳增长重要手段，硬核数据可能包含基建投资增速信息，公司作为基建龙头直接受益",
+        "policy_relevance": "高 - 基建投资政策导向",
+        "urgency_level": "中等",
+        "confidence_score": 0.68
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视发布的宏观经济运行分析报道，虽然评分显示时效性和硬核程度较低，但央视作为国家级媒体平台，其经济报道往往反映政策导向和官方态度。新闻标题强调'多领域硬核数据'和'经济运行亮点'，暗示可能存在未公开的积极经济数据或政策信号，值得关注后续政策动向。",
+      "policy_impact": "央视经济报道通常具有政策前瞻性，此类综合性经济数据分析往往预示着后续产业政策调整。重点关注可能涉及的新基建、制造业升级、消费刺激等领域政策预期，这些领域可能获得政策支持。",
+      "theme_classification": {
+        "theme_type": "宏观经济政策导向",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "新基建",
+          "高端制造",
+          "大消费"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "作为综合金融龙头，受益于经济回暖预期和保险资金投资政策放宽，央视经济正面报道往往提振金融板块信心",
+          "policy_relevance": "高 - 金融供给侧改革受益标的",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "000858",
+          "stock_name": "五粮液",
+          "recommendation_reason": "消费升级代表性企业，经济运行亮点报道通常利好消费板块，特别是高端消费品牌",
+          "policy_relevance": "中高 - 内需拉动政策受益",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "基建投资是经济稳增长重要手段，硬核数据可能包含基建投资增速信息，公司作为基建龙头直接受益",
+          "policy_relevance": "高 - 基建投资政策导向",
+          "urgency_level": "中等",
+          "confidence_score": 0.68
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 22:18:10"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

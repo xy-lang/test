@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 23:23:52",
+  "news_info": {
+    "id": "8cf244c5ef",
+    "title": "新学期新举措 教育惠民暖人心",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTI90xLcIzQu0cr5Ry257Jl250901.shtml",
+    "publish_time": "2025-09-01 08:58:00",
+    "summary": "新学期新举措 教育惠民暖人心"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.63465,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.64,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 14.42
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600661\",\n      \"stock_name\": \"昂立教育\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"作为教育政策直接受益标的，与新闻主题高度契合。技术面相对稳健，在板块中表现较为突出，受益于新学期政策红利，短期催化剂明确。公司基本面在教育板块中具有一定优势，政策支持预期较强。\",\n      \"risk_warning\": \"教育行业政策变化风险，市场整体情绪波动可能影响短期表现，需关注政策落地具体细则。\"\n    },\n    {\n      \"stock_code\": \"002607\",\n      \"stock_name\": \"中公教育\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"职业教育龙头，受益于教育惠民政策，但技术指标相对较弱。公司在职业培训领域具有较强竞争力，政策支持预期存在，但需要关注市场情绪转换。\",\n      \"risk_warning\": \"技术面支撑相对不足，板块整体强度偏弱，需警惕市场情绪回落风险。\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"教育信息化标的，与新闻主题有一定关联度，但技术指标表现最弱。公司在教育科技领域有所布局，但受益程度相对间接。\",\n      \"risk_warning\": \"技术面支撑最弱，板块强度不足可能放大下跌风险，建议谨慎参与，严格控制仓位。\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_assessment\": \"教育政策题材具备一定投资机会，但板块技术强度偏弱（0.267）制约整体表现。建议重点关注与政策直接相关的头部标的，控制仓位参与。\",\n    \"key_risks\": \"板块整体技术面偏弱，市场情绪支撑有限；教育行业政策敏感性较高，需密切关注后续政策细则；个股基本面分化明显，需精选标的。\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "recommendation_reason": "作为上海本地教育服务企业，可能受益于地方教育政策推进，但新闻内容过于笼统，投资逻辑较弱",
+        "policy_relevance": "低关联度",
+        "urgency_level": "低紧急",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "002607",
+        "stock_name": "中公教育",
+        "recommendation_reason": "职业教育培训龙头，但新闻未明确指向职业教育领域，投资逻辑不清晰",
+        "policy_relevance": "较低关联",
+        "urgency_level": "低紧急",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "在线教育服务商，但新闻缺乏具体数字化教育支持内容，投资依据不足",
+        "policy_relevance": "弱关联",
+        "urgency_level": "不推荐",
+        "confidence_score": 0.15
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视新闻发布的时政要闻，虽然内容为教育惠民政策，但评分显示第一时间性、硬核程度和持续性均为0分，表明该新闻投资价值极低。央视新闻作为国家级媒体，权威性毋庸置疑，但此条新闻缺乏实质性政策内容和具体实施方案，更多是宣传性报道，不具备明显的投资指导意义。",
+      "policy_impact": "低影响。新闻仅提及'教育惠民暖人心'的笼统表述，未涉及具体政策细则、资金投入规模或实施时间表，对教育板块的实际政策推动力有限。缺乏可量化的政策红利，难以形成实质性行业利好。",
+      "theme_classification": {
+        "theme_type": "教育政策题材",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "教育服务",
+          "在线教育"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600661",
+          "stock_name": "昂立教育",
+          "recommendation_reason": "作为上海本地教育服务企业，可能受益于地方教育政策推进，但新闻内容过于笼统，投资逻辑较弱",
+          "policy_relevance": "低关联度",
+          "urgency_level": "低紧急",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "002607",
+          "stock_name": "中公教育",
+          "recommendation_reason": "职业教育培训龙头，但新闻未明确指向职业教育领域，投资逻辑不清晰",
+          "policy_relevance": "较低关联",
+          "urgency_level": "低紧急",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "在线教育服务商，但新闻缺乏具体数字化教育支持内容，投资依据不足",
+          "policy_relevance": "弱关联",
+          "urgency_level": "不推荐",
+          "confidence_score": 0.15
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 23:23:52"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

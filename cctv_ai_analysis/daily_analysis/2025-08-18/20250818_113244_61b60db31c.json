@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-08-18 11:32:44",
+  "news_info": {
+    "id": "61b60db31c",
+    "title": "数据勾勒上半年冷链物流运行稳中有升“成绩单”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIvpfGwZxUQm3Rw0XhfDf6250818.shtml",
+    "publish_time": "2025-08-18 11:28:58",
+    "summary": "数据勾勒上半年冷链物流运行稳中有升“成绩单”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79705,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.05
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道的'冷链物流运行稳中有升'具有高度政策导向性，综合强度0.80表明该新闻对相关行业具有显著影响。冷链物流作为现代物流重要组成部分，其发展受到政策持续支持。",
+    "policy_impact": "该新闻虽未直接提及政策文件，但冷链物流是国家'十四五'规划重点发展领域，稳中有升的运行数据预示着行业景气度持续向好，可能带动相关配套政策出台。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600270",
+        "stock_name": "外运发展",
+        "recommendation_reason": "中国外运旗下冷链物流龙头企业，业务覆盖全国主要城市群，直接受益于冷链物流行业景气度提升。",
+        "policy_relevance": "高度相关，公司冷链业务符合国家物流体系建设方向",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "603535",
+        "stock_name": "嘉诚国际",
+        "recommendation_reason": "专业第三方冷链物流服务商，在粤港澳大湾区布局完善，央视报道将提升市场关注度。",
+        "policy_relevance": "较强相关，区域冷链龙头受益行业整体发展",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "000530",
+        "stock_name": "冰山冷热",
+        "recommendation_reason": "冷链设备核心供应商，技术领先，将受益于冷链物流基础设施建设的持续投入。",
+        "policy_relevance": "中等相关，上游设备供应商间接受益",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:32:44"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

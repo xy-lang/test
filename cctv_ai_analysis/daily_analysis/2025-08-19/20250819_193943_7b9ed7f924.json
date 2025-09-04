@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-19 19:39:43",
+  "news_info": {
+    "id": "7b9ed7f924",
+    "title": "多元业态深度融合 助力中华优秀文化走向世界",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTIzfBOLc7abxU5xig5WxdH250819.shtml",
+    "publish_time": "2025-08-19 15:21:00",
+    "summary": "多元业态深度融合 助力中华优秀文化走向世界"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.72575,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.71,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 4.3
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"603103\",\n      \"stock_name\": \"横店影视\",\n      \"comprehensive_score\": 0.87,\n      \"recommendation_reason\": \"技术面表现强劲，板块强度0.817提供有力支撑，与新闻主题高度契合。作为影视文化龙头企业，直接受益于文化输出政策，且具备实体+影视产业融合优势，短期催化剂明确。技术指标显示多头排列，成交量配合良好。\",\n      \"risk_warning\": \"需关注影视行业政策变化风险及票房表现不确定性，市场情绪波动可能影响短期走势\"\n    },\n    {\n      \"stock_code\": \"300144\",\n      \"stock_name\": \"宋城演艺\",\n      \"comprehensive_score\": 0.83,\n      \"recommendation_reason\": \"文旅演艺龙头，深度契合文化输出主题，技术评分较高。受益于旅游复苏+文化输出双重利好，独特的演艺模式具备国际输出潜力。技术面显示突破前期阻力位，MACD金叉确认。\",\n      \"risk_warning\": \"旅游行业季节性波动风险，新项目投资回报周期较长，需关注客流恢复进度\"\n    },\n    {\n      \"stock_code\": \"002624\",\n      \"stock_name\": \"完美世界\",\n      \"comprehensive_score\": 0.76,\n      \"recommendation_reason\": \"游戏出海和文化IP输出代表企业，政策受益明确。技术指标相对稳健，但相比前两只个股技术强度稍弱。长期受益于数字文化输出趋势，具备海外市场拓展潜力。\",\n      \"risk_warning\": \"游戏行业监管政策风险，产品上线时间不确定性，海外市场竞争激烈\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.817,\n    \"market_sentiment\": \"积极\",\n    \"policy_benefit_level\": \"高\",\n    \"risk_assessment\": \"中等偏低\"\n  },\n  \"key_risks\": [\n    \"文化传媒板块政策敏感性较高，需密切关注相关政策变化\",\n    \"个股基本面存在业绩波动风险，需关注季度财报表现\",\n    \"市场整体情绪可能影响板块轮动节奏，建议分批建仓\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "603103",
+        "stock_name": "横店影视",
+        "recommendation_reason": "作为影视文化出口龙头企业，直接受益于文化输出政策，央视报道提升行业关注度",
+        "policy_relevance": "高度相关，影视内容为文化输出核心载体",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "recommendation_reason": "文旅融合标杆企业，'演艺+文化'模式符合多元业态深度融合方向",
+        "policy_relevance": "高度相关，文旅出海政策受益标的",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "002624",
+        "stock_name": "完美世界",
+        "recommendation_reason": "游戏出海龙头企业，数字文化输出重要渠道，受益政策支持",
+        "policy_relevance": "中度相关，数字文化出口政策受益",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻作为央视时政要闻，虽然内容本身时效性较弱，但体现了国家推动文化输出的战略导向。央视新闻的权威性使其成为政策风向标，此类报道往往预示着后续配套政策的出台，对相关产业具有长期指导意义。",
+      "policy_impact": "高层级政策导向，属于'文化强国'战略的具体落地。预计将带动文化产业扶持政策、出口退税优惠、海外推广补贴等系列措施，对文化传媒、文旅融合、数字内容出口等板块形成中长期利好。",
+      "theme_classification": {
+        "theme_type": "文化输出+产业融合",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "文化传媒",
+          "旅游服务",
+          "数字内容"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "603103",
+          "stock_name": "横店影视",
+          "recommendation_reason": "作为影视文化出口龙头企业，直接受益于文化输出政策，央视报道提升行业关注度",
+          "policy_relevance": "高度相关，影视内容为文化输出核心载体",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "300144",
+          "stock_name": "宋城演艺",
+          "recommendation_reason": "文旅融合标杆企业，'演艺+文化'模式符合多元业态深度融合方向",
+          "policy_relevance": "高度相关，文旅出海政策受益标的",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "002624",
+          "stock_name": "完美世界",
+          "recommendation_reason": "游戏出海龙头企业，数字文化输出重要渠道，受益政策支持",
+          "policy_relevance": "中度相关，数字文化出口政策受益",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 19:39:43"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

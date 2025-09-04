@@ -1,0 +1,82 @@
+{
+  "analysis_time": "2025-09-02 00:02:29",
+  "news_info": {
+    "id": "931649fcba",
+    "title": "9月1日体彩中奖号码",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901232817621123576.html",
+    "publish_time": "2025-09-01 23:28:00",
+    "summary": "9月1日体彩中奖号码"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7228000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.6,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.56
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"stock_code\": \"000000\",\n      \"stock_name\": \"无推荐股票\",\n      \"comprehensive_score\": 0.05,\n      \"recommendation_reason\": \"原始新闻为体彩中奖号码，属于公共服务信息，与股票市场无直接关联。技术分析显示板块强度极弱（0.100），技术评分仅为0.10，缺乏市场情绪支撑和技术指标配合。无政策受益或短期催化剂，投资价值缺失。\",\n      \"risk_warning\": \"该推荐为系统默认输出，实际无对应股票；投资此类无关联标的可能面临完全本金损失风险；缺乏基本面支撑，市场时机风险极高；建议投资者忽略此输出并寻求其他有效投资机会\"\n    }\n  ],\n  \"analysis_summary\": \"基于体彩中奖新闻的无相关性特征，结合技术指标显示的极弱市场信号（板块强度0.100，技术评分0.10），确认无实际可推荐股票。新闻内容属于公共服务领域，与股市无直接关联，缺乏政策受益点和短期催化剂。风险评估显示板块和个股均存在高度不确定性，建议投资者关注其他更有基本面和消息面支撑的投资机会\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000000",
+        "stock_name": "无推荐股票",
+        "recommendation_reason": "该新闻为常规体彩开奖公告，不包含任何投资机会或政策导向信息，无法基于此类内容进行股票推荐",
+        "policy_relevance": "无关联",
+        "urgency_level": "无投资价值",
+        "confidence_score": 0.0
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为常规体彩开奖信息公告，属于公共服务性质内容，不具备投资指导价值。央视新闻的权威性在此类信息发布中主要体现在信息准确性和公信力方面，但作为投资分析标的，该新闻缺乏实质性投资参考意义。",
+      "policy_impact": "无直接政策影响。体彩行业属于国家严格监管的特殊行业，相关政策具有稳定性和连续性，单次开奖信息不构成政策变动信号。",
+      "theme_classification": {
+        "theme_type": "公共服务信息",
+        "hardcore_level": "无投资意志",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关投资板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000000",
+          "stock_name": "无推荐股票",
+          "recommendation_reason": "该新闻为常规体彩开奖公告，不包含任何投资机会或政策导向信息，无法基于此类内容进行股票推荐",
+          "policy_relevance": "无关联",
+          "urgency_level": "无投资价值",
+          "confidence_score": 0.0
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 00:02:29"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

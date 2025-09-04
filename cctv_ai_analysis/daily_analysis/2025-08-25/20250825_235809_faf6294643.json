@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-25 23:58:09",
+  "news_info": {
+    "id": "faf6294643",
+    "title": "7月，全国339个地级及以上城市平均空气质量优良天数比例为93.0%",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIpu9xm9ZYFGKPu3xk3dX5250825.shtml",
+    "publish_time": "2025-08-25 22:05:13",
+    "summary": "7月，全国339个地级及以上城市平均空气质量优良天数比例为93.0%"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.87
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300203\",\n      \"stock_name\": \"聚光科技\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术评分领先（约0.75），直接受益于大气污染防治政策，作为环境监测设备龙头，与新闻关联度最高。板块强度0.673提供支撑，近期政策催化明确，市场情绪积极。\",\n      \"risk_warning\": \"需警惕环保政策执行不及预期风险；估值相对较高，存在技术调整压力；板块整体波动可能影响个股表现。\"\n    },\n    {\n      \"stock_code\": \"603588\",\n      \"stock_name\": \"高能环境\",\n      \"comprehensive_score\": 0.71,\n      \"recommendation_reason\": \"技术评分中等（约0.65），主营固废处理和环境修复，间接受益空气质量改善政策。基本面稳健，政策催化持续，但技术指标配合度略逊于聚光科技。\",\n      \"risk_warning\": \"项目回款周期较长，现金流压力需关注；环保行业竞争加剧；宏观经济波动可能影响项目进度。\"\n    },\n    {\n      \"stock_code\": \"000915\",\n      \"stock_name\": \"山大华特\",\n      \"comprehensive_score\": 0.63,\n      \"recommendation_reason\": \"技术评分相对较低（约0.61），虽涉及环保业务但主业分散，与新闻直接关联度较弱。板块强度提供一定支撑，但技术指标和政策受益程度均不如前两只。\",\n      \"risk_warning\": \"业务多元化导致环保聚焦度不足；技术面弱势可能延续；市场情绪转化时反弹力度有限。\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.673属中等偏上，支撑个股表现但非强势；市场情绪受政策催化偏积极；技术指标平均0.67显示整体中性偏多。\",\n    \"news_matching\": \"聚光科技直接关联度最高，政策受益显著；高能环境次之；山大华特关联度较弱。短期催化剂明确，但需关注政策落地节奏。\",\n    \"risk_assessment\": \"板块风险中等（政策依赖性强）；个股基本面风险可控；市场时机风险较低（政策窗口期）。\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300203",
+        "stock_name": "聚光科技",
+        "recommendation_reason": "作为环境监测设备龙头，央视发布的空气质量数据将提升环境监测需求，公司受益于环保政策持续推进",
+        "policy_relevance": "高 - 直接受益于空气质量监测政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.72
+      },
+      {
+        "rank": 2,
+        "stock_code": "000915",
+        "stock_name": "山大华特",
+        "recommendation_reason": "主营大气治理业务，央视空气质量数据印证环保治理成效，公司作为烟气治理标的间接受益",
+        "policy_relevance": "中 - 大气治理产业链标的",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "603588",
+        "stock_name": "高能环境",
+        "recommendation_reason": "综合性环境服务商，央视环保数据发布强化环保板块关注度，公司业务涵盖大气治理等多个环保领域",
+        "policy_relevance": "中 - 环保综合服务商",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性较差（8月发布7月数据），但作为央视新闻发布的全国空气质量官方数据，具有高度权威性和政策导向意义。93.0%的优良天数比例表明环保治理成效显著，为后续环保政策延续提供数据支撑，但投资直接关联性较弱",
+      "policy_impact": "空气质量数据发布体现国家环保政策持续发力，预计将推动大气治理、环境监测等相关产业政策延续。但单一数据点对短期政策影响有限，更多是长期政策导向的印证",
+      "theme_classification": {
+        "theme_type": "环保治理/大气污染防治",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "环境保护",
+          "仪器仪表",
+          "新能源"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300203",
+          "stock_name": "聚光科技",
+          "recommendation_reason": "作为环境监测设备龙头，央视发布的空气质量数据将提升环境监测需求，公司受益于环保政策持续推进",
+          "policy_relevance": "高 - 直接受益于空气质量监测政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.72
+        },
+        {
+          "rank": 2,
+          "stock_code": "000915",
+          "stock_name": "山大华特",
+          "recommendation_reason": "主营大气治理业务，央视空气质量数据印证环保治理成效，公司作为烟气治理标的间接受益",
+          "policy_relevance": "中 - 大气治理产业链标的",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "603588",
+          "stock_name": "高能环境",
+          "recommendation_reason": "综合性环境服务商，央视环保数据发布强化环保板块关注度，公司业务涵盖大气治理等多个环保领域",
+          "policy_relevance": "中 - 环保综合服务商",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 23:58:09"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

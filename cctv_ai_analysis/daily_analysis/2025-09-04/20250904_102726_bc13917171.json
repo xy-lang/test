@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 10:27:26",
+  "news_info": {
+    "id": "bc13917171",
+    "title": "五年前多花十几万升级保时捷配置 评估比原装二手车价值低5万元",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904074717216879459.html",
+    "publish_time": "2025-09-04 07:47:00",
+    "summary": "五年前多花十几万升级保时捷配置 评估比原装二手车价值低5万元"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.66
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600335\",\n      \"stock_name\": \"国机汽车\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为汽车经销商龙头，与新闻中汽车消费维权主题高度相关，具备直接受益逻辑。技术面相对稳健，在汽车板块中表现较为抗跌，短期可能受益于消费维权话题引发的行业关注度提升。\",\n      \"risk_warning\": \"汽车行业整体景气度偏低，经销商模式面临新能源转型压力，需关注季度业绩表现\"\n    },\n    {\n      \"stock_code\": \"000572\",\n      \"stock_name\": \"海马汽车\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"汽车制造企业，与新闻主题存在一定关联度。技术评分中等，但公司基本面较弱，转型压力较大，主要考虑题材炒作可能性。\",\n      \"risk_warning\": \"公司经营状况不佳，连续亏损，存在退市风险，投资需谨慎\"\n    },\n    {\n      \"stock_code\": \"002607\",\n      \"stock_name\": \"中公教育\",\n      \"comprehensive_score\": 0.35,\n      \"recommendation_reason\": \"与汽车消费维权主题关联度较低，主要逻辑不清晰。技术面表现一般，板块强度支撑不足，建议谨慎对待。\",\n      \"risk_warning\": \"教育行业与汽车消费维权主题匹配度低，缺乏直接催化剂，存在误配风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"汽车板块强度0.367属中等偏弱水平\",\n    \"technical_indicator_status\": \"平均技术评分0.37显示整体技术面偏弱\",\n    \"recommendation_strategy\": \"建议重点关注国机汽车的短期交易机会，严格控制仓位，设置止损位\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600335",
+        "stock_name": "国机汽车",
+        "recommendation_reason": "作为汽车经销商龙头，可能受益于汽车消费规范化趋势，央视报道可能提升消费者对正规经销渠道的信任度",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      },
+      {
+        "rank": 2,
+        "stock_code": "000572",
+        "stock_name": "海马汽车",
+        "recommendation_reason": "新闻涉及汽车配置价值问题，可能促使消费者更加关注汽车品牌的价值稳定性",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 3,
+        "stock_code": "002607",
+        "stock_name": "中公教育",
+        "recommendation_reason": "间接关联消费者权益保护教育，但关联度较弱，不建议重点配置",
+        "policy_relevance": "低",
+        "urgency_level": "很低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻属于消费维权类报道，涉及汽车消费领域，但投资价值有限。央视新闻的权威性主要体现在政策解读和重大事件报道，此类消费投诉类新闻对资本市场影响较小。新闻时效性差（五年前事件），硬核程度低，缺乏持续关注价值。",
+      "policy_impact": "该新闻反映了汽车消费领域的维权问题，可能引发监管部门对汽车销售服务规范的关注。但属于个案性质，短期内不会引发重大政策调整，对汽车行业政策影响有限。",
+      "theme_classification": {
+        "theme_type": "汽车消费维权",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "汽车服务",
+          "消费者权益保护",
+          "二手车交易"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600335",
+          "stock_name": "国机汽车",
+          "recommendation_reason": "作为汽车经销商龙头，可能受益于汽车消费规范化趋势，央视报道可能提升消费者对正规经销渠道的信任度",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        },
+        {
+          "rank": 2,
+          "stock_code": "000572",
+          "stock_name": "海马汽车",
+          "recommendation_reason": "新闻涉及汽车配置价值问题，可能促使消费者更加关注汽车品牌的价值稳定性",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 3,
+          "stock_code": "002607",
+          "stock_name": "中公教育",
+          "recommendation_reason": "间接关联消费者权益保护教育，但关联度较弱，不建议重点配置",
+          "policy_relevance": "低",
+          "urgency_level": "很低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:27:26"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

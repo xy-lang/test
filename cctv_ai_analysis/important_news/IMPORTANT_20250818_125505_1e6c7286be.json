@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 12:55:05",
+  "news_info": {
+    "id": "1e6c7286be",
+    "title": "最近一段时间，位于江苏南通通州区的2000多亩大棚葡萄迎来丰收季，在现代科技农业设施的助力下这些葡萄长势良好，目前正陆续上市。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTITRUIg7hH5tMD8VOzLfrD250818.shtml",
+    "publish_time": "2025-08-18 12:05:00",
+    "summary": "最近一段时间，位于江苏南通通州区的2000多亩大棚葡萄迎来丰收季，在现代科技农业设施的助力下这些葡萄..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.82
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"北大荒(600598)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"技术指标表现最佳，上涨趋势明显\",\n        \"作为农业龙头与现代农业新闻高度契合\",\n        \"政策受益程度高，乡村振兴战略持续利好\",\n        \"基本面稳健，抗风险能力强\"\n      ],\n      \"risk_warnings\": [\n        \"农业板块整体强度偏弱\",\n        \"需警惕农产品价格波动风险\"\n      ]\n    },\n    {\n      \"stock\": \"隆平高科(000998)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"种业科技属性与智慧农业主题匹配度高\",\n        \"技术面呈现突破形态\",\n        \"种业振兴政策持续催化\",\n        \"研发优势明显\"\n      ],\n      \"risk_warnings\": [\n        \"种业周期较长\",\n        \"国际竞争加剧风险\"\n      ]\n    },\n    {\n      \"stock\": \"神农科技(300189)\",\n      \"score\": 0.70,\n      \"reasons\": [\n        \"现代农业技术概念突出\",\n        \"弹性较大适合短期操作\",\n        \"技术指标显示超跌反弹\"\n      ],\n      \"risk_warnings\": [\n        \"市值较小波动性高\",\n        \"业绩稳定性较差\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"板块整体强度偏弱但个股技术面良好，北大荒MACD金叉且站上所有均线，隆平高科突破颈线位，神农科技KDJ低位金叉\",\n    \"news_alignment\": \"北大荒与现代农业基础设施建设最契合，隆平高科受益种业政策，神农科技匹配度相对较低\",\n    \"risk_assessment\": \"主要风险来自农业板块持续性不足，需关注大盘环境和政策落地进度\"\n  },\n  \"investment_horizon\": \"建议北大荒、隆平高科作为1-3个月中线配置，神农科技适合2周内短线交易\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600598",
+        "stock_name": "北大荒",
+        "recommendation_reason": "作为农业龙头央企，将持续受益于现代农业政策支持，且具备规模化种植优势",
+        "policy_relevance": "高度契合乡村振兴战略",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "recommendation_reason": "农业科技领军企业，在种子研发和农业技术推广方面具有优势",
+        "policy_relevance": "符合种业振兴行动方案",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "300189",
+        "stock_name": "神农科技",
+        "recommendation_reason": "专注现代农业技术服务，受益于设施农业推广趋势",
+        "policy_relevance": "现代农业技术应用代表",
+        "urgency_level": "短期交易机会",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然报道了农业科技的应用成果，但属于常规性农业报道，缺乏重大政策或产业突破性内容。央视新闻的权威性在此类报道中主要体现在对现代农业发展的正面宣传，但对资本市场直接影响有限。",
+      "policy_impact": "该新闻反映了国家对现代农业科技推广的支持，符合乡村振兴战略方向，但未涉及具体新政策出台，对农业板块的刺激作用较为温和。",
+      "theme_classification": {
+        "theme_type": "现代农业/智慧农业",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "农业种植",
+          "农业科技"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600598",
+          "stock_name": "北大荒",
+          "recommendation_reason": "作为农业龙头央企，将持续受益于现代农业政策支持，且具备规模化种植优势",
+          "policy_relevance": "高度契合乡村振兴战略",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "000998",
+          "stock_name": "隆平高科",
+          "recommendation_reason": "农业科技领军企业，在种子研发和农业技术推广方面具有优势",
+          "policy_relevance": "符合种业振兴行动方案",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "300189",
+          "stock_name": "神农科技",
+          "recommendation_reason": "专注现代农业技术服务，受益于设施农业推广趋势",
+          "policy_relevance": "现代农业技术应用代表",
+          "urgency_level": "短期交易机会",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 12:55:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 18:48:43",
+  "news_info": {
+    "id": "ff1b288d88",
+    "title": "九三阅兵高清大图合集（收藏版）",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIqvL4KMXLEiNjQw5YMwFk250903.shtml",
+    "publish_time": "2025-09-03 15:13:00",
+    "summary": "九三阅兵高清大图合集（收藏版）"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7059500000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.65,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 3.58
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600760\",\n      \"stock_name\": \"中航沈飞\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为歼击机核心制造商，与阅兵主题高度契合，技术评分0.68领先板块平均，受益于国防现代化加速推进，短期催化剂明确\",\n      \"risk_warning\": \"估值偏高，需关注订单落地进度和业绩兑现风险\"\n    },\n    {\n      \"stock_code\": \"600893\",\n      \"stock_name\": \"航发动力\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"航空发动机核心标的，技术评分0.65符合板块强度，受益于国产替代和装备升级需求，中长期成长确定性较强\",\n      \"risk_warning\": \"研发投入较大，短期业绩波动可能较大\"\n    },\n    {\n      \"stock_code\": \"000768\",\n      \"stock_name\": \"中航西飞\",\n      \"comprehensive_score\": 0.70,\n      \"recommendation_reason\": \"大型军用运输机主力生产商，技术评分0.56略低于板块平均，但受益于战略投送能力建设，具备补涨机会\",\n      \"risk_warning\": \"订单交付周期较长，现金流压力需要关注\"\n    }\n  ],\n  \"overall_risk_alert\": \"军工板块受政策影响较大，需密切关注地缘政治变化和军费预算调整；技术面显示板块强度中等，建议控制仓位，分批布局\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "作为歼击机主机厂，阅兵装备展示可能引发市场关注，央视权威报道提升国防主题热度",
+        "policy_relevance": "间接受益于国防现代化展示",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "recommendation_reason": "航空发动机核心供应商，阅兵空中装备展示可能带动板块关注度",
+        "policy_relevance": "装备展示体现技术实力",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "recommendation_reason": "军用运输机主要生产商，阅兵装备展示可能提升市场对军工板块情绪",
+        "policy_relevance": "国防装备展示间接利好",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为九三阅兵高清图集，属于纪念性内容而非时效性新闻。央视新闻作为国家级媒体平台，发布此类内容主要体现国家形象展示和爱国主义教育功能，权威性体现在国家意志传达层面，但投资价值有限。新闻评分显示第一时间性、硬核程度、持续性均为0分，表明这属于常规纪念内容，不具备突发性或政策导向性。",
+      "policy_impact": "阅兵相关新闻主要体现国防建设成果展示，间接反映国家在军工、装备制造等领域的持续投入。但单条图片新闻不构成新的政策导向，更多是既有政策的形象展示。对资本市场影响较弱，可能短暂提振军工板块情绪，但缺乏实质性政策支撑。",
+      "theme_classification": {
+        "theme_type": "国防军工/军民融合",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "国防军工",
+          "航空航天",
+          "高端装备制造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600760",
+          "stock_name": "中航沈飞",
+          "recommendation_reason": "作为歼击机主机厂，阅兵装备展示可能引发市场关注，央视权威报道提升国防主题热度",
+          "policy_relevance": "间接受益于国防现代化展示",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "600893",
+          "stock_name": "航发动力",
+          "recommendation_reason": "航空发动机核心供应商，阅兵空中装备展示可能带动板块关注度",
+          "policy_relevance": "装备展示体现技术实力",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "000768",
+          "stock_name": "中航西飞",
+          "recommendation_reason": "军用运输机主要生产商，阅兵装备展示可能提升市场对军工板块情绪",
+          "policy_relevance": "国防装备展示间接利好",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:48:43"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

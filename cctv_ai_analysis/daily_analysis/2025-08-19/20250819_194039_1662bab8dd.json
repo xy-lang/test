@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-19 19:40:39",
+  "news_info": {
+    "id": "1662bab8dd",
+    "title": "8月15日至19日，2025南国书香节在中国进出口商品交易会展馆举行，年度主题为“书香湾区·阅见世界·共享未来”。国际化和科技感满满的书香氛围，吸引了众多市民和读者前来看书、买书，共享一场文化嘉年华。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTIzfBOLc7abxU5xig5WxdH250819.shtml",
+    "publish_time": "2025-08-19 12:00:00",
+    "summary": "8月15日至19日，2025南国书香节在中国进出口商品交易会展馆举行，年度主题为“书香湾区·阅见世界..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 7.66
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"stock_code\": \"601999\",\n      \"stock_name\": \"出版传媒\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"直接受益于南国书香节的核心标的，作为出版传媒龙头，业务与新闻事件高度契合。技术评分0.68处于板块中上水平，板块强度0.617提供支撑，政策催化明确，短期业绩预期提升。\",\n      \"risk_warning\": \"需警惕文化传媒板块整体估值回调风险，以及活动结束后短期热度消退的影响\"\n    },\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.71,\n      \"recommendation_reason\": \"传媒内容制作与展会业务协同性较强，受益于书香节带来的文化消费热度。技术指标相对稳健，具备一定的防御属性，适合中长期布局。\",\n      \"risk_warning\": \"传媒行业竞争激烈，需关注内容制作成本上升和市场竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"000681\",\n      \"stock_name\": \"视觉中国\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"作为视觉内容提供商，间接受益于文化展会活动，但关联度相对较弱。技术评分中等，需观察后续市场情绪变化。\",\n      \"risk_warning\": \"版权业务面临政策监管不确定性，且与新闻事件的直接关联性较低\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength_support\": \"板块强度0.617处于中等偏上水平，为个股表现提供一定支撑\",\n    \"market_sentiment\": \"文化传媒板块受政策催化情绪积极，但需关注整体市场波动\",\n    \"technical_indicator_status\": \"平均技术评分0.62显示板块技术面整体健康，但个股分化明显\",\n    \"overall_risk_assessment\": \"中等风险，建议控制仓位，重点关注活动期间的交易机会\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601999",
+        "stock_name": "出版传媒",
+        "recommendation_reason": "作为出版行业代表企业，受益于全民阅读政策推广和书香节活动带来的行业关注度提升",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "000681",
+        "stock_name": "视觉中国",
+        "recommendation_reason": "文化传媒板块龙头，具备数字阅读和文化IP概念，契合书香节数字化阅读趋势",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下传媒公司，间接受益于央视文化类节目和活动的宣传效应",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视报道的2025南国书香节活动，虽然活动本身具有文化价值和区域影响力，但从投资角度看，新闻内容属于常规文化活动报道，缺乏重大政策突破或产业变革信息。央视新闻的权威性虽高，但该报道更多体现文化宣传功能，而非投资导向性信息。",
+      "policy_impact": "政策影响有限，主要体现大湾区文化建设和全民阅读推广政策，但未涉及实质性财政支持或产业政策调整，对资本市场直接影响较弱。",
+      "theme_classification": {
+        "theme_type": "文化传媒/会展经济",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "文化传媒",
+          "出版发行",
+          "会展服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601999",
+          "stock_name": "出版传媒",
+          "recommendation_reason": "作为出版行业代表企业，受益于全民阅读政策推广和书香节活动带来的行业关注度提升",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "000681",
+          "stock_name": "视觉中国",
+          "recommendation_reason": "文化传媒板块龙头，具备数字阅读和文化IP概念，契合书香节数字化阅读趋势",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下传媒公司，间接受益于央视文化类节目和活动的宣传效应",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 19:40:39"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

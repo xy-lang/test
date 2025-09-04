@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-02 23:57:09",
+  "news_info": {
+    "id": "3a4b26a46f",
+    "title": "浙江大学西迁后代话西迁｜钱永红：感受源于苦难却终成光辉的力量",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250902233524849561204.html",
+    "publish_time": "2025-09-02 23:35:00",
+    "summary": "浙江大学西迁后代话西迁｜钱永红：感受源于苦难却终成光辉的力量"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.35
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600797\",\n      \"stock_name\": \"浙大网新\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"与浙江大学具有直接股权和历史渊源关系，新闻关联度最高；技术评分相对稳健，在综合板块中具备一定抗跌性；作为高校系上市公司，受益于教育科技政策支持\",\n      \"risk_warning\": \"板块整体强度偏弱，市场情绪可能影响短期表现；需关注公司基本面变化和业绩兑现情况\"\n    },\n    {\n      \"stock_code\": \"603000\",\n      \"stock_name\": \"人民网\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"作为主流媒体平台，具备文化传播和教育属性，与新闻主题存在间接关联；技术面相对稳定，在市场波动中防御性较强\",\n      \"risk_warning\": \"与新闻直接关联度较弱；传媒板块近期表现平淡，需关注政策面变化\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"属于教育板块，契合新闻中的教育主题；技术指标显示超跌反弹可能性，具备短期交易机会\",\n      \"risk_warning\": \"教育行业政策风险较高；技术面波动较大，需严格控制仓位和止损\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏谨慎，板块强度0.117显示整体偏弱，需注意仓位控制\",\n    \"investment_strategy\": \"建议以浙大网新为主要配置，人民网作为防御性选择，全通教育仅适合短线操作\",\n    \"key_risks\": \"综合板块整体强度不足；市场情绪可能影响题材股表现；需密切关注大盘走势和板块轮动\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600797",
+        "stock_name": "浙大网新",
+        "recommendation_reason": "与浙江大学存在历史渊源，但新闻内容为历史回顾，缺乏实质性业务关联。基于新闻权威性极低，建议谨慎看待",
+        "policy_relevance": "低",
+        "urgency_level": "极低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "教育板块标的，但新闻内容与公司业务无直接关联。央视品牌背书效应微弱",
+        "policy_relevance": "极低",
+        "urgency_level": "极低",
+        "confidence_score": 0.1
+      },
+      {
+        "rank": 3,
+        "stock_code": "603000",
+        "stock_name": "人民网",
+        "recommendation_reason": "央媒属性标的，但新闻内容价值有限，难以形成板块效应",
+        "policy_relevance": "低",
+        "urgency_level": "极低",
+        "confidence_score": 0.08
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为浙江大学西迁历史回顾类内容，属于纪念性报道而非时效性新闻。央视新闻的权威性主要体现在历史教育价值，但投资价值极低。新闻内容缺乏实质性政策信息或行业动态，更多是文化传承层面的报道，对资本市场直接影响有限。",
+      "policy_impact": "无直接政策影响。间接层面可能涉及高等教育发展、文化传承等长期政策导向，但缺乏具体政策落地或资金支持信息，对短期市场影响微乎其微。",
+      "theme_classification": {
+        "theme_type": "历史文化教育",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "教育服务",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600797",
+          "stock_name": "浙大网新",
+          "recommendation_reason": "与浙江大学存在历史渊源，但新闻内容为历史回顾，缺乏实质性业务关联。基于新闻权威性极低，建议谨慎看待",
+          "policy_relevance": "低",
+          "urgency_level": "极低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "教育板块标的，但新闻内容与公司业务无直接关联。央视品牌背书效应微弱",
+          "policy_relevance": "极低",
+          "urgency_level": "极低",
+          "confidence_score": 0.1
+        },
+        {
+          "rank": 3,
+          "stock_code": "603000",
+          "stock_name": "人民网",
+          "recommendation_reason": "央媒属性标的，但新闻内容价值有限，难以形成板块效应",
+          "policy_relevance": "低",
+          "urgency_level": "极低",
+          "confidence_score": 0.08
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 23:57:09"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

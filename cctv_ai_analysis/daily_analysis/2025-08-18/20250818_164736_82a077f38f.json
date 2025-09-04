@@ -1,0 +1,112 @@
+{
+  "analysis_time": "2025-08-18 16:47:36",
+  "news_info": {
+    "id": "82a077f38f",
+    "title": "大江南北“夜经济”的魅力，各具特色。在众多的城市中，湖南长沙可以说是非常热门的城市之一。数据显示，长沙夜间消费已经占全天消费比重的60%。现在，跟着我们的总台记者，一起去夜长沙感受这座城市不一样的烟火。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIkdSdrmUijDOwrRNXgWJp250818.shtml",
+    "publish_time": "2025-08-18 18:47:00",
+    "summary": "大江南北“夜经济”的魅力，各具特色。在众多的城市中，湖南长沙可以说是非常热门的城市之一。数据显示，长..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -2.01
+    }
+  },
+  "ai_analysis": {
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000721",
+        "stock_name": "西安饮食",
+        "recommendation_reason": "旗下拥有多个夜间餐饮品牌，央视报道将提升区域消费类企业关注度",
+        "policy_relevance": "直接受益夜间经济政策",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "长沙地区酒店业务占比高，夜间经济繁荣将提升入住率",
+        "policy_relevance": "间接受益消费场景延伸",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.68
+      },
+      {
+        "rank": 3,
+        "stock_code": "002251",
+        "stock_name": "步步高",
+        "recommendation_reason": "湖南本土零售龙头，夜间消费数据超预期将提振估值",
+        "policy_relevance": "区域消费标杆企业",
+        "urgency_level": "事件驱动",
+        "confidence_score": 0.7
+      }
+    ],
+    "stage2_status": "failed",
+    "error": "",
+    "fallback_reason": "AI精准分析失败，使用第一阶段结果",
+    "stage1_rough": {
+      "news_analysis": "该新闻聚焦长沙夜间经济，展示了城市消费活力，虽然时效性不强，但央视新闻的权威性会强化市场对夜间经济概念的关注。",
+      "policy_impact": "夜间经济是国家促进消费升级的重要抓手，长沙作为典型城市案例可能获得更多政策倾斜。",
+      "theme_classification": {
+        "theme_type": "消费升级/夜间经济",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "商业零售",
+          "餐饮旅游"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000721",
+          "stock_name": "西安饮食",
+          "recommendation_reason": "旗下拥有多个夜间餐饮品牌，央视报道将提升区域消费类企业关注度",
+          "policy_relevance": "直接受益夜间经济政策",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "长沙地区酒店业务占比高，夜间经济繁荣将提升入住率",
+          "policy_relevance": "间接受益消费场景延伸",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.68
+        },
+        {
+          "rank": 3,
+          "stock_code": "002251",
+          "stock_name": "步步高",
+          "recommendation_reason": "湖南本土零售龙头，夜间消费数据超预期将提振估值",
+          "policy_relevance": "区域消费标杆企业",
+          "urgency_level": "事件驱动",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": null,
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

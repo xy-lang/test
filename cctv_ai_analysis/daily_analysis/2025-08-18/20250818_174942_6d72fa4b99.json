@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 17:49:42",
+  "news_info": {
+    "id": "6d72fa4b99",
+    "title": "除了道路，在西藏还有一条特殊的路，那就是“电力天路”，刚才，我们看到了拉萨的夜景，可以说灯火辉煌，现在大屏上的是昌都的夜景，这是那曲的夜景，也都很美。在这些亮丽夜景的背后，就是一条条“电力天路”在做支撑。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIMOBDWLXfUkwBAFdZGm0c250818.shtml",
+    "publish_time": "2025-08-18 17:30:00",
+    "summary": "除了道路，在西藏还有一条特殊的路，那就是“电力天路”，刚才，我们看到了拉萨的夜景，可以说灯火辉煌，现..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.32
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"国投电力(600886)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"直接受益于西藏电力基建项目\",\n        \"技术指标显示稳健上升趋势\",\n        \"作为央企具有政策优势\",\n        \"电力板块整体表现强劲\"\n      ],\n      \"risk_warning\": [\n        \"需关注项目实际落地进度\",\n        \"电力行业政策调整风险\"\n      ]\n    },\n    {\n      \"stock\": \"中国西电(601179)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"电力设备制造龙头企业\",\n        \"技术面呈现突破形态\",\n        \"受益于西部电力基建投资\",\n        \"板块强度提供支撑\"\n      ],\n      \"risk_warning\": [\n        \"原材料价格波动风险\",\n        \"市场竞争加剧\"\n      ]\n    },\n    {\n      \"stock\": \"平高电气(600312)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"特高压设备主要供应商\",\n        \"技术指标显示短期动能\",\n        \"受益于电网升级改造\"\n      ],\n      \"risk_warning\": [\n        \"订单获取不确定性\",\n        \"估值相对较高\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength\": \"电力板块表现强劲(0.767)，为个股提供良好支撑\",\n    \"market_sentiment\": \"政策导向明确，市场情绪积极\",\n    \"technical_indicators\": \"三只股票平均技术评分0.77，处于较好状态\",\n    \"policy_impact\": \"国家西部电力基建战略提供长期支撑\",\n    \"timing_risk\": \"需关注短期市场波动风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600886",
+        "stock_name": "国投电力",
+        "recommendation_reason": "作为国家开发投资集团旗下电力平台，在西藏等西部地区有多个电力项目布局，直接受益于'电力天路'建设。",
+        "policy_relevance": "高",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "601179",
+        "stock_name": "中国西电",
+        "recommendation_reason": "国内领先的输配电设备制造商，特高压技术领先，将受益于西藏电网建设带来的设备需求。",
+        "policy_relevance": "高",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "600312",
+        "stock_name": "平高电气",
+        "recommendation_reason": "高压开关设备龙头企业，产品广泛应用于电网建设，有望参与'电力天路'项目。",
+        "policy_relevance": "中",
+        "urgency_level": "中",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性较弱，但作为央视新闻发布的西藏电力基础设施建设报道，具有较高的政策导向性。新闻展示了'电力天路'在西藏地区的重要作用，暗示国家将继续加大对偏远地区电网建设的投入。",
+      "policy_impact": "该新闻反映了国家'乡村振兴'和'西部大开发'战略在电力基础设施领域的实施，预计将带动相关电力设备、工程建设企业的业务增长。",
+      "theme_classification": {
+        "theme_type": "电力基建/西部开发",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "电力设备",
+          "工程建设",
+          "特高压"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600886",
+          "stock_name": "国投电力",
+          "recommendation_reason": "作为国家开发投资集团旗下电力平台，在西藏等西部地区有多个电力项目布局，直接受益于'电力天路'建设。",
+          "policy_relevance": "高",
+          "urgency_level": "中",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "601179",
+          "stock_name": "中国西电",
+          "recommendation_reason": "国内领先的输配电设备制造商，特高压技术领先，将受益于西藏电网建设带来的设备需求。",
+          "policy_relevance": "高",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "600312",
+          "stock_name": "平高电气",
+          "recommendation_reason": "高压开关设备龙头企业，产品广泛应用于电网建设，有望参与'电力天路'项目。",
+          "policy_relevance": "中",
+          "urgency_level": "中",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 17:49:42"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

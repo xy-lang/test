@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 00:34:06",
+  "news_info": {
+    "id": "cb3e69a76e",
+    "title": "个人消费贷款也可享受“国补”，怎么领？一文了解",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTI98GY0Bjp9xHrHduRDjV2250814.shtml",
+    "publish_time": "2025-08-15 00:31:19",
+    "summary": "个人消费贷款也可享受“国补”，怎么领？一文了解"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80035,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.04
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其发布的个人消费贷款补贴政策具有高度可信度和政策导向性。0.80的综合强度评分表明该政策将产生显著市场影响，利好消费金融相关板块。",
+    "policy_impact": "该政策直接刺激消费信贷需求，利好银行消费金融业务和消费场景相关企业，预计短期内将提升相关上市公司业绩预期。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "旗下平安银行是消费金融领域龙头，将直接受益于个人消费贷款补贴政策",
+        "policy_relevance": "直接受益于消费信贷政策松绑",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "recommendation_reason": "家电消费将受益于消费贷款补贴政策，刺激家电更新需求",
+        "policy_relevance": "消费终端受益标的",
+        "urgency_level": "中高",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 3,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "零售银行标杆，消费金融业务占比高，政策受益明显",
+        "policy_relevance": "直接受益于消费信贷扩张",
+        "urgency_level": "高",
+        "confidence_score": 0.85
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

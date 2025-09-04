@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-04 16:55:50",
+  "news_info": {
+    "id": "bfbdcfe041",
+    "title": "临沂市举行“辋川的营造——碎片化下的深度记忆”艺术展开幕仪式",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904154302880854573.html",
+    "publish_time": "2025-09-04 15:43:00",
+    "summary": "临沂市举行“辋川的营造——碎片化下的深度记忆”艺术展开幕仪式"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.2
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为央视旗下传媒平台，与文化艺术展览主题关联度最高，具备政策背书和品牌优势。技术面相对稳健，在文化传媒板块中表现较为突出，短期受益于文化艺术活动热度提升。\",\n      \"risk_warning\": \"传媒行业受政策监管影响较大，市场情绪波动可能导致股价震荡，需关注行业政策变化和市场竞争风险。\"\n    },\n    {\n      \"stock_code\": \"603103\",\n      \"stock_name\": \"横店影视\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"作为影视文化产业链重要参与者，间接受益于文化艺术展览带来的行业关注度提升。技术指标显示相对稳定，具备一定的防御性。\",\n      \"risk_warning\": \"影视行业复苏进程存在不确定性，票房表现和内容审核风险可能影响股价表现，需关注行业基本面变化。\"\n    },\n    {\n      \"stock_code\": \"000802\",\n      \"stock_name\": \"北京文化\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"虽属文化传媒板块，但与地方性艺术展览的直接关联度较弱。技术面表现相对平淡，缺乏明显的催化剂支撑。\",\n      \"risk_warning\": \"公司基本面存在一定不确定性，历史财务问题可能影响投资者信心，建议谨慎关注，控制仓位风险。\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"偏弱（0.25）\",\n    \"recommendation_strategy\": \"建议重点关注中视传媒，控制总体仓位在30%以下，采取分批建仓策略\"\n  },\n  \"risk_notes\": [\n    \"文化艺术板块整体强度偏弱（0.25），板块支撑力度有限\",\n    \"当前市场情绪对传媒板块偏好度一般，需警惕系统性风险\",\n    \"个股基本面差异较大，建议重点关注行业龙头和具备政策优势的标的\",\n    \"短期催化剂强度一般，建议以中长期投资视角进行配置\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "作为央视旗下上市公司，受益于央视新闻传播影响力，但该具体新闻投资价值有限",
+        "policy_relevance": "低-间接相关",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "000802",
+        "stock_name": "北京文化",
+        "recommendation_reason": "文化传媒板块标的，但与该地方性艺术展直接关联度较弱",
+        "policy_relevance": "很低-板块概念",
+        "urgency_level": "很低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "603103",
+        "stock_name": "横店影视",
+        "recommendation_reason": "文化影视概念股，但与具体新闻内容关联度极低",
+        "policy_relevance": "极低-概念性相关",
+        "urgency_level": "极低",
+        "confidence_score": 0.15
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性文化艺术活动报道，投资价值极低。新闻内容为临沂市艺术展开幕仪式，属于常规文化活动，无重大政策或经济影响。央视新闻的权威性在此类报道中主要体现在文化传播价值，而非投资指导价值。评分显示第一时间性、硬核程度、持续性均为0分，表明该新闻不具备投资参考意义。",
+      "policy_impact": "无实质性政策影响。该新闻仅为地方文化活动报道，不涉及国家重大政策导向或产业扶持政策，对资本市场无直接影响。文化类活动通常属于常规政务工作范畴，不具备政策突破性或行业变革性。",
+      "theme_classification": {
+        "theme_type": "文化艺术",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "地方文旅"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "作为央视旗下上市公司，受益于央视新闻传播影响力，但该具体新闻投资价值有限",
+          "policy_relevance": "低-间接相关",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "000802",
+          "stock_name": "北京文化",
+          "recommendation_reason": "文化传媒板块标的，但与该地方性艺术展直接关联度较弱",
+          "policy_relevance": "很低-板块概念",
+          "urgency_level": "很低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "603103",
+          "stock_name": "横店影视",
+          "recommendation_reason": "文化影视概念股，但与具体新闻内容关联度极低",
+          "policy_relevance": "极低-概念性相关",
+          "urgency_level": "极低",
+          "confidence_score": 0.15
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 16:55:50"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

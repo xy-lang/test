@@ -1,0 +1,130 @@
+{
+  "analysis_time": "2025-09-03 18:50:39",
+  "news_info": {
+    "id": "462edb7389",
+    "title": "9月1日起AI生成合成内容必须添加标识 多家平台已落实",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIUvV62pAXPqCDrH1GkRTC250903.shtml",
+    "publish_time": "2025-09-03 10:55:00",
+    "summary": "9月1日起AI生成合成内容必须添加标识 多家平台已落实"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.67755,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.77,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 7.91
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"603019\",\n      \"stock_name\": \"中科曙光\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"技术面强势突破，作为AI服务器龙头直接受益于AI内容安全政策，国家意志加持下具备持续政策催化预期，板块强度0.85提供有力支撑，技术评分领先\",\n      \"risk_warning\": \"需关注AI监管政策变化风险及估值偏高风险\"\n    },\n    {\n      \"stock_code\": \"300229\",\n      \"stock_name\": \"拓尔思\",\n      \"comprehensive_score\": 0.86,\n      \"recommendation_reason\": \"在自然语言处理领域技术积累深厚，AI内容识别技术直接匹配政策要求，技术指标显示量价配合良好，受益于平台内容审核需求爆发\",\n      \"risk_warning\": \"存在技术迭代风险及客户集中度风险\"\n    },\n    {\n      \"stock_code\": \"300079\",\n      \"stock_name\": \"数码视讯\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"在数字内容安全领域有布局，政策受益明确但技术面相对较弱，作为补涨标的具备一定配置价值\",\n      \"riskwarning\": \"基本面支撑相对较弱，需警惕业绩兑现不及预期风险\"\n    }\n  ],\n  \"overall_risk_alert\": \"当前板块整体强度较高但需警惕政策执行力度不及预期风险，AI监管政策可能存在调整风险，建议控制仓位并设置止损位\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "recommendation_reason": "作为国内AI服务器和算力基础设施龙头，深度参与国家AI安全标准制定，在内容识别和AI安全领域技术积累深厚",
+        "policy_relevance": "直接受益于AI内容监管政策，提供相关技术解决方案",
+        "urgency_level": "高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 2,
+        "stock_code": "300229",
+        "stock_name": "拓尔思",
+        "recommendation_reason": "国内领先的文本挖掘和内容安全技术提供商，在AI内容识别和审核领域具有核心技术优势",
+        "policy_relevance": "为平台提供AI内容标识和审核技术服务，政策需求明确",
+        "urgency_level": "中高",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 3,
+        "stock_code": "300079",
+        "stock_name": "数码视讯",
+        "recommendation_reason": "在数字水印和内容保护技术方面国内领先，可为AI生成内容提供可靠的标识技术",
+        "policy_relevance": "数字水印技术是AI内容标识的重要技术路径之一",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的AI内容监管政策，具有重要的政策导向意义。央视新闻作为国家级权威媒体，其报道往往代表政策风向标，对资本市场具有显著引导作用。AI内容标识政策的实施，标志着国家对AI产业规范化发展的重视，为相关合规技术和服务提供商带来明确商机。",
+      "policy_impact": "该政策将强制推动AI内容识别、数字水印、内容审核等技术需求爆发式增长。预计将带动AI安全、内容审核、数字身份认证等相关产业快速发展，政策执行力度强，影响范围覆盖所有互联网平台和内容生产者。",
+      "theme_classification": {
+        "theme_type": "AI内容安全与合规",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "人工智能",
+          "网络安全",
+          "数字媒体"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "603019",
+          "stock_name": "中科曙光",
+          "recommendation_reason": "作为国内AI服务器和算力基础设施龙头，深度参与国家AI安全标准制定，在内容识别和AI安全领域技术积累深厚",
+          "policy_relevance": "直接受益于AI内容监管政策，提供相关技术解决方案",
+          "urgency_level": "高",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 2,
+          "stock_code": "300229",
+          "stock_name": "拓尔思",
+          "recommendation_reason": "国内领先的文本挖掘和内容安全技术提供商，在AI内容识别和审核领域具有核心技术优势",
+          "policy_relevance": "为平台提供AI内容标识和审核技术服务，政策需求明确",
+          "urgency_level": "中高",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 3,
+          "stock_code": "300079",
+          "stock_name": "数码视讯",
+          "recommendation_reason": "在数字水印和内容保护技术方面国内领先，可为AI生成内容提供可靠的标识技术",
+          "policy_relevance": "数字水印技术是AI内容标识的重要技术路径之一",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "计算机"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成长",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-09-03 18:50:39"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

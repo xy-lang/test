@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-18 09:11:00",
+  "news_info": {
+    "id": "adee5a3b34",
+    "title": "我们走进美丽的花园城市——厦门，那里风光旖旎的海岸风景和雕梁画栋的闽南建筑，是这座城市目之所及的“美丽”，其背后独特的垃圾处理模式，正在把这座城市的一些“不美丽”，也变成“美丽”。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIBvg2FYLE4fMfeZyKGc0J250817.shtml",
+    "publish_time": "2025-08-18 09:10:26",
+    "summary": "我们走进美丽的花园城市——厦门，那里风光旖旎的海岸风景和雕梁画栋的闽南建筑，是这座城市目之所及的“美..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的公信力和政策导向性。本次报道聚焦厦门城市建设和垃圾处理模式，体现了国家对生态文明建设和城市可持续发展的重视。0.82的高综合评分表明该新闻具有较强时效性和政策影响力。",
+    "policy_impact": "该新闻反映了'美丽中国'建设和垃圾分类处理的国家战略方向，预计将带动相关环保和城市基建领域的政策支持与投资机会。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000826",
+        "stock_name": "启迪环境",
+        "recommendation_reason": "作为固废处理龙头企业，与厦门垃圾处理模式高度契合，受益于环保政策推进",
+        "policy_relevance": "直接受益于垃圾分类和城市环境治理政策",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "600323",
+        "stock_name": "瀚蓝环境",
+        "recommendation_reason": "在垃圾焚烧发电领域具有领先优势，符合报道中提及的垃圾资源化利用方向",
+        "policy_relevance": "受益于垃圾处理产业升级政策",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "603588",
+        "stock_name": "高能环境",
+        "recommendation_reason": "专业从事环境修复和固废处理，与厦门城市环境治理模式相呼应",
+        "policy_relevance": "契合城市环境综合治理政策导向",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

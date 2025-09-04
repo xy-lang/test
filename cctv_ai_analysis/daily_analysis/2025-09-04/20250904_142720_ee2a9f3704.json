@@ -1,0 +1,44 @@
+{
+  "analysis_time": "2025-09-04 14:27:20",
+  "news_info": {
+    "id": "ee2a9f3704",
+    "title": "与心梗竞速！菏泽市妇幼保健院精准施策成功救治急性心梗患者",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904132803517900258.html",
+    "publish_time": "2025-09-04 13:28:00",
+    "summary": "与心梗竞速！菏泽市妇幼保健院精准施策成功救治急性心梗患者"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7822,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.78,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.98
+    }
+  },
+  "ai_analysis": {
+    "status": "parse_error",
+    "content": "```json\n{\n    \"news_analysis\": \"该新闻为地方医疗救治案例报道，虽来自央视平台但内容为常规医疗新闻，缺乏重大政策导向或行业变革信息。央视权威性主要体现在传播广度，但内容本身投资价值有限，评分指标（第一时间性0/10、硬核程度0/10、持续性0/10）已充分反映其低投资相关性。\",\n    \"policy_impact\": \"无直接政策影响。间接关联《\"健康中国2030\"规划纲要》对基层医疗能力建设的要求，但新闻本身未释放新政策信号，对医疗板块影响微弱。\",\n    \"theme_classification\": {\n        \"theme_type\": \"医疗救治/基层医疗\",\n        \"hardcore_level\": \"个股意志（单一医院案例）\",\n        \"sustainability_score\": 2,\n        \"related_sectors\": [\"医疗器械\", \"医疗服务\"]\n    },\n    \"recommendations\": [\n        {\n            \"rank\": 1,\n            \"stock_code\": \"600587\",\n            \"stock_name\": \"新华医疗\",\n            \"recommendation_reason\": \"作为医疗器械龙头，产品覆盖心梗救治所需监护仪、除颤器等设备，央视报道间接凸显基层医疗设备需求\",\n            \"policy_relevance\": \"契合分级诊疗政策下基层医疗设备升级趋势\",\n            \"urgency_level\": \"低\",\n            \"confidence_score\": 0.35\n        },\n        {\n            \"rank\": 2,\n            \"stock_code\": \"300003\",\n            \"stock_name\": \"乐普医疗\",\n            \"recommendation_reason\": \"心血管介入器械领军企业，心梗救治案例间接提示心血管疾病防控市场需求\",\n            \"policy_relevance\": \"符合创新医疗器械国产替代政策方向\",\n            \"urgency_level\": \"低\",\n            \"confidence_score\": 0.30\n        },\n        {\n            \"rank\": 3,\n            \"stock_code\": \"600763\",\n            \"stock_name\": \"通策医疗\",\n            \"recommendation_reason\": \"虽非直接相关，但央视医疗类报道可能带动医疗服务板块关注度\",\n            \"policy_relevance\": \"社会办医政策受益标的\",\n            \"urgency_level\": \"低\",\n            \"confidence_score\": 0.25\n        }\n    ]\n}\n```",
+    "final_recommendations": [],
+    "analysis_method": "单阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 14:27:20"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

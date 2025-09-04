@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-04 18:03:57",
+  "news_info": {
+    "id": "9cc8d35a9c",
+    "title": "邓学林博士向武当博物馆捐赠藏品",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904174510693356930.html",
+    "publish_time": "2025-09-04 17:45:00",
+    "summary": "邓学林博士向武当博物馆捐赠藏品"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7393000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.65,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.3
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"与武当文化传承主题契合度最高，公司旗下拥有文化旅游业务板块，直接受益于博物馆文化传播带来的旅游热度提升。技术面相对稳健，在板块中表现较为突出，具备短期催化剂效应。\",\n      \"risk_warning\": \"旅游行业受季节性影响较大，需关注宏观经济对消费需求的影响\"\n    },\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"作为文化传媒企业，与博物馆文化传播存在业务关联性，可能受益于文化传承主题的市场关注。技术指标相对平稳，但板块强度支撑有限。\",\n      \"risk_warning\": \"传媒行业竞争激烈，业绩波动性较大，需关注内容制作风险\"\n    },\n    {\n      \"stock_code\": \"000796\",\n      \"stock_name\": \"凯撒旅业\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"虽属旅游板块，但与博物馆文化主题的直接关联度相对较弱。技术面表现一般，板块支撑力度不足，建议谨慎关注。\",\n      \"risk_warning\": \"旅游行业复苏存在不确定性，公司基本面面临挑战，投资需谨慎\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极，文化传承主题受到政策支持，但板块整体强度较弱\",\n    \"technical_condition\": \"板块技术评分0.20显示整体偏弱，个股技术面支撑有限\",\n    \"risk_assessment\": \"中等风险，需关注文化主题炒作的持续性以及大盘整体走势影响\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "武当山为重要旅游目的地，博物馆捐赠事件可能提升景区文化内涵，间接利好旅游板块",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 2,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视新闻播出文化类内容，但该事件影响力有限，对传媒股带动作用微弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 3,
+        "stock_code": "000796",
+        "stock_name": "凯撒旅业",
+        "recommendation_reason": "涉及文化旅游概念，但新闻事件过于单一，投资逻辑薄弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.1
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为邓学林博士向武当博物馆捐赠藏品的文化类报道，属于常规文化事件，投资价值极低。新闻内容缺乏时效性、硬核性和持续性，评分均为0/10，表明该新闻对资本市场基本无直接影响。央视新闻的权威性在此类文化报道中主要体现在文化传播价值，而非投资指导价值。",
+      "policy_impact": "无实质性政策影响。该新闻属于文化捐赠事件，不涉及国家政策调整或行业政策变化，对相关产业无政策推动力。文化捐赠类新闻通常不具备政策传导效应，难以形成投资风口。",
+      "theme_classification": {
+        "theme_type": "文化传承/博物馆",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "旅游服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "武当山为重要旅游目的地，博物馆捐赠事件可能提升景区文化内涵，间接利好旅游板块",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 2,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视新闻播出文化类内容，但该事件影响力有限，对传媒股带动作用微弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 3,
+          "stock_code": "000796",
+          "stock_name": "凯撒旅业",
+          "recommendation_reason": "涉及文化旅游概念，但新闻事件过于单一，投资逻辑薄弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.1
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 18:03:57"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

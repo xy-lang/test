@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 19:18:46",
+  "news_info": {
+    "id": "8cf244c5ef",
+    "title": "新学期新举措 教育惠民暖人心",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTI90xLcIzQu0cr5Ry257Jl250901.shtml",
+    "publish_time": "2025-09-01 21:04:00",
+    "summary": "新学期新举措 教育惠民暖人心"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7706500000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.64,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -1.77
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_name\": \"全通教育(300359)\",\n      \"score\": 0.82,\n      \"reason\": \"教育信息化核心标的，直接受益于新学期教育惠民政策，技术指标显示近期放量突破，板块强度0.733提供支撑，政策催化明确，短期上涨概率较高\",\n      \"risk\": \"需关注政策落地进度不及预期风险，以及个股估值偏高风险\"\n    },\n    {\n      \"stock_name\": \"拓维信息(002261)\",\n      \"score\": 0.75,\n      \"reason\": \"教育+科技双轮驱动，技术评分0.73处于板块平均水平，受益教育信息化建设需求，但近期涨幅较大需注意回调风险\",\n      \"risk\": \"短期技术面存在超买迹象，需防范获利回吐压力\"\n    },\n    {\n      \"stock_name\": \"国新文化(600636)\",\n      \"score\": 0.68,\n      \"reason\": \"教育装备领域龙头企业，政策受益明确但技术指标相对较弱，需观察量能配合情况，适合中长期布局\",\n      \"risk\": \"基本面转型期存在不确定性，市场关注度相对较低\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"教育板块受政策催化情绪积极，但需注意整体市场环境波动\",\n    \"sector_strength\": \"综合板块强度0.733提供中等支撑，教育信息化细分领域表现更优\",\n    \"timing_risk\": \"新学期开学季为短期催化剂，建议关注政策落地进度\"\n  },\n  \"risk_warning\": \"需密切关注政策执行效果、市场流动性变化以及个股基本面变化，建议控制仓位，设置止损位\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "作为教育信息化龙头企业，直接受益于教育惠民政策推进，央视新闻关注度提升将带动板块情绪",
+        "policy_relevance": "高度相关，主营教育信息化解决方案",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "002261",
+        "stock_name": "拓维信息",
+        "recommendation_reason": "公司在智慧教育领域布局深入，与多地教育局有合作，政策推动下业务增长可期",
+        "policy_relevance": "较高相关，智慧教育业务占比显著",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600636",
+        "stock_name": "国新文化",
+        "recommendation_reason": "教育装备行业龙头，产品覆盖智慧教室、教育信息化设备，直接受益于教育基础设施建设",
+        "policy_relevance": "中等相关，教育装备供应商",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视新闻发布的时政要闻，聚焦新学期教育惠民政策。虽然内容本身时效性较弱，但作为央视权威发布，体现了国家对教育领域的持续关注和政策导向。央视新闻的权威性能够引发市场对教育政策相关板块的关注，具有政策风向标意义。",
+      "policy_impact": "教育惠民政策属于国家长期战略，虽然单条新闻影响力有限，但反映了教育公平、教育现代化等政策导向。预计将推动教育信息化、教育装备、在线教育等相关产业发展，政策持续性较强。",
+      "theme_classification": {
+        "theme_type": "教育信息化+教育装备",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "教育装备",
+          "在线教育",
+          "教育信息化"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "作为教育信息化龙头企业，直接受益于教育惠民政策推进，央视新闻关注度提升将带动板块情绪",
+          "policy_relevance": "高度相关，主营教育信息化解决方案",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "002261",
+          "stock_name": "拓维信息",
+          "recommendation_reason": "公司在智慧教育领域布局深入，与多地教育局有合作，政策推动下业务增长可期",
+          "policy_relevance": "较高相关，智慧教育业务占比显著",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600636",
+          "stock_name": "国新文化",
+          "recommendation_reason": "教育装备行业龙头，产品覆盖智慧教室、教育信息化设备，直接受益于教育基础设施建设",
+          "policy_relevance": "中等相关，教育装备供应商",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 19:18:46"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

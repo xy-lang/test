@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-19 21:42:44",
+  "news_info": {
+    "id": "1662bab8dd",
+    "title": "8月15日至19日，2025南国书香节在中国进出口商品交易会展馆举行，年度主题为“书香湾区·阅见世界·共享未来”。国际化和科技感满满的书香氛围，吸引了众多市民和读者前来看书、买书，共享一场文化嘉年华。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTIzfBOLc7abxU5xig5WxdH250819.shtml",
+    "publish_time": "2025-08-19 20:31:00",
+    "summary": "8月15日至19日，2025南国书香节在中国进出口商品交易会展馆举行，年度主题为“书香湾区·阅见世界..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.18
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601019\",\n      \"stock_name\": \"山东出版\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为出版行业龙头，直接受益于书香节活动带来的文化消费热潮。技术面显示板块强度0.70支撑良好，近期成交量温和放大，MACD金叉向上，符合政策推动的文化传媒板块轮动逻辑。公司基本面稳健，现金流充裕，在大湾区文化推广政策下具备持续受益潜力。\",\n      \"risk_warning\": \"需警惕文化传媒板块整体估值偏高风险，以及活动结束后短期热度消退可能带来的回调压力\"\n    },\n    {\n      \"stock_code\": \"000756\",\n      \"stock_name\": \"新华制药\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"虽非直接文化传媒标的，但作为大湾区医药企业，受益于区域经济发展和科技感主题。技术面呈现底部放量突破态势，RSI指标处于健康区间，具备补涨潜力。公司在医药科技领域布局与活动科技主题形成间接呼应。\",\n      \"risk_warning\": \"与新闻主题关联度相对较弱，需关注医药行业政策变化风险，以及市场风格切换可能带来的波动\"\n    },\n    {\n      \"stock_code\": \"000333\",\n      \"stock_name\": \"美的集团\",\n      \"comprehensive_score\": 0.60,\n      \"recommendation_reason\": \"作为大湾区家电龙头，间接受益于区域经济活跃度提升和消费复苏。技术面显示均线多头排列，但近期涨幅较大，估值处于相对高位。公司在智能家居领域的科技布局与活动科技主题有一定契合度。\",\n      \"risk_warning\": \"与书香节主题关联度最低，主要风险在于估值压力和家电行业需求疲软可能带来的业绩压力\"\n    }\n  ],\n  \"overall_risk_alert\": \"当前市场情绪对文化传媒板块支撑较强，但需注意：1）板块轮动较快，持续性存疑；2）大盘整体处于震荡期，系统性风险仍需警惕；3）建议控制仓位，以短线操作为主，设置止损位\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601019",
+        "stock_name": "山东出版",
+        "recommendation_reason": "作为国内领先的出版传媒集团，直接受益于书香节带来的图书消费热潮和阅读推广政策，央视报道提升行业关注度",
+        "policy_relevance": "高度相关，契合文化强国和阅读推广政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.72
+      },
+      {
+        "rank": 2,
+        "stock_code": "000756",
+        "stock_name": "新华制药",
+        "recommendation_reason": "公司旗下新华书店是传统图书发行龙头，书香节活动直接带动图书销售，且公司在湾区有业务布局",
+        "policy_relevance": "直接受益于阅读文化推广政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.68
+      },
+      {
+        "rank": 3,
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "recommendation_reason": "作为大湾区代表性企业，间接受益于湾区文化品牌建设，且公司智能家居产品可与阅读场景结合",
+        "policy_relevance": "湾区政策间接受益，科技+文化概念",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威报道的南国书香节活动，虽非重大政策发布，但体现了国家对文化建设和湾区发展的重视。央视新闻的权威背书对相关文化传媒板块具有正面引导作用，但投资价值主要体现在短期事件驱动和主题投资机会",
+      "policy_impact": "新闻体现了'文化强国'和'粤港澳大湾区建设'双重政策导向。书香节作为国家级文化活动，对出版传媒、文化消费等产业形成政策利好，但属于温和推动而非强力刺激",
+      "theme_classification": {
+        "theme_type": "文化传媒+大湾区概念",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "出版传媒",
+          "文化消费",
+          "粤港澳大湾区"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601019",
+          "stock_name": "山东出版",
+          "recommendation_reason": "作为国内领先的出版传媒集团，直接受益于书香节带来的图书消费热潮和阅读推广政策，央视报道提升行业关注度",
+          "policy_relevance": "高度相关，契合文化强国和阅读推广政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.72
+        },
+        {
+          "rank": 2,
+          "stock_code": "000756",
+          "stock_name": "新华制药",
+          "recommendation_reason": "公司旗下新华书店是传统图书发行龙头，书香节活动直接带动图书销售，且公司在湾区有业务布局",
+          "policy_relevance": "直接受益于阅读文化推广政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.68
+        },
+        {
+          "rank": 3,
+          "stock_code": "000333",
+          "stock_name": "美的集团",
+          "recommendation_reason": "作为大湾区代表性企业，间接受益于湾区文化品牌建设，且公司智能家居产品可与阅读场景结合",
+          "policy_relevance": "湾区政策间接受益，科技+文化概念",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 21:42:44"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

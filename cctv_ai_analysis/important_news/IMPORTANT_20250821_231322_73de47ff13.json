@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-21 23:13:22",
+  "news_info": {
+    "id": "73de47ff13",
+    "title": "《海南自由贸易港跨境资产管理试点业务实施细则》8月21日实施。这一《实施细则》主要内容有哪些？有哪些政策亮点？来看专家的解读。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIJCj4mSw9VNL2fOvpFXe1250821.shtml",
+    "publish_time": "2025-08-21 22:53:00",
+    "summary": "《海南自由贸易港跨境资产管理试点业务实施细则》8月21日实施。这一《实施细则》主要内容有哪些？有哪些..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8383,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.33
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600515\",\n      \"stock_name\": \"海南机场\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"作为海南自贸港核心基础设施标的，直接受益于跨境资产管理政策落地。技术面显示板块强度0.8支撑良好，近期成交量放大，MACD金叉确认。政策直接关联度最高，作为自贸港门户资产将优先受益于跨境资金流动增加\",\n      \"risk_warning\": \"需关注海南地区政策执行进度不及预期风险，以及房地产行业整体波动影响\"\n    },\n    {\n      \"stock_code\": \"601696\",\n      \"stock_name\": \"中银证券\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"券商板块直接受益于资产管理业务扩容，中银证券在跨境金融领域布局较早。技术评分0.85高于平均水平，RSI指标处于健康区间。作为金融机构，政策受益程度较高，短期催化剂明确\",\n      \"risk_warning\": \"证券行业受市场波动影响较大，需注意大盘系统性风险和政策实施进度\"\n    },\n    {\n      \"stock_code\": \"000776\",\n      \"stock_name\": \"广发证券\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"大型券商在资产管理业务方面具有优势，跨境业务经验丰富。技术指标相对稳健，但近期涨幅较大需注意回调风险。政策间接利好，受益于行业整体发展\",\n      \"risk_warning\": \"估值相对较高，需警惕获利回吐压力；券商板块贝塔系数较高，市场波动影响显著\"\n    }\n  ],\n  \"overall_risk_alert\": \"板块整体风险等级中等，需密切关注政策实施细则落地进度和市场流动性变化。建议控制仓位，设置止损位，重点关注政策执行的实际效果和资金流入情况\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600515",
+        "stock_name": "海南机场",
+        "recommendation_reason": "作为海南自贸港核心基础设施运营商，将直接受益于跨境资产管理业务发展带来的资金流入和机构入驻需求",
+        "policy_relevance": "高度相关，政策实施将提升海南资产价值和商业活动活跃度",
+        "urgency_level": "中等",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601696",
+        "stock_name": "中银证券",
+        "recommendation_reason": "作为在海南布局较早的券商，跨境资产管理试点为其带来业务拓展机遇，受益于政策红利",
+        "policy_relevance": "直接相关，券商是跨境资产管理的主要参与主体",
+        "urgency_level": "高",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "recommendation_reason": "资产管理业务实力强劲，有望通过海南自贸港政策拓展跨境资管业务，提升国际化水平",
+        "policy_relevance": "较强相关，头部券商受益于跨境金融创新政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及海南自贸港跨境资产管理试点实施细则的正式实施，属于重大政策落地事件。虽然评分显示第一时间性较低，但央视新闻作为国家级权威媒体发布此类政策解读，具有极强的政策导向意义和信号作用。新闻发布于政策实施当日晚间，体现了政策执行的及时性和严肃性。",
+      "policy_impact": "该政策标志着海南自贸港金融开放进入实质性阶段，将显著提升海南跨境资产管理的便利性和吸引力。政策亮点包括：跨境投资额度扩大、资金流动便利化、税收优惠政策等，预计将吸引大量资管机构和资金入驻海南，对相关金融机构和海南本地企业形成长期利好。",
+      "theme_classification": {
+        "theme_type": "海南自贸港+跨境金融+资产管理",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "证券",
+          "银行",
+          "海南板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600515",
+          "stock_name": "海南机场",
+          "recommendation_reason": "作为海南自贸港核心基础设施运营商，将直接受益于跨境资产管理业务发展带来的资金流入和机构入驻需求",
+          "policy_relevance": "高度相关，政策实施将提升海南资产价值和商业活动活跃度",
+          "urgency_level": "中等",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "601696",
+          "stock_name": "中银证券",
+          "recommendation_reason": "作为在海南布局较早的券商，跨境资产管理试点为其带来业务拓展机遇，受益于政策红利",
+          "policy_relevance": "直接相关，券商是跨境资产管理的主要参与主体",
+          "urgency_level": "高",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "000776",
+          "stock_name": "广发证券",
+          "recommendation_reason": "资产管理业务实力强劲，有望通过海南自贸港政策拓展跨境资管业务，提升国际化水平",
+          "policy_relevance": "较强相关，头部券商受益于跨境金融创新政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 23:13:22"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

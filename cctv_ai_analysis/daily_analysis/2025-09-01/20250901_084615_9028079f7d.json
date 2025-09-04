@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 08:46:15",
+  "news_info": {
+    "id": "9028079f7d",
+    "title": "“同温层”当代艺术展在太原开展",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901064202522442930.html",
+    "publish_time": "2025-09-01 06:42:00",
+    "summary": "“同温层”当代艺术展在太原开展"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6713,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.65,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.06
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600715\",\n      \"stock_name\": \"文投控股\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为文化传媒类上市公司，与艺术展主题直接相关度最高，具备文化产业运营经验。技术面相对稳定，在板块中表现相对突出，短期可能受益于文化艺术类事件催化。\",\n      \"risk_warning\": \"文化传媒板块整体强度偏弱(0.267)，市场关注度有限；公司基本面存在业绩波动风险；需关注成交量配合情况\"\n    },\n    {\n      \"stock_code\": \"000802\",\n      \"stock_name\": \"北京文化\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"影视文化概念股，间接受益于文化艺术类活动热度提升。技术评分处于平均水平，具备一定的题材炒作潜力，但关联度相对较弱。\",\n      \"risk_warning\": \"与新闻事件关联度较低；影视行业政策风险较大；技术面支撑力度一般，需谨慎追高\"\n    },\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"旅游板块与文化展览存在一定关联，但直接受益程度有限。技术面表现相对平稳，但题材催化效应较弱。\",\n      \"risk_warning\": \"与艺术展主题关联度最低；旅游板块受宏观经济影响较大；技术指标缺乏明显突破信号\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"综合板块强度0.267显示整体偏弱，支撑力度有限\",\n    \"recommendation_strategy\": \"建议轻仓试探，重点关注文投控股的短期表现，设置止损位控制风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600715",
+        "stock_name": "文投控股",
+        "recommendation_reason": "作为文化传媒企业，可能参与地方文化艺术活动，但新闻影响力有限，建议谨慎关注",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "文旅板块可能受益于地方文化活动带来的旅游热度，但直接关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "000802",
+        "stock_name": "北京文化",
+        "recommendation_reason": "文化传媒企业，但新闻内容过于地方化且影响力有限，投资价值不明显",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性文化活动报道，内容为太原当代艺术展开展，属于常规文化新闻。央视新闻的权威性主要体现在时政要闻领域，但此条新闻评分显示第一时间性、硬核程度、持续性均为0分，表明其投资价值有限。央视平台虽具权威性，但具体内容决定实际影响力。",
+      "policy_impact": "低政策影响。虽涉及文化产业发展，但属于地方性常规文化活动，未涉及重大政策导向或产业扶持。文化强国战略背景下，此类活动属常态推进，但单条新闻的政策推动力较弱。",
+      "theme_classification": {
+        "theme_type": "文化艺术",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "文旅地产"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600715",
+          "stock_name": "文投控股",
+          "recommendation_reason": "作为文化传媒企业，可能参与地方文化艺术活动，但新闻影响力有限，建议谨慎关注",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "文旅板块可能受益于地方文化活动带来的旅游热度，但直接关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "000802",
+          "stock_name": "北京文化",
+          "recommendation_reason": "文化传媒企业，但新闻内容过于地方化且影响力有限，投资价值不明显",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 08:46:15"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

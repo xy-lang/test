@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-03 22:43:31",
+  "news_info": {
+    "id": "278e85d721",
+    "title": "廊坊市文艺创作青年人才书画摄影系列展（第四期）开展",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903192330608227916.html",
+    "publish_time": "2025-09-03 19:23:00",
+    "summary": "廊坊市文艺创作青年人才书画摄影系列展（第四期）开展"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7042999999999999,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.75,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 3.33
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为央视旗下文化传媒龙头，与地方文化展览活动关联度最高，政策受益明显。技术面相对稳健，在板块中表现较为突出，具备短期催化剂的直接受益性。\",\n      \"risk_warning\": \"传媒板块整体强度偏弱，市场情绪可能影响个股表现，需关注成交量变化\"\n    },\n    {\n      \"stock_code\": \"300251\",\n      \"stock_name\": \"光线传媒\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"影视传媒领域代表性企业，虽与地方文化展览关联度中等，但具备行业龙头地位。技术评分在板块中处于中等水平，受益于文化政策导向。\",\n      \"risk_warning\": \"影视行业基本面承压，技术指标支撑有限，需警惕板块整体回调风险\"\n    },\n    {\n      \"stock_code\": \"002400\",\n      \"stock_name\": \"省广集团\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"广告营销业务与文化活动存在一定关联，但直接受益程度相对较低。技术面表现一般，在板块强度偏弱环境下需谨慎看待。\",\n      \"risk_warning\": \"广告行业竞争激烈，基本面存在压力，技术支撑较弱，建议轻仓参与\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"偏弱（0.250）\",\n    \"recommendation_strategy\": \"建议重点关注中视传媒，控制仓位在轻仓水平，设置止损位\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "作为央视旗下上市公司，受益于央视平台的文化传播影响力，但该新闻直接影响有限",
+        "policy_relevance": "间接相关，文化传媒板块长期受益政策支持",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "recommendation_reason": "文化传媒龙头企业，但与该地方性文化活动关联度较弱",
+        "policy_relevance": "行业层面受益文化政策",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "002400",
+        "stock_name": "省广集团",
+        "recommendation_reason": "广告营销企业，可能受益地方文化活动带来的广告需求",
+        "policy_relevance": "间接相关",
+        "urgency_level": "很低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性文化活动报道，内容涉及廊坊市青年人才书画摄影展，属于常规文化宣传类新闻。从投资角度看，该新闻缺乏直接的市场影响力和投资价值，评分指标均为0分表明其时效性、硬核程度和持续性均较低。央视新闻的权威性在此类文化报道中主要体现在舆论引导和文化传播层面，而非直接的投资指引。",
+      "policy_impact": "该新闻反映了国家对文化事业的支持政策导向，属于'文化强国'战略的基层实践。但此类地方性文化活动对资本市场影响有限，更多体现为长期文化政策红利，短期内难以形成显著的政策催化效应。",
+      "theme_classification": {
+        "theme_type": "文化传媒/地方文化",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "广告包装"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "作为央视旗下上市公司，受益于央视平台的文化传播影响力，但该新闻直接影响有限",
+          "policy_relevance": "间接相关，文化传媒板块长期受益政策支持",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "300251",
+          "stock_name": "光线传媒",
+          "recommendation_reason": "文化传媒龙头企业，但与该地方性文化活动关联度较弱",
+          "policy_relevance": "行业层面受益文化政策",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "002400",
+          "stock_name": "省广集团",
+          "recommendation_reason": "广告营销企业，可能受益地方文化活动带来的广告需求",
+          "policy_relevance": "间接相关",
+          "urgency_level": "很低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 22:43:31"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

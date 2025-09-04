@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 16:58:41",
+  "news_info": {
+    "id": "6bf62f6375",
+    "title": "“山东新纺织”亮相2025中国纺联秋季联展",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904154048773431437.html",
+    "publish_time": "2025-09-04 15:40:00",
+    "summary": "“山东新纺织”亮相2025中国纺联秋季联展"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6911,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.71,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.3
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000726\",\n      \"stock_name\": \"鲁泰A\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"作为山东纺织龙头企业，直接受益于山东新纺织亮相行业展会，品牌曝光度和订单预期提升。技术面相对稳健，在纺织板块中具备较强的基本面支撑和行业地位，政策催化效果最为直接。\",\n      \"risk_warning\": \"纺织行业整体需求疲软风险，汇率波动对出口业务影响，原材料价格波动风险\"\n    },\n    {\n      \"stock_code\": \"002087\",\n      \"stock_name\": \"新野纺织\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"区域性纺织企业，受益于山东纺织产业升级的辐射效应，技术评分中等，具备一定的政策受益预期，但公司规模和行业影响力相对有限。\",\n      \"risk_warning\": \"区域市场竞争激烈，盈利能力波动较大，技术升级投入压力\"\n    },\n    {\n      \"stock_code\": \"600448\",\n      \"stock_name\": \"华纺股份\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"虽属纺织板块，但与山东新纺织主题关联度相对较弱，技术评分偏低，板块强度支撑不足，建议谨慎关注。\",\n      \"risk_warning\": \"行业竞争激烈，技术面偏弱，缺乏明显催化剂，存在跟涨不跟跌风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.283偏弱，市场情绪谨慎，技术指标整体评分0.28显示板块技术面支撑不足\",\n    \"news_matching\": \"山东地区纺织企业直接受益，政策催化明确但短期效应需观察实际订单转化\",\n    \"risk_assessment\": \"纺织行业面临需求不振和成本压力，个股基本面分化明显，建议控制仓位谨慎参与\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000726",
+        "stock_name": "鲁泰A",
+        "recommendation_reason": "山东纺织龙头企业，受益于区域纺织产业升级，但新闻影响力有限",
+        "policy_relevance": "中等-区域产业代表",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "002087",
+        "stock_name": "新野纺织",
+        "recommendation_reason": "纺织行业标的，但新闻缺乏实质性利好，建议谨慎关注",
+        "policy_relevance": "低-行业相关性",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "600448",
+        "stock_name": "华纺股份",
+        "recommendation_reason": "山东纺织企业，但新闻内容单薄，投资价值有限",
+        "policy_relevance": "低-地域关联",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视报道，但内容较为简略，仅提及山东新纺织亮相行业展会，缺乏具体政策细节和投资指引。新闻时效性、硬核程度和持续性评分均为0，表明其投资价值有限，更多属于行业常规活动报道。",
+      "policy_impact": "低度影响。新闻未提及具体政策支持或产业规划，对纺织行业的政策推动效应不明显，更多体现为地方产业形象展示，缺乏实质性政策利好。",
+      "theme_classification": {
+        "theme_type": "纺织制造/区域经济",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "纺织制造",
+          "山东板块",
+          "消费品"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000726",
+          "stock_name": "鲁泰A",
+          "recommendation_reason": "山东纺织龙头企业，受益于区域纺织产业升级，但新闻影响力有限",
+          "policy_relevance": "中等-区域产业代表",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "002087",
+          "stock_name": "新野纺织",
+          "recommendation_reason": "纺织行业标的，但新闻缺乏实质性利好，建议谨慎关注",
+          "policy_relevance": "低-行业相关性",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "600448",
+          "stock_name": "华纺股份",
+          "recommendation_reason": "山东纺织企业，但新闻内容单薄，投资价值有限",
+          "policy_relevance": "低-地域关联",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 16:58:41"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

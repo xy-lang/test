@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-02 00:16:23",
+  "news_info": {
+    "id": "34d0053b20",
+    "title": "荆楚开学联播 | “跳跳成长树”解锁开学新姿势",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901235619096931216.html",
+    "publish_time": "2025-09-01 23:56:00",
+    "summary": "荆楚开学联播 | “跳跳成长树”解锁开学新姿势"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7657,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.73,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.33
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"作为教育信息化龙头企业，与开学季新闻主题高度契合，直接受益于教育数字化政策推进。技术面相对稳定，在板块中表现相对突出，短期催化剂明确。\",\n      \"risk_warning\": \"教育行业政策监管风险，业绩波动性较大，技术面整体偏弱\"\n    },\n    {\n      \"stock_code\": \"002261\",\n      \"stock_name\": \"拓维信息\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"业务涵盖教育信息化和数字内容，与开学季主题有一定关联度。技术指标在板块中处于中等水平，具备一定的政策受益预期。\",\n      \"risk_warning\": \"业务多元化导致教育主题纯度不足，技术面支撑有限，市场情绪偏谨慎\"\n    },\n    {\n      \"stock_code\": \"600637\",\n      \"stock_name\": \"东方明珠\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"文化传媒属性与教育主题存在间接关联，但主营业务更偏向媒体和文旅，与开学季直接关联度较弱。技术面表现一般，缺乏明显催化剂。\",\n      \"risk_warning\": \"与教育主题关联度较低，技术评分偏低，板块整体强度不足，短期上涨动力有限\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"综合板块强度仅0.10，支撑力度不足\",\n    \"investment_advice\": \"谨慎参与，建议轻仓短线操作，重点关注全通教育的开学季催化机会\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600637",
+        "stock_name": "东方明珠",
+        "recommendation_reason": "作为央视合作媒体平台，但新闻本身投资价值极低，不建议基于此新闻进行投资",
+        "policy_relevance": "低",
+        "urgency_level": "不推荐投资",
+        "confidence_score": 0.1
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "教育信息化企业，但与新闻关联度较弱，新闻缺乏投资价值",
+        "policy_relevance": "低",
+        "urgency_level": "不推荐投资",
+        "confidence_score": 0.05
+      },
+      {
+        "rank": 3,
+        "stock_code": "002261",
+        "stock_name": "拓维信息",
+        "recommendation_reason": "湖北本地教育科技企业，地域关联但新闻价值不足",
+        "policy_relevance": "低",
+        "urgency_level": "不推荐投资",
+        "confidence_score": 0.03
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视报道的荆楚地区开学季特色活动，属于常规教育类新闻报道。虽然来自央视平台，但内容为地方性教育主题活动，缺乏重大政策导向和投资价值。新闻评分显示第一时间性、硬核程度、持续性均为0分，表明该新闻对资本市场影响极其有限。",
+      "policy_impact": "无实质性政策影响。该新闻仅为地方教育部门组织的开学季宣传活动，不涉及教育政策调整或重大教育改革，对教育行业政策面无实质影响。",
+      "theme_classification": {
+        "theme_type": "教育文化",
+        "hardcore_level": "无投资意志",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "文化传媒",
+          "教育服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600637",
+          "stock_name": "东方明珠",
+          "recommendation_reason": "作为央视合作媒体平台，但新闻本身投资价值极低，不建议基于此新闻进行投资",
+          "policy_relevance": "低",
+          "urgency_level": "不推荐投资",
+          "confidence_score": 0.1
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "教育信息化企业，但与新闻关联度较弱，新闻缺乏投资价值",
+          "policy_relevance": "低",
+          "urgency_level": "不推荐投资",
+          "confidence_score": 0.05
+        },
+        {
+          "rank": 3,
+          "stock_code": "002261",
+          "stock_name": "拓维信息",
+          "recommendation_reason": "湖北本地教育科技企业，地域关联但新闻价值不足",
+          "policy_relevance": "低",
+          "urgency_level": "不推荐投资",
+          "confidence_score": 0.03
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 00:16:23"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

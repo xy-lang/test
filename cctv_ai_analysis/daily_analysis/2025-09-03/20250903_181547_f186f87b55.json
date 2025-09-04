@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 18:15:47",
+  "news_info": {
+    "id": "f186f87b55",
+    "title": "香港特区政府举行官方仪式纪念抗战胜利80周年",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://photo.cctv.com/2025/09/03/PHOADejxkbsA2m1TuKF0uBqz250903.shtml",
+    "publish_time": "2025-09-03 17:34:43",
+    "summary": "香港特区政府举行官方仪式纪念抗战胜利80周年"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79705,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.67
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601888\",\n      \"stock_name\": \"中国国旅\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为国内旅游龙头企业，直接受益于爱国主义教育政策推动的红色旅游热潮。技术面显示板块强度0.733支撑良好，公司基本面稳健，在政策催化下具有明确的业绩增长预期。作为央企背景，与国家意志高度契合，短期催化剂强度最高。\",\n      \"risk_warning\": \"需关注宏观经济波动对旅游消费的影响，以及疫情反复可能带来的短期冲击\"\n    },\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.76,\n      \"recommendation_reason\": \"专注于青年旅游市场，在红色旅游线路开发方面具有独特优势。技术评分0.73显示市场情绪积极，公司业务与新闻主题高度匹配，受益于抗战纪念活动带动的爱国主义教育旅游需求增长。\",\n      \"risk_warning\": \"公司规模相对较小，抗风险能力较弱，需关注市场竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"000802\",\n      \"stock_name\": \"北京文化\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为文化传媒公司，间接受益于爱国主义教育题材的内容需求增长。虽然与红色旅游的直接关联度相对较弱，但在文化传播方面具有一定优势，技术面表现符合板块平均水平。\",\n      \"risk_warning\": \"业务转型存在不确定性，影视行业政策风险较高，需谨慎关注基本面变化\"\n    }\n  ],\n  \"overall_risk_alert\": \"当前板块整体风险中等，需注意：1)政策执行效果可能不及预期；2)旅游行业受季节性影响较大；3)宏观经济环境变化可能影响消费意愿；4)建议控制仓位，设置止损位\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，在红色旅游线路开发方面具有优势，抗战纪念活动将带动相关旅游需求",
+        "policy_relevance": "高度相关，符合爱国主义教育和红色旅游政策导向",
+        "urgency_level": "中等",
+        "confidence_score": 0.72
+      },
+      {
+        "rank": 2,
+        "stock_code": "000802",
+        "stock_name": "北京文化",
+        "recommendation_reason": "涉足影视制作和文化旅游，可能受益于抗战题材影视作品和红色文化旅游的发展",
+        "policy_relevance": "中等相关，符合文化传播和爱国主义教育政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.68
+      },
+      {
+        "rank": 3,
+        "stock_code": "601888",
+        "stock_name": "中国国旅",
+        "recommendation_reason": "在港澳地区业务布局广泛，可能受益于香港爱国主义教育活动带来的旅游客流增长",
+        "policy_relevance": "中等相关，符合粤港澳大湾区文化旅游发展政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为纪念抗战胜利80周年的官方仪式报道，属于重大政治纪念活动。虽然新闻本身时效性较弱，但央视新闻作为国家级权威媒体发布此类内容，体现了国家层面对历史纪念的高度重视，具有重要的政治象征意义。",
+      "policy_impact": "此类纪念活动通常伴随着爱国主义教育、红色旅游、国防教育等相关政策的推进。香港特区政府举办官方仪式，可能预示着粤港澳大湾区在爱国主义教育基地建设、红色文化旅游等方面的政策支持力度将加大。",
+      "theme_classification": {
+        "theme_type": "爱国主义教育/红色旅游",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "文化旅游",
+          "教育传媒",
+          "国防军工"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，在红色旅游线路开发方面具有优势，抗战纪念活动将带动相关旅游需求",
+          "policy_relevance": "高度相关，符合爱国主义教育和红色旅游政策导向",
+          "urgency_level": "中等",
+          "confidence_score": 0.72
+        },
+        {
+          "rank": 2,
+          "stock_code": "000802",
+          "stock_name": "北京文化",
+          "recommendation_reason": "涉足影视制作和文化旅游，可能受益于抗战题材影视作品和红色文化旅游的发展",
+          "policy_relevance": "中等相关，符合文化传播和爱国主义教育政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.68
+        },
+        {
+          "rank": 3,
+          "stock_code": "601888",
+          "stock_name": "中国国旅",
+          "recommendation_reason": "在港澳地区业务布局广泛，可能受益于香港爱国主义教育活动带来的旅游客流增长",
+          "policy_relevance": "中等相关，符合粤港澳大湾区文化旅游发展政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:15:47"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

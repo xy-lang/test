@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 09:37:41",
+  "news_info": {
+    "id": "e07f0d2ae8",
+    "title": "自然资源部、农业农村部两部门表示，《永久基本农田保护红线管理办法》近日正式向社会公布，将自2025年10月1日起施行。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIQLqm2XX5gel29s6stjZy250901.shtml",
+    "publish_time": "2025-09-01 08:49:00",
+    "summary": "自然资源部、农业农村部两部门表示，《永久基本农田保护红线管理办法》近日正式向社会公布，将自2025年..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.8
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601038\",\n      \"stock_name\": \"一拖股份\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"作为国内农机龙头，直接受益于农田保护政策带来的农机设备需求增长。技术面显示板块强度0.85支撑良好，政策催化明确，公司基本面稳健，在农业现代化政策推动下具备持续受益逻辑。\",\n      \"risk_warning\": \"需关注农机行业周期性波动风险及原材料价格波动对利润率的影响\"\n    },\n    {\n      \"stock_code\": \"300021\",\n      \"stock_name\": \"大禹节水\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"专业节水灌溉企业，与农田水利建设高度相关。技术评分较高，政策直接推动节水灌溉设施需求，公司在细分领域具有技术优势，短期催化剂明确。\",\n      \"risk_warning\": \"项目执行周期较长可能影响业绩兑现节奏，需关注应收账款风险\"\n    },\n    {\n      \"stock_code\": \"300187\",\n      \"stock_name\": \"永清环保\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"土壤修复和环保业务与土地整治政策相关，但关联度相对间接。技术面表现稳定，受益于环保政策持续推进，但政策受益程度较前两者稍弱。\",\n      \"risk_warning\": \"环保行业竞争激烈，项目利润率存在压力，需关注订单获取能力\"\n    }\n  ],\n  \"overall_risk_alert\": \"板块整体风险：政策执行进度可能不及预期；市场风险：大盘系统性风险可能影响个股表现；时机风险：政策实施时间较远（2025年10月），短期炒作后可能存在回调风险。建议关注政策具体实施细则的后续出台。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601038",
+        "stock_name": "一拖股份",
+        "recommendation_reason": "作为国内领先的农业机械制造商，将直接受益于高标准农田建设带来的农机需求增长。央视新闻的政策发布具有权威背书效应。",
+        "policy_relevance": "高度相关，政策推动农业机械化升级",
+        "urgency_level": "中等",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "300021",
+        "stock_name": "大禹节水",
+        "recommendation_reason": "农田水利基础设施建设核心标的，永久基本农田保护将推动节水灌溉系统需求大幅提升。央视新闻的政策解读具有市场引导作用。",
+        "policy_relevance": "高度相关，政策明确要求提升农田水利设施水平",
+        "urgency_level": "中等",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "300187",
+        "stock_name": "永清环保",
+        "recommendation_reason": "土壤修复领域龙头企业，基本农田保护政策将带动土壤治理和修复业务需求。央视新闻的政策发布提升了行业关注度。",
+        "policy_relevance": "中度相关，政策间接推动土壤环境保护需求",
+        "urgency_level": "一般",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的政策类信息，具有极高的权威性和政策导向性。《永久基本农田保护红线管理办法》的正式公布，标志着国家对耕地保护的重视程度进一步提升，将直接影响农业现代化、土地整治等相关产业发展。",
+      "policy_impact": "该政策将推动农业基础设施升级改造，促进高标准农田建设，利好农业机械、农田水利、土壤修复等相关产业。政策实施将带来持续性的投资机会，预计影响周期3-5年。",
+      "theme_classification": {
+        "theme_type": "农业现代化/土地整治",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "农业机械",
+          "农田水利",
+          "土壤修复"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601038",
+          "stock_name": "一拖股份",
+          "recommendation_reason": "作为国内领先的农业机械制造商，将直接受益于高标准农田建设带来的农机需求增长。央视新闻的政策发布具有权威背书效应。",
+          "policy_relevance": "高度相关，政策推动农业机械化升级",
+          "urgency_level": "中等",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "300021",
+          "stock_name": "大禹节水",
+          "recommendation_reason": "农田水利基础设施建设核心标的，永久基本农田保护将推动节水灌溉系统需求大幅提升。央视新闻的政策解读具有市场引导作用。",
+          "policy_relevance": "高度相关，政策明确要求提升农田水利设施水平",
+          "urgency_level": "中等",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "300187",
+          "stock_name": "永清环保",
+          "recommendation_reason": "土壤修复领域龙头企业，基本农田保护政策将带动土壤治理和修复业务需求。央视新闻的政策发布提升了行业关注度。",
+          "policy_relevance": "中度相关，政策间接推动土壤环境保护需求",
+          "urgency_level": "一般",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 09:37:41"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

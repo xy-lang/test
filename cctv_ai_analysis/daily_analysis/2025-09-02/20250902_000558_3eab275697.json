@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-09-02 00:05:58",
+  "news_info": {
+    "id": "3eab275697",
+    "title": "9月1日福彩中奖号码",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901225349468185197.html",
+    "publish_time": "2025-09-01 22:53:00",
+    "summary": "9月1日福彩中奖号码"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6548,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.6,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.2
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [],\n  \"recommendation_details\": [\n    {\n      \"stock_code\": \"无推荐股票\",\n      \"comprehensive_score\": 0.0,\n      \"recommendation_reason\": \"基于技术分析数据和新闻内容深度评估：1）板块强度仅0.100，远低于有效支撑阈值；2）新闻内容为福彩中奖信息，与股市无直接关联，缺乏政策受益和短期催化剂；3）技术指标平均评分0.10显示整体弱势，市场情绪和技术面均不支撑个股表现\",\n      \"risk_warning\": \"高风险警示：缺乏基本面支撑、技术面弱势、新闻无相关性，建议保持观望\"\n    }\n  ],\n  \"overall_assessment\": \"当前无符合投资标准的股票，建议等待更强技术信号或更有实质利好的新闻事件\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000000",
+        "stock_name": "无推荐股票",
+        "recommendation_reason": "该新闻仅为福彩开奖信息，不具备投资指导价值，无法基于此类信息推荐相关股票",
+        "policy_relevance": "无政策关联度",
+        "urgency_level": "无投资价值",
+        "confidence_score": 0.0
+      },
+      {
+        "rank": 2,
+        "stock_code": "000000",
+        "stock_name": "无推荐股票",
+        "recommendation_reason": "福彩中奖号码公告属于公共服务信息，与上市公司经营和投资机会无直接关联",
+        "policy_relevance": "无政策关联度",
+        "urgency_level": "无投资价值",
+        "confidence_score": 0.0
+      },
+      {
+        "rank": 3,
+        "stock_code": "000000",
+        "stock_name": "无推荐股票",
+        "recommendation_reason": "基于专业投资分析原则，不应将随机性极强的彩票信息作为股票投资依据",
+        "policy_relevance": "无政策关联度",
+        "urgency_level": "无投资价值",
+        "confidence_score": 0.0
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为福彩中奖号码公告，属于常规信息发布，投资价值极低。央视新闻的权威性在此类信息中主要体现在信息准确性上，但内容本身不具备投资指导意义。新闻时效性差，硬核程度为零，对资本市场无实质性影响。",
+      "policy_impact": "无政策影响。福彩中奖号码属于日常开奖信息，不涉及政策调整或行业导向变化，对相关产业无政策驱动作用。",
+      "theme_classification": {
+        "theme_type": "无投资题材",
+        "hardcore_level": "无意志体现",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000000",
+          "stock_name": "无推荐股票",
+          "recommendation_reason": "该新闻仅为福彩开奖信息，不具备投资指导价值，无法基于此类信息推荐相关股票",
+          "policy_relevance": "无政策关联度",
+          "urgency_level": "无投资价值",
+          "confidence_score": 0.0
+        },
+        {
+          "rank": 2,
+          "stock_code": "000000",
+          "stock_name": "无推荐股票",
+          "recommendation_reason": "福彩中奖号码公告属于公共服务信息，与上市公司经营和投资机会无直接关联",
+          "policy_relevance": "无政策关联度",
+          "urgency_level": "无投资价值",
+          "confidence_score": 0.0
+        },
+        {
+          "rank": 3,
+          "stock_code": "000000",
+          "stock_name": "无推荐股票",
+          "recommendation_reason": "基于专业投资分析原则，不应将随机性极强的彩票信息作为股票投资依据",
+          "policy_relevance": "无政策关联度",
+          "urgency_level": "无投资价值",
+          "confidence_score": 0.0
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 00:05:58"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-21 23:15:54",
+  "news_info": {
+    "id": "93929fec38",
+    "title": "带来广泛不确定性 美国关税政策反复无常、伤人害己",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIsueKPnkbKcGCNaNROSHO250821.shtml",
+    "publish_time": "2025-08-21 13:29:00",
+    "summary": "带来广泛不确定性 美国关税政策反复无常、伤人害己"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6825,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.71,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 9.77
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000333\",\n      \"stock_name\": \"美的集团\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"技术面表现稳健，板块强度0.773提供支撑；作为家电龙头受益于进口替代政策，关税政策反复将加速国内品牌替代；技术评分0.8+，市场情绪偏向防御性消费板块\",\n      \"risk_warning\": \"需关注原材料成本上升风险和出口业务可能受到的间接影响\"\n    },\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"银行板块强度支撑明显，技术评分0.75；贸易政策不确定性下资金倾向于流入金融等防御板块；基本面稳健，受益于货币政策预期\",\n      \"risk_warning\": \"需警惕利率环境变化和宏观经济下行对银行业务的影响\"\n    },\n    {\n      \"stock_code\": \"002475\",\n      \"stock_name\": \"立讯精密\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"技术评分0.76尚可，但电子制造板块受贸易政策直接影响较大；虽有一定进口替代逻辑，但短期面临供应链不确定性\",\n      \"risk_warning\": \"高出口依赖度，关税政策变化可能直接冲击业绩；技术面存在回调压力\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"谨慎乐观\",\n    \"preferred_sectors\": [\"消费防御\", \"金融\"],\n    \"key_risk_factors\": [\"政策不确定性\", \"汇率波动\", \"贸易摩擦升级\"]\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "recommendation_reason": "央视报道美国关税政策不确定性，美的作为家电龙头，海外业务占比高但多元化布局强，国内消费政策支持预期提升，内需韧性足。",
+        "policy_relevance": "高（贸易政策影响消费板块，内需替代逻辑）",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "贸易不确定性加剧可能推动国内货币政策边际宽松，利好银行板块；招行零售业务稳健，抗周期性强。",
+        "policy_relevance": "中（金融政策对冲贸易风险）",
+        "urgency_level": "低",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "002475",
+        "stock_name": "立讯精密",
+        "recommendation_reason": "美国关税政策反复凸显供应链自主可控重要性，立讯作为电子制造龙头，深度参与国产替代，政策扶持预期强化。",
+        "policy_relevance": "高（高端制造自主可控主题）",
+        "urgency_level": "中等",
+        "confidence_score": 0.78
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威发布的时政要闻，聚焦美国关税政策的不确定性及其对全球经济的影响。虽然评分显示时效性和硬核程度较低，但央视作为国家级媒体，其报道具有政策导向性和市场影响力，可能引发市场对贸易政策敏感板块的关注。",
+      "policy_impact": "美国关税政策反复将加剧全球贸易不确定性，可能促使国内政策加大对受影响行业的支持，利好进口替代、内需驱动型产业，同时对出口型企业构成短期压力但长期或加速产业链自主化。",
+      "theme_classification": {
+        "theme_type": "贸易政策/进口替代",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "机械设备",
+          "电子元件",
+          "化工行业"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000333",
+          "stock_name": "美的集团",
+          "recommendation_reason": "央视报道美国关税政策不确定性，美的作为家电龙头，海外业务占比高但多元化布局强，国内消费政策支持预期提升，内需韧性足。",
+          "policy_relevance": "高（贸易政策影响消费板块，内需替代逻辑）",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "贸易不确定性加剧可能推动国内货币政策边际宽松，利好银行板块；招行零售业务稳健，抗周期性强。",
+          "policy_relevance": "中（金融政策对冲贸易风险）",
+          "urgency_level": "低",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "002475",
+          "stock_name": "立讯精密",
+          "recommendation_reason": "美国关税政策反复凸显供应链自主可控重要性，立讯作为电子制造龙头，深度参与国产替代，政策扶持预期强化。",
+          "policy_relevance": "高（高端制造自主可控主题）",
+          "urgency_level": "中等",
+          "confidence_score": 0.78
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 23:15:54"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

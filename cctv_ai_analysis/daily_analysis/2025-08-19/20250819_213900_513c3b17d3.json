@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-08-19 21:39:00",
+  "news_info": {
+    "id": "513c3b17d3",
+    "title": "2025年1至7月份，铁路货运量创出历史同期新高，重点物资运输保障有力，为保障国民经济平稳运行提供了有力支撑。在运量稳步增长的同时，物流服务品质也在不断提升。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTI2ggUFCM0eBLeYOVqaJsp250819.shtml?",
+    "publish_time": "2025-08-19 15:09:00",
+    "summary": "2025年1至7月份，铁路货运量创出历史同期新高，重点物资运输保障有力，为保障国民经济平稳运行提供了..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 6.49
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的政策导向性和市场影响力。该新闻突出铁路货运量创历史新高，重点物资运输保障有力，直接反映国家基础设施建设和物流体系升级的政策导向。综合强度0.69属于较高评分，表明该新闻对相关板块具有显著提振作用。",
+    "policy_impact": "该新闻体现国家持续推进交通强国战略，强化物流基础设施建设的政策方向。铁路货运量创新高预示着产业链上游需求旺盛，相关装备制造、物流服务企业将直接受益于政策红利和业绩增长。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "recommendation_reason": "作为轨道交通装备制造龙头，铁路货运量增长直接带动车辆采购需求，央视新闻的权威报道强化市场对行业景气度预期",
+        "policy_relevance": "高度相关，直接受益于铁路运输量提升带来的装备更新需求",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "600125",
+        "stock_name": "铁龙物流",
+        "recommendation_reason": "专业铁路货运物流企业，新闻中重点物资运输保障有力的表述直接印证公司业务量增长逻辑",
+        "policy_relevance": "高度相关，铁路货运量创新高直接提升公司运营效益",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "recommendation_reason": "我国西煤东运主要通道，新闻强调的重点物资运输保障与公司煤炭运输主业高度契合",
+        "policy_relevance": "较高相关，货运量增长直接反映在公司运量数据上",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 21:39:00"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

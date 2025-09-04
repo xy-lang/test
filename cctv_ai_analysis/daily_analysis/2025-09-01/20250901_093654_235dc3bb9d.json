@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 09:36:54",
+  "news_info": {
+    "id": "235dc3bb9d",
+    "title": "两部门：永久基本农田保护红线管理办法公布",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIQLqm2XX5gel29s6stjZy250901.shtml",
+    "publish_time": "2025-09-01 21:29:00",
+    "summary": "两部门：永久基本农田保护红线管理办法公布"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79045,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.7,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -11.88
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600598\",\n      \"stock_name\": \"北大荒\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"直接受益于永久基本农田保护政策，作为国内最大的农业上市公司之一，拥有大量优质耕地资源。技术面表现稳健，板块强度支撑明显，政策催化确定性高，具备龙头地位和资源稀缺性。\",\n      \"risk_warning\": \"农业板块受天气因素影响较大，需关注自然灾害风险；政策执行进度可能影响短期业绩兑现\"\n    },\n    {\n      \"stock_code\": \"601952\",\n      \"stock_name\": \"苏垦农发\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"江苏省农业龙头企业，土地资源优质且集中，政策受益直接。技术指标显示近期有资金关注迹象，估值相对合理，区域政策支持力度较强。\",\n      \"risk_warning\": \"区域集中度较高，受地方政策影响较大；农产品价格波动可能影响盈利能力\"\n    },\n    {\n      \"stock_code\": \"000998\",\n      \"stock_name\": \"隆平高科\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为种业龙头，间接受益于耕地保护政策带来的种植面积稳定预期。技术面相对平稳，但政策关联度略低于前两者，需要关注种业政策配套情况。\",\n      \"risk_warning\": \"种业竞争激烈，研发投入较大；转基因政策推进进度存在不确定性\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.833显示农业板块整体表现良好，技术评分0.83表明个股技术面配合度较高，市场情绪对政策利好反应积极\",\n    \"news_matching\": \"政策直接利好土地资源类公司，北大荒和苏垦农发受益最为直接，隆平高科为产业链延伸受益\",\n    \"risk_assessment\": \"主要风险包括政策执行进度不及预期、农产品价格波动、天气因素影响等，建议分批建仓控制风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600598",
+        "stock_name": "北大荒",
+        "recommendation_reason": "作为国内最大的耕地资源上市公司，永久基本农田保护政策将提升其土地资源价值，政策直接利好",
+        "policy_relevance": "高度相关，政策核心受益标的",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "recommendation_reason": "耕地保护政策推动农业科技发展，公司作为种业龙头将受益于高标准农田建设带来的需求提升",
+        "policy_relevance": "间接相关，农业科技配套",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "601952",
+        "stock_name": "苏垦农发",
+        "recommendation_reason": "江苏省主要农业企业，拥有大量耕地资源，政策保护下土地资产价值重估空间较大",
+        "policy_relevance": "直接相关，资源型受益",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.78
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及永久基本农田保护红线管理办法的公布，属于国家级土地政策重大调整。虽然评分显示时效性较弱，但央视新闻作为国家级权威媒体发布此类政策信息，具有极强的政策导向性和市场影响力。此类政策通常会对相关产业产生深远影响，值得重点关注。",
+      "policy_impact": "该政策将强化耕地保护制度，直接影响土地资源开发利用模式。预计将推动农业现代化、高标准农田建设、农业科技应用等相关领域发展，同时对房地产、基础设施建设等用地密集型行业形成约束。政策具有长期性和强制性特征，影响将持续3-5年。",
+      "theme_classification": {
+        "theme_type": "土地政策/农业现代化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "农业种植",
+          "农业机械",
+          "农田水利"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600598",
+          "stock_name": "北大荒",
+          "recommendation_reason": "作为国内最大的耕地资源上市公司，永久基本农田保护政策将提升其土地资源价值，政策直接利好",
+          "policy_relevance": "高度相关，政策核心受益标的",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "000998",
+          "stock_name": "隆平高科",
+          "recommendation_reason": "耕地保护政策推动农业科技发展，公司作为种业龙头将受益于高标准农田建设带来的需求提升",
+          "policy_relevance": "间接相关，农业科技配套",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "601952",
+          "stock_name": "苏垦农发",
+          "recommendation_reason": "江苏省主要农业企业，拥有大量耕地资源，政策保护下土地资产价值重估空间较大",
+          "policy_relevance": "直接相关，资源型受益",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.78
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 09:36:54"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

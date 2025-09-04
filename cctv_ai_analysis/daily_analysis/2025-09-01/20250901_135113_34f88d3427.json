@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 13:51:13",
+  "news_info": {
+    "id": "34f88d3427",
+    "title": "印象教师·江夏名师丨三十五载师爱为舟",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901133030520562449.html",
+    "publish_time": "2025-09-01 13:30:00",
+    "summary": "印象教师·江夏名师丨三十五载师爱为舟"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7492000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.68,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.34
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600636\",\n      \"stock_name\": \"国新文化\",\n      \"comprehensive_score\": 0.42,\n      \"recommendation_reason\": \"作为教育信息化领域代表企业，与新闻中教育主题关联度最高，技术面相对稳定，在政策推动教育现代化背景下具备一定受益预期\",\n      \"risk_warning\": \"教育行业政策变化风险，业绩波动风险，技术面整体偏弱\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.35,\n      \"recommendation_reason\": \"在线教育服务商，与教育主题有一定关联，但技术评分偏低，板块支撑力度不足\",\n      \"risk_warning\": \"在线教育监管风险，盈利能力不确定性，技术面弱势明显\"\n    },\n    {\n      \"stock_code\": \"603000\",\n      \"stock_name\": \"人民网\",\n      \"comprehensive_score\": 0.28,\n      \"recommendation_reason\": \"媒体属性与教育宣传存在间接关联，但主营业务偏离教育核心，技术面表现最弱\",\n      \"risk_warning\": \"与教育主题关联度较低，媒体行业竞争激烈，技术指标显示弱势\"\n    }\n  ],\n  \"overall_risk_alert\": \"当前教育板块整体强度偏弱（0.283），技术指标平均评分较低（0.28），市场情绪谨慎。新闻事件为地方性教育宣传报道，缺乏实质性政策利好或业绩催化剂，建议谨慎参与，控制仓位。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600636",
+        "stock_name": "国新文化",
+        "recommendation_reason": "作为教育信息化标的，虽新闻直接关联度低，但央视教育类宣传可能间接提升教育板块关注度",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "教育服务企业，受益于教育行业整体关注度提升，但新闻直接推动力有限",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "603000",
+        "stock_name": "人民网",
+        "recommendation_reason": "央媒旗下上市公司，但此类地方性教育新闻对股价影响甚微",
+        "policy_relevance": "很低",
+        "urgency_level": "很低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性教师节宣传报道，内容聚焦教师个人事迹，缺乏重大政策导向和行业影响。央视新闻的权威性在此类软性新闻中体现有限，主要起到正面宣传作用，不具备直接的投资指导价值。新闻时效性、硬核程度和持续性评分均为0，表明其投资相关性极低。",
+      "policy_impact": "无实质性政策影响。该新闻属于常规教育宣传内容，未涉及教育改革、教育信息化、职业教育等政策热点，对教育板块的推动作用微乎其微。",
+      "theme_classification": {
+        "theme_type": "教育宣传",
+        "hardcore_level": "无实质意志体现",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "教育服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600636",
+          "stock_name": "国新文化",
+          "recommendation_reason": "作为教育信息化标的，虽新闻直接关联度低，但央视教育类宣传可能间接提升教育板块关注度",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "教育服务企业，受益于教育行业整体关注度提升，但新闻直接推动力有限",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "603000",
+          "stock_name": "人民网",
+          "recommendation_reason": "央媒旗下上市公司，但此类地方性教育新闻对股价影响甚微",
+          "policy_relevance": "很低",
+          "urgency_level": "很低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 13:51:13"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

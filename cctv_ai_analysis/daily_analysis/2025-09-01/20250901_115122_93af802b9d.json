@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 11:51:22",
+  "news_info": {
+    "id": "93af802b9d",
+    "title": "【天眼问医】藏在产房的“隐形杀手”有多可怕？专家：三招防它！",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901113816663217157.html",
+    "publish_time": "2025-09-01 11:38:00",
+    "summary": "【天眼问医】藏在产房的“隐形杀手”有多可怕？专家：三招防它！"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.21
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"技术面表现稳健，板块强度0.8提供有力支撑，与院感控制主题高度契合，作为医疗器械龙头直接受益于医疗安全政策推进，技术评分0.82领先同业，短期催化剂明确\",\n      \"risk_warning\": \"需关注医疗器械集采政策变化风险，估值处于行业高位存在回调压力\"\n    },\n    {\n      \"stock_code\": \"600587\",\n      \"stock_name\": \"新华医疗\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"院感控制设备核心供应商，新闻关联度强，技术指标显示突破形态，受益于医疗安全升级需求，政策催化明确，板块共振效应显著\",\n      \"risk_warning\": \"业绩波动性较大，需关注季度业绩兑现情况，市场竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"002223\",\n      \"stock_name\": \"鱼跃医疗\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"家用医疗器械与院感产品双轮驱动，技术面呈现企稳回升态势，受益于基层医疗安全建设，但新闻直接关联度相对较弱\",\n      \"risk_warning\": \"产品线较分散可能稀释主题效应，估值性价比需持续观察\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.80,\n    \"sentiment_support\": \"积极\",\n    \"technical_trend\": \"震荡上行\",\n    \"overall_risk_level\": \"中等\"\n  },\n  \"key_risks\": [\n    \"医药板块政策敏感性较高，集采等政策变化可能影响个股表现\",\n    \"市场整体情绪波动可能削弱主题投资效应\",\n    \"个股估值分化明显，需警惕高估值个股回调风险\",\n    \"新闻主题的持续性和市场关注度存在不确定性\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "作为国内领先的医疗器械企业，产品涵盖产科相关设备，受益于医疗安全标准提升",
+        "policy_relevance": "高 - 直接受益于医疗设备安全标准提升",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600587",
+        "stock_name": "新华医疗",
+        "recommendation_reason": "国内消毒灭菌设备龙头，产房院感控制核心供应商，央视报道将提升市场需求",
+        "policy_relevance": "很高 - 直接对应产房消毒灭菌需求",
+        "urgency_level": "较高",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 3,
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "recommendation_reason": "家用及医用消毒产品供应商，可能间接受益于公众对医疗安全关注度提升",
+        "policy_relevance": "中等 - 受益于消毒产品需求增长",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视发布的医疗健康类报道，聚焦产房安全问题，具有权威媒体背书。虽然新闻本身时效性较弱，但央视的权威性会引发公众对产科医疗安全的关注，可能推动相关监管政策完善和行业标准提升。",
+      "policy_impact": "国家近年来持续加强医疗质量安全管理，产科作为重点领域可能迎来新一轮监管强化和政策支持。央视报道往往预示政策关注方向，可能推动医疗器械消毒、院感控制等相关标准的提升。",
+      "theme_classification": {
+        "theme_type": "医疗安全/院感控制",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "医疗器械",
+          "医疗服务",
+          "消毒用品"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "作为国内领先的医疗器械企业，产品涵盖产科相关设备，受益于医疗安全标准提升",
+          "policy_relevance": "高 - 直接受益于医疗设备安全标准提升",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600587",
+          "stock_name": "新华医疗",
+          "recommendation_reason": "国内消毒灭菌设备龙头，产房院感控制核心供应商，央视报道将提升市场需求",
+          "policy_relevance": "很高 - 直接对应产房消毒灭菌需求",
+          "urgency_level": "较高",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 3,
+          "stock_code": "002223",
+          "stock_name": "鱼跃医疗",
+          "recommendation_reason": "家用及医用消毒产品供应商，可能间接受益于公众对医疗安全关注度提升",
+          "policy_relevance": "中等 - 受益于消毒产品需求增长",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:51:22"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

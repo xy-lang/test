@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-03 22:42:00",
+  "news_info": {
+    "id": "72e4df7f9d",
+    "title": "两岸高端化工产业合作对接会在潍坊滨海举办",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903210845103369748.html",
+    "publish_time": "2025-09-03 21:08:00",
+    "summary": "两岸高端化工产业合作对接会在潍坊滨海举办"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6878,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.7,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.55
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 22:42:00"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

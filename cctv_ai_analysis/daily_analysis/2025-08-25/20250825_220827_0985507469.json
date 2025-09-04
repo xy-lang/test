@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-08-25 22:08:27",
+  "news_info": {
+    "id": "0985507469",
+    "title": "自7月1日暑运启动以来至8月23日，全国铁路累计发送旅客突破8亿人次，达到8.23亿人次，同比增长6.4%，日均发送旅客1523万人次。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTI3VfqrnD5xRM5Im9MxZh9250825.shtml",
+    "publish_time": "2025-08-25 18:12:00",
+    "summary": "自7月1日暑运启动以来至8月23日，全国铁路累计发送旅客突破8亿人次，达到8.23亿人次，同比增长6..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 3.92
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 22:08:27"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

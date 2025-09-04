@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-03 17:36:24",
+  "news_info": {
+    "id": "4706b8cd57",
+    "title": "蒙阴镇卫生院职工董志山荣获全国无偿捐献造血干细胞奉献奖",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903171339676228248.html",
+    "publish_time": "2025-09-03 17:13:00",
+    "summary": "蒙阴镇卫生院职工董志山荣获全国无偿捐献造血干细胞奉献奖"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7789,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.77,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.37
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_code\": \"600056\",\n      \"stock_name\": \"中国医药\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术面相对稳健，作为央企医药平台与公益新闻关联度较高，政策受益明显，短期存在估值修复机会\",\n      \"risk_warning\": \"医药行业政策变动风险，集采政策可能影响盈利水平\"\n    },\n    {\n      \"stock_code\": \"000963\",\n      \"stock_name\": \"华东医药\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"基本面稳健，医美业务提供增长动力，技术指标显示短期调整到位，与医疗公益主题有一定契合度\",\n      \"risk_warning\": \"医美行业监管政策风险，估值相对较高存在回调压力\"\n    },\n    {\n      \"stock_code\": \"600196\",\n      \"stock_name\": \"复星医药\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"创新药布局领先，但技术面相对弱势，板块强度支撑有限，需等待更明确的技术信号\",\n      \"risk_warning\": \"研发投入大但回报周期长，海外业务面临地缘政治风险\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.383,\n    \"market_sentiment\": \"中性偏弱\",\n    \"technical_indicator_status\": \"整体偏弱，需谨慎选择\"\n  },\n  \"overall_risk_alert\": \"医药板块当前技术强度一般，需关注政策面变化和市场情绪波动，建议控制仓位，分批建仓\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600056",
+        "stock_name": "中国医药",
+        "recommendation_reason": "作为央企医药龙头，在医疗公益和社会责任方面表现突出，与新闻体现的价值观相契合，可能获得品牌价值提升",
+        "policy_relevance": "中等-符合国家医疗健康政策导向",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      },
+      {
+        "rank": 2,
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "recommendation_reason": "公司在血液制品领域有布局，与造血干细胞主题存在间接关联，且ESG评级较高",
+        "policy_relevance": "中等-契合医疗健康产业政策",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 3,
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "recommendation_reason": "在细胞治疗领域有技术储备，虽然新闻直接关联度不高，但属于大健康板块龙头",
+        "policy_relevance": "中等-符合生物医药创新政策方向",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性荣誉表彰报道，内容涉及无偿捐献造血干细胞奖项，属于正面社会新闻但投资价值有限。央视新闻的权威性虽高，但此类报道主要体现社会价值导向，对资本市场直接影响较弱。新闻时效性、硬核程度和持续性评分均为0，表明其投资参考价值较低。",
+      "policy_impact": "该新闻反映了国家鼓励无偿捐献、弘扬正能量的政策导向，但属于常规性表彰，不涉及重大政策调整或产业扶持。对医疗健康板块有轻微正面情绪影响，但缺乏实质性政策支撑，投资影响有限。",
+      "theme_classification": {
+        "theme_type": "医疗公益/社会责任",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "生物制药"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600056",
+          "stock_name": "中国医药",
+          "recommendation_reason": "作为央企医药龙头，在医疗公益和社会责任方面表现突出，与新闻体现的价值观相契合，可能获得品牌价值提升",
+          "policy_relevance": "中等-符合国家医疗健康政策导向",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        },
+        {
+          "rank": 2,
+          "stock_code": "000963",
+          "stock_name": "华东医药",
+          "recommendation_reason": "公司在血液制品领域有布局，与造血干细胞主题存在间接关联，且ESG评级较高",
+          "policy_relevance": "中等-契合医疗健康产业政策",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 3,
+          "stock_code": "600196",
+          "stock_name": "复星医药",
+          "recommendation_reason": "在细胞治疗领域有技术储备，虽然新闻直接关联度不高，但属于大健康板块龙头",
+          "policy_relevance": "中等-符合生物医药创新政策方向",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 17:36:24"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

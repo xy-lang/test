@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 09:35:21",
+  "news_info": {
+    "id": "df9182acfc",
+    "title": "暑期旅游盘点 入境游热度持续攀升",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTItoyWlnOg14l1ffZsamdR250901.shtml",
+    "publish_time": "2025-09-01 11:28:00",
+    "summary": "暑期旅游盘点 入境游热度持续攀升"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.84325,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.86,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -1.89
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600054\",\n      \"stock_name\": \"黄山旅游\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"直接受益于暑期旅游热度攀升，黄山作为知名景区具有稀缺性资源。技术面显示板块强度0.793支撑良好，技术评分0.82高于平均水平，与新闻主题高度匹配，政策受益明显，短期催化剂强劲。\",\n      \"risk_warning\": \"需关注景区承载量限制和天气因素影响，以及旅游消费复苏持续性风险\"\n    },\n    {\n      \"stock_code\": \"600258\",\n      \"stock_name\": \"首旅酒店\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"酒店行业直接受益于旅游复苏，连锁酒店品牌具有规模优势。技术评分0.80表现稳定，受益于文旅消费政策支持，暑期旺季需求推动业绩增长预期。\",\n      \"risk_warning\": \"酒店行业竞争激烈，需关注入住率和房价波动风险，以及成本上升压力\"\n    },\n    {\n      \"stock_code\": \"601111\",\n      \"stock_name\": \"中国国航\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"航空运输受益于入境游增长，国际航线恢复预期提升。技术评分0.75相对稳健，但航空业受油价和汇率影响较大，与新闻关联度略低于前两只股票。\",\n      \"risk_warning\": \"航空业受国际局势、油价波动、汇率变化影响较大，运营成本控制压力显著\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_favorable\": true,\n    \"technical_indicators_aligned\": true,\n    \"recommendation_count\": 3,\n    \"risk_level\": \"中等\"\n  },\n  \"general_risk_warning\": \"文旅消费板块受宏观经济和消费信心影响较大，需关注暑期过后需求回落风险。建议控制仓位，设置止损位，密切关注行业政策和消费数据变化。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600054",
+        "stock_name": "黄山旅游",
+        "recommendation_reason": "作为知名景区运营商，直接受益于入境游复苏，央视新闻背书提升市场关注度",
+        "policy_relevance": "高度契合文旅消费促进政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "酒店行业龙头，入境游客增长直接带动入住率提升，业绩弹性较大",
+        "policy_relevance": "受益于旅游接待设施需求增长",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "601111",
+        "stock_name": "中国国航",
+        "recommendation_reason": "国际航线主要承运人，入境游客增长直接提升国际航线客座率和收益",
+        "policy_relevance": "符合国际航空市场恢复政策导向",
+        "urgency_level": "中等",
+        "confidence_score": 0.68
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的旅游行业数据，具有权威背书价值。暑期旅游盘点显示入境游热度持续攀升，反映了后疫情时代旅游业的复苏态势，对旅游板块具有正向引导作用。",
+      "policy_impact": "符合国家促进消费、推动文旅产业高质量发展的政策导向。入境游升温受益于签证便利化、国际航班恢复等政策支持，预计后续仍有配套政策出台。",
+      "theme_classification": {
+        "theme_type": "文旅消费复苏",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "旅游服务",
+          "酒店餐饮",
+          "航空机场"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600054",
+          "stock_name": "黄山旅游",
+          "recommendation_reason": "作为知名景区运营商，直接受益于入境游复苏，央视新闻背书提升市场关注度",
+          "policy_relevance": "高度契合文旅消费促进政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "酒店行业龙头，入境游客增长直接带动入住率提升，业绩弹性较大",
+          "policy_relevance": "受益于旅游接待设施需求增长",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "601111",
+          "stock_name": "中国国航",
+          "recommendation_reason": "国际航线主要承运人，入境游客增长直接提升国际航线客座率和收益",
+          "policy_relevance": "符合国际航空市场恢复政策导向",
+          "urgency_level": "中等",
+          "confidence_score": 0.68
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 09:35:21"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

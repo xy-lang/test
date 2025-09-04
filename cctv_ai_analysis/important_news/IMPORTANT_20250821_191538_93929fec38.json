@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-21 19:15:38",
+  "news_info": {
+    "id": "93929fec38",
+    "title": "带来广泛不确定性 美国关税政策反复无常、伤人害己",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIsueKPnkbKcGCNaNROSHO250821.shtml",
+    "publish_time": "2025-08-21 19:40:00",
+    "summary": "带来广泛不确定性 美国关税政策反复无常、伤人害己"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8185,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": -0.42
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600536\",\n      \"stock_name\": \"中国软件\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"技术评分0.78位居三股之首，板块强度0.723提供良好支撑。作为国产软件龙头，直接受益于贸易摩擦下的进口替代政策，符合'国家意志'硬核等级。近期技术指标显示突破形态，市场情绪积极，短期催化剂明确。\",\n      \"risk_warning\": \"需关注板块轮动风险及估值偏高风险，技术面存在短期回调可能\"\n    },\n    {\n      \"stock_code\": \"002049\",\n      \"stock_name\": \"紫光国微\",\n      \"comprehensive_score\": 0.79,\n      \"recommendation_reason\": \"技术评分0.75表现稳健，作为芯片国产化核心标的，深度受益于科技自主政策。板块强度支撑良好，基本面在半导体周期底部具备韧性，政策催化持续性强。\",\n      \"risk_warning\": \"半导体行业周期波动风险，需警惕海外技术限制升级的潜在影响\"\n    },\n    {\n      \"stock_code\": \"000063\",\n      \"stock_name\": \"中兴通讯\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术评分0.63相对较弱但处于上升通道，5G建设加速受益明确。虽然受贸易摩擦影响历史较大，但当前国产替代逻辑强化，估值具备一定安全边际。\",\n      \"risk_warning\": \"地缘政治风险较高，海外业务可能面临不确定性，技术面需要进一步确认突破\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_strength\": \"0.723(较强)\",\n    \"policy_benefit_level\": \"高\",\n    \"recommendation_strategy\": \"重点配置前两只，中兴通讯可作为辅助配置\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600536",
+        "stock_name": "中国软件",
+        "recommendation_reason": "央视报道美国政策不确定性凸显国产软件替代重要性，公司作为国产操作系统龙头受益明显",
+        "policy_relevance": "高度相关，符合国家信创战略导向",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "002049",
+        "stock_name": "紫光国微",
+        "recommendation_reason": "贸易摩擦背景下半导体自主可控需求提升，公司芯片业务有望受益",
+        "policy_relevance": "较高，属于关键领域进口替代",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "recommendation_reason": "5G设备国产化替代加速，公司在通信设备领域具有技术优势",
+        "policy_relevance": "中等，受益于科技自主战略",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威发布的时政要闻，聚焦美国关税政策的不确定性及其对全球经济的影响。虽然评分显示第一时间性、硬核程度和持续性均为0分，但央视作为国家级媒体，其报道具有政策导向性和市场影响力。新闻内容涉及国际贸易政策变化，可能引发市场对相关受益板块的关注。",
+      "policy_impact": "美国关税政策反复无常将加剧全球贸易不确定性，可能促使中国加快进口替代和自主可控产业发展。政策影响主要体现在：1）利好国内替代产业 2）推动内循环经济发展 3）加速关键领域自主化进程",
+      "theme_classification": {
+        "theme_type": "贸易摩擦受益/进口替代",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "半导体",
+          "国产软件",
+          "高端制造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600536",
+          "stock_name": "中国软件",
+          "recommendation_reason": "央视报道美国政策不确定性凸显国产软件替代重要性，公司作为国产操作系统龙头受益明显",
+          "policy_relevance": "高度相关，符合国家信创战略导向",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "002049",
+          "stock_name": "紫光国微",
+          "recommendation_reason": "贸易摩擦背景下半导体自主可控需求提升，公司芯片业务有望受益",
+          "policy_relevance": "较高，属于关键领域进口替代",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "000063",
+          "stock_name": "中兴通讯",
+          "recommendation_reason": "5G设备国产化替代加速，公司在通信设备领域具有技术优势",
+          "policy_relevance": "中等，受益于科技自主战略",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 19:15:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

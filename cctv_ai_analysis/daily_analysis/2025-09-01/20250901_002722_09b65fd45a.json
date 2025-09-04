@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 00:27:22",
+  "news_info": {
+    "id": "09b65fd45a",
+    "title": "新民大街的初秋狂欢局，也太会玩了吧！",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250831224222768969144.html",
+    "publish_time": "2025-08-31 22:42:00",
+    "summary": "新民大街的初秋狂欢局，也太会玩了吧！"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6812,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.68,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.74
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601888\",\n      \"stock_name\": \"中国中免\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术面表现稳健，板块强度0.65提供支撑，作为免税龙头直接受益于文旅消费复苏，新闻中提及的初秋狂欢活动将带动消费需求，短期催化剂明确，基本面扎实\",\n      \"risk_warning\": \"需关注消费复苏不及预期风险、政策变化风险以及市场竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"与新闻主题高度契合，直接受益于地方文旅活动，技术评分符合板块平均水平，秋季旅游旺季预期提供业绩支撑，估值相对合理\",\n      \"risk_warning\": \"旅游行业季节性波动风险、疫情反复风险、成本上升压缩利润空间风险\"\n    },\n    {\n      \"stock_code\": \"603123\",\n      \"stock_name\": \"翠微股份\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为商业零售企业受益于消费回暖，新闻中狂欢活动可能带动客流量增长，但技术面相对较弱，需要更多基本面催化剂支撑\",\n      \"risk_warning\": \"零售行业竞争激烈风险、线上分流风险、业绩增长不确定性较高风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极\",\n    \"sector_outlook\": \"文旅消费板块在政策支持和季节性因素下具备短期机会\",\n    \"timing_recommendation\": \"建议关注短期交易机会，中长期需观察消费复苏持续性\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，受益于文旅消费复苏趋势，央视对地方文旅活动的报道间接利好旅游板块",
+        "policy_relevance": "中等，符合国家促进文旅消费政策方向",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "603123",
+        "stock_name": "翠微股份",
+        "recommendation_reason": "北京地区商业零售企业，地方性消费活动可能带动区域商业活力",
+        "policy_relevance": "较低，与新闻地域相关性较强",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "recommendation_reason": "消费复苏背景下，文旅活动增多有利于免税消费需求提升",
+        "policy_relevance": "中等，契合消费升级政策导向",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性娱乐活动报道，内容涉及新民大街初秋狂欢活动，属于地方文化娱乐类新闻。从投资角度看，新闻本身缺乏实质性政策导向和行业影响，时效性较弱，不具备明显的投资指导价值。央视新闻的权威性在此类软性新闻中体现有限，更多是文化传播功能。",
+      "policy_impact": "该新闻未涉及重大政策导向，属于地方文化活动宣传。当前国家政策鼓励文旅消费和夜间经济发展，但此新闻仅为单一地方活动，政策影响力较弱，不具备大规模投资指导意义。",
+      "theme_classification": {
+        "theme_type": "地方文旅/消费娱乐",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "商业零售",
+          "旅游服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，受益于文旅消费复苏趋势，央视对地方文旅活动的报道间接利好旅游板块",
+          "policy_relevance": "中等，符合国家促进文旅消费政策方向",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "603123",
+          "stock_name": "翠微股份",
+          "recommendation_reason": "北京地区商业零售企业，地方性消费活动可能带动区域商业活力",
+          "policy_relevance": "较低，与新闻地域相关性较强",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "601888",
+          "stock_name": "中国中免",
+          "recommendation_reason": "消费复苏背景下，文旅活动增多有利于免税消费需求提升",
+          "policy_relevance": "中等，契合消费升级政策导向",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 00:27:22"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

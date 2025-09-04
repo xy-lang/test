@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 22:44:29",
+  "news_info": {
+    "id": "50afff72da",
+    "title": "“中国油画名家笔下的沂蒙山——阳光海岸·活力日照主题精品展”开展",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903185727616295761.html",
+    "publish_time": "2025-09-03 18:57:00",
+    "summary": "“中国油画名家笔下的沂蒙山——阳光海岸·活力日照主题精品展”开展"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 3.78
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600258\",\n      \"stock_name\": \"首旅酒店\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为国内知名酒店集团，直接受益于文化旅游活动带来的客流增长。技术面相对稳健，在旅游酒店板块中具备较强抗跌性，与日照文旅活动关联度较高，短期存在业绩催化预期。\",\n      \"risk_warning\": \"酒店行业受宏观经济影响较大，需关注消费复苏进度和同业竞争风险\"\n    },\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"综合性旅游服务商，在文化旅游项目运营方面经验丰富，可能间接受益于地方文旅推广活动。技术指标显示近期有一定企稳迹象，但板块整体强度偏弱。\",\n      \"risk_warning\": \"旅游行业季节性明显，需警惕客流不及预期风险\"\n    },\n    {\n      \"stock_code\": \"000802\",\n      \"stock_name\": \"北京文化\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"虽属文化传媒板块，但与具体的地方文旅展览活动关联度相对较弱。技术面表现一般，缺乏明显催化剂，建议谨慎关注。\",\n      \"risk_warning\": \"影视文化行业政策风险较高，业绩波动性大，投资需谨慎\"\n    }\n  ],\n  \"overall_assessment\": {\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"偏弱（0.333）\",\n    \"recommendation_level\": \"适度关注\",\n    \"investment_horizon\": \"短期（1-3个月）\"\n  },\n  \"key_risks\": [\n    \"文化旅游板块整体强度偏弱，缺乏板块性行情支撑\",\n    \"宏观经济环境影响消费复苏进度\",\n    \"个股基本面分化明显，需精选标的\",\n    \"市场情绪波动可能影响短期表现\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "央视报道提升日照地区旅游知名度，利好当地酒店业务",
+        "policy_relevance": "间接受益于地方旅游推广",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "文化旅游展览可能带动相关旅游线路需求",
+        "policy_relevance": "文化+旅游融合发展趋势",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "000802",
+        "stock_name": "北京文化",
+        "recommendation_reason": "文化展览类内容制作方，受益于文化艺术活动推广",
+        "policy_relevance": "文化产业发展政策支持",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为文化展览类报道，涉及沂蒙山地区文化旅游推广。虽然来自央视新闻平台，但内容本身属于常规文化活动报道，缺乏重大政策导向或产业变革信息。央视的权威性主要体现在传播广度，但新闻内容本身投资价值有限。",
+      "policy_impact": "低政策影响。属于地方文化宣传范畴，未涉及重大产业政策或资金扶持计划，对资本市场直接影响较弱。",
+      "theme_classification": {
+        "theme_type": "文化旅游/地方振兴",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "旅游服务",
+          "区域经济"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "央视报道提升日照地区旅游知名度，利好当地酒店业务",
+          "policy_relevance": "间接受益于地方旅游推广",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "文化旅游展览可能带动相关旅游线路需求",
+          "policy_relevance": "文化+旅游融合发展趋势",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "000802",
+          "stock_name": "北京文化",
+          "recommendation_reason": "文化展览类内容制作方，受益于文化艺术活动推广",
+          "policy_relevance": "文化产业发展政策支持",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 22:44:29"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

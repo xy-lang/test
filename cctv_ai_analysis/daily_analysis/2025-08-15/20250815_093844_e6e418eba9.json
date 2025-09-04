@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 09:38:44",
+  "news_info": {
+    "id": "e6e418eba9",
+    "title": "第12届世界运动会正在四川成都市举行。这次世运会致力于打造首届“碳中和”世界运动会。为了实现这一目标，成都从场馆建设、能源保障、交通出行、赛事组织等各环节，全面采取减碳措施，将绿色低碳理念融入赛事全程。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/15/ARTIF0DW628h9ZyYyujIblYY250815.shtml",
+    "publish_time": "2025-08-15 09:36:53",
+    "summary": "第12届世界运动会正在四川成都市举行。这次世运会致力于打造首届“碳中和”世界运动会。为了实现这一目标..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.03
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻具有高度时效性和权威性，作为央视报道的重要时政要闻，'碳中和'主题与当前国家政策高度契合，综合强度0.82表明市场关注度较高。",
+    "policy_impact": "碳中和政策持续强化，成都世运会作为示范项目将带动相关产业发展，特别是在绿色建筑、清洁能源等领域产生直接政策红利。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600674",
+        "stock_name": "川投能源",
+        "recommendation_reason": "作为四川本土清洁能源龙头企业，直接受益于赛事碳中和能源保障需求",
+        "policy_relevance": "高度契合碳中和能源政策",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "000400",
+        "stock_name": "许继电气",
+        "recommendation_reason": "智能电网设备供应商，为赛事场馆提供节能电力解决方案",
+        "policy_relevance": "紧密对接绿色基建政策",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "300355",
+        "stock_name": "蒙草生态",
+        "recommendation_reason": "生态修复龙头企业，可能参与赛事场馆周边碳中和景观建设",
+        "policy_relevance": "符合生态环保政策导向",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

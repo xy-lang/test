@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-09-01 15:11:14",
+  "news_info": {
+    "id": "cb205d32d9",
+    "title": "鲁冀两地同步启动 雄商高铁全线正式进入铺轨阶段",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIimZiIOx1LYuHyhjel8Z1250901.shtml",
+    "publish_time": "2025-09-01 08:47:00",
+    "summary": "鲁冀两地同步启动 雄商高铁全线正式进入铺轨阶段"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.66435,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 6.39
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601766\",\n      \"stock_name\": \"中国中车\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"作为高铁车辆制造龙头，直接受益于雄商高铁铺轨建设，技术指标显示强势突破形态，板块强度0.8提供有力支撑，政策催化明确，短期业绩预期提升\",\n      \"risk_warning\": \"需关注原材料成本波动风险及项目交付进度风险\"\n    },\n    {\n      \"stock_code\": \"601186\",\n      \"stock_name\": \"中国铁建\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"高铁基建工程主力军，直接参与铁路建设项目，技术面呈现多头排列，受益于基建投资加速政策，订单预期增长明确\",\n      \"risk_warning\": \"需注意应收账款回收风险及项目利润率压力\"\n    },\n    {\n      \"stock_code\": \"000928\",\n      \"stock_name\": \"中钢国际\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"受益于高铁建设带动的钢材需求，技术指标相对稳健但弹性较弱，作为材料供应商间接受益于基建投资\",\n      \"risk_warning\": \"受钢材价格波动影响较大，需关注原材料成本控制能力\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_positive\": true,\n    \"technical_indicator_alignment\": true,\n    \"policy_benefit_level\": \"high\",\n    \"short_term_catalyst\": \"strong\",\n    \"overall_risk_level\": \"medium\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "recommendation_reason": "作为国内轨道交通装备制造龙头，将直接受益于雄商高铁车辆采购需求，央视新闻背书增强市场信心",
+        "policy_relevance": "高铁核心装备供应商，符合国家高端装备制造政策导向",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "recommendation_reason": "国内铁路建设主力军，有望参与雄商高铁后续标段建设，央视报道提升项目确定性",
+        "policy_relevance": "基建央企龙头，深度参与国家重大交通工程建设",
+        "urgency_level": "中长期持有",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "000928",
+        "stock_name": "中钢国际",
+        "recommendation_reason": "高铁用钢轨核心供应商，铺轨阶段启动将直接带动钢轨需求，央视权威报道确认项目进度",
+        "policy_relevance": "高铁建设材料核心供应商，受益于基建投资加速",
+        "urgency_level": "中短期关注",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的雄商高铁重大工程进展，具有极高的权威性和政策导向性。雄商高铁作为国家'八纵八横'高铁网重要组成部分，其铺轨阶段启动标志着项目进入关键建设期，对相关产业链具有实质性拉动作用。",
+      "policy_impact": "高铁建设属于国家重大基础设施投资，直接受益于'交通强国'战略和区域协调发展政策。该项目总投资超800亿元，将带动沿线经济发展，对基建、建材、装备制造等产业形成持续政策红利。",
+      "theme_classification": {
+        "theme_type": "高铁基建",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "基础设施建设",
+          "轨道交通",
+          "建筑材料",
+          "工程机械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601766",
+          "stock_name": "中国中车",
+          "recommendation_reason": "作为国内轨道交通装备制造龙头，将直接受益于雄商高铁车辆采购需求，央视新闻背书增强市场信心",
+          "policy_relevance": "高铁核心装备供应商，符合国家高端装备制造政策导向",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "601186",
+          "stock_name": "中国铁建",
+          "recommendation_reason": "国内铁路建设主力军，有望参与雄商高铁后续标段建设，央视报道提升项目确定性",
+          "policy_relevance": "基建央企龙头，深度参与国家重大交通工程建设",
+          "urgency_level": "中长期持有",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "000928",
+          "stock_name": "中钢国际",
+          "recommendation_reason": "高铁用钢轨核心供应商，铺轨阶段启动将直接带动钢轨需求，央视权威报道确认项目进度",
+          "policy_relevance": "高铁建设材料核心供应商，受益于基建投资加速",
+          "urgency_level": "中短期关注",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 15:11:14"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

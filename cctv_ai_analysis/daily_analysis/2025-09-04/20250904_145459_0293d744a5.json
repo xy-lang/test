@@ -1,0 +1,81 @@
+{
+  "analysis_time": "2025-09-04 14:54:59",
+  "news_info": {
+    "id": "0293d744a5",
+    "title": "京卫制药获2024年度山东省科技进步二等奖",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904143451805805892.html",
+    "publish_time": "2025-09-04 14:34:00",
+    "summary": "京卫制药获2024年度山东省科技进步二等奖"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7591000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.71,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.34
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的公信力和市场影响力。京卫制药获得山东省科技进步二等奖，体现了公司在医药创新领域的实力，该新闻综合强度0.76分（满分1.0），表明新闻具有较高的时效性和行业影响力，可能引发市场对医药板块特别是创新药企的关注。",
+    "policy_impact": "该新闻虽未直接提及政策文件，但科技进步奖与国家对医药创新、产业升级的政策导向高度契合，符合'健康中国2030'和鼓励医药研发的政策趋势，可能间接获得政策支持或市场认可。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600062",
+        "stock_name": "华润双鹤",
+        "recommendation_reason": "作为国内知名制药企业，与京卫制药同属医药行业，央视新闻的权威报道可能带动整个板块情绪，且公司近期在创新药领域有布局。",
+        "policy_relevance": "高，符合国家医药创新政策导向",
+        "urgency_level": "中高，新闻发布时效性强（0.3小时前），需短期关注",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "600276",
+        "stock_name": "恒瑞医药",
+        "recommendation_reason": "龙头创新药企，央视新闻对行业奖项的报道可能提升市场对研发实力强的药企关注度，恒瑞作为标杆企业受益明显。",
+        "policy_relevance": "高，直接对接医药创新和科技进步政策",
+        "urgency_level": "中，新闻持续性评分0.71，影响可能延续",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "002422",
+        "stock_name": "科伦药业",
+        "recommendation_reason": "公司在制药和研发领域活跃，央视新闻的权威背书可能推动投资者关注中小型创新药企，科伦近期有研发进展。",
+        "policy_relevance": "中高，间接受益于行业政策利好",
+        "urgency_level": "中，综合强度0.76支持短期配置",
+        "confidence_score": 0.75
+      }
+    ]
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "医药"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成长",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-09-04 14:54:59"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

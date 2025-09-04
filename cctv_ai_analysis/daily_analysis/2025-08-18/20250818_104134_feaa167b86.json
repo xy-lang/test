@@ -1,0 +1,170 @@
+{
+  "analysis_time": "2025-08-18 10:41:34",
+  "news_info": {
+    "id": "feaa167b86",
+    "title": "看见美丽中国 垃圾分类新时尚",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIBvg2FYLE4fMfeZyKGc0J250817.shtml",
+    "publish_time": "2025-08-18 10:41:10",
+    "summary": "看见美丽中国 垃圾分类新时尚"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7706500000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.64,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻虽然时效性和硬核程度评分较低，但作为央视新闻发布的时政要闻，具有较高的权威性和政策导向性。'垃圾分类新时尚'的提法表明这是国家持续推进的重点环保政策，可能带动相关产业链发展。",
+    "policy_impact": "垃圾分类是国家'十四五'规划重点环保政策，具有长期政策支持。央视报道强化了政策信号，可能加速地方政策落地和财政支持。",
+    "theme_classification": {
+      "theme_type": "环保/固废处理",
+      "hardcore_level": "国家意志",
+      "sustainability_score": 8,
+      "related_sectors": [
+        "环保工程",
+        "专用设备制造"
+      ]
+    },
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601200",
+        "stock_name": "上海环境",
+        "recommendation_reason": "作为上海地区固废处理龙头企业，直接受益于垃圾分类政策推进，央视报道提升政策预期。",
+        "policy_relevance": "直接受益标的",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "000826",
+        "stock_name": "启迪环境",
+        "recommendation_reason": "全国性环境综合治理服务商，垃圾分类全产业链布局，央视背书增强政策确定性。",
+        "policy_relevance": "全产业链受益",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "603686",
+        "stock_name": "龙马环卫",
+        "recommendation_reason": "环卫装备制造龙头，垃圾分类政策将带动设备更新需求，央视报道强化政策持续性预期。",
+        "policy_relevance": "设备需求增长",
+        "urgency_level": "长期配置",
+        "confidence_score": 0.7
+      }
+    ],
+    "technical_verification": {
+      "original_count": 3,
+      "verified_count": 0,
+      "verified_stocks": [],
+      "sector_strength": 0.445,
+      "related_sectors": [
+        "环保工程",
+        "专用设备制造"
+      ],
+      "verification_method": "AI粗筛+板块强度+综合评分",
+      "verification_threshold": 0.6,
+      "verification_time": "2025-08-18 10:41:31"
+    },
+    "final_recommendations": [],
+    "analysis_stages": {
+      "stage1_ai_count": 3,
+      "stage2_verified_count": 0,
+      "verification_method": "AI粗筛+板块强度+综合评分"
+    }
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "环保工程",
+      "专用设备制造"
+    ],
+    "sector_strength": 0.445,
+    "sector_details": [
+      {
+        "sector_name": "环保工程",
+        "三要素评分": {
+          "政策支持度": 0.3,
+          "资金流入度": 0.5,
+          "技术成熟度": 0.6
+        },
+        "综合竞争力": 0.445,
+        "原始数据": {
+          "当前价格": 0,
+          "涨跌幅": 0,
+          "净流入": 0,
+          "成交额": 0,
+          "换手率": 0
+        },
+        "更新时间": "2025-08-18 10:41:32"
+      },
+      {
+        "sector_name": "专用设备制造",
+        "三要素评分": {
+          "政策支持度": 0.3,
+          "资金流入度": 0.5,
+          "技术成熟度": 0.6
+        },
+        "综合竞争力": 0.445,
+        "原始数据": {
+          "当前价格": 0,
+          "涨跌幅": 0,
+          "净流入": 0,
+          "成交额": 0,
+          "换手率": 0
+        },
+        "更新时间": "2025-08-18 10:41:32"
+      }
+    ],
+    "sector_comparison": {
+      "板块评分": {
+        "环保工程": 0.445,
+        "专用设备制造": 0.445
+      },
+      "最强板块": "环保工程",
+      "最强评分": 0.445,
+      "最弱板块": "环保工程",
+      "最弱评分": 0.445,
+      "平均评分": 0.445
+    },
+    "sector_recommendations": {
+      "题材类型": "环保/固废处理",
+      "硬核等级": "国家意志",
+      "推荐板块": [
+        {
+          "板块": "银行",
+          "推荐强度": 0.449,
+          "推荐理由": "匹配环保/固废处理，硬核等级国家意志"
+        },
+        {
+          "板块": "新能源",
+          "推荐强度": 0.445,
+          "推荐理由": "匹配环保/固废处理，硬核等级国家意志"
+        }
+      ]
+    },
+    "theme_info": {
+      "theme_type": "环保/固废处理",
+      "hardcore_level": "国家意志"
+    },
+    "analysis_time": "2025-08-18 10:41:34"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

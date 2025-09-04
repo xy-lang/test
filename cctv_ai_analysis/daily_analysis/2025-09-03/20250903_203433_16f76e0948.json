@@ -1,0 +1,54 @@
+{
+  "analysis_time": "2025-09-03 20:34:33",
+  "news_info": {
+    "id": "16f76e0948",
+    "title": "2025东亚海博会海洋生物医药展9月7日上线",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903200036960764347.html",
+    "publish_time": "2025-09-03 20:00:00",
+    "summary": "2025东亚海博会海洋生物医药展9月7日上线"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7624000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.72,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.57
+    }
+  },
+  "ai_analysis": {
+    "status": "parse_error",
+    "content": "```json\n{\n    \"news_analysis\": \"该新闻为央视报道的2025东亚海博会海洋生物医药展信息，虽然内容本身为展会预告，但央视作为国家级媒体平台，其报道具有政策导向意义。新闻评分较低主要因展会性质决定，但央视背书提升了事件的权威性和关注度，可能预示海洋生物医药产业的政策支持力度\",\n    \n    \"policy_impact\": \"海洋强国战略是国家重要发展方向，海洋生物医药作为战略性新兴产业，符合'健康中国2030'和海洋经济发展规划。央视报道往往代表政策风向，此次海博会聚焦海洋生物医药，暗示该领域将获得更多政策支持和资源倾斜\",\n    \n    \"theme_classification\": {\n        \"theme_type\": \"海洋生物医药+展会催化\",\n        \"hardcore_level\": \"国家意志\",\n        \"sustainability_score\": 6,\n        \"related_sectors\": [\"生物医药\", \"海洋经济\", \"医疗器械\"]\n    },\n    \n    \"recommendations\": [\n        {\n            \"rank\": 1,\n            \"stock_code\": \"600866\",\n            \"stock_name\": \"星湖科技\",\n            \"recommendation_reason\": \"公司主营生物发酵产品，在海洋生物医药领域有技术积累，曾参与海洋生物医药研发项目，央视报道的海博会将提升行业关注度\",\n            \"policy_relevance\": \"高度相关，直接受益海洋生物医药产业发展\",\n            \"urgency_level\": \"中等\",\n            \"confidence_score\": 0.75\n        },\n        {\n            \"rank\": 2,\n            \"stock_code\": \"300238\",\n            \"stock_name\": \"冠昊生物\",\n            \"recommendation_reason\": \"专注于生物材料领域，在海洋生物医用材料方面有布局，海博会可能展示最新技术成果，带来主题投资机会\",\n            \"policy_relevance\": \"较强相关，海洋生物材料是重点发展方向\",\n            \"urgency_level\": \"中等\",\n            \"confidence_score\": 0.70\n        },\n        {\n            \"rank\": 3,\n            \"stock_code\": \"002030\",\n            \"stock_name\": \"达安基因\",\n            \"recommendation_reason\":作为生物医药龙头企业，在海洋生物基因检测和海洋药物研发方面有技术优势，央视报道可能引发板块轮动\",\n            \"policy_relevance\": \"相关，受益于整个生物医药板块政策支持\",\n            \"urgency_level\": \"一般\",\n            \"confidence_score\": 0.65\n        }\n    ]\n}\n```",
+    "final_recommendations": [],
+    "analysis_method": "单阶段AI分析"
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "医药生物"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成长",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-09-03 20:34:33"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

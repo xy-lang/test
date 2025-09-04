@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-08-19 11:34:23",
+  "news_info": {
+    "id": "459ed1e48d",
+    "title": "我国体育产业总规模近五年年均增速超10%",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTIsIc8fB5LrFXN96wP0nE6250819.shtml",
+    "publish_time": "2025-08-19 22:26:00",
+    "summary": "我国体育产业总规模近五年年均增速超10%"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79045,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.7,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -10.87
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道的体育产业增速数据具有高度可信度。0.79的综合评分表明该新闻具有较强时效性和政策导向性，可能引发市场对体育产业板块的关注。",
+    "policy_impact": "体育产业作为国家鼓励发展的新兴产业，年均10%的增速表明行业处于快速发展期，可能获得更多政策支持，利好相关上市公司。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600158",
+        "stock_name": "中体产业",
+        "recommendation_reason": "国家体育总局控股的唯一上市公司，直接受益于体育产业发展政策",
+        "policy_relevance": "高度相关，主营业务涵盖体育赛事、体育场馆等核心领域",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "002105",
+        "stock_name": "信隆健康",
+        "recommendation_reason": "国内领先的体育健身器材制造商，受益于全民健身政策推动",
+        "policy_relevance": "较高相关，主营产品符合体育消费升级趋势",
+        "urgency_level": "中高",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 3,
+        "stock_code": "300005",
+        "stock_name": "探路者",
+        "recommendation_reason": "户外运动装备龙头，受益于体育旅游和户外运动产业发展",
+        "policy_relevance": "中等相关，属于体育产业延伸领域",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 11:34:23"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

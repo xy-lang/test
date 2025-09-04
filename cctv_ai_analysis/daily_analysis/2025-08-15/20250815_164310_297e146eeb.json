@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 16:43:10",
+  "news_info": {
+    "id": "297e146eeb",
+    "title": "据工业和信息化部官网消息，2025年环保装备制造业规范条件企业名单于日前公布，共416家企业入围，其中新申报通过评审的企业共66家，复核通过的企业共350家。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://jingji.cctv.com/2025/08/15/ARTIWzQaOaBpTDHy0Him2Auk250815.shtml",
+    "publish_time": "2025-08-15 16:42:22",
+    "summary": "据工业和信息化部官网消息，2025年环保装备制造业规范条件企业名单于日前公布，共416家企业入围，其..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由权威媒体央视发布，信息来源为工业和信息化部官网，具有高度权威性。新闻涉及2025年环保装备制造业规范条件企业名单公布，表明国家对环保产业的政策支持将持续加强，对相关上市公司构成长期利好。",
+    "policy_impact": "该政策将直接利好入围的416家环保装备制造企业，特别是66家新入围企业可能获得更多政策支持和市场关注。政策导向明确，将持续推动环保装备制造业的高质量发展。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300137",
+        "stock_name": "先河环保",
+        "recommendation_reason": "公司是国内环境监测设备龙头企业，主营环保装备制造，大概率入围本次名单。央视新闻的权威报道将提升市场关注度。",
+        "policy_relevance": "高度相关，直接受益于环保装备制造业政策支持",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "recommendation_reason": "作为大气污染治理装备龙头企业，公司技术实力雄厚，很可能入围规范企业名单。央视报道将强化其行业龙头地位认知。",
+        "policy_relevance": "高度相关，大气治理装备直接受益",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "002573",
+        "stock_name": "清新环境",
+        "recommendation_reason": "公司主营烟气治理和工业环保装备，技术领先，有望受益于本次规范企业政策。央视权威背书将提升投资者信心。",
+        "policy_relevance": "相关，工业环保装备制造商",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

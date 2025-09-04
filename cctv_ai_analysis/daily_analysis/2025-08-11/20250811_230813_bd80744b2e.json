@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-11 23:08:13",
+  "news_info": {
+    "id": "bd80744b2e",
+    "title": "追光｜世运会五大“好玩”项目，总有一款适合你",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTI9Mw9ePHBus2UawR7rkmF250811.shtml",
+    "publish_time": "2025-08-11 20:57:50",
+    "summary": "追光｜世运会五大“好玩”项目，总有一款适合你"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.72905,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 2.17
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻虽然来自权威的央视新闻平台，但内容聚焦于世运会娱乐性项目，属于轻量级时政要闻，对股市直接影响有限。0.73的综合评分主要来自央视的高源权重(0.95)和较好的时效性(0.80)。",
+    "policy_impact": "低政策影响。新闻中未提及具体政策导向，更多是文体娱乐内容的报道，对相关产业的刺激作用较弱。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600158",
+        "stock_name": "中体产业",
+        "recommendation_reason": "作为国家体育总局控股的唯一上市公司，与世运会概念有直接关联",
+        "policy_relevance": "中等，受益于体育产业政策但新闻本身无直接政策支持",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "603899",
+        "stock_name": "晨光文具",
+        "recommendation_reason": "文体用品龙头企业，可能受益于大众体育关注度提升",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "002105",
+        "stock_name": "信隆健康",
+        "recommendation_reason": "主营运动器材，与世运会部分项目设备相关",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

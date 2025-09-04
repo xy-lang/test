@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-21 21:15:42",
+  "news_info": {
+    "id": "93929fec38",
+    "title": "带来广泛不确定性 美国关税政策反复无常、伤人害己",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIsueKPnkbKcGCNaNROSHO250821.shtml",
+    "publish_time": "2025-08-21 12:46:00",
+    "summary": "带来广泛不确定性 美国关税政策反复无常、伤人害己"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6825,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.71,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 8.48
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"银行板块受益于内循环政策，技术评分0.85领先，板块强度0.747提供支撑，作为国内优质银行龙头，在关税政策不确定性下具备防御属性和政策受益双重优势，市场情绪相对稳定\",\n      \"risk_warning\": \"需关注银行业整体监管政策变化及利率环境对净息差的影响\"\n    },\n    {\n      \"stock_code\": \"000858\",\n      \"stock_name\": \"五粮液\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"消费内循环核心标的，技术评分0.78稳健，在关税政策扰动下国内高端消费品牌替代效应增强，基本面扎实，具备较强的抗风险能力和品牌护城河\",\n      \"risk_warning\": \"消费复苏节奏可能受宏观经济影响，估值处于相对高位\"\n    },\n    {\n      \"stock_code\": \"002415\",\n      \"stock_name\": \"海康威视\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"安防龙头受益于国产替代，但技术评分0.62相对较弱，国际贸易政策变化对其海外业务仍存在不确定性，内需市场支撑较强但需观察海外业务恢复情况\",\n      \"risk_warning\": \"海外业务受地缘政治影响较大，技术制裁风险仍需警惕\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极\",\n    \"sector_strength\": \"银行和消费板块相对稳健\",\n    \"policy_impact\": \"内循环政策利好明显，关税不确定性加速国产替代\"\n  },\n  \"risk_alert\": [\n    \"国际贸易政策变化可能引发市场波动\",\n    \"需密切关注美联储政策对全球流动性的影响\",\n    \"国内经济复苏节奏可能影响相关板块表现\",\n    \"技术面与基本面背离风险需要持续跟踪\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "国际贸易不确定性下，内需金融板块相对稳健，招商银行作为零售银行龙头受益于内循环政策",
+        "policy_relevance": "高 - 受益于内循环金融支持政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "000858",
+        "stock_name": "五粮液",
+        "recommendation_reason": "关税政策不确定性下，内需消费板块防御性强，高端白酒具有抗周期特性",
+        "policy_relevance": "中 - 内需消费受益于贸易环境不确定性",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "recommendation_reason": "贸易摩擦背景下，安防监控国产替代需求提升，公司技术自主性较强",
+        "policy_relevance": "高 - 直接受益于国产替代和政策支持",
+        "urgency_level": "高",
+        "confidence_score": 0.8
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威发布的时政要闻，虽然时效性评分较低，但央视作为国家级媒体，其报道具有政策导向意义。新闻聚焦美国关税政策的不确定性，暗示国际贸易环境可能面临波动，对相关产业具有重要警示作用。",
+      "policy_impact": "美国关税政策反复将加剧全球贸易不确定性，可能促使中国加速内循环战略，利好国内替代产业和自主可控领域。政策影响具有中长期效应，需关注后续政策配套措施。",
+      "theme_classification": {
+        "theme_type": "国际贸易政策/内循环替代",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "国际贸易",
+          "内需消费",
+          "国产替代"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "国际贸易不确定性下，内需金融板块相对稳健，招商银行作为零售银行龙头受益于内循环政策",
+          "policy_relevance": "高 - 受益于内循环金融支持政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "000858",
+          "stock_name": "五粮液",
+          "recommendation_reason": "关税政策不确定性下，内需消费板块防御性强，高端白酒具有抗周期特性",
+          "policy_relevance": "中 - 内需消费受益于贸易环境不确定性",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "002415",
+          "stock_name": "海康威视",
+          "recommendation_reason": "贸易摩擦背景下，安防监控国产替代需求提升，公司技术自主性较强",
+          "policy_relevance": "高 - 直接受益于国产替代和政策支持",
+          "urgency_level": "高",
+          "confidence_score": 0.8
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 21:15:42"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

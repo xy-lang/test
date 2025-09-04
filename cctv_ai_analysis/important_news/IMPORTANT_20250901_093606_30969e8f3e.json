@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-09-01 09:36:06",
+  "news_info": {
+    "id": "30969e8f3e",
+    "title": "今年暑期，受签证政策便利化、通航国家增多等因素影响，我国入境游市场热度持续攀升，越来越多的外国游客开启“中国游”，他们不仅逛胡同、品尝地道小吃、体验城市骑行，还会沉浸式感受中国传统文化。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTItoyWlnOg14l1ffZsamdR250901.shtml",
+    "publish_time": "2025-09-01 21:28:00",
+    "summary": "今年暑期，受签证政策便利化、通航国家增多等因素影响，我国入境游市场热度持续攀升，越来越多的外国游客开..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.9043000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 1.0,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": -11.88
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"name\": \"中青旅(600138)\",\n      \"score\": 0.92,\n      \"reason\": \"直接受益于入境旅游复苏，公司业务涵盖旅行社、景区运营、酒店等全产业链，与新闻主题高度契合。技术面显示板块强度0.85支撑强劲，近期量价配合良好，政策催化明确。作为旅游综合服务龙头，受益于签证便利化和传统文化体验需求增长\",\n      \"risk\": \"需关注宏观经济波动对旅游消费的影响，以及汇率波动对入境游的潜在影响\"\n    },\n    {\n      \"name\": \"锦江酒店(600754)\", \n      \"score\": 0.88,\n      \"reason\": \"酒店行业直接受益于入境游客增长，公司作为国内酒店龙头品牌优势明显。技术指标显示稳健上行趋势，板块强度支撑个股表现。外国游客增多将直接提升酒店入住率和房价，短期催化剂明确\",\n      \"risk\": \"酒店行业竞争激烈，需关注成本上升压力和同店增长不及预期的风险\"\n    },\n    {\n      \"name\": \"九华旅游(603199)\",\n      \"score\": 0.82,\n      \"reason\": \"聚焦传统文化旅游景区运营，与新闻中'沉浸式感受中国传统文化'主题高度匹配。技术面相对稳健，但市值较小波动性较大。受益于外国游客对传统文化体验的需求增长\",\n      \"risk\": \"景区业务受季节性影响较大，需关注客流增长可持续性和天气等因素影响\"\n    }\n  ],\n  \"overall_risk_alert\": \"板块整体面临的风险包括：1）地缘政治因素可能影响国际游客来源；2）国内经济复苏不及预期影响旅游消费；3）暑期过后季节性需求回落风险。建议控制仓位，设置止损位\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，直接受益于入境旅游市场复苏，具备完善的入境游接待体系和服务能力",
+        "policy_relevance": "高度相关，直接受益于签证便利化和入境游政策红利",
+        "urgency_level": "中等",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "recommendation_reason": "国内酒店行业龙头，入境游客增长将直接提升酒店入住率和房价，旗下品牌覆盖高中低端市场",
+        "policy_relevance": "高度相关，住宿是入境旅游核心需求环节",
+        "urgency_level": "中等",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "聚焦文化旅游景区运营，外国游客对中国传统文化的沉浸式体验需求将提升景区客流和二次消费",
+        "policy_relevance": "中度相关，受益于文化体验类旅游需求增长",
+        "urgency_level": "一般",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的权威报道，具有重要的政策导向意义。新闻反映了我国入境旅游市场的强劲复苏态势，体现了国家推动文旅产业发展的政策意图。央视新闻的权威背书增强了信息的可信度，对资本市场具有明确的引导作用。",
+      "policy_impact": "签证政策便利化和通航国家增多是国家层面推动入境旅游的重要举措，预计将带来持续的入境客流增长。这一政策导向符合国家扩大对外开放、促进消费升级的战略方向，具有中长期的政策支持。",
+      "theme_classification": {
+        "theme_type": "入境旅游复苏",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "旅游服务",
+          "酒店餐饮",
+          "交通运输",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，直接受益于入境旅游市场复苏，具备完善的入境游接待体系和服务能力",
+          "policy_relevance": "高度相关，直接受益于签证便利化和入境游政策红利",
+          "urgency_level": "中等",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "600754",
+          "stock_name": "锦江酒店",
+          "recommendation_reason": "国内酒店行业龙头，入境游客增长将直接提升酒店入住率和房价，旗下品牌覆盖高中低端市场",
+          "policy_relevance": "高度相关，住宿是入境旅游核心需求环节",
+          "urgency_level": "中等",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "聚焦文化旅游景区运营，外国游客对中国传统文化的沉浸式体验需求将提升景区客流和二次消费",
+          "policy_relevance": "中度相关，受益于文化体验类旅游需求增长",
+          "urgency_level": "一般",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 09:36:06"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

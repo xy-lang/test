@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-12 01:20:49",
+  "news_info": {
+    "id": "e39bd6fcb5",
+    "title": "9日晚上，2025“贵州村马”村级赛马联赛在贵州省三都水族自治县开赛。激烈的赛事、热闹的表演与篝火狂欢点燃了现场的气氛，数万名游客与当地群众一起载歌载舞。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTIBgIpDVWnMAkwvarZM1kD250811.shtml",
+    "publish_time": "2025-08-12 01:18:26",
+    "summary": "9日晚上，2025“贵州村马”村级赛马联赛在贵州省三都水族自治县开赛。激烈的赛事、热闹的表演与篝火狂..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.03
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻具有较高的时效性和持续性，虽然不涉及直接政策表述，但作为央视报道的贵州特色文旅活动，体现了国家对少数民族地区文旅产业发展的支持导向。",
+    "policy_impact": "间接反映乡村振兴和文旅融合政策在地方的落地，可能带动相关地区旅游消费和基建投资。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600358",
+        "stock_name": "国旅联合",
+        "recommendation_reason": "作为旅游综合服务商，直接受益于贵州特色文旅活动带来的客流增长",
+        "policy_relevance": "文旅产业融合发展",
+        "urgency_level": "中短期事件驱动",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "000610",
+        "stock_name": "西安旅游",
+        "recommendation_reason": "跨区域旅游运营商，少数民族地区旅游热度提升将带动整体业务",
+        "policy_relevance": "区域旅游协同发展",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "特色旅游目的地运营商，符合央视报道中强调的民族特色旅游发展方向",
+        "policy_relevance": "特色文旅转型升级",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.7
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

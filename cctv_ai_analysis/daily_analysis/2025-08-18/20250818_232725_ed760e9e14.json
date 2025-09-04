@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-08-18 23:27:25",
+  "news_info": {
+    "id": "ed760e9e14",
+    "title": "大型专题节目《习近平生态文明思想系列讲读》第三集《建设美丽中国》",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIKNKtIFV6egY8thDMKwwg250818.shtml",
+    "publish_time": "2025-08-18 22:41:22",
+    "summary": "大型专题节目《习近平生态文明思想系列讲读》第三集《建设美丽中国》"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8383,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.76
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻为央视重点时政要闻，涉及国家最高领导人生态文明思想，具有极强的政策导向性和权威性。综合强度0.84表明这是近期重要的政策信号，将直接影响环保产业政策走向。",
+    "policy_impact": "习近平生态文明思想将推动美丽中国建设加速，环保、生态修复、清洁能源等领域将获得政策红利，相关上市公司将迎来实质性业务增长机会。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600008",
+        "stock_name": "首创环保",
+        "recommendation_reason": "国内水务环保龙头企业，直接受益于美丽中国建设政策",
+        "policy_relevance": "高度相关，主营污水处理、固废处理等核心环保业务",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "300070",
+        "stock_name": "碧水源",
+        "recommendation_reason": "水处理技术领先企业，符合生态文明建设方向",
+        "policy_relevance": "高度相关，膜技术在水环境治理中具有战略地位",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "601200",
+        "stock_name": "上海环境",
+        "recommendation_reason": "固废处理领域标杆企业，受益于城市环境综合治理需求提升",
+        "policy_relevance": "高度相关，主营城市生活垃圾处理等核心业务",
+        "urgency_level": "中",
+        "confidence_score": 0.82
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 23:27:25"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

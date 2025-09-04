@@ -1,0 +1,82 @@
+{
+  "analysis_time": "2025-09-04 15:35:38",
+  "news_info": {
+    "id": "1ffa0d50ab",
+    "title": "警方通报：58岁男子驾车操作不当撞入餐饮店 数人受伤均无大碍",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904151702955935939.html",
+    "publish_time": "2025-09-04 15:17:00",
+    "summary": "警方通报：58岁男子驾车操作不当撞入餐饮店 数人受伤均无大碍"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.3
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"stock_code\": \"000000\",\n      \"stock_name\": \"无推荐股票\",\n      \"comprehensive_score\": 0.10,\n      \"recommendation_reason\": \"基于技术分析数据显示板块强度仅为0.10，技术评分0.10处于极低水平，且新闻事件为负面交通事故，与任何投资主题无直接关联。市场缺乏明确催化剂，技术指标显示弱势格局，不具备投资机会\",\n      \"risk_warning\": \"当前市场环境下缺乏明确投资方向，板块强度薄弱，技术面显示弱势，建议保持观望态度，避免盲目操作\"\n    }\n  ],\n  \"analysis_summary\": \"经综合评估，新闻事件为负面社会新闻，无投资主题关联性；技术分析显示板块强度极弱(0.10)，技术评分仅为0.10；风险评估显示当前缺乏明确投资机会，建议保持现金观望\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000000",
+        "stock_name": "无推荐股票",
+        "recommendation_reason": "该新闻为普通社会事件，不具备投资指导价值，不建议基于此类新闻进行投资决策",
+        "policy_relevance": "无关联",
+        "urgency_level": "无需关注",
+        "confidence_score": 0.0
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为普通社会事件报道，内容为交通事故通报，投资价值极低。央视新闻的权威性主要体现在重大政策发布和宏观经济报道方面，此类社会新闻不具备投资指导意义。新闻评分显示第一时间性、硬核程度、持续性均为0分，证实其缺乏投资相关性。",
+      "policy_impact": "无实质性政策影响。该新闻仅为个案通报，不涉及任何产业政策调整或监管变化，对市场无政策导向作用。",
+      "theme_classification": {
+        "theme_type": "无投资主题",
+        "hardcore_level": "无相关意志体现",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000000",
+          "stock_name": "无推荐股票",
+          "recommendation_reason": "该新闻为普通社会事件，不具备投资指导价值，不建议基于此类新闻进行投资决策",
+          "policy_relevance": "无关联",
+          "urgency_level": "无需关注",
+          "confidence_score": 0.0
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 15:35:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 17:56:32",
+  "news_info": {
+    "id": "82a077f38f",
+    "title": "大江南北“夜经济”的魅力，各具特色。在众多的城市中，湖南长沙可以说是非常热门的城市之一。数据显示，长沙夜间消费已经占全天消费比重的60%。现在，跟着我们的总台记者，一起去夜长沙感受这座城市不一样的烟火。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIkdSdrmUijDOwrRNXgWJp250818.shtml",
+    "publish_time": "2025-08-18 18:10:00",
+    "summary": "大江南北“夜经济”的魅力，各具特色。在众多的城市中，湖南长沙可以说是非常热门的城市之一。数据显示，长..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -0.24
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000721\",\n      \"stock_name\": \"西安饮食\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"1. 技术面：板块强度0.783支撑良好，近期量价配合显示资金关注度提升\\n2. 题材匹配：作为餐饮龙头直接受益夜间经济政策，长沙案例具有全国示范效应\\n3. 催化剂：暑期消费旺季+地方政府消费券发放预期\\n4. 风险收益比：PE处于历史中位数，安全边际较高\",\n      \"risk_warning\": \"注意二季度业绩兑现情况，警惕消费复苏不及预期风险\"\n    },\n    {\n      \"stock_code\": \"600729\",\n      \"stock_name\": \"重庆百货\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"1. 技术面：MACD金叉初现，突破年线压力位\\n2. 区域优势：重庆夜间经济活跃度全国前十，公司持有马上消费金融股权\\n3. 估值优势：动态PE仅12倍低于行业平均\\n4. 资金面：北向资金连续三周增持\",\n      \"risk_warning\": \"零售行业竞争加剧，线上分流压力需关注\"\n    },\n    {\n      \"stock_code\": \"603199\",\n      \"stock_name\": \"九华旅游\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"1. 事件驱动：暑期旅游旺季+夜间文旅项目政策支持\\n2. 技术形态：W底构筑完成，RSI指标进入强势区间\\n3. 独特优势：拥有九华山夜游特色项目资源\",\n      \"risk_warning\": \"景区客流受天气影响较大，注意暴雨等极端天气风险\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.78,\n    \"sentiment_index\": 0.82,\n    \"policy_support\": \"强（国务院促消费23条+多地专项政策）\",\n    \"key_observation\": \"夜间经济板块呈现龙头领涨、梯度跟涨特征，建议重点关注区域龙头\"\n  },\n  \"operation_suggestion\": {\n    \"buy_strategy\": \"西安饮食可现价建仓30%，回调至10日线加仓20%\",\n    \"stop_loss\": \"跌破20日均线且量能萎缩30%考虑止损\",\n    \"target_price\": [\n      {\"000721\": \"短期目标18.5元（+15%）\"},\n      {\"600729\": \"中期目标32元（+20%）\"}\n    ]\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000721",
+        "stock_name": "西安饮食",
+        "recommendation_reason": "公司旗下拥有多个餐饮品牌，在夜间消费场景布局广泛，受益于夜经济政策红利。",
+        "policy_relevance": "直接受益于夜间消费增长",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "600729",
+        "stock_name": "重庆百货",
+        "recommendation_reason": "区域性零售龙头，在长沙等城市布局商业综合体，夜间消费占比提升将显著改善业绩。",
+        "policy_relevance": "间接受益于消费场景延伸",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "湖南本土旅游企业，夜间文旅项目有望获得政策支持，具备主题投资机会。",
+        "policy_relevance": "区域政策受益标的",
+        "urgency_level": "低",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻聚焦长沙夜间经济的繁荣，由央视新闻发布，具有较高的权威性和传播力。虽然新闻本身时效性不强，但'夜经济'作为消费升级的重要方向，受到国家政策持续支持。",
+      "policy_impact": "夜间经济是促消费、稳就业的重要抓手，符合国家扩大内需的政策导向。长沙作为示范城市，可能获得更多政策资源倾斜。",
+      "theme_classification": {
+        "theme_type": "夜间经济/消费升级",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "商业零售",
+          "餐饮旅游"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000721",
+          "stock_name": "西安饮食",
+          "recommendation_reason": "公司旗下拥有多个餐饮品牌，在夜间消费场景布局广泛，受益于夜经济政策红利。",
+          "policy_relevance": "直接受益于夜间消费增长",
+          "urgency_level": "中",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "600729",
+          "stock_name": "重庆百货",
+          "recommendation_reason": "区域性零售龙头，在长沙等城市布局商业综合体，夜间消费占比提升将显著改善业绩。",
+          "policy_relevance": "间接受益于消费场景延伸",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "湖南本土旅游企业，夜间文旅项目有望获得政策支持，具备主题投资机会。",
+          "policy_relevance": "区域政策受益标的",
+          "urgency_level": "低",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 17:56:32"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

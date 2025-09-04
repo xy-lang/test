@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-19 14:32:28",
+  "news_info": {
+    "id": "309d12a32f",
+    "title": "上合组织峰会临近，天津的城市景观氛围布置逐渐到位，处处洋溢着喜庆的氛围。全新提升的地标、景点，成为了市民休闲娱乐、打卡分享的新热点。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTI0MGXVzd2i71jIePdV6tI250819.shtml",
+    "publish_time": "2025-08-19 13:08:00",
+    "summary": "上合组织峰会临近，天津的城市景观氛围布置逐渐到位，处处洋溢着喜庆的氛围。全新提升的地标、景点，成为了..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.39
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600717\",\n      \"stock_name\": \"天津港\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"1. 技术面：板块强度0.75支撑良好，近期成交量温和放大，MACD金叉形成\\n2. 事件关联：作为天津核心基建标的，直接受益于城市形象提升和物流需求增长\\n3. 政策面：叠加'一带一路'港口建设政策红利\\n4. 风险收益比：PB仅0.8倍，安全边际较高\",\n      \"risk_warning\": \"需警惕外贸数据波动风险，短期涨幅已部分反映预期\"\n    },\n    {\n      \"stock_code\": \"000652\",\n      \"stock_name\": \"泰达股份\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"1. 技术面：周线级别突破年线压力，RSI指标进入强势区间\\n2. 业务优势：控股股东参与多个天津城市更新项目\\n3. 催化剂：环保+金融双主业可能获政策倾斜\\n4. 资金面：北向资金连续两周净流入\",\n      \"risk_warning\": \"负债率偏高(68%)，需关注债务结构优化进展\"\n    },\n    {\n      \"stock_code\": \"600082\",\n      \"stock_name\": \"海泰发展\",\n      \"composite_score\": 0.70,\n      \"recommendation_reason\": \"1. 技术面：日线形成上升通道，但量能配合稍弱\\n2. 区域优势：滨海新区主要产业园区运营商\\n3. 事件弹性：小市值特征(40亿)具备短期炒作空间\",\n      \"risk_warning\": \"主营业务毛利率持续下滑，存在业绩不及预期风险\"\n    }\n  ],\n  \"market_context\": {\n    \"favorable_factors\": [\n      \"重大国际会议前维稳预期\",\n      \"京津冀协同发展政策加码\",\n      \"基建投资增速回升\"\n    ],\n    \"risk_factors\": [\n      \"美联储加息预期扰动市场\",\n      \"板块轮动过快导致持续性不足\",\n      \"会期结束后利好出尽风险\"\n    ]\n  },\n  \"operation_suggestion\": {\n    \"position_control\": \"单票仓位建议不超过15%\",\n    \"timing_suggestion\": \"会前7-10天布局，注意利好兑现时点\",\n    \"stop-loss_strategy\": \"跌破10日均线考虑减仓\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600717",
+        "stock_name": "天津港",
+        "recommendation_reason": "作为天津核心基建标的，将直接受益于峰会举办带来的物流需求提升和城市形象展示。央视报道强化了市场对天津基建升级的预期。",
+        "policy_relevance": "高度相关，港口是城市重要基础设施",
+        "urgency_level": "中短期事件驱动",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "000652",
+        "stock_name": "泰达股份",
+        "recommendation_reason": "天津本地综合型国企，业务涵盖区域开发、环保等，可能参与峰会相关配套项目建设。央视报道提升了区域龙头企业的关注度。",
+        "policy_relevance": "区域政策直接受益方",
+        "urgency_level": "中短期配置",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600082",
+        "stock_name": "海泰发展",
+        "recommendation_reason": "天津高新区开发运营商，受益于城市景观升级和商业配套需求。央视报道中提到的'地标提升'与其业务直接相关。",
+        "policy_relevance": "城市更新直接参与者",
+        "urgency_level": "事件驱动",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻作为央视报道的上合组织峰会筹备情况，具有较高的政策权威性。虽然新闻本身时效性较短，但作为国家级外交活动的前期预热报道，对相关地区基建、文旅等产业具有短期提振作用。",
+      "policy_impact": "上合组织峰会是国家级外交活动，天津作为举办城市将获得政策倾斜和资源投入，对本地基建、文旅、消费等行业形成直接利好。",
+      "theme_classification": {
+        "theme_type": "事件驱动型/区域经济",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "基建工程",
+          "文化旅游",
+          "商业零售"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600717",
+          "stock_name": "天津港",
+          "recommendation_reason": "作为天津核心基建标的，将直接受益于峰会举办带来的物流需求提升和城市形象展示。央视报道强化了市场对天津基建升级的预期。",
+          "policy_relevance": "高度相关，港口是城市重要基础设施",
+          "urgency_level": "中短期事件驱动",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "000652",
+          "stock_name": "泰达股份",
+          "recommendation_reason": "天津本地综合型国企，业务涵盖区域开发、环保等，可能参与峰会相关配套项目建设。央视报道提升了区域龙头企业的关注度。",
+          "policy_relevance": "区域政策直接受益方",
+          "urgency_level": "中短期配置",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600082",
+          "stock_name": "海泰发展",
+          "recommendation_reason": "天津高新区开发运营商，受益于城市景观升级和商业配套需求。央视报道中提到的'地标提升'与其业务直接相关。",
+          "policy_relevance": "城市更新直接参与者",
+          "urgency_level": "事件驱动",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 14:32:28"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

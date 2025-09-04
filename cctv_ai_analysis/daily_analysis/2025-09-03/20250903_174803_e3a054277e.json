@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 17:48:03",
+  "news_info": {
+    "id": "e3a054277e",
+    "title": "东湖评论：让抗战历史在思政课教学中“活起来”",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903171018543535484.html",
+    "publish_time": "2025-09-03 17:10:00",
+    "summary": "东湖评论：让抗战历史在思政课教学中“活起来”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7624000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.72,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.62
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600373\",\n      \"stock_name\": \"中文传媒\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术面表现稳健，板块强度0.743提供支撑，与红色文化教育题材高度契合，作为传媒龙头直接受益于思政课教学改革政策，具备国家意志级别的政策催化\",\n      \"risk_warning\": \"需关注传媒行业政策变化风险及市场情绪波动\"\n    },\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.76,\n      \"recommendation_reason\": \"技术评分位于板块前列，央视背景与红色文化传播高度相关，在思政课数字化内容制作方面具有独特优势，受益于教育信息化政策推进\",\n      \"risk_warning\": \"传媒行业竞争激烈，需关注内容制作成本上升风险\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"教育信息化标的，技术指标相对稳健，在线教育平台建设与思政课数字化教学需求匹配，但关联度略低于前两只标的\",\n      \"risk_warning\": \"教育行业政策监管风险较高，需密切关注相关政策变化\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_support\": \"板块强度0.743处于中等偏上水平，技术评分0.74显示整体技术面表现良好，为个股提供一定支撑\",\n    \"market_sentiment\": \"教育信息化和红色文化题材符合国家政策导向，市场关注度较高\",\n    \"risk_assessment\": \"综合板块风险中等，需警惕政策执行进度不及预期和市场整体调整风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600373",
+        "stock_name": "中文传媒",
+        "recommendation_reason": "作为国内主要教材出版企业，将直接受益于思政教材需求增长，央视报道提升政策预期",
+        "policy_relevance": "高度相关，教材出版是思政教育重要载体",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "教育信息化服务商，可为思政课提供数字化教学解决方案，契合'活起来'的教学要求",
+        "policy_relevance": "中度相关，数字化教育工具支持",
+        "urgency_level": "中等",
+        "confidence_score": 0.68
+      },
+      {
+        "rank": 3,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下上市公司，可能参与红色教育内容制作，受益央视平台资源优势",
+        "policy_relevance": "中度相关，内容制作与传播",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威媒体发布的时政要闻，聚焦思政课教学改革，体现国家层面对爱国主义教育和历史传承的重视。虽然新闻本身时效性不强，但央视的权威背书使其具有政策风向标意义，可能预示相关教育政策支持力度加大。",
+      "policy_impact": "该新闻反映国家强化思想政治教育的方向，符合当前教育强国战略。预计将推动思政教材出版、红色教育内容制作、爱国主义教育基地建设等相关产业发展，具有中长期政策支持预期。",
+      "theme_classification": {
+        "theme_type": "教育信息化+红色文化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "教育服务",
+          "文化传媒",
+          "出版发行"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600373",
+          "stock_name": "中文传媒",
+          "recommendation_reason": "作为国内主要教材出版企业，将直接受益于思政教材需求增长，央视报道提升政策预期",
+          "policy_relevance": "高度相关，教材出版是思政教育重要载体",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "教育信息化服务商，可为思政课提供数字化教学解决方案，契合'活起来'的教学要求",
+          "policy_relevance": "中度相关，数字化教育工具支持",
+          "urgency_level": "中等",
+          "confidence_score": 0.68
+        },
+        {
+          "rank": 3,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下上市公司，可能参与红色教育内容制作，受益央视平台资源优势",
+          "policy_relevance": "中度相关，内容制作与传播",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 17:48:03"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

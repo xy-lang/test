@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-09-01 11:26:13",
+  "news_info": {
+    "id": "621d859b4f",
+    "title": "山东高速集团斩获两个百亿级海外项目，马来西亚市场实现突破",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901110233850264417.html",
+    "publish_time": "2025-09-01 11:02:00",
+    "summary": "山东高速集团斩获两个百亿级海外项目，马来西亚市场实现突破"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7822,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.78,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.39
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有高度公信力和政策导向性。该新闻评分0.78表明事件具有较强时效性和持续性，山东高速集团斩获百亿级海外项目体现'一带一路'基建出海战略的实质性突破，对相关板块形成直接利好。",
+    "policy_impact": "事件契合'一带一路'基础设施互联互通政策导向，马来西亚市场突破彰显国际工程承包竞争力提升，后续可能引发交通基建、工程机械板块的政策催化效应。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600350",
+        "stock_name": "山东高速",
+        "recommendation_reason": "直接受益于母公司海外项目突破，集团国际工程承包业务增量将提升上市公司业绩预期",
+        "policy_relevance": "直接对应'一带一路'基建出海政策",
+        "urgency_level": "高",
+        "confidence_score": 0.92
+      },
+      {
+        "rank": 2,
+        "stock_code": "601800",
+        "stock_name": "中国交建",
+        "recommendation_reason": "作为国际工程承包龙头，海外重大项目落地将强化板块估值修复预期",
+        "policy_relevance": "高度契合基础设施'走出去'战略",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "000680",
+        "stock_name": "山推股份",
+        "recommendation_reason": "山东属地工程机械企业，海外基建项目扩张将带动设备需求增长",
+        "policy_relevance": "间接受益于基建出海产业链配套",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:26:13"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

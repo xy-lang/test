@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-09-04 16:59:23",
+  "news_info": {
+    "id": "1ffa0d50ab",
+    "title": "警方通报：58岁男子驾车操作不当撞入餐饮店 数人受伤均无大碍",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904151702955935939.html",
+    "publish_time": "2025-09-04 15:17:00",
+    "summary": "警方通报：58岁男子驾车操作不当撞入餐饮店 数人受伤均无大碍"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.69
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"综合金融属性提供多元化风险分散，技术指标相对稳健，新闻事件虽无直接利好但保险业务具备一定抗风险能力，板块强度中等提供支撑\",\n      \"risk_warning\": \"市场整体情绪偏弱，金融板块受宏观经济影响较大，需关注利率环境和监管政策变化\"\n    },\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"银行业务相对稳定，技术评分在板块中表现较好，零售银行特性提供一定防御性，板块强度0.123提供有限支撑\",\n      \"risk_warning\": \"银行板块面临息差收窄压力，房地产相关风险需要关注，技术指标显示上行空间有限\"\n    },\n    {\n      \"stock_code\": \"000001\",\n      \"stock_name\": \"平安银行\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"作为银行股具备一定防御属性，但技术指标相对较弱，板块支撑力度有限，缺乏明确的短期催化剂\",\n      \"risk_warning\": \"技术面偏弱，板块整体强度不足，需警惕市场系统性风险对银行股的冲击\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"银行板块强度0.123显示整体偏弱，缺乏明显上涨动力\",\n    \"news_relevance\": \"新闻事件与推荐股票无直接关联，缺乏明确的政策受益或短期催化剂\",\n    \"overall_risk_level\": \"中等风险，建议谨慎配置，控制仓位\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "recommendation_reason": "基于新闻缺乏投资价值，推荐防御性金融股作为避险选择",
+        "policy_relevance": "低-与新闻无直接关联",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 2,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "金融板块稳健性配置，与新闻事件无实质关联",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.12
+      },
+      {
+        "rank": 3,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "保险板块龙头，但与此交通事故新闻关联度极弱",
+        "policy_relevance": "极低",
+        "urgency_level": "极低",
+        "confidence_score": 0.08
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为普通社会事件报道，投资价值极低。新闻内容为交通事故类社会新闻，无政策导向性，时效性差，对资本市场无直接影响。央视新闻的权威性在此类报道中主要体现在信息真实性保障，但缺乏投资指导意义。",
+      "policy_impact": "无实质性政策影响。该事件属于偶发交通事故，不涉及产业政策调整或监管变化，对相关行业无政策导向作用。",
+      "theme_classification": {
+        "theme_type": "无明确投资题材",
+        "hardcore_level": "无相关意志体现",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000001",
+          "stock_name": "平安银行",
+          "recommendation_reason": "基于新闻缺乏投资价值，推荐防御性金融股作为避险选择",
+          "policy_relevance": "低-与新闻无直接关联",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 2,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "金融板块稳健性配置，与新闻事件无实质关联",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.12
+        },
+        {
+          "rank": 3,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "保险板块龙头，但与此交通事故新闻关联度极弱",
+          "policy_relevance": "极低",
+          "urgency_level": "极低",
+          "confidence_score": 0.08
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 16:59:23"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

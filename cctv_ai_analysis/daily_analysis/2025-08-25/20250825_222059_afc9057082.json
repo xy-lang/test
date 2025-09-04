@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-25 22:20:59",
+  "news_info": {
+    "id": "afc9057082",
+    "title": "在此次受阅的徒步方队中，空军方队受阅官兵来自一线作战部队，全员参加过实装跳伞训练。在阅兵训练场上，他们步伐铿锵有力、气势如虹，汇聚成蓝色的钢铁长城。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIS4WEftq6C9vf09lH7bIH250825.shtml",
+    "publish_time": "2025-08-25 19:21:00",
+    "summary": "在此次受阅的徒步方队中，空军方队受阅官兵来自一线作战部队，全员参加过实装跳伞训练。在阅兵训练场上，他..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 2.98
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600760\",\n      \"stock_name\": \"中航沈飞\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"作为国内战斗机主机厂龙头，直接受益于空军现代化建设。技术评分0.78高于板块平均水平，板块强度0.717提供有力支撑。新闻中提到的空军方队训练与公司产品高度相关，政策受益程度最高，短期催化剂明确。\",\n      \"risk_warning\": \"需关注军工订单交付节奏波动风险，估值相对较高存在回调压力\"\n    },\n    {\n      \"stock_code\": \"600893\",\n      \"stock_name\": \"航发动力\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"航空发动机核心供应商，技术壁垒高。技术评分0.75表现稳健，受益于航空装备升级需求。新闻中实装跳伞训练体现对航空动力系统的需求，中长期成长确定性较强。\",\n      \"risk_warning\": \"发动机研发周期较长，短期业绩释放可能不及预期，需关注技术突破进度\"\n    },\n    {\n      \"stock_code\": \"000768\",\n      \"stock_name\": \"中航西飞\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"军用运输机和轰炸机主要生产商，与新闻中空降兵训练场景契合度较高。技术评分0.63相对较低但处于上升趋势，受益于国防现代化进程。\",\n      \"risk_warning\": \"民机业务占比较高，受民航市场波动影响，军工订单集中度风险需要关注\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.717,\n    \"market_sentiment\": \"积极\",\n    \"technical_indicator_support\": \"良好\",\n    \"news_relevance\": \"高度相关\",\n    \"policy_benefit\": \"国家战略级别\",\n    \"risk_assessment\": \"中等偏低\"\n  },\n  \"general_risk_warning\": \"军工板块受政策影响较大，需密切关注军费预算变化；个股估值普遍较高，存在市场情绪波动风险；技术分析显示板块整体强度良好，但需防范大盘系统性风险\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "作为国内主要战斗机生产企业，与空军装备建设高度相关，央视军事报道提升市场对军工板块关注度",
+        "policy_relevance": "高",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "recommendation_reason": "航空发动机核心企业，受益于空军装备升级换代，央视权威报道增强投资者对军工行业信心",
+        "policy_relevance": "高",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "recommendation_reason": "军用运输机和轰炸机主要制造商，与空军作战部队装备建设密切相关，受益于国防现代化进程",
+        "policy_relevance": "中高",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威发布的军事阅兵报道，虽非重大政策发布，但体现了国家军事现代化建设的成果展示。央视新闻作为国家级媒体，其报道具有高度权威性和广泛传播力，能够有效提升相关军工概念的市场关注度。",
+      "policy_impact": "新闻反映了国家持续推进国防现代化建设的政策导向，虽非直接政策利好，但间接强化了军工板块的政策预期。结合'十四五'规划中关于国防建设的相关内容，此类报道有助于维持军工行业的政策热度。",
+      "theme_classification": {
+        "theme_type": "军工/国防现代化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "国防军工",
+          "航空航天",
+          "装备制造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600760",
+          "stock_name": "中航沈飞",
+          "recommendation_reason": "作为国内主要战斗机生产企业，与空军装备建设高度相关，央视军事报道提升市场对军工板块关注度",
+          "policy_relevance": "高",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600893",
+          "stock_name": "航发动力",
+          "recommendation_reason": "航空发动机核心企业，受益于空军装备升级换代，央视权威报道增强投资者对军工行业信心",
+          "policy_relevance": "高",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "000768",
+          "stock_name": "中航西飞",
+          "recommendation_reason": "军用运输机和轰炸机主要制造商，与空军作战部队装备建设密切相关，受益于国防现代化进程",
+          "policy_relevance": "中高",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 22:20:59"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

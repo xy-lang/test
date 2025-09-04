@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-02 23:25:15",
+  "news_info": {
+    "id": "1d96f0c0bc",
+    "title": "又是一箭11星！日照火箭发射别错过！时间来了",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250902212830280283017.html",
+    "publish_time": "2025-09-02 21:28:00",
+    "summary": "又是一箭11星！日照火箭发射别错过！时间来了"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6944,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.72,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.94
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600118\",\n      \"stock_name\": \"中国卫星\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为卫星制造龙头企业，与新闻事件直接相关度最高，受益于国家航天战略推进。技术指标显示近期有资金关注迹象，板块强度支撑明显，政策催化确定性最强。\",\n      \"risk_warning\": \"需关注卫星发射任务执行进度不及预期风险，以及估值偏高带来的回调压力\"\n    },\n    {\n      \"stock_code\": \"600879\",\n      \"stock_name\": \"航天电子\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"航天电子配套核心供应商，在火箭发射产业链中地位重要。技术面呈现温和放量态势，受益于航天发射频次提升，业绩弹性较大。\",\n      \"risk_warning\": \"军工订单波动性较大，需注意业绩兑现时间不确定性\"\n    },\n    {\n      \"stock_code\": \"002465\",\n      \"stock_name\": \"海格通信\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"卫星通信地面设备重要厂商，受益于卫星互联网基础设施建设。技术指标相对稳健，但短期催化强度略弱于前两只标的。\",\n      \"risk_warning\": \"民用业务占比较高，军品业务占比相对较低，政策受益程度稍弱\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_positive\": true,\n    \"technical_indicators_aligned\": true,\n    \"news_relevance_high\": true,\n    \"policy_benefit_level\": \"国家战略级\",\n    \"short_term_catalyst\": \"强\",\n    \"sector_risk\": \"中等\",\n    \"fundamental_risk\": \"中等偏低\",\n    \"market_timing_risk\": \"中等\"\n  },\n  \"risk_disclaimer\": \"航天板块受政策影响较大，存在事件驱动行情结束后回调风险；个股估值普遍偏高，需警惕市场情绪转变；建议控制仓位，设置止损位。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600118",
+        "stock_name": "中国卫星",
+        "recommendation_reason": "央视报道航天发射事件提升市场对卫星产业链关注度，公司作为卫星制造龙头直接受益",
+        "policy_relevance": "高度契合国家航天产业发展政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.72
+      },
+      {
+        "rank": 2,
+        "stock_code": "600879",
+        "stock_name": "航天电子",
+        "recommendation_reason": "航天发射任务配套电子设备供应商，央视权威报道可能带动板块情绪",
+        "policy_relevance": "航天配套产业核心企业",
+        "urgency_level": "中等偏低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "002465",
+        "stock_name": "海格通信",
+        "recommendation_reason": "卫星导航和通信设备厂商，受益于卫星发射带来的应用生态建设",
+        "policy_relevance": "卫星应用产业链重要环节",
+        "urgency_level": "中等偏低",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视报道的火箭发射事件，虽然内容本身为科技成就展示，但央视作为国家级媒体平台，其报道具有权威背书效应。新闻评分较低（第一时间性0/10、硬核程度0/10、持续性0/10）表明这属于常规科技报道，投资直接关联性较弱，但央视的权威性可能引发市场对航天板块的关注",
+      "policy_impact": "符合国家航天强国战略导向，属于'十四五'规划重点发展的航天科技领域。虽然单次发射事件影响有限，但持续体现我国航天产业的技术进步和商业化进程，对相关产业链有长期政策支撑",
+      "theme_classification": {
+        "theme_type": "航天科技/卫星互联网",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "航天军工",
+          "卫星导航",
+          "通信设备"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600118",
+          "stock_name": "中国卫星",
+          "recommendation_reason": "央视报道航天发射事件提升市场对卫星产业链关注度，公司作为卫星制造龙头直接受益",
+          "policy_relevance": "高度契合国家航天产业发展政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.72
+        },
+        {
+          "rank": 2,
+          "stock_code": "600879",
+          "stock_name": "航天电子",
+          "recommendation_reason": "航天发射任务配套电子设备供应商，央视权威报道可能带动板块情绪",
+          "policy_relevance": "航天配套产业核心企业",
+          "urgency_level": "中等偏低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "002465",
+          "stock_name": "海格通信",
+          "recommendation_reason": "卫星导航和通信设备厂商，受益于卫星发射带来的应用生态建设",
+          "policy_relevance": "卫星应用产业链重要环节",
+          "urgency_level": "中等偏低",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 23:25:15"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

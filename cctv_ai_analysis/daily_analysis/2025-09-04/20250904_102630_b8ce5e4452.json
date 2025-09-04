@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 10:26:30",
+  "news_info": {
+    "id": "b8ce5e4452",
+    "title": "青海00后姑娘把雪山大地故事讲给全国人民听",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904082401365711816.html",
+    "publish_time": "2025-09-04 08:24:00",
+    "summary": "青海00后姑娘把雪山大地故事讲给全国人民听"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6911,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.71,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.03
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"603099\",\n      \"stock_name\": \"长白山\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"与新闻主题高度契合，作为冰雪旅游目的地代表直接受益；技术面相对稳健，板块强度支撑明显；地处东北冰雪经济核心区域，政策催化效应最强\",\n      \"risk_warning\": \"季节性波动风险较大，冬季过后业绩可能回落；估值相对较高，需关注业绩兑现情况\"\n    },\n    {\n      \"stock_code\": \"600749\",\n      \"stock_name\": \"西藏旅游\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"契合乡村振兴和文化旅游主题，西藏地区旅游资源独特；技术指标显示企稳迹象，具备反弹潜力；政策扶持力度较大\",\n      \"risk_warning\": \"地理位置偏远，运营成本较高；受气候和交通条件影响较大；估值波动性较高\"\n    },\n    {\n      \"stock_code\": \"600258\",\n      \"stock_name\": \"首旅酒店\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"作为酒店行业龙头，间接受益于旅游复苏；技术面相对稳定，但板块关联度稍弱；品牌优势和规模效应明显\",\n      \"risk_warning\": \"与新闻主题关联度相对间接；酒店行业竞争激烈，利润率承压；宏观经济波动影响较大\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极，文化旅游板块受政策支持，但整体市场情绪仍需观察\",\n    \"technical_support\": \"板块强度0.6属于中等水平，技术评分0.6显示个股技术面整体稳健但不够强势\",\n    \"risk_assessment\": \"板块风险中等，需关注政策执行效果和季节性因素；个股基本面风险需关注业绩兑现\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "央视报道提升青海旅游关注度，利好旅游产业链。首旅酒店在西北地区布局较多，受益于区域旅游热度提升",
+        "policy_relevance": "文化旅游政策受益",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "603099",
+        "stock_name": "长白山",
+        "recommendation_reason": "雪山旅游相关标的，虽然不在青海但同属西部旅游概念，可能获得资金关注",
+        "policy_relevance": "旅游产业政策",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "600749",
+        "stock_name": "西藏旅游",
+        "recommendation_reason": "西部地区旅游股，受益于央视对西部旅游文化的宣传推广",
+        "policy_relevance": "区域旅游发展",
+        "urgency_level": "低",
+        "confidence_score": 0.5
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻属于典型的地方文化宣传类报道，虽然内容积极正面，但投资价值有限。央视新闻的权威性确实能为相关地区和企业带来关注度提升，但该新闻缺乏实质性政策支撑和产业影响，属于软性宣传类内容，投资转化率较低。",
+      "policy_impact": "该新闻主要体现文化自信和乡村振兴政策导向，但缺乏具体的产业扶持政策或资金支持。属于政策宣传层面，对具体上市公司的直接影响较弱，更多是情绪面和品牌价值的间接影响。",
+      "theme_classification": {
+        "theme_type": "文化旅游/乡村振兴",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "文化旅游",
+          "传媒",
+          "区域经济"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "央视报道提升青海旅游关注度，利好旅游产业链。首旅酒店在西北地区布局较多，受益于区域旅游热度提升",
+          "policy_relevance": "文化旅游政策受益",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "603099",
+          "stock_name": "长白山",
+          "recommendation_reason": "雪山旅游相关标的，虽然不在青海但同属西部旅游概念，可能获得资金关注",
+          "policy_relevance": "旅游产业政策",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "600749",
+          "stock_name": "西藏旅游",
+          "recommendation_reason": "西部地区旅游股，受益于央视对西部旅游文化的宣传推广",
+          "policy_relevance": "区域旅游发展",
+          "urgency_level": "低",
+          "confidence_score": 0.5
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:26:30"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 00:32:30",
+  "news_info": {
+    "id": "7ab1605c9e",
+    "title": "各地花式“避暑游”点燃消费热情",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTIGnmAr48nHx670LFxVYgy250814.shtml",
+    "publish_time": "2025-08-15 00:31:19",
+    "summary": "各地花式“避暑游”点燃消费热情"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.77395,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.65,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有高度公信力和广泛影响力。本次关于'避暑游'的报道综合强度达0.77，表明该主题在当前具有显著的社会关注度和政策导向性，可能带动相关消费板块的市场表现。",
+    "policy_impact": "虽然报道中未直接提及具体政策，但'避暑游'主题契合当前促进消费、发展文旅产业的政策方向，可能获得地方政策支持，具有潜在的政策红利。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，直接受益于避暑旅游热潮，且公司在线旅游平台优势明显。",
+        "policy_relevance": "高度相关，符合国家促进文旅消费政策导向",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "拥有九华山等避暑胜地资源，暑期客流增长确定性高。",
+        "policy_relevance": "高度相关，景区类企业直接受益",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "000888",
+        "stock_name": "峨眉山A",
+        "recommendation_reason": "知名避暑旅游目的地，夏季客流高峰将显著提升业绩。",
+        "policy_relevance": "高度相关，区域旅游龙头",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

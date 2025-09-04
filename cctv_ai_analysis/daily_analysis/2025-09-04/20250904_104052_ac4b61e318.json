@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-04 10:40:52",
+  "news_info": {
+    "id": "ac4b61e318",
+    "title": "关于拟认定刘建伟、于海祥、董洪震等见义勇为行为的公示",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904100109340298577.html",
+    "publish_time": "2025-09-04 10:01:00",
+    "summary": "关于拟认定刘建伟、于海祥、董洪震等见义勇为行为的公示"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7756000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.76,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.65
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:40:52"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

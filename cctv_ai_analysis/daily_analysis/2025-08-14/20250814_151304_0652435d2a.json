@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-14 15:13:04",
+  "news_info": {
+    "id": "0652435d2a",
+    "title": "8月13日，中国人民银行发布7月金融统计数据报告。数据显示，7月，社会融资规模、广义货币（M2）、人民币贷款继续高于经济增速，金融对实体经济支持的力度继续维持较高水平。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTI249EQuL2TMS6fDEuDg6t250814.shtml",
+    "publish_time": "2025-08-14 15:12:18",
+    "summary": "8月13日，中国人民银行发布7月金融统计数据报告。数据显示，7月，社会融资规模、广义货币（M2）、人..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.9043000000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 1.0,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由权威媒体央视发布，涉及央行重要金融数据，具有极高的政策导向性和市场影响力。综合强度0.90表明该信息对资本市场将产生显著影响，特别是对金融板块和实体经济相关行业。",
+    "policy_impact": "央行维持较高金融支持力度将利好银行信贷业务、中小企业融资和基建投资，预计将带动相关板块估值提升。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "作为综合金融龙头，将直接受益于信贷规模扩张和金融支持政策",
+        "policy_relevance": "高度相关，主营保险、银行、投资业务",
+        "urgency_level": "高",
+        "confidence_score": 0.92
+      },
+      {
+        "rank": 2,
+        "stock_code": "601166",
+        "stock_name": "兴业银行",
+        "recommendation_reason": "股份制银行代表，信贷业务弹性大，受益于社会融资规模增长",
+        "policy_relevance": "高度相关，直接受益于贷款政策",
+        "urgency_level": "中高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 3,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "基建龙头，将受益于金融对实体经济的支持政策",
+        "policy_relevance": "相关，基建投资是金融支持重点领域",
+        "urgency_level": "中",
+        "confidence_score": 0.85
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

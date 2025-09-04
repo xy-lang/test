@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-04 10:23:36",
+  "news_info": {
+    "id": "dab664a9a4",
+    "title": "8岁男童眼底被激光笔\"射穿\" 已经形成裂孔视力永久损伤",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904083811228576660.html",
+    "publish_time": "2025-09-04 08:38:00",
+    "summary": "8岁男童眼底被激光笔\"射穿\" 已经形成裂孔视力永久损伤"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7109,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.77,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.74
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:23:36"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

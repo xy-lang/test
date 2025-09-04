@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-21 21:16:32",
+  "news_info": {
+    "id": "513ad8fd99",
+    "title": "特朗普政府悄然扩大了50%钢铁和铝关税的覆盖范围，给企业和美国贸易伙伴带来了广泛的不确定性。美国关税政策反复无常、伤人害己、得不偿失。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIsueKPnkbKcGCNaNROSHO250821.shtml",
+    "publish_time": "2025-08-21 14:31:00",
+    "summary": "特朗普政府悄然扩大了50%钢铁和铝关税的覆盖范围，给企业和美国贸易伙伴带来了广泛的不确定性。美国关税..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7683,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.71,
+      "persistence": 1.0,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 6.75
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600019\",\n      \"stock_name\": \"宝钢股份\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"作为国内钢铁行业龙头，宝钢股份直接受益于美国钢铁关税政策。技术面显示板块强度0.39虽不高但稳定，公司基本面扎实，出口业务占比较高，政策催化效应明显。短期有望获得市场关注，具备较好的防御性和政策受益性。\",\n      \"risk_warning\": \"需关注国际贸易政策变化风险、原材料价格波动风险以及下游需求不及预期风险\"\n    },\n    {\n      \"stock_code\": \"000898\",\n      \"stock_name\": \"鞍钢股份\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"鞍钢股份作为大型钢铁企业，同样受益于关税政策带来的行业利好。公司产品结构较为完善，技术指标显示相对稳健。在政策催化下，估值修复空间较大，但需关注公司具体出口业务占比。\",\n      \"risk_warning\": \"存在行业周期性风险、环保政策压力以及汇率波动对出口业务的影响\"\n    },\n    {\n      \"stock_code\": \"600362\",\n      \"stock_name\": \"江西铜业\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"虽然铝关税政策对铜业公司影响相对间接，但作为有色金属龙头企业，江西铜业可能受益于金属板块整体情绪提升。技术评分相对稳定，但政策关联度略低于钢铁企业。\",\n      \"risk_warning\": \"政策受益程度相对有限，需警惕大宗商品价格波动风险和国际市场需求变化\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极\",\n    \"sector_strength\": \"中等偏弱(0.39)\",\n    \"policy_catalyst\": \"较强但存在不确定性\",\n    \"recommendation_strategy\": \"建议重点关注宝钢股份，适度配置鞍钢股份，谨慎观察江西铜业\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600019",
+        "stock_name": "宝钢股份",
+        "recommendation_reason": "作为国内钢铁龙头，具备较强的抗贸易风险能力，央视报道可能引发短期关注",
+        "policy_relevance": "间接相关，关税政策影响钢铁进出口",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      },
+      {
+        "rank": 2,
+        "stock_code": "000898",
+        "stock_name": "鞍钢股份",
+        "recommendation_reason": "东北地区钢铁企业，受益于国内基建投资，贸易政策影响相对较小",
+        "policy_relevance": "间接相关",
+        "urgency_level": "低",
+        "confidence_score": 0.4
+      },
+      {
+        "rank": 3,
+        "stock_code": "600362",
+        "stock_name": "江西铜业",
+        "recommendation_reason": "铝关税政策可能影响有色金属板块，但公司以内需为主，影响有限",
+        "policy_relevance": "间接相关",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及美国贸易政策变化，虽然央视新闻具有权威性，但此条新闻时效性较差（2025年8月发布），且属于常规贸易政策报道，投资价值有限。央视的权威性主要体现在政策解读的准确性，但作为投资信号需要结合更及时的市场反应",
+      "policy_impact": "美国关税政策调整对全球贸易格局影响有限，中国已建立完善的贸易反制机制。当前中美贸易关系相对稳定，此类政策变动属于常规博弈，不会引发大规模市场波动",
+      "theme_classification": {
+        "theme_type": "贸易政策题材",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "钢铁",
+          "有色金属",
+          "外贸代理"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600019",
+          "stock_name": "宝钢股份",
+          "recommendation_reason": "作为国内钢铁龙头，具备较强的抗贸易风险能力，央视报道可能引发短期关注",
+          "policy_relevance": "间接相关，关税政策影响钢铁进出口",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        },
+        {
+          "rank": 2,
+          "stock_code": "000898",
+          "stock_name": "鞍钢股份",
+          "recommendation_reason": "东北地区钢铁企业，受益于国内基建投资，贸易政策影响相对较小",
+          "policy_relevance": "间接相关",
+          "urgency_level": "低",
+          "confidence_score": 0.4
+        },
+        {
+          "rank": 3,
+          "stock_code": "600362",
+          "stock_name": "江西铜业",
+          "recommendation_reason": "铝关税政策可能影响有色金属板块，但公司以内需为主，影响有限",
+          "policy_relevance": "间接相关",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 21:16:32"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

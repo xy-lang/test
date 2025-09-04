@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 11:49:47",
+  "news_info": {
+    "id": "0e3c686e68",
+    "title": "这个暑期，许多景区景点开发了新场景、新玩法，吸引游客前来避暑纳凉、“清凉一夏”。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIJtHfjyA6C0JC3HSkIqIB250818.shtml",
+    "publish_time": "2025-08-18 11:48:08",
+    "summary": "这个暑期，许多景区景点开发了新场景、新玩法，吸引游客前来避暑纳凉、“清凉一夏”。"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"中青旅(600138)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"技术指标表现最佳，近期呈现稳定上涨趋势\",\n        \"作为国内大型旅游集团，暑期旅游概念直接受益\",\n        \"业务覆盖景区运营、旅行社、酒店等全产业链\",\n        \"近期成交量温和放大，显示资金关注度提升\"\n      ],\n      \"risks\": [\n        \"旅游行业受季节性影响较大\",\n        \"需警惕暑期后业绩回落风险\"\n      ]\n    },\n    {\n      \"stock\": \"峨眉山A(000888)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"作为知名避暑胜地运营商，与新闻主题高度契合\",\n        \"技术面呈现突破形态，MACD指标金叉\",\n        \"景区门票及索道业务将直接受益暑期客流增长\"\n      ],\n      \"risks\": [\n        \"单一景区经营风险\",\n        \"自然灾害等不可抗力因素影响\"\n      ]\n    },\n    {\n      \"stock\": \"九华旅游(603199)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"专注佛教文化旅游，暑期客流预期良好\",\n        \"技术面相对稳健，处于上升通道\",\n        \"估值相对合理，安全边际较高\"\n      ],\n      \"risks\": [\n        \"区域竞争加剧风险\",\n        \"宗教政策敏感性\"\n      ]\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": \"中性\",\n    \"technical_sentiment\": \"偏多\",\n    \"news_correlation\": \"高度相关\"\n  },\n  \"general_risks\": [\n    \"暑期极端天气可能影响旅游出行\",\n    \"消费复苏不及预期风险\",\n    \"板块轮动可能导致资金流出\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，直接受益于暑期旅游旺季。央视报道虽非直接利好，但会强化市场对旅游板块的关注。",
+        "policy_relevance": "间接相关，反映行业景气度",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "主营景区运营，符合新闻中'景区开发新场景'的描述。作为区域性旅游龙头，暑期业绩有望提升。",
+        "policy_relevance": "中等相关",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "000888",
+        "stock_name": "峨眉山A",
+        "recommendation_reason": "传统避暑胜地运营商，契合'避暑纳凉'主题。央视背书可能提升投资者对景区类股票关注度。",
+        "policy_relevance": "中等相关",
+        "urgency_level": "中等",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然来自权威媒体央视新闻，但内容属于常规旅游季节性报道，缺乏重大政策或行业变革信息。从投资角度看，这属于典型的季节性题材炒作，新闻本身的重要性较低。",
+      "policy_impact": "无直接政策影响，但可视为对文旅产业复苏的侧面印证。当前国家确实在推动文旅消费升级，但该新闻并未提及具体支持政策。",
+      "theme_classification": {
+        "theme_type": "暑期旅游/避暑经济",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "旅游",
+          "酒店餐饮"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，直接受益于暑期旅游旺季。央视报道虽非直接利好，但会强化市场对旅游板块的关注。",
+          "policy_relevance": "间接相关，反映行业景气度",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 2,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "主营景区运营，符合新闻中'景区开发新场景'的描述。作为区域性旅游龙头，暑期业绩有望提升。",
+          "policy_relevance": "中等相关",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "000888",
+          "stock_name": "峨眉山A",
+          "recommendation_reason": "传统避暑胜地运营商，契合'避暑纳凉'主题。央视背书可能提升投资者对景区类股票关注度。",
+          "policy_relevance": "中等相关",
+          "urgency_level": "中等",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:49:47"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

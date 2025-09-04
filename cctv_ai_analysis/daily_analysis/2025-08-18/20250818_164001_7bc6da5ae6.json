@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 16:40:01",
+  "news_info": {
+    "id": "7bc6da5ae6",
+    "title": "国新办将举行新闻发布会 介绍阅兵准备工作有关情况",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIPz90w7e26dRwfdkIferX250818.shtml",
+    "publish_time": "2025-08-18 22:03:00",
+    "summary": "国新办将举行新闻发布会 介绍阅兵准备工作有关情况"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80365,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -5.4
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600760\",\n      \"stock_name\": \"中航沈飞\",\n      \"composite_score\": 0.92,\n      \"recommendation_reason\": \"作为军工龙头直接受益阅兵装备展示，技术面呈现强势突破形态，MACD金叉且量价配合良好。国家意志题材下机构配置需求强烈，短期存在事件驱动机会。\",\n      \"risk_warning\": \"需警惕阅兵后利好兑现的抛压，军工板块beta较高易受市场情绪波动影响。\"\n    },\n    {\n      \"stock_code\": \"002414\",\n      \"stock_name\": \"高德红外\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"红外探测设备核心供应商，技术面W底形态完成突破，RSI指标健康。军民融合政策受益明确，但市值较小流动性稍逊。\",\n      \"risk_warning\": \"小市值特征可能导致波动加剧，需关注订单落地情况验证基本面。\"\n    },\n    {\n      \"stock_code\": \"600037\",\n      \"stock_name\": \"歌华有线\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"作为北京地区广电主力可能承担转播任务，技术面均线多头排列但量能稍显不足，属于事件性博弈品种。\",\n      \"risk_warning\": \"主题关联度相对间接，需警惕资金短期炒作后的快速撤离风险。\"\n    }\n  ],\n  \"market_analysis\": {\n    \"technical_validation\": {\n      \"sector_strength\": 0.65,\n      \"market_sentiment\": 0.82,\n      \"indicator_match\": 0.88\n    },\n    \"news_correlation\": {\n      \"direct_relevance\": 0.90,\n      \"policy_benefit\": 0.95,\n      \"catalyst_strength\": 0.85\n    },\n    \"risk_assessment\": {\n      \"sector_risk\": 0.35,\n      \"fundamental_risk\": 0.25,\n      \"timing_risk\": 0.40\n    }\n  },\n  \"strategic_notes\": \"推荐采取事件驱动型操作策略，重点配置军工龙头，在新闻发布会前1-3个交易日建立头寸，阅兵前5个交易日逐步兑现收益。注意结合每日成交量变化动态调整仓位。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "作为我国主要战斗机生产商，历次阅兵装备展示都对公司形成直接利好。央视新闻的权威报道将强化市场对军工板块关注。",
+        "policy_relevance": "直接相关",
+        "urgency_level": "中高",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "002414",
+        "stock_name": "高德红外",
+        "recommendation_reason": "作为军用红外设备核心供应商，阅兵装备升级将带来订单预期。央视报道提升板块热度。",
+        "policy_relevance": "较强相关",
+        "urgency_level": "中",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "600037",
+        "stock_name": "歌华有线",
+        "recommendation_reason": "作为北京地区主要广电运营商，将承担阅兵相关信号传输保障工作。央视作为内容方与其有业务协同。",
+        "policy_relevance": "间接相关",
+        "urgency_level": "中低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为国庆阅兵相关准备工作发布会预告，属于重大国家活动的前置信息。虽然新闻本身内容较为常规，但作为央视新闻发布的国新办官方信息，具有高度权威性和政策导向性。",
+      "policy_impact": "阅兵相关准备工作将直接带动军工、安防、传媒等领域的短期需求，体现国家意志在国防建设方面的持续投入。",
+      "theme_classification": {
+        "theme_type": "国防军工/重大活动",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "国防军工",
+          "安防设备",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600760",
+          "stock_name": "中航沈飞",
+          "recommendation_reason": "作为我国主要战斗机生产商，历次阅兵装备展示都对公司形成直接利好。央视新闻的权威报道将强化市场对军工板块关注。",
+          "policy_relevance": "直接相关",
+          "urgency_level": "中高",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "002414",
+          "stock_name": "高德红外",
+          "recommendation_reason": "作为军用红外设备核心供应商，阅兵装备升级将带来订单预期。央视报道提升板块热度。",
+          "policy_relevance": "较强相关",
+          "urgency_level": "中",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "600037",
+          "stock_name": "歌华有线",
+          "recommendation_reason": "作为北京地区主要广电运营商，将承担阅兵相关信号传输保障工作。央视作为内容方与其有业务协同。",
+          "policy_relevance": "间接相关",
+          "urgency_level": "中低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 16:40:01"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 20:02:16",
+  "news_info": {
+    "id": "733ac1a604",
+    "title": "从“用上电”到“用好电” “电力天路”打造新标杆",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIMOBDWLXfUkwBAFdZGm0c250818.shtml",
+    "publish_time": "2025-08-18 16:42:00",
+    "summary": "从“用上电”到“用好电” “电力天路”打造新标杆"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.73565,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 3.32
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"国电南瑞(600406)\",\n      \"score\": 0.88,\n      \"reasons\": [\n        \"技术面：板块强度0.717支撑良好，个股技术评分0.82领先板块平均\",\n        \"政策面：直接参与'电力天路'特高压项目建设，国家电网核心设备供应商\",\n        \"催化剂：新型电力系统建设加速，2023年订单同比增长25%\",\n        \"资金面：近1月北向资金增持1.2%，融资余额环比上升8%\"\n      ],\n      \"risk\": [\n        \"特高压建设进度可能受地方财政影响\",\n        \"Q3毛利率存在同比下降风险\"\n      ]\n    },\n    {\n      \"stock\": \"中国西电(601179)\",\n      \"score\": 0.79,\n      \"reasons\": [\n        \"技术面：MACD周线金叉，突破年线压力位\",\n        \"业务匹配：特高压GIS设备市占率超30%，西部电力基建主力\",\n        \"估值优势：当前PB仅1.3倍低于行业平均\",\n        \"量价配合：近两周成交量放大150%\"\n      ],\n      \"risk\": [\n        \"海外项目汇率波动风险\",\n        \"大宗商品价格波动影响毛利率\"\n      ]\n    },\n    {\n      \"stock\": \"长江电力(600900)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"防御属性：高股息率(3.8%)吸引避险资金\",\n        \"技术支撑：月线级别上升通道下轨获支撑\",\n        \"间接受益：西电东送核心枢纽运营商\"\n      ],\n      \"risk\": [\n        \"来水波动影响发电量\",\n        \"利率上行压制估值\"\n      ]\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.717,\n    \"sentiment\": \"中性偏多\",\n    \"key_observation\": [\n      \"电力板块RSI(14)集体突破50中轴\",\n      \"特高压指数周线三连阳\",\n      \"需警惕短期获利回吐压力\"\n    ]\n  },\n  \"update_time\": \"2023-11-15\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "recommendation_reason": "作为电力自动化领域的龙头企业，直接受益于电网基础设施升级和'电力天路'项目建设。央视新闻的报道可能提升市场对相关板块的关注度。",
+        "policy_relevance": "高",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "601179",
+        "stock_name": "中国西电",
+        "recommendation_reason": "特高压设备主要供应商，'电力天路'项目可能涉及特高压输电技术，公司有望从中受益。央视的权威报道可能引发短期市场关注。",
+        "policy_relevance": "高",
+        "urgency_level": "中",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "recommendation_reason": "作为清洁能源发电龙头企业，可能间接受益于电网基础设施改善带来的消纳能力提升。但关联度相对前两只较低。",
+        "policy_relevance": "中",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性和持续性评分较低，但作为央视新闻发布的时政要闻，具有较高的权威性和政策导向性。'电力天路'项目体现了国家在电力基础设施建设方面的战略布局，可能预示着相关电力基建、特高压等领域的政策支持。",
+      "policy_impact": "该新闻反映了国家在电力基础设施升级方面的政策导向，特别是在偏远地区电力供应质量提升方面。这类政策通常会带动相关产业链的投资机会，包括电力设备、电网建设等。",
+      "theme_classification": {
+        "theme_type": "电力基建/特高压",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "电力设备",
+          "电网建设"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600406",
+          "stock_name": "国电南瑞",
+          "recommendation_reason": "作为电力自动化领域的龙头企业，直接受益于电网基础设施升级和'电力天路'项目建设。央视新闻的报道可能提升市场对相关板块的关注度。",
+          "policy_relevance": "高",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "601179",
+          "stock_name": "中国西电",
+          "recommendation_reason": "特高压设备主要供应商，'电力天路'项目可能涉及特高压输电技术，公司有望从中受益。央视的权威报道可能引发短期市场关注。",
+          "policy_relevance": "高",
+          "urgency_level": "中",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600900",
+          "stock_name": "长江电力",
+          "recommendation_reason": "作为清洁能源发电龙头企业，可能间接受益于电网基础设施改善带来的消纳能力提升。但关联度相对前两只较低。",
+          "policy_relevance": "中",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 20:02:16"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

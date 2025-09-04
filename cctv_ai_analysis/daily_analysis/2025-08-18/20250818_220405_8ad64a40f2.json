@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 22:04:05",
+  "news_info": {
+    "id": "8ad64a40f2",
+    "title": "国务院新闻办公室8月18日举行“高质量完成‘十四五’规划”系列主题新闻发布会，中央统战部、全国人大常委会、全国政协、国家民委的相关负责人介绍了“十四五”时期发展社会主义民主有关情况。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTI6nKOJ3hIvj3JbDnkcAXS250818.shtml",
+    "publish_time": "2025-08-18 08:31:00",
+    "summary": "国务院新闻办公室8月18日举行“高质量完成‘十四五’规划”系列主题新闻发布会，中央统战部、全国人大常..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.732,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.8,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 3,
+      "hours_since_publish": 13.54
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"中国建筑(601668)\",\n      \"score\": 0.88,\n      \"reasons\": [\n        \"与'十四五'规划中的基建投资高度契合\",\n        \"技术指标显示板块强度0.817，处于强势区间\",\n        \"作为央企龙头，直接受益于国家战略实施\",\n        \"近期成交量温和放大，MACD金叉形成\"\n      ],\n      \"risks\": [\n        \"房地产行业下行可能影响部分业务\",\n        \"大盘系统性风险\"\n      ]\n    },\n    {\n      \"stock\": \"隆基绿能(601012)\",\n      \"score\": 0.82,\n      \"reasons\": [\n        \"新能源是国家战略重点方向\",\n        \"技术面呈现突破形态，RSI处于健康区间\",\n        \"受益于绿色基建政策红利\",\n        \"行业龙头地位稳固\"\n      ],\n      \"risks\": [\n        \"光伏行业竞争加剧\",\n        \"国际贸易政策风险\"\n      ]\n    },\n    {\n      \"stock\": \"恒生电子(600570)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"金融科技与数字化建设相关\",\n        \"技术指标显示短期超买，需等待回调机会\",\n        \"受益于金融基础设施升级\"\n      ],\n      \"risks\": [\n        \"科技板块估值波动较大\",\n        \"业绩增速可能放缓\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"market_sentiment\": \"中性偏多\",\n    \"sector_strength\": \"基建>新能源>金融科技\",\n    \"optimal_entry\": \"等待恒生电子回调至20日均线\",\n    \"time_horizon\": \"3-6个月中期持有\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "作为基建龙头央企，将直接受益于'十四五'规划中基础设施建设的持续推进。央视新闻的权威背书增强了政策确定性。",
+        "policy_relevance": "高度相关，'十四五'规划明确加强基础设施建设",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "601012",
+        "stock_name": "隆基绿能",
+        "recommendation_reason": "新能源是'十四五'规划重点发展方向，央视报道强化了政策持续性预期。公司作为光伏龙头将长期受益。",
+        "policy_relevance": "高度相关，符合国家能源转型战略",
+        "urgency_level": "长期持有",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "600570",
+        "stock_name": "恒生电子",
+        "recommendation_reason": "数字经济是'十四五'重要方向，公司作为金融科技龙头将受益于数字化转型政策推进。央视权威报道提升行业能见度。",
+        "policy_relevance": "中度相关，符合数字经济发展方向",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于国家层面的政策宣导类新闻，内容涉及'十四五'规划的高质量完成，具有较高的政策权威性。但由于缺乏具体产业或企业的直接关联信息，其投资指导性相对有限。",
+      "policy_impact": "作为国务院新闻办公室举办的发布会，体现了国家层面对'十四五'规划执行情况的高度重视，可能预示着相关配套政策将加速落地，对基建、新能源等国家战略产业形成长期利好。",
+      "theme_classification": {
+        "theme_type": "国家战略规划",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "基础设施建设",
+          "新能源",
+          "数字经济"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "作为基建龙头央企，将直接受益于'十四五'规划中基础设施建设的持续推进。央视新闻的权威背书增强了政策确定性。",
+          "policy_relevance": "高度相关，'十四五'规划明确加强基础设施建设",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "601012",
+          "stock_name": "隆基绿能",
+          "recommendation_reason": "新能源是'十四五'规划重点发展方向，央视报道强化了政策持续性预期。公司作为光伏龙头将长期受益。",
+          "policy_relevance": "高度相关，符合国家能源转型战略",
+          "urgency_level": "长期持有",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 3,
+          "stock_code": "600570",
+          "stock_name": "恒生电子",
+          "recommendation_reason": "数字经济是'十四五'重要方向，公司作为金融科技龙头将受益于数字化转型政策推进。央视权威报道提升行业能见度。",
+          "policy_relevance": "中度相关，符合数字经济发展方向",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 22:04:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-02 23:27:50",
+  "news_info": {
+    "id": "d1e107a100",
+    "title": "为危重孕产妇撑起生命希望，临沂市妇幼保健院引进ECMO技术",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250902205208286794883.html",
+    "publish_time": "2025-09-02 20:52:00",
+    "summary": "为危重孕产妇撑起生命希望，临沂市妇幼保健院引进ECMO技术"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7175,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.79,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.58
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术指标相对稳健，与ECMO技术关联度较高，作为心血管介入器械龙头，在重症监护设备领域具备技术积累，受益于妇幼保健院设备升级需求。板块强度中等偏上支撑个股表现，短期存在政策催化机会。\",\n      \"risk_warning\": \"需关注集采政策对医疗器械价格的影响，以及市场整体估值回调风险\"\n    },\n    {\n      \"stock_code\": \"002223\",\n      \"stock_name\": \"鱼跃医疗\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"家用医疗设备与医院设备双轮驱动，在呼吸治疗、监护设备等领域产品线完整，与ECMO周边设备存在协同效应。技术面呈现温和上升趋势，市场情绪相对稳定。\",\n      \"risk_warning\": \"面临行业竞争加剧风险，需关注原材料成本上升对利润率的影响\"\n    },\n    {\n      \"stock_code\": \"600587\",\n      \"stock_name\": \"新华医疗\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"消毒灭菌设备龙头，在医院感染控制领域优势明显，虽与ECMO技术直接关联度较低，但受益于医院整体设备采购周期。技术指标显示短期震荡整理态势。\",\n      \"risk_warning\": \"业绩增长稳定性有待观察，需警惕医疗设备采购周期波动风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength\": 0.55,\n    \"market_sentiment\": \"中性偏积极\",\n    \"news_relevance\": \"中等偏高\",\n    \"overall_risk_level\": \"中等\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "国内心血管介入器械龙头，ECMO相关设备技术储备较为完善，受益于高端医疗设备国产替代趋势",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "recommendation_reason": "家用医疗器械龙头，在呼吸治疗、监护仪等产品线有布局，可能间接受益于ECMO技术普及",
+        "policy_relevance": "中等偏低",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "600587",
+        "stock_name": "新华医疗",
+        "recommendation_reason": "医疗器械消毒灭菌设备龙头，医院设备更新需求可能带来间接机会",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视发布，但内容为地方医院技术引进，投资价值有限。央视权威性虽高，但新闻本身缺乏市场敏感度和投资指向性，属于常规医疗技术报道，对资本市场直接影响较弱。",
+      "policy_impact": "符合国家医疗设备国产化政策导向，但属于地方性执行层面，政策推动力有限。ECMO技术虽属高端医疗设备，但单条新闻难以形成显著政策催化效应。",
+      "theme_classification": {
+        "theme_type": "医疗设备/妇幼保健",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "医疗器械",
+          "医疗服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "国内心血管介入器械龙头，ECMO相关设备技术储备较为完善，受益于高端医疗设备国产替代趋势",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "002223",
+          "stock_name": "鱼跃医疗",
+          "recommendation_reason": "家用医疗器械龙头，在呼吸治疗、监护仪等产品线有布局，可能间接受益于ECMO技术普及",
+          "policy_relevance": "中等偏低",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "600587",
+          "stock_name": "新华医疗",
+          "recommendation_reason": "医疗器械消毒灭菌设备龙头，医院设备更新需求可能带来间接机会",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 23:27:50"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

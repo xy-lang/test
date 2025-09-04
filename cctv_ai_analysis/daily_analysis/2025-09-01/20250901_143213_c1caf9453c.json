@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 14:32:13",
+  "news_info": {
+    "id": "c1caf9453c",
+    "title": "火车学生票优惠新政，即将上线！",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIWVz2hvVo56RyXAHCVF80250901.shtml",
+    "publish_time": "2025-09-01 19:33:00",
+    "summary": "火车学生票优惠新政，即将上线！"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.77395,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.65,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -5.03
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601333\",\n      \"stock_name\": \"广深铁路\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"直接受益于学生票优惠新政，作为客运铁路龙头，政策关联度最高。技术评分0.78高于板块平均，板块强度0.717提供支撑，短期催化剂明确，国家意志题材具备持续性\",\n      \"risk_warning\": \"铁路板块整体估值偏低，需关注政策落地进度；客运量恢复不及预期风险；大盘系统性风险\"\n    },\n    {\n      \"stock_code\": \"601006\",\n      \"stock_name\": \"大秦铁路\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"货运为主但受益铁路行业整体政策利好，技术评分0.75稳健，现金流稳定，股息率较高具备防御性，板块联动效应明显\",\n      \"risk_warning\": \"与学生票政策关联度相对间接；煤炭运输需求波动风险；重资产行业财务杠杆较高\"\n    },\n    {\n      \"stock_code\": \"600125\",\n      \"stock_name\": \"铁龙物流\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"物流运输板块受益于学生客流带来的物流需求，技术评分0.63相对较弱但处于上升趋势，多元化业务结构提供额外增长点\",\n      \"risk_warning\": \"政策受益程度相对间接；市场竞争激烈；技术面相对弱势需观察突破情况\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_positive\": true,\n    \"technical_indicator_alignment\": \"良好\",\n    \"policy_benefit_level\": \"高\",\n    \"short_term_catalyst\": \"强\",\n    \"overall_risk_level\": \"中等\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601333",
+        "stock_name": "广深铁路",
+        "recommendation_reason": "作为华南地区重要铁路运营商，学生客流占比较高，新政将直接提升客运收入和车辆利用率",
+        "policy_relevance": "高度相关，直接受益于学生票优惠政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "recommendation_reason": "虽然以货运为主，但客运业务也将间接受益，且公司运营效率高，具备估值优势",
+        "policy_relevance": "中度相关，间接受益于铁路客运政策",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "600125",
+        "stock_name": "铁龙物流",
+        "recommendation_reason": "铁路物流综合服务商，客运政策利好将带动整体铁路运输生态发展",
+        "policy_relevance": "间接相关，受益于铁路运输整体景气度提升",
+        "urgency_level": "一般",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性较弱，但作为央视新闻发布的政策信息，具有较高的权威性和可信度。学生票优惠新政将直接刺激铁路客运需求，特别是在学生返校和假期出行高峰期，对铁路运输板块形成实质性利好。",
+      "policy_impact": "政策将提升铁路客运量，特别是学生群体出行频次，预计将带动铁路运输企业营收增长。政策导向符合国家促进教育公平和降低学生出行成本的民生导向，具有持续的政策支持预期。",
+      "theme_classification": {
+        "theme_type": "铁路运输/学生消费",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "铁路运输",
+          "交通运输",
+          "消费服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601333",
+          "stock_name": "广深铁路",
+          "recommendation_reason": "作为华南地区重要铁路运营商，学生客流占比较高，新政将直接提升客运收入和车辆利用率",
+          "policy_relevance": "高度相关，直接受益于学生票优惠政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "601006",
+          "stock_name": "大秦铁路",
+          "recommendation_reason": "虽然以货运为主，但客运业务也将间接受益，且公司运营效率高，具备估值优势",
+          "policy_relevance": "中度相关，间接受益于铁路客运政策",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "600125",
+          "stock_name": "铁龙物流",
+          "recommendation_reason": "铁路物流综合服务商，客运政策利好将带动整体铁路运输生态发展",
+          "policy_relevance": "间接相关，受益于铁路运输整体景气度提升",
+          "urgency_level": "一般",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 14:32:13"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

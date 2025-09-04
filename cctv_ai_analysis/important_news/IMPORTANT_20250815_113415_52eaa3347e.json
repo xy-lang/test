@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 11:34:15",
+  "news_info": {
+    "id": "52eaa3347e",
+    "title": "“两山”理念“绿色密码”让茶园更绿 茶农日子更甜",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/15/ARTIaFzKfQMlItqovQmL6aqJ250815.shtml",
+    "publish_time": "2025-08-15 11:33:54",
+    "summary": "“两山”理念“绿色密码”让茶园更绿 茶农日子更甜"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80365,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由央视新闻发布，属于时政要闻类别，具有极高的权威性和传播力。'两山'理念作为国家重要政策导向，对绿色农业和生态产业具有长期指导意义。新闻综合强度0.80表明其市场影响力较大。",
+    "policy_impact": "该新闻体现了国家对绿色农业和生态发展的政策支持，预计将带动相关产业链发展，特别是生态茶园、绿色农业等细分领域。政策持续性较强，具有中长期投资价值。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600059",
+        "stock_name": "古越龙山",
+        "recommendation_reason": "作为黄酒龙头企业，积极布局生态农业产业链，符合'两山'绿色发展理念",
+        "policy_relevance": "高度相关，直接受益于生态农业政策",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "600186",
+        "stock_name": "莲花健康",
+        "recommendation_reason": "主营调味品生产，积极布局绿色食品产业链，契合生态农业发展政策",
+        "policy_relevance": "较高相关，间接受益于农业绿色发展",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "600962",
+        "stock_name": "国投中鲁",
+        "recommendation_reason": "果汁加工龙头企业，注重原料基地的生态建设，符合新闻中绿色发展理念",
+        "policy_relevance": "中等相关，符合生态农业发展方向",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-25 23:57:13",
+  "news_info": {
+    "id": "3b39c105aa",
+    "title": "地质灾害黄色预警、暴雨黄色预警！北京市民注意防范",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTI9fbiu4F9v30xznY26CD4250825.shtml",
+    "publish_time": "2025-08-25 22:23:16",
+    "summary": "地质灾害黄色预警、暴雨黄色预警！北京市民注意防范"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.73565,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.55
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002372\",\n      \"stock_name\": \"伟星新材\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"技术评分领先（约0.78），作为建材龙头直接受益于城市防灾基础设施建设需求，政策催化明确。板块强度0.717提供良好支撑，近期成交量温和放大显示资金关注度提升，符合国家防灾减灾政策导向。\",\n      \"risk_warning\": \"需关注房地产行业整体景气度影响，短期涨幅过大可能存在技术性回调风险\"\n    },\n    {\n      \"stock_code\": \"603588\",\n      \"stock_name\": \"高能环境\",\n      \"comprehensive_score\": 0.79,\n      \"recommendation_reason\": \"环境治理标的，暴雨预警后环境修复需求提升，技术评分约0.75处于良好区间。公司在固废处理和水环境治理领域具有优势，符合城市安全应急主题，政策受益程度较高。\",\n      \"risk_warning\": \"环保行业受政策影响较大，项目回款周期较长可能影响现金流\"\n    },\n    {\n      \"stock_code\": \"300055\",\n      \"stock_name\": \"万邦达\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"水务环保概念，直接受益于暴雨预警带来的水务基础设施建设需求。技术评分约0.68相对稳健，但相比前两只个股弹性稍弱。公司在工业水处理领域有一定优势。\",\n      \"risk_warning\": \"市值相对较小，流动性风险需要关注，业绩波动性较大\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_strength\": \"0.717（良好支撑）\",\n    \"policy_catalyst\": \"国家防灾减灾政策强力推动\",\n    \"time_horizon\": \"短期1-2周具备事件驱动机会\"\n  },\n  \"general_risk_warning\": \"需警惕大盘系统性风险，注意暴雨灾害实际影响程度可能低于预期，建议控制仓位并设置止损位。所有推荐基于当前市场环境，投资有风险，决策需谨慎。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002372",
+        "stock_name": "伟星新材",
+        "recommendation_reason": "作为国内塑料管道龙头企业，暴雨预警将推动城市排水系统改造需求，公司产品广泛应用于市政排水工程",
+        "policy_relevance": "高度相关，直接受益于城市防涝基础设施建设",
+        "urgency_level": "中高",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "300055",
+        "stock_name": "万邦达",
+        "recommendation_reason": "专业的水处理和环境工程服务商，在暴雨应急处理和城市水环境治理方面具有技术优势",
+        "policy_relevance": "较强相关，涉及城市水环境治理和应急处理",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "603588",
+        "stock_name": "高能环境",
+        "recommendation_reason": "专注于环境修复和固废处理，在地质灾害防治和环境应急领域有丰富经验",
+        "policy_relevance": "中度相关，涉及地质灾害防治和环境应急",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视发布的北京地区地质灾害和暴雨黄色预警，虽然时效性评分较低，但央视作为国家级权威媒体，其发布的预警信息具有高度公信力和政策导向性。此类预警往往预示着相关应急响应机制的启动和防灾减灾投入的加大",
+      "policy_impact": "国家层面高度重视城市安全和应急管理体系建设，此类预警将直接推动：1）城市排水系统升级改造 2）地质灾害防治工程 3）应急物资储备和救援设备采购 4）智慧城市监测系统建设",
+      "theme_classification": {
+        "theme_type": "城市安全应急+基础设施建设",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "工程建设",
+          "专用设备",
+          "建筑材料"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002372",
+          "stock_name": "伟星新材",
+          "recommendation_reason": "作为国内塑料管道龙头企业，暴雨预警将推动城市排水系统改造需求，公司产品广泛应用于市政排水工程",
+          "policy_relevance": "高度相关，直接受益于城市防涝基础设施建设",
+          "urgency_level": "中高",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "300055",
+          "stock_name": "万邦达",
+          "recommendation_reason": "专业的水处理和环境工程服务商，在暴雨应急处理和城市水环境治理方面具有技术优势",
+          "policy_relevance": "较强相关，涉及城市水环境治理和应急处理",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "603588",
+          "stock_name": "高能环境",
+          "recommendation_reason": "专注于环境修复和固废处理，在地质灾害防治和环境应急领域有丰富经验",
+          "policy_relevance": "中度相关，涉及地质灾害防治和环境应急",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 23:57:13"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

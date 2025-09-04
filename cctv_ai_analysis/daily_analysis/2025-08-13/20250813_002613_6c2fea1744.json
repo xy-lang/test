@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-13 00:26:13",
+  "news_info": {
+    "id": "6c2fea1744",
+    "title": "7月促消费政策持续发力，1380亿元“国补”资金陆续下达。在相关政策的促进下，居民消费热情和信心不断增强，“夏日经济”成为7月份线上销售增长的主要驱动力。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/12/ARTIbhGoBi8CRgmpZHIXaujn250812.shtml",
+    "publish_time": "2025-08-13 00:23:46",
+    "summary": "7月促消费政策持续发力，1380亿元“国补”资金陆续下达。在相关政策的促进下，居民消费热情和信心不断..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.9191500000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.755,
+      "persistence": 1.0,
+      "source_weight": 0.95,
+      "policy_hits": 2,
+      "hours_since_publish": 0.03
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由央视发布，具有最高权威性。0.92的综合强度表明这是近期最重要的促消费政策之一，1380亿元补贴资金将直接刺激消费市场。",
+    "policy_impact": "政策将显著提升消费板块景气度，特别是与'夏日经济'相关的线上零售、家电、食品饮料等行业将直接受益。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002024",
+        "stock_name": "苏宁易购",
+        "recommendation_reason": "作为线上零售龙头，将直接受益于夏日经济线上销售增长和政策补贴",
+        "policy_relevance": "直接受益于促消费政策和线上销售增长",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "recommendation_reason": "家电消费是促消费政策重点，夏季空调等产品需求旺盛",
+        "policy_relevance": "家电下乡等政策直接受益标的",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "600887",
+        "stock_name": "伊利股份",
+        "recommendation_reason": "夏季饮品消费旺季叠加促消费政策，乳制品需求将显著提升",
+        "policy_relevance": "食品饮料消费是政策重点支持领域",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

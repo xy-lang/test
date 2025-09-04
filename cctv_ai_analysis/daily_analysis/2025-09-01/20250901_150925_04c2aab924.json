@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 15:09:25",
+  "news_info": {
+    "id": "04c2aab924",
+    "title": "公安机关打击非法破解无人机飞控系统黑客违法犯罪",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTI0U4YoVgcYyWRQOy9MZAt250901.shtml",
+    "publish_time": "2025-09-01 16:00:00",
+    "summary": "公安机关打击非法破解无人机飞控系统黑客违法犯罪"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80035,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -0.86
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002415\",\n      \"stock_name\": \"海康威视\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术评分0.85分领先，作为安防龙头直接受益于无人机安全监管政策，公司视频监控技术与无人机安防高度契合，板块强度0.733提供支撑，政策催化明确\",\n      \"risk_warning\": \"需关注海外业务地缘政治风险及宏观经济对政府项目支出的影响\"\n    },\n    {\n      \"stock_code\": \"002236\",\n      \"stock_name\": \"大华股份\",\n      \"comprehensive_score\": 0.76,\n      \"recommendation_reason\": \"技术评分0.78分良好，安防领域第二梯队龙头，无人机监控解决方案成熟，政策受益程度高，估值相对合理，市场情绪配合\",\n      \"risk_warning\": \"面临行业竞争加剧风险，需关注原材料成本波动\"\n    },\n    {\n      \"stock_code\": \"300454\",\n      \"stock_name\": \"深信服\",\n      \"comprehensive_score\": 0.71,\n      \"recommendation_reason\": \"网络安全标的间接受益，技术评分0.72分中等，在数据安全领域有技术积累，但无人机安全关联度相对较弱，需观察政策落地效果\",\n      \"risk_warning\": \"网络安全板块波动较大，政策传导存在时滞，短期催化效果待验证\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"policy_catalyst_strength\": \"强\",\n    \"sector_risk_level\": \"中等\",\n    \"recommendation_strategy\": \"优先配置直接受益的安防龙头，网络安全标的作为补充配置\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "recommendation_reason": "作为安防龙头，在无人机监控和安全防护领域布局深入，受益于无人机安全监管加强趋势",
+        "policy_relevance": "高度相关，直接受益于无人机安全监管政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "300454",
+        "stock_name": "深信服",
+        "recommendation_reason": "网络安全龙头企业，在工业控制系统安全方面具有技术优势，可应用于无人机飞控系统安全防护",
+        "policy_relevance": "高度相关，网络安全是无人机安全的重要组成",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "002236",
+        "stock_name": "大华股份",
+        "recommendation_reason": "安防监控设备供应商，在无人机应用和安全监控领域有技术积累，受益于行业合规要求提升",
+        "policy_relevance": "中度相关，安防监控与无人机安全监管关联",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性评分较低，但作为央视新闻发布的公安机关打击无人机飞控系统黑客违法犯罪的报道，具有重要的政策信号意义。央视新闻作为国家级权威媒体，其报道往往代表政策导向和监管态度，对相关行业具有指导性影响。",
+      "policy_impact": "该新闻体现了国家对无人机安全领域的重视和监管加强，预示着无人机产业链安全合规要求将提升，利好具备安全技术和合规资质的龙头企业。政策导向明确支持无人机产业健康发展，打击非法行为将为合规企业创造更好的市场环境。",
+      "theme_classification": {
+        "theme_type": "无人机安全+网络安全",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "无人机",
+          "网络安全",
+          "安防设备"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002415",
+          "stock_name": "海康威视",
+          "recommendation_reason": "作为安防龙头，在无人机监控和安全防护领域布局深入，受益于无人机安全监管加强趋势",
+          "policy_relevance": "高度相关，直接受益于无人机安全监管政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "300454",
+          "stock_name": "深信服",
+          "recommendation_reason": "网络安全龙头企业，在工业控制系统安全方面具有技术优势，可应用于无人机飞控系统安全防护",
+          "policy_relevance": "高度相关，网络安全是无人机安全的重要组成",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "002236",
+          "stock_name": "大华股份",
+          "recommendation_reason": "安防监控设备供应商，在无人机应用和安全监控领域有技术积累，受益于行业合规要求提升",
+          "policy_relevance": "中度相关，安防监控与无人机安全监管关联",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 15:09:25"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

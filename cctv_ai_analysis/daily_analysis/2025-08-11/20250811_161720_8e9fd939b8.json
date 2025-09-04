@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-11 16:17:20",
+  "news_info": {
+    "id": "8e9fd939b8",
+    "title": "最新数据显示，今年以来我国涉农贷款持续增长。近日，中国人民银行、农业农村部联合推出19条举措，着力解决农村金融融资难、融资贵、融资慢等问题。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTISbSda0XzuyB8HXil2IJv250811.shtml",
+    "publish_time": "2025-08-11 16:14:55",
+    "summary": "最新数据显示，今年以来我国涉农贷款持续增长。近日，中国人民银行、农业农村部联合推出19条举措，着力解..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8894500000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 1.0,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.03
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由权威媒体央视发布，涉及国家层面的农村金融政策支持，具有高度权威性和政策导向性。综合强度0.89表明该信息对市场具有显著影响，特别是对涉农金融相关板块。",
+    "policy_impact": "19条举措将直接利好农村金融服务机构，改善涉农企业融资环境，预计将带动相关金融机构业务增长和资产质量改善。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601288",
+        "stock_name": "农业银行",
+        "recommendation_reason": "作为国有大行中涉农贷款占比最高的银行，将直接受益于农村金融支持政策",
+        "policy_relevance": "直接相关，主营涉农金融服务",
+        "urgency_level": "高",
+        "confidence_score": 0.92
+      },
+      {
+        "rank": 2,
+        "stock_code": "002142",
+        "stock_name": "宁波银行",
+        "recommendation_reason": "在小微企业和农村金融领域布局领先，政策支持将提升其区域竞争优势",
+        "policy_relevance": "高度相关，专注小微三农金融",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "600016",
+        "stock_name": "民生银行",
+        "recommendation_reason": "在普惠金融和农村金融创新方面具有优势，政策利好其特色业务发展",
+        "policy_relevance": "相关，涉农金融业务占比较高",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

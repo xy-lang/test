@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-12 17:22:44",
+  "news_info": {
+    "id": "6c2fea1744",
+    "title": "7月促消费政策持续发力，1380亿元“国补”资金陆续下达。在相关政策的促进下，居民消费热情和信心不断增强，“夏日经济”成为7月份线上销售增长的主要驱动力。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/12/ARTIbhGoBi8CRgmpZHIXaujn250812.shtml",
+    "publish_time": "2025-08-12 17:20:16",
+    "summary": "7月促消费政策持续发力，1380亿元“国补”资金陆续下达。在相关政策的促进下，居民消费热情和信心不断..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.9191500000000001,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.755,
+      "persistence": 1.0,
+      "source_weight": 0.95,
+      "policy_hits": 2,
+      "hours_since_publish": 0.03
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的政策导向性和市场影响力。本次报道涉及1380亿元'国补'资金下达，直接利好消费板块，特别是与'夏日经济'相关的线上销售领域。综合强度0.92的高评分显示该新闻对市场具有重大即时影响。",
+    "policy_impact": "该政策将显著促进消费复苏，重点关注受益于夏季消费旺季和线上销售增长的细分领域，包括家电、食品饮料和电商平台等。政策资金直接注入将提升相关企业业绩预期。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002024",
+        "stock_name": "苏宁易购",
+        "recommendation_reason": "作为全渠道零售龙头，直接受益于促消费政策和线上销售增长，'夏日经济'将显著提升家电等品类销售。",
+        "policy_relevance": "高度相关，直接受益于消费补贴政策",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "600690",
+        "stock_name": "海尔智家",
+        "recommendation_reason": "家电消费是夏季经济重要组成部分，政策补贴将刺激空调等季节性产品需求。",
+        "policy_relevance": "高度相关，家电下乡等政策直接受益者",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "603288",
+        "stock_name": "海天味业",
+        "recommendation_reason": "必需消费品龙头，夏季餐饮消费旺季叠加政策刺激，业绩确定性高。",
+        "policy_relevance": "相关，受益于整体消费环境改善",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

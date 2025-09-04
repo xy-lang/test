@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 16:43:33",
+  "news_info": {
+    "id": "d5ee3d760d",
+    "title": "能源“大动脉”开发获突破 夯实经济“硬支撑”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/15/ARTIu3Do2grprHGazAKyyIfQ250815.shtml",
+    "publish_time": "2025-08-15 16:42:22",
+    "summary": "能源“大动脉”开发获突破 夯实经济“硬支撑”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79705,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的政策导向性和市场影响力。本次关于能源'大动脉'开发的报道综合强度达0.80，表明该消息具有较强时效性和政策支持力度，可能引发相关板块的市场关注。",
+    "policy_impact": "能源基础设施建设是国家重点支持领域，该报道暗示相关产业链可能获得政策倾斜和资金支持，对油气管道、特高压输电等能源输送领域企业构成实质性利好。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "recommendation_reason": "作为国内油气管道建设龙头企业，直接受益于能源大动脉开发政策",
+        "policy_relevance": "核心受益标的，国家油气管网主要建设运营商",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "600900",
+        "stock_name": "长江电力",
+        "recommendation_reason": "西电东送核心企业，能源大动脉建设将提升输电能力",
+        "policy_relevance": "国家电网重要组成部分，特高压输电主力",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "601139",
+        "stock_name": "深圳燃气",
+        "recommendation_reason": "城市燃气网络运营商，受益于能源输送基础设施完善",
+        "policy_relevance": "区域性能源配送龙头企业",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

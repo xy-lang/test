@@ -1,0 +1,117 @@
+{
+  "analysis_time": "2025-08-18 16:49:29",
+  "news_info": {
+    "id": "6d72fa4b99",
+    "title": "除了道路，在西藏还有一条特殊的路，那就是“电力天路”，刚才，我们看到了拉萨的夜景，可以说灯火辉煌，现在大屏上的是昌都的夜景，这是那曲的夜景，也都很美。在这些亮丽夜景的背后，就是一条条“电力天路”在做支撑。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIMOBDWLXfUkwBAFdZGm0c250818.shtml",
+    "publish_time": "2025-08-18 08:01:00",
+    "summary": "除了道路，在西藏还有一条特殊的路，那就是“电力天路”，刚才，我们看到了拉萨的夜景，可以说灯火辉煌，现..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 8.79
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600131\",\n      \"stock_name\": \"岷江水电\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"1. 与新闻主题'电力天路'高度契合，公司主营业务为水力发电，在西藏地区有业务布局\\n2. 技术指标显示上涨趋势，技术评分较高\\n3. 受益于国家西部大开发和西藏振兴政策\",\n      \"risk_warning\": \"1. 西藏地区自然环境恶劣，可能影响项目进度\\n2. 水电行业受季节性影响较大\"\n    },\n    {\n      \"stock_code\": \"600312\",\n      \"stock_name\": \"平高电气\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"1. 作为电力设备供应商，将受益于西藏电网建设\\n2. 技术指标显示良好上涨动能\\n3. 国家电网投资增加带来业务机会\",\n      \"risk_warning\": \"1. 行业竞争激烈，利润率可能承压\\n2. 原材料价格波动风险\"\n    },\n    {\n      \"stock_code\": \"600875\",\n      \"stock_name\": \"东方电气\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"1. 大型电力设备制造商，可能参与西藏电力项目建设\\n2. 技术面呈现上涨趋势\\n3. 受益于新能源发展政策\",\n      \"risk_warning\": \"1. 公司规模大，对单一项目敏感性较低\\n2. 海外业务可能受地缘政治影响\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": \"中等\",\n    \"market_sentiment\": \"积极\",\n    \"technical_indicator\": \"整体向好\",\n    \"policy_support\": \"强劲\",\n    \"short_term_catalyst\": \"明显\"\n  },\n  \"general_risk_warning\": \"1. 板块整体强度一般，需警惕系统性风险\\n2. 西藏地区项目推进可能不及预期\\n3. 市场整体波动可能影响个股表现\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600131",
+        "stock_name": "岷江水电",
+        "recommendation_reason": "作为西藏地区主要电力企业，直接受益于'电力天路'建设，央视报道提升其政策关注度。",
+        "policy_relevance": "高度相关",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 2,
+        "stock_code": "600312",
+        "stock_name": "平高电气",
+        "recommendation_reason": "特高压设备主要供应商，'电力天路'项目潜在受益标的，央视背书增强市场信心。",
+        "policy_relevance": "相关",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "600875",
+        "stock_name": "东方电气",
+        "recommendation_reason": "电力设备龙头企业，在西部电力基建中占据重要地位，受益政策持续推动。",
+        "policy_relevance": "相关",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性较弱，但作为央视新闻发布的西藏电力基础设施建设报道，具有国家政策导向意义。'电力天路'项目体现了国家对西藏地区基础设施建设的持续投入，属于国家战略层面的重要工程。",
+      "policy_impact": "该新闻反映了国家在西藏地区持续推进电力基础设施建设的政策方向，属于'新基建'和'西部大开发'战略的重要组成部分，具有长期政策支持。",
+      "theme_classification": {
+        "theme_type": "电力基建/西藏振兴",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "电力设备",
+          "电网建设",
+          "西藏板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600131",
+          "stock_name": "岷江水电",
+          "recommendation_reason": "作为西藏地区主要电力企业，直接受益于'电力天路'建设，央视报道提升其政策关注度。",
+          "policy_relevance": "高度相关",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 2,
+          "stock_code": "600312",
+          "stock_name": "平高电气",
+          "recommendation_reason": "特高压设备主要供应商，'电力天路'项目潜在受益标的，央视背书增强市场信心。",
+          "policy_relevance": "相关",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "600875",
+          "stock_name": "东方电气",
+          "recommendation_reason": "电力设备龙头企业，在西部电力基建中占据重要地位，受益政策持续推动。",
+          "policy_relevance": "相关",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": null,
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

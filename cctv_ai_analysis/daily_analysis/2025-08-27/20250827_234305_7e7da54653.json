@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-08-27 23:43:05",
+  "news_info": {
+    "id": "7e7da54653",
+    "title": "从“新”透视经济大省发展劲头",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/27/ARTIE07rpyJEd9qOUlNTdTNL250827.shtml",
+    "publish_time": "2025-08-27 12:43:00",
+    "summary": "从“新”透视经济大省发展劲头"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6495000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.71,
+      "persistence": 0.64,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 10.99
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000333\",\n      \"stock_name\": \"美的集团\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"技术面表现强劲，板块强度0.717提供良好支撑，作为家电龙头直接受益于区域经济振兴政策，新兴产业升级趋势下智能制造业务增长潜力大，技术评分位居前列，市场情绪积极\",\n      \"risk_warning\": \"需关注原材料成本波动风险及房地产行业下行对家电需求的潜在影响\"\n    },\n    {\n      \"stock_code\": \"002415\",\n      \"stock_name\": \"海康威视\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"安防行业龙头，深度契合新兴产业升级主题，AI+安防业务前景广阔，技术指标显示稳定上升趋势，政策催化效应明显，受益于数字经济基础设施建设\",\n      \"risk_warning\": \"海外市场地缘政治风险及技术制裁压力，需密切关注国际贸易环境变化\"\n    },\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"银行板块整体强度支撑，作为优质股份制银行受益于经济复苏，财富管理业务优势突出，技术面相对稳健，符合金融支持实体经济的政策导向\",\n      \"risk_warning\": \"银行业面临净息差收窄压力，房地产风险敞口需要持续关注，宏观经济波动可能影响资产质量\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_outlook\": \"银行和综合板块整体表现稳健，新兴产业升级主题持续受到政策支持\",\n    \"timing_recommendation\": \"当前时点适合分批布局，重点关注政策催化窗口期\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "recommendation_reason": "作为广东经济大省的制造业龙头，受益于经济大省发展政策，智能制造和数字化转型符合'新'发展要求",
+        "policy_relevance": "高度相关，广东作为经济大省标杆企业",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "recommendation_reason": "浙江数字经济龙头企业，符合经济大省新兴产业升级方向，AI+安防契合数字化转型主题",
+        "policy_relevance": "较高，代表数字经济转型升级",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "总部位于经济大省广东，金融服务实体经济，支持区域经济发展，受益于经济大省金融政策支持",
+        "policy_relevance": "中等，金融支持实体经济发展",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻作为央视时政要闻，虽然评分较低但具有特殊意义。央视新闻作为国家级媒体，其报道往往反映政策导向和经济发展重点。'从新透视经济大省发展劲头'暗示新一轮区域经济发展政策可能出台，重点关注经济大省的新兴产业布局和转型升级",
+      "policy_impact": "央视新闻报道通常具有政策前瞻性，可能预示着对经济大省（如广东、江苏、浙江等）的新一轮政策支持。重点关注数字经济、先进制造、新能源等新兴产业的政策倾斜，相关省份的龙头企业将受益于政策红利",
+      "theme_classification": {
+        "theme_type": "区域经济振兴+新兴产业升级",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "区域经济",
+          "新兴产业",
+          "数字经济",
+          "先进制造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000333",
+          "stock_name": "美的集团",
+          "recommendation_reason": "作为广东经济大省的制造业龙头，受益于经济大省发展政策，智能制造和数字化转型符合'新'发展要求",
+          "policy_relevance": "高度相关，广东作为经济大省标杆企业",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "002415",
+          "stock_name": "海康威视",
+          "recommendation_reason": "浙江数字经济龙头企业，符合经济大省新兴产业升级方向，AI+安防契合数字化转型主题",
+          "policy_relevance": "较高，代表数字经济转型升级",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "总部位于经济大省广东，金融服务实体经济，支持区域经济发展，受益于经济大省金融政策支持",
+          "policy_relevance": "中等，金融支持实体经济发展",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-27 23:43:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

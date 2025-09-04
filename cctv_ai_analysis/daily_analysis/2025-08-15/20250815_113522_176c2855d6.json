@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 11:35:22",
+  "news_info": {
+    "id": "176c2855d6",
+    "title": "8月15日是第三个全国生态日，各地开展了多种形式的生态文明宣传教育活动。这两天，江苏泰州、四川宜宾等地举办了长江流域联合执法和长江保护宣传活动。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/15/ARTIAjHaVlY1jW1uc7bHp3hJ250815.shtml",
+    "publish_time": "2025-08-15 11:33:54",
+    "summary": "8月15日是第三个全国生态日，各地开展了多种形式的生态文明宣传教育活动。这两天，江苏泰州、四川宜宾等..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.02
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻具有高度时效性和权威性，作为全国生态日的官方报道，体现了国家对生态文明建设的高度重视。央视新闻的报道通常具有政策导向性，可能预示着相关环保政策将持续加码。",
+    "policy_impact": "长江流域生态保护是国家战略，相关环保企业将直接受益于流域治理、生态修复等政策红利。新闻中提到的联合执法和保护宣传，暗示环保监管将持续趋严，利好环境监测、污染治理类企业。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300137",
+        "stock_name": "先河环保",
+        "recommendation_reason": "作为环境监测设备龙头，将受益于长江流域生态监测需求提升。央视报道的联合执法将增加监测设备采购。",
+        "policy_relevance": "直接相关，环境监测是生态保护的基础设施",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "601200",
+        "stock_name": "上海环境",
+        "recommendation_reason": "主营固废处理和水务运营，在长江流域有多个项目。新闻中强调的生态保护将提升公司项目价值。",
+        "policy_relevance": "高度相关，直接参与长江流域环境治理",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "300190",
+        "stock_name": "维尔利",
+        "recommendation_reason": "专业从事垃圾渗滤液处理，符合新闻中强调的生态保护方向。长江流域环保标准提高将带来业务增量。",
+        "policy_relevance": "较相关，属于生态保护产业链",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 15:36:26",
+  "news_info": {
+    "id": "9b006d60f8",
+    "title": "纪念抗战胜利80周年 吉林出版界推出系列精品主题图书",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904151417689569867.html",
+    "publish_time": "2025-09-04 15:14:00",
+    "summary": "纪念抗战胜利80周年 吉林出版界推出系列精品主题图书"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7756000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.76,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.36
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601019\",\n      \"stock_name\": \"山东出版\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为出版行业龙头，直接受益于抗战胜利80周年主题出版政策导向。技术评分0.75高于板块平均水平，板块强度0.677提供支撑，公司基本面稳健，现金流充足，政策催化明确。\",\n      \"risk_warning\": \"需关注市场整体情绪波动风险，主题投资可能存在短期炒作风险，需注意获利了结时机。\"\n    },\n    {\n      \"stock_code\": \"601928\",\n      \"stock_name\": \"凤凰传媒\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"传媒板块代表性企业，主题出版业务占比较高，技术指标显示近期有资金关注迹象。公司数字化转型成效显著，政策受益程度较高，与新闻主题匹配度强。\",\n      \"risk_warning\": \"传媒行业竞争激烈，需关注业绩兑现情况，技术面存在回调压力，建议分批建仓。\"\n    },\n    {\n      \"stock_code\": \"600373\",\n      \"stock_name\": \"中文传媒\",\n      \"comprehensive_score\": 0.71,\n      \"recommendation_reason\": \"出版传媒综合企业，具备主题出版业务基础，技术评分符合板块平均水平。公司业务多元化程度较高，抗风险能力相对较强，政策催化存在滞后性。\",\n      \"risk_warning\": \"多元化经营可能分散主题投资效应，需关注具体业务板块的业绩贡献，市场时机把握要求较高。\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_positive\": true,\n    \"technical_indicator_alignment\": \"中等偏上\",\n    \"news_relevance\": \"高度相关\",\n    \"policy_benefit_level\": \"明显受益\",\n    \"short_term_catalyst\": \"较强\",\n    \"sector_risk\": \"中等\",\n    \"fundamental_risk\": \"较低\",\n    \"market_timing_risk\": \"中等\"\n  },\n  \"overall_risk_alert\": \"主题投资具有时效性，建议关注政策推进节奏和市场情绪变化，控制仓位，设置止盈止损点位。出版传媒板块受政策影响较大，需密切关注后续相关政策动向。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601019",
+        "stock_name": "山东出版",
+        "recommendation_reason": "作为国内领先的出版集团，主题出版业务占比较高，曾多次承担重大主题出版任务，受益于主题出版政策支持",
+        "policy_relevance": "直接受益于主题出版政策，出版业务与新闻高度相关",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "601928",
+        "stock_name": "凤凰传媒",
+        "recommendation_reason": "大型出版传媒集团，主题出版实力强劲，具有完整的出版发行产业链，央视新闻关注度提升板块估值",
+        "policy_relevance": "主题出版业务占比较大，受益行业政策导向",
+        "urgency_level": "中等偏低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "600373",
+        "stock_name": "中文传媒",
+        "recommendation_reason": "江西省出版龙头，主题出版业务突出，具有教材教辅和一般图书双轮驱动，受益文化传媒政策支持",
+        "policy_relevance": "出版主业与新闻直接相关，政策受益明显",
+        "urgency_level": "中等偏低",
+        "confidence_score": 0.58
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为纪念抗战胜利80周年的主题出版活动，虽然内容本身时效性较弱，但作为央视新闻发布，具有权威背书效应。此类主题出版活动往往伴随国家层面的宣传部署，具有政策导向性，但投资价值主要体现在短期主题催化。",
+      "policy_impact": "中等偏弱。属于文化宣传领域的常规主题活动，非重大政策突破，但对出版传媒板块有一定情绪提振作用。预计影响持续1-2周。",
+      "theme_classification": {
+        "theme_type": "主题出版/文化传媒",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "出版传媒",
+          "文化传媒",
+          "主题出版"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601019",
+          "stock_name": "山东出版",
+          "recommendation_reason": "作为国内领先的出版集团，主题出版业务占比较高，曾多次承担重大主题出版任务，受益于主题出版政策支持",
+          "policy_relevance": "直接受益于主题出版政策，出版业务与新闻高度相关",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "601928",
+          "stock_name": "凤凰传媒",
+          "recommendation_reason": "大型出版传媒集团，主题出版实力强劲，具有完整的出版发行产业链，央视新闻关注度提升板块估值",
+          "policy_relevance": "主题出版业务占比较大，受益行业政策导向",
+          "urgency_level": "中等偏低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "600373",
+          "stock_name": "中文传媒",
+          "recommendation_reason": "江西省出版龙头，主题出版业务突出，具有教材教辅和一般图书双轮驱动，受益文化传媒政策支持",
+          "policy_relevance": "出版主业与新闻直接相关，政策受益明显",
+          "urgency_level": "中等偏低",
+          "confidence_score": 0.58
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 15:36:26"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

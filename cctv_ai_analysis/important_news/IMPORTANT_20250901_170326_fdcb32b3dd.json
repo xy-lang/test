@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-09-01 17:03:26",
+  "news_info": {
+    "id": "fdcb32b3dd",
+    "title": "习近平在“上海合作组织+”会议上的讲话（全文）",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIEi5dnijWJJyAcpGltmnx250901.shtml",
+    "publish_time": "2025-09-01 16:47:12",
+    "summary": "习近平在“上海合作组织+”会议上的讲话（全文）"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8152,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.25
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601668\",\n      \"stock_name\": \"中国建筑\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"作为国内基建龙头，直接受益于上合组织基础设施建设合作。技术评分0.88，板块强度0.833提供强力支撑，政策催化明确，订单预期强劲，符合国家战略导向\",\n      \"risk_warning\": \"需关注房地产板块下行风险及海外项目地缘政治风险\"\n    },\n    {\n      \"stock_code\": \"601186\",\n      \"stock_name\": \"中国铁建\",\n      \"comprehensive_score\": 0.87,\n      \"recommendation_reason\": \"国际工程承包龙头，在上合组织区域具有丰富项目经验。技术评分0.85，基建板块热度持续，海外业务占比高，直接受益于区域合作深化\",\n      \"risk_warning\": \"海外项目汇率波动风险及国际竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"000063\",\n      \"stock_name\": \"中兴通讯\",\n      \"comprehensive_score\": 0.79,\n      \"recommendation_reason\": \"5G通信基础设施核心供应商，受益于数字丝绸之路建设。技术评分0.76，数字经济政策支持明确，但在当前基建主题中关联度相对间接\",\n      \"risk_warning\": \"科技板块估值波动较大，国际贸易环境变化风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"积极\",\n    \"sector_strength_support\": \"强劲\",\n    \"policy_catalyst_intensity\": \"高强度\",\n    \"recommendation_strategy\": \"重点配置基建龙头，把握政策窗口期\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "作为国内最大建筑承包商，深度参与'一带一路'沿线国家基建项目，上合组织成员国多为重点合作区域，政策利好直接受益",
+        "policy_relevance": "高度相关，直接受益于区域基建合作政策",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "recommendation_reason": "国际工程承包龙头企业，在上合组织国家有丰富项目经验，政策推动下海外订单有望持续增长",
+        "policy_relevance": "高度相关，国际工程承包直接受益",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "000063",
+        "stock_name": "中兴通讯",
+        "recommendation_reason": "通信设备龙头，参与多国数字基础设施建设，上合组织数字经济合作政策利好通信设备出口",
+        "policy_relevance": "中度相关，受益于数字丝绸之路建设",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为习近平主席在上海合作组织会议上的重要讲话全文，虽然时效性评分较低，但作为国家最高领导人在重要国际场合的政策宣示，具有极强的政策指导意义。央视新闻作为国家级权威媒体发布此类内容，往往预示着相关政策的加速落地和重点推进。",
+      "policy_impact": "上合组织会议涉及区域经济合作、基础设施建设、能源安全、反恐合作等多个领域。此次讲话可能推动'一带一路'倡议深化实施，加强成员国间经贸合作，对基建、能源、安全等板块形成政策利好。",
+      "theme_classification": {
+        "theme_type": "国际区域合作+基础设施建设",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "基础设施建设",
+          "国际工程承包",
+          "能源合作",
+          "安全防务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "作为国内最大建筑承包商，深度参与'一带一路'沿线国家基建项目，上合组织成员国多为重点合作区域，政策利好直接受益",
+          "policy_relevance": "高度相关，直接受益于区域基建合作政策",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "601186",
+          "stock_name": "中国铁建",
+          "recommendation_reason": "国际工程承包龙头企业，在上合组织国家有丰富项目经验，政策推动下海外订单有望持续增长",
+          "policy_relevance": "高度相关，国际工程承包直接受益",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "000063",
+          "stock_name": "中兴通讯",
+          "recommendation_reason": "通信设备龙头，参与多国数字基础设施建设，上合组织数字经济合作政策利好通信设备出口",
+          "policy_relevance": "中度相关，受益于数字丝绸之路建设",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 17:03:26"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

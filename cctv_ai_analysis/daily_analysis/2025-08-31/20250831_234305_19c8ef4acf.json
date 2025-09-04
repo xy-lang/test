@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-31 23:43:05",
+  "news_info": {
+    "id": "19c8ef4acf",
+    "title": "1.47亿人次，增长3.6%！暑期旅游市场火热",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/31/ARTITFocwRSSn22RzixeVzIg250831.shtml",
+    "publish_time": "2025-08-31 10:24:00",
+    "summary": "1.47亿人次，增长3.6%！暑期旅游市场火热"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.66435,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 13.3
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为旅游行业龙头，直接受益于暑期旅游市场复苏。技术面显示板块强度0.75支撑良好，公司业务涵盖旅行社、景区运营、酒店等多领域，与新闻主题高度匹配。政策层面受益于消费刺激政策，短期催化剂明确。\",\n      \"risk_warning\": \"需关注宏观经济波动对旅游消费的影响，以及疫情反复风险\"\n    },\n    {\n      \"stock_code\": \"600754\",\n      \"stock_name\": \"锦江酒店\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"酒店行业龙头，暑期旅游热潮直接带动酒店入住率和房价提升。技术指标配合度较高，受益于旅游消费复苏趋势。公司规模优势和品牌效应明显，在行业复苏周期中弹性较大。\",\n      \"risk_warning\": \"酒店行业竞争激烈，需关注成本上升压力和同店增长情况\"\n    },\n    {\n      \"stock_code\": \"603199\",\n      \"stock_name\": \"九华旅游\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"景区运营企业，直接受益于暑期旅游人次增长。技术评分符合板块平均水平，具备一定的主题投资机会。作为区域性旅游标的，在暑期旺季具有明确的业绩催化。\",\n      \"risk_warning\": \"业务集中度较高，受单一景区客流影响较大，需关注天气等自然因素影响\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_favorable\": true,\n    \"technical_indicator_alignment\": true,\n    \"news_relevance_high\": true,\n    \"policy_benefit_level\": \"中等\",\n    \"short_term_catalyst_strength\": \"强\"\n  },\n  \"risk_assessment\": {\n    \"sector_risk\": \"中等\",\n    \"fundamental_risk\": \"中低\",\n    \"market_timing_risk\": \"中低\",\n    \"key_risks\": [\"宏观经济波动风险\", \"消费复苏不及预期\", \"行业竞争加剧\", \"季节性波动风险\"]\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，直接受益于暑期旅游市场回暖。央视新闻的权威数据支撑行业复苏逻辑，公司旅行社和景区业务将显著受益",
+        "policy_relevance": "高度相关，直接受益于旅游消费政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600754",
+        "stock_name": "锦江酒店",
+        "recommendation_reason": "暑期旅游热度提升带动酒店入住率回升，公司作为酒店行业龙头，业绩弹性较大。央视数据验证行业复苏趋势",
+        "policy_relevance": "高度相关，受益于旅游住宿需求增长",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "景区运营商直接受益于游客数量增长，暑期旅游数据超预期显示消费复苏力度。央视权威报道增强投资者信心",
+        "policy_relevance": "高度相关，景区客流与旅游数据直接挂钩",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性较差（2025年8月发布），但作为央视新闻发布的官方旅游数据，具有权威性和政策导向意义。1.47亿人次暑期旅游数据同比增长3.6%，表明旅游市场持续复苏，对旅游相关板块构成实质性利好。央视新闻的权威背书增强了数据的可信度，但需注意新闻发布时间较久，市场可能已部分消化该信息。",
+      "policy_impact": "该新闻体现了国家对旅游消费的政策支持导向，符合扩大内需、促进消费的政策方向。暑期旅游数据的正面表现可能引发后续政策加码预期，对旅游产业链形成中长期利好。但需关注政策落地节奏和实际效果。",
+      "theme_classification": {
+        "theme_type": "旅游消费复苏",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "旅游服务",
+          "酒店餐饮",
+          "交通运输"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，直接受益于暑期旅游市场回暖。央视新闻的权威数据支撑行业复苏逻辑，公司旅行社和景区业务将显著受益",
+          "policy_relevance": "高度相关，直接受益于旅游消费政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600754",
+          "stock_name": "锦江酒店",
+          "recommendation_reason": "暑期旅游热度提升带动酒店入住率回升，公司作为酒店行业龙头，业绩弹性较大。央视数据验证行业复苏趋势",
+          "policy_relevance": "高度相关，受益于旅游住宿需求增长",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "景区运营商直接受益于游客数量增长，暑期旅游数据超预期显示消费复苏力度。央视权威报道增强投资者信心",
+          "policy_relevance": "高度相关，景区客流与旅游数据直接挂钩",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-31 23:43:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

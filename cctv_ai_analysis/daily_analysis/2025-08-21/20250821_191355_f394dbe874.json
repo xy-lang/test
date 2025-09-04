@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-21 19:13:55",
+  "news_info": {
+    "id": "f394dbe874",
+    "title": "科技赋能守护“国宝”栖息地 打造“智慧脑”守护绿色家园",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIhzHEBnUnhi9pE7dVEJrH250821.shtml",
+    "publish_time": "2025-08-21 21:38:00",
+    "summary": "科技赋能守护“国宝”栖息地 打造“智慧脑”守护绿色家园"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.81355,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.77,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -2.41
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300203\",\n      \"stock_name\": \"聚光科技\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现最佳，板块强度0.617提供良好支撑，与新闻主题高度契合（环境监测设备龙头），政策受益明确，短期催化剂强度高，技术指标配合度良好\",\n      \"risk_warning\": \"需关注环保政策执行进度不及预期风险，技术面存在短期回调压力\"\n    },\n    {\n      \"stock_code\": \"300007\",\n      \"stock_name\": \"汉威科技\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"传感器技术在环境监测领域应用广泛，与智慧环保主题匹配度较高，技术评分中等但基本面稳健，受益于物联网+环保政策导向\",\n      \"risk_warning\": \"市场竞争加剧风险，业绩增长存在不确定性，需关注订单获取情况\"\n    },\n    {\n      \"stock_code\": \"603568\",\n      \"stock_name\": \"伟明环保\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"固废处理龙头企业，虽与智慧环保主题关联度相对较弱，但受益于环保基础设施投资，技术面表现稳定\",\n      \"risk_warning\": \"与新闻主题匹配度相对较低，短期催化效应有限，需关注项目投产进度\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment\": \"中性偏积极\",\n    \"technical_indicator_alignment\": \"中等偏上\",\n    \"policy_benefit_level\": \"较高\",\n    \"short_term_catalyst\": \"中等强度\",\n    \"sector_risk\": \"中等\",\n    \"market_timing_risk\": \"中等偏低\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300203",
+        "stock_name": "聚光科技",
+        "recommendation_reason": "环境监测设备龙头，产品应用于生态保护区智能化监测，与新闻中'智慧脑'概念直接相关",
+        "policy_relevance": "环保设备政府采购受益标的",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "603568",
+        "stock_name": "伟明环保",
+        "recommendation_reason": "固废处理+装备制造，业务契合'守护绿色家园'主题，央视背书可能提升ESG关注度",
+        "policy_relevance": "环保基础设施运营商",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "300007",
+        "stock_name": "汉威科技",
+        "recommendation_reason": "传感器技术可用于生态环境监测，智慧环保解决方案提供商，技术路线匹配报道方向",
+        "policy_relevance": "物联网环境监测应用",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视权威发布，但评分显示其第一时间性、硬核程度和持续性均为0分，表明内容偏向常规宣传报道，缺乏实质性政策突破或重大事件驱动。央视新闻的权威性虽能带来短期关注度，但投资价值需结合具体政策落地情况判断。",
+      "policy_impact": "政策影响有限，属于既有环保政策的延续性宣传，未释放新政策信号。'科技赋能生态保护'是长期方向，但本次报道缺乏具体执行细则或资金支持计划，对市场影响偏中性。",
+      "theme_classification": {
+        "theme_type": "智慧环保+生态监测",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "环境保护",
+          "计算机应用",
+          "专用设备"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300203",
+          "stock_name": "聚光科技",
+          "recommendation_reason": "环境监测设备龙头，产品应用于生态保护区智能化监测，与新闻中'智慧脑'概念直接相关",
+          "policy_relevance": "环保设备政府采购受益标的",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "603568",
+          "stock_name": "伟明环保",
+          "recommendation_reason": "固废处理+装备制造，业务契合'守护绿色家园'主题，央视背书可能提升ESG关注度",
+          "policy_relevance": "环保基础设施运营商",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "300007",
+          "stock_name": "汉威科技",
+          "recommendation_reason": "传感器技术可用于生态环境监测，智慧环保解决方案提供商，技术路线匹配报道方向",
+          "policy_relevance": "物联网环境监测应用",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 19:13:55"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-03 20:28:59",
+  "news_info": {
+    "id": "98e9787897",
+    "title": "新国标对车速做出明确规定，要求电动自行车最高车速不能超过每小时25公里。一旦超速，电动机将自动停止动力输出。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIRqlRO6U2c9qD8PRnA4Ru250903.shtml",
+    "publish_time": "2025-09-03 14:19:00",
+    "summary": "新国标对车速做出明确规定，要求电动自行车最高车速不能超过每小时25公里。一旦超速，电动机将自动停止动..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 4.56
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 20:28:59"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

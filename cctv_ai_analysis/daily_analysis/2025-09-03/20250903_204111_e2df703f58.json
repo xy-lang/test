@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-03 20:41:11",
+  "news_info": {
+    "id": "e2df703f58",
+    "title": "岳峰小学2025年秋季举行开学典礼",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903174919466651494.html",
+    "publish_time": "2025-09-03 17:49:00",
+    "summary": "岳峰小学2025年秋季举行开学典礼"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6779,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.67,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.86
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_code\": \"600661\",\n      \"stock_name\": \"昂立教育\",\n      \"comprehensive_score\": 0.42,\n      \"recommendation_reason\": \"作为教育板块标的，与开学典礼新闻存在一定关联性，技术评分相对较高，在弱市环境下具备一定防御属性\",\n      \"risk_warning\": \"板块整体强度偏弱，缺乏明确政策催化剂，成交量可能不足\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.35,\n      \"recommendation_reason\": \"教育信息化标的，与教育主题存在间接关联，技术指标处于相对低位，具备超跌反弹可能\",\n      \"risk_warning\": \"基本面支撑较弱，市场关注度低，流动性风险较高\"\n    },\n    {\n      \"stock_code\": \"603000\",\n      \"stock_name\": \"人民网\",\n      \"comprehensive_score\": 0.28,\n      \"recommendation_reason\": \"媒体属性与教育新闻存在微弱关联，但主要业务与教育相关性较低，技术指标表现一般\",\n      \"risk_warning\": \"与新闻主题关联度最低，缺乏直接催化剂，板块轮动风险较大\"\n    }\n  ],\n  \"overall_assessment\": {\n    \"market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"偏弱(0.133)\",\n    \"recommendation_level\": \"谨慎观望\",\n    \"key_risks\": \"板块整体技术评分偏低(0.13)，缺乏强势政策催化剂，新闻事件影响力有限，建议控制仓位谨慎参与\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "recommendation_reason": "央视教育类新闻可能间接提升教育板块关注度，但该新闻实质性影响有限",
+        "policy_relevance": "低关联度，非政策驱动型新闻",
+        "urgency_level": "低紧急度",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "教育信息化标的，但新闻内容不涉及数字化教育政策",
+        "policy_relevance": "极低关联度",
+        "urgency_level": "低紧急度",
+        "confidence_score": 0.1
+      },
+      {
+        "rank": 3,
+        "stock_code": "603000",
+        "stock_name": "人民网",
+        "recommendation_reason": "作为央媒关联公司，但新闻价值过低难以形成催化",
+        "policy_relevance": "间接关联",
+        "urgency_level": "低紧急度",
+        "confidence_score": 0.08
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方小学开学典礼报道，属于常规教育新闻，投资价值极低。央视新闻的权威性在此类日常报道中不产生实质性投资影响，内容缺乏市场敏感度和政策导向性，对资本市场无直接推动作用。",
+      "policy_impact": "无显著政策影响。该新闻不涉及教育政策调整、基建投资或行业改革等实质性政策内容，仅为常规教育活动报道，对教育板块无政策催化作用。",
+      "theme_classification": {
+        "theme_type": "常规教育报道",
+        "hardcore_level": "无投资意志",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "教育服务",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600661",
+          "stock_name": "昂立教育",
+          "recommendation_reason": "央视教育类新闻可能间接提升教育板块关注度，但该新闻实质性影响有限",
+          "policy_relevance": "低关联度，非政策驱动型新闻",
+          "urgency_level": "低紧急度",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "教育信息化标的，但新闻内容不涉及数字化教育政策",
+          "policy_relevance": "极低关联度",
+          "urgency_level": "低紧急度",
+          "confidence_score": 0.1
+        },
+        {
+          "rank": 3,
+          "stock_code": "603000",
+          "stock_name": "人民网",
+          "recommendation_reason": "作为央媒关联公司，但新闻价值过低难以形成催化",
+          "policy_relevance": "间接关联",
+          "urgency_level": "低紧急度",
+          "confidence_score": 0.08
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 20:41:11"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

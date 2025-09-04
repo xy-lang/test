@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 17:45:21",
+  "news_info": {
+    "id": "93d58f07b8",
+    "title": "“十四五”时期发展社会主义民主成绩亮眼！一文了解",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTI6nKOJ3hIvj3JbDnkcAXS250818.shtml",
+    "publish_time": "2025-08-18 19:54:00",
+    "summary": "“十四五”时期发展社会主义民主成绩亮眼！一文了解"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8185,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": -2.16
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"中国银行(601988)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"银行板块与'十四五'金融改革政策高度相关\",\n        \"技术指标显示稳定上升趋势，板块强度支撑良好\",\n        \"作为国有大行直接受益于金融政策支持\",\n        \"当前市场情绪对银行板块较为有利\"\n      ],\n      \"risk_warning\": [\n        \"需关注房地产相关贷款风险\",\n        \"利率市场化可能影响净息差\"\n      ]\n    },\n    {\n      \"stock\": \"中国平安(601318)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"综合金融集团受益于金融改革政策\",\n        \"技术面呈现筑底回升态势\",\n        \"作为行业龙头具有政策示范效应\",\n        \"估值处于历史低位\"\n      ],\n      \"risk_warning\": [\n        \"寿险改革成效仍需观察\",\n        \"资本市场波动影响投资收益\"\n      ]\n    },\n    {\n      \"stock\": \"中国石化(600028)\",\n      \"score\": 0.65,\n      \"reasons\": [\n        \"能源安全战略下的重要国企\",\n        \"受益于油气体制改革\",\n        \"技术面显示短期超跌反弹机会\"\n      ],\n      \"risk_warning\": [\n        \"国际油价波动风险\",\n        \"新能源转型压力\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"银行板块技术面最为稳健，综合金融次之，化工板块相对较弱\",\n    \"news_alignment\": \"金融类企业政策关联度最高，能源类次之\",\n    \"risk_assessment\": \"整体板块风险可控，但需关注宏观经济波动影响\"\n  },\n  \"update_time\": \"2023-04-15\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "作为具有政府背景的金融巨头，可能受益于政治稳定环境",
+        "policy_relevance": "间接相关，反映政治稳定对金融业的支撑",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "601988",
+        "stock_name": "中国银行",
+        "recommendation_reason": "国有大行代表，政治稳定对其业务发展有长期支撑",
+        "policy_relevance": "间接相关，反映金融稳定政策环境",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "recommendation_reason": "能源国企龙头，政治稳定对能源安全至关重要",
+        "policy_relevance": "间接相关，反映国家能源安全战略",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于时政要闻，内容聚焦'十四五'时期社会主义民主建设成就，具有显著的政策宣导性质。虽然新闻本身不包含直接的经济或产业政策，但作为央视新闻发布的权威内容，可能对相关政府背景的企业产生间接影响。",
+      "policy_impact": "中等偏下。新闻主要体现政治建设成就，未明确提及具体产业扶持政策，对市场的直接影响有限。但可能强化市场对政府相关企业的信心。",
+      "theme_classification": {
+        "theme_type": "政治建设/政府背景企业",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "政府背景企业",
+          "公共服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "作为具有政府背景的金融巨头，可能受益于政治稳定环境",
+          "policy_relevance": "间接相关，反映政治稳定对金融业的支撑",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "601988",
+          "stock_name": "中国银行",
+          "recommendation_reason": "国有大行代表，政治稳定对其业务发展有长期支撑",
+          "policy_relevance": "间接相关，反映金融稳定政策环境",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "600028",
+          "stock_name": "中国石化",
+          "recommendation_reason": "能源国企龙头，政治稳定对能源安全至关重要",
+          "policy_relevance": "间接相关，反映国家能源安全战略",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 17:45:21"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

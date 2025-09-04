@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-26 00:19:05",
+  "news_info": {
+    "id": "c2c577e2d9",
+    "title": "营商环境取得明显成效 数说“十四五”口岸发展成就",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIKNdAOn6oPBvFgxJVHzir250825.shtml",
+    "publish_time": "2025-08-25 15:34:00",
+    "summary": "营商环境取得明显成效 数说“十四五”口岸发展成就"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6825,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.71,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 8.74
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600018\",\n      \"stock_name\": \"上港集团\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"技术面表现最佳，板块强度0.817提供强力支撑，作为国内最大港口运营商直接受益于口岸发展政策，政策催化效应最强，技术指标显示多头排列，成交量配合良好\",\n      \"risk_warning\": \"需关注国际贸易环境变化对港口吞吐量的影响，以及汇率波动风险\"\n    },\n    {\n      \"stock_code\": \"601866\",\n      \"stock_name\": \"中远海发\",\n      \"comprehensive_score\": 0.79,\n      \"recommendation_reason\": \"受益于口岸经济发展带来的航运需求增长，技术评分0.82符合板块平均水平，作为航运龙头企业具备政策红利承接能力，但技术面相对上港集团稍弱\",\n      \"risk_warning\": \"航运行业周期性较强，需警惕运价波动风险和燃油成本上升压力\"\n    },\n    {\n      \"stock_code\": \"600717\",\n      \"stock_name\": \"天津港\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"区域性港口龙头，直接受益于北方口岸优化政策，但技术指标显示短期存在调整压力，需要更多时间消化前期涨幅，中长期政策受益逻辑明确\",\n      \"risk_warning\": \"区域经济增速放缓可能影响港口吞吐量，需关注京津冀协同发展政策推进进度\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_positive\": true,\n    \"technical_indicator_alignment\": true,\n    \"policy_benefit_level\": \"high\",\n    \"short_term_catalyst\": \"strong\",\n    \"sector_risk_level\": \"medium\",\n    \"market_timing_risk\": \"low\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600018",
+        "stock_name": "上港集团",
+        "recommendation_reason": "作为中国最大的港口运营商，直接受益于口岸发展政策红利，央视新闻的权威报道将提升市场对港口板块的关注度",
+        "policy_relevance": "高度相关，口岸发展核心标的",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601866",
+        "stock_name": "中远海发",
+        "recommendation_reason": "央企背景的航运物流龙头，营商环境优化和口岸效率提升将显著降低运营成本，提升竞争力",
+        "policy_relevance": "高度相关，物流运输核心企业",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "600717",
+        "stock_name": "天津港",
+        "recommendation_reason": "北方重要口岸运营商，'十四五'口岸发展成就报道将带动区域口岸概念股价值重估",
+        "policy_relevance": "中度相关，区域口岸代表",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的'十四五'口岸发展成就报道，具有重要的政策信号意义。央视新闻作为国家级权威媒体，其报道往往反映政策导向和重点发展方向，对资本市场具有显著引导作用。营商环境优化和口岸发展是'十四五'规划重点领域，相关政策的持续推进将带来长期投资机会。",
+      "policy_impact": "该新闻体现了国家持续推进'放管服'改革、优化营商环境的政策决心。口岸作为国际贸易重要节点，其发展成就直接关联外贸便利化、通关效率提升等政策落地，预计将带动相关基础设施建设、智慧口岸、跨境物流等领域的政策支持和投资机会。",
+      "theme_classification": {
+        "theme_type": "口岸经济/营商环境优化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "港口航运",
+          "物流运输",
+          "基础设施建设"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600018",
+          "stock_name": "上港集团",
+          "recommendation_reason": "作为中国最大的港口运营商，直接受益于口岸发展政策红利，央视新闻的权威报道将提升市场对港口板块的关注度",
+          "policy_relevance": "高度相关，口岸发展核心标的",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "601866",
+          "stock_name": "中远海发",
+          "recommendation_reason": "央企背景的航运物流龙头，营商环境优化和口岸效率提升将显著降低运营成本，提升竞争力",
+          "policy_relevance": "高度相关，物流运输核心企业",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "600717",
+          "stock_name": "天津港",
+          "recommendation_reason": "北方重要口岸运营商，'十四五'口岸发展成就报道将带动区域口岸概念股价值重估",
+          "policy_relevance": "中度相关，区域口岸代表",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-26 00:19:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

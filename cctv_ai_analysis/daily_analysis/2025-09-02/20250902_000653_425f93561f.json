@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-02 00:06:53",
+  "news_info": {
+    "id": "425f93561f",
+    "title": "东湖评论：金融“活水”润荆楚 江汉聚势攀新高",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901225337509168052.html",
+    "publish_time": "2025-09-01 22:53:00",
+    "summary": "东湖评论：金融“活水”润荆楚 江汉聚势攀新高"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6944,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.72,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.22
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000783\",\n      \"stock_name\": \"长江证券\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为湖北省本土券商龙头，直接受益于'金融活水润荆楚'政策导向，技术评分0.85位居首位，板块强度0.75提供支撑，政策催化明确，市场情绪积极\",\n      \"risk_warning\": \"券商板块受市场波动影响较大，需关注大盘整体走势和成交量变化\"\n    },\n    {\n      \"stock_code\": \"600068\",\n      \"stock_name\": \"葛洲坝\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"湖北省重要基建企业，受益于区域基础设施建设政策，技术评分0.78，化工板块强度提供支撑，具备政策+基建双重概念\",\n      \"risk_warning\": \"基建项目周期较长，业绩兑现存在时滞，需关注订单落地进度\"\n    },\n    {\n      \"stock_code\": \"000852\",\n      \"stock_name\": \"石化机械\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"虽属化工板块但政策关联度相对较弱，技术评分0.62，主要受益于板块轮动和补涨机会\",\n      \"risk_warning\": \"与核心政策关联度较低，上涨持续性存疑，需谨慎追高\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"积极\",\n    \"policy_impact_level\": \"国家意志级\",\n    \"technical_confirmation\": \"板块强度0.75支撑个股表现，技术指标整体配合\",\n    \"key_risk_factors\": [\"板块轮动风险\", \"政策执行进度不确定性\", \"市场整体波动风险\"]\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000783",
+        "stock_name": "长江证券",
+        "recommendation_reason": "作为湖北省龙头券商，直接受益于区域金融政策红利，央视新闻背书提升市场关注度",
+        "policy_relevance": "高度相关，区域性金融机构代表",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600068",
+        "stock_name": "葛洲坝",
+        "recommendation_reason": "湖北重要基建央企，'江汉聚势'暗示基础设施建设加速，政策支持预期强烈",
+        "policy_relevance": "高度相关，区域基建龙头",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "000852",
+        "stock_name": "石化机械",
+        "recommendation_reason": "湖北高端制造代表，符合金融活水支持实体经济导向，具备政策催化潜力",
+        "policy_relevance": "中等相关，实体经济代表企业",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威媒体发布的时政要闻，聚焦湖北地区金融支持政策，具有较高的政策导向性。虽然第一时间性评分较低，但央视新闻的权威背书对市场情绪和政策预期具有显著引导作用，'金融活水润荆楚'的表述暗示区域金融政策支持力度加大",
+      "policy_impact": "政策影响评级为中等偏上。新闻体现国家层面对湖北地区（荆楚、江汉）的金融支持导向，预计将带动区域金融创新、基础设施建设等相关政策落地，对当地金融机构和基建企业形成实质性利好",
+      "theme_classification": {
+        "theme_type": "区域金融政策+基础设施建设",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "区域性银行",
+          "基础设施建设",
+          "湖北本地股"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000783",
+          "stock_name": "长江证券",
+          "recommendation_reason": "作为湖北省龙头券商，直接受益于区域金融政策红利，央视新闻背书提升市场关注度",
+          "policy_relevance": "高度相关，区域性金融机构代表",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600068",
+          "stock_name": "葛洲坝",
+          "recommendation_reason": "湖北重要基建央企，'江汉聚势'暗示基础设施建设加速，政策支持预期强烈",
+          "policy_relevance": "高度相关，区域基建龙头",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "000852",
+          "stock_name": "石化机械",
+          "recommendation_reason": "湖北高端制造代表，符合金融活水支持实体经济导向，具备政策催化潜力",
+          "policy_relevance": "中等相关，实体经济代表企业",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 00:06:53"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

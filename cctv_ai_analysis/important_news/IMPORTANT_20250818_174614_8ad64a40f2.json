@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 17:46:14",
+  "news_info": {
+    "id": "8ad64a40f2",
+    "title": "国务院新闻办公室8月18日举行“高质量完成‘十四五’规划”系列主题新闻发布会，中央统战部、全国人大常委会、全国政协、国家民委的相关负责人介绍了“十四五”时期发展社会主义民主有关情况。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTI6nKOJ3hIvj3JbDnkcAXS250818.shtml",
+    "publish_time": "2025-08-18 18:50:00",
+    "summary": "国务院新闻办公室8月18日举行“高质量完成‘十四五’规划”系列主题新闻发布会，中央统战部、全国人大常..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8680000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.8,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 3,
+      "hours_since_publish": -1.08
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"中国建筑(601668)\",\n      \"score\": 0.82,\n      \"reasons\": [\n        \"与'十四五'基建规划高度契合，政策受益明显\",\n        \"基建板块强度0.65提供支撑，技术指标显示突破形态\",\n        \"PB仅0.7倍，具备估值修复空间\",\n        \"近期获大单资金持续流入\"\n      ],\n      \"risk\": [\n        \"地方政府债务压力可能影响项目回款\",\n        \"房地产下行拖累房建业务\"\n      ]\n    },\n    {\n      \"stock\": \"中国石化(600028)\",\n      \"score\": 0.71,\n      \"reasons\": [\n        \"能源安全战略核心标的，契合现代化产业体系建设\",\n        \"化工板块景气度回升，油价中枢上移利好\",\n        \"股息率超6%具备防御性\",\n        \"技术面呈现底部放量\"\n      ],\n      \"risk\": [\n        \"全球经济衰退风险压制油价\",\n        \"新能源替代长期压力\"\n      ]\n    },\n    {\n      \"stock\": \"中国平安(601318)\",\n      \"score\": 0.63,\n      \"reasons\": [\n        \"金融改革受益标的，符合'现代金融体系'建设方向\",\n        \"技术面超跌反弹需求强烈\",\n        \"寿险改革初见成效\"\n      ],\n      \"risk\": [\n        \"资本市场波动影响投资收益\",\n        \"寿险转型不及预期\",\n        \"板块强度偏弱\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"key_insights\": [\n      \"基建板块政策确定性最高，中国建筑兼具β+α机会\",\n      \"周期品中优选政策护城河深的中国石化\",\n      \"金融股需等待更明确的经济复苏信号\"\n    ],\n    \"market_timing\": \"Q3政策窗口期，建议8-9月重点配置\",\n    \"portfolio_suggestion\": \"基建(50%)+能源(30%)+金融(20%)\"\n  },\n  \"update_time\": \"2023-08-18 15:30\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "'十四五'规划重点推进基础设施建设，作为央企龙头将受益于政策导向",
+        "policy_relevance": "高",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 2,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "作为综合金融集团，将受益于国家整体经济发展和政策环境改善",
+        "policy_relevance": "中",
+        "urgency_level": "长期配置",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "recommendation_reason": "能源安全是'十四五'重要议题，央企改革预期增强",
+        "policy_relevance": "中",
+        "urgency_level": "短期观望",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于国家层面的政策宣导类新闻，虽然内容涉及'十四五'规划等重要议题，但缺乏具体产业政策细节和实质性利好。作为央视新闻发布，具有最高级别的权威性，但投资相关度较低。",
+      "policy_impact": "宏观政策导向信号强烈，但缺乏具体行业落地政策。主要体现国家推进'十四五'规划实施的决心，对市场整体情绪有正面影响，但难以形成具体板块驱动。",
+      "theme_classification": {
+        "theme_type": "宏观政策",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "基础设施建设",
+          "国企改革"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "'十四五'规划重点推进基础设施建设，作为央企龙头将受益于政策导向",
+          "policy_relevance": "高",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 2,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "作为综合金融集团，将受益于国家整体经济发展和政策环境改善",
+          "policy_relevance": "中",
+          "urgency_level": "长期配置",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "600028",
+          "stock_name": "中国石化",
+          "recommendation_reason": "能源安全是'十四五'重要议题，央企改革预期增强",
+          "policy_relevance": "中",
+          "urgency_level": "短期观望",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 17:46:14"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

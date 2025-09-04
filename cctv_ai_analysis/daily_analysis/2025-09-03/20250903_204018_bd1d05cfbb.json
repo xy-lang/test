@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-03 20:40:18",
+  "news_info": {
+    "id": "bd1d05cfbb",
+    "title": "小叶医探 | 13岁女孩排便异常长达9年！原因竟是这种罕见先天性发育异常",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903182022931850114.html",
+    "publish_time": "2025-09-03 18:20:00",
+    "summary": "小叶医探 | 13岁女孩排便异常长达9年！原因竟是这种罕见先天性发育异常"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.32
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为口腔医疗龙头，与罕见病诊疗存在间接关联性，技术面相对稳健，在医疗板块中具备较强抗跌性，受益于医疗健康政策导向\",\n      \"risk_warning\": \"估值偏高，受集采政策影响较大，需关注政策变化风险\"\n    },\n    {\n      \"stock_code\": \"600196\",\n      \"stock_name\": \"复星医药\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"综合性医药集团，在罕见病药物研发和医疗器械领域有所布局，技术面处于相对低位，具备估值修复空间\",\n      \"risk_warning\": \"研发投入大但回报周期长，国际化业务面临地缘政治风险\"\n    },\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"心血管器械龙头，与先天性发育异常诊疗存在一定关联，但技术面相对弱势，需观察企稳信号\",\n      \"risk_warning\": \"集采压力较大，竞争激烈，短期业绩承压明显\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength\": 0.25,\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"news_relevance\": \"中等偏低，新闻为罕见病例报道，对相关个股的直接催化有限\",\n    \"overall_risk_level\": \"中等\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "作为口腔医疗龙头，受益于医疗健康消费升级，但与该新闻直接关联度低",
+        "policy_relevance": "间接受益于医疗健康产业发展政策",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "心血管器械龙头，但新闻内容与公司主营业务关联度较弱",
+        "policy_relevance": "受益于医疗器械国产替代政策",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "recommendation_reason": "综合性医药集团，但罕见病领域并非公司重点发展方向",
+        "policy_relevance": "受益于医药创新政策支持",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为医疗健康类报道，报道罕见先天性发育异常病例，具有科普教育意义但投资价值有限。央视新闻的权威性虽高，但该内容缺乏时效性和政策关联性，评分均为0/10，表明其作为投资参考的价值较低。",
+      "policy_impact": "无直接政策影响。当前医疗健康政策主要关注创新药、医疗器械国产化、分级诊疗等方向，该新闻内容与这些政策重点关联度较弱。",
+      "theme_classification": {
+        "theme_type": "医疗健康/罕见病",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "作为口腔医疗龙头，受益于医疗健康消费升级，但与该新闻直接关联度低",
+          "policy_relevance": "间接受益于医疗健康产业发展政策",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "心血管器械龙头，但新闻内容与公司主营业务关联度较弱",
+          "policy_relevance": "受益于医疗器械国产替代政策",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "600196",
+          "stock_name": "复星医药",
+          "recommendation_reason": "综合性医药集团，但罕见病领域并非公司重点发展方向",
+          "policy_relevance": "受益于医药创新政策支持",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 20:40:18"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-09-01 13:09:20",
+  "news_info": {
+    "id": "89387ec5bc",
+    "title": "隆尧县12对新人举办集体婚礼",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901115257006884243.html",
+    "publish_time": "2025-09-01 11:52:00",
+    "summary": "隆尧县12对新人举办集体婚礼"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.668,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.64,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.28
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_code\": \"000001\",\n      \"stock_name\": \"平安银行\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"技术评分相对较高，在银行板块中表现稳健，与金融消费升级有一定关联度，集体婚礼可能带动婚庆消费和金融服务需求\",\n      \"risk_warning\": \"银行板块整体强度偏弱，市场情绪对金融股谨慎，需关注宏观经济政策变化\"\n    },\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"零售银行龙头，与消费升级主题有一定契合度，技术指标相对稳定，但板块支撑力度有限\",\n      \"risk_warning\": \"银行板块面临息差收窄压力，需关注房地产政策对银行资产质量的影响\"\n    },\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"综合金融属性，但技术评分较低，与新闻主题关联度较弱，缺乏直接催化剂\",\n      \"risk_warning\": \"保险行业面临转型压力，投资收益波动较大，市场时机风险较高\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"银行板块强度0.1显示整体偏弱，缺乏明显上涨动力\",\n    \"news_relevance\": \"集体婚礼新闻与金融股关联度较低，缺乏直接政策受益或短期催化剂\",\n    \"risk_level\": \"中等风险，建议控制仓位，关注后续政策面变化\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "recommendation_reason": "无法基于该新闻内容给出有效推荐。央视新闻权威性主要体现在重大政策发布和突发事件报道，此类民生新闻不具备投资指导价值",
+        "policy_relevance": "无关联",
+        "urgency_level": "不推荐投资",
+        "confidence_score": 0.0
+      },
+      {
+        "rank": 2,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "新闻内容与银行业务无任何关联，无法建立投资逻辑。建议关注更具政策影响力和行业相关性的新闻事件",
+        "policy_relevance": "无关联",
+        "urgency_level": "不推荐投资",
+        "confidence_score": 0.0
+      },
+      {
+        "rank": 3,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "集体婚礼报道不构成任何投资主题，无法推荐相关股票。央视新闻的投资价值需结合具体政策内容和行业影响分析",
+        "policy_relevance": "无关联",
+        "urgency_level": "不推荐投资",
+        "confidence_score": 0.0
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性集体婚礼报道，属于常规民生新闻，投资价值极低。央视新闻虽具权威性，但此类软性新闻对资本市场无直接影响，缺乏投资参考意义。新闻内容与宏观经济、产业政策、上市公司经营等投资要素无实质性关联。",
+      "policy_impact": "无实质性政策影响。集体婚礼属于地方性文化活动，不涉及国家政策导向或产业扶持，对相关行业无政策推动力。此类报道主要体现社会主义精神文明建设，但缺乏具体的产业政策支持。",
+      "theme_classification": {
+        "theme_type": "无投资主题",
+        "hardcore_level": "无投资意志",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000001",
+          "stock_name": "平安银行",
+          "recommendation_reason": "无法基于该新闻内容给出有效推荐。央视新闻权威性主要体现在重大政策发布和突发事件报道，此类民生新闻不具备投资指导价值",
+          "policy_relevance": "无关联",
+          "urgency_level": "不推荐投资",
+          "confidence_score": 0.0
+        },
+        {
+          "rank": 2,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "新闻内容与银行业务无任何关联，无法建立投资逻辑。建议关注更具政策影响力和行业相关性的新闻事件",
+          "policy_relevance": "无关联",
+          "urgency_level": "不推荐投资",
+          "confidence_score": 0.0
+        },
+        {
+          "rank": 3,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "集体婚礼报道不构成任何投资主题，无法推荐相关股票。央视新闻的投资价值需结合具体政策内容和行业影响分析",
+          "policy_relevance": "无关联",
+          "urgency_level": "不推荐投资",
+          "confidence_score": 0.0
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 13:09:20"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

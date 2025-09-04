@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-12 15:02:00",
+  "news_info": {
+    "id": "5771af77a6",
+    "title": "最高法发布涉企行政强制典型案例",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/12/ARTIVE95pSx0nX0CmBPdGgG9250812.shtml",
+    "publish_time": "2025-08-12 15:00:50",
+    "summary": "最高法发布涉企行政强制典型案例"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.77395,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.65,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "最高法发布涉企行政强制典型案例具有较高的政策导向性，虽然新闻中未明确提及具体行业，但体现了司法系统对企业权益保护的重视，可能对涉及行政纠纷较多的行业产生积极影响。",
+    "policy_impact": "该新闻反映了司法系统优化营商环境的政策导向，可能利好法律服务和涉及政企关系改善的企业。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600030",
+        "stock_name": "中信证券",
+        "recommendation_reason": "作为头部券商，将受益于法治环境改善带来的资本市场活跃度提升",
+        "policy_relevance": "高，直接受益于法治环境改善",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "综合金融集团将受益于营商环境改善和法治建设",
+        "policy_relevance": "中高，间接受益于政策环境改善",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "recommendation_reason": "券商板块整体受益于法治建设推进，具有较高弹性",
+        "policy_relevance": "中",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

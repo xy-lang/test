@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 11:34:58",
+  "news_info": {
+    "id": "09032b123c",
+    "title": "“把脉问诊”母亲河 确保“黄金水道”绿色通行",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/15/ARTIAjHaVlY1jW1uc7bHp3hJ250815.shtml",
+    "publish_time": "2025-08-15 11:33:54",
+    "summary": "“把脉问诊”母亲河 确保“黄金水道”绿色通行"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79705,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的政策导向性和市场影响力。本次关于'黄金水道'绿色通行的报道，综合强度0.80分显示较高关注度，预计将带动相关环保、航运及水利基建板块。",
+    "policy_impact": "报道聚焦长江经济带生态保护，预计将加速绿色航运基础设施投资，利好环保设备、港口改造和水处理相关企业。政策持续性0.72分表明中期影响显著。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600068",
+        "stock_name": "葛洲坝",
+        "recommendation_reason": "央企水利基建龙头，深度参与长江航道整治工程，直接受益'黄金水道'绿色升级政策",
+        "policy_relevance": "直接承接水利部航道治理项目",
+        "urgency_level": "高",
+        "confidence_score": 0.92
+      },
+      {
+        "rank": 2,
+        "stock_code": "601008",
+        "stock_name": "连云港",
+        "recommendation_reason": "长江三角洲重要港口，央视报道后可能获得绿色港口改造专项资金支持",
+        "policy_relevance": "港口环保设施升级需求迫切",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "300055",
+        "stock_name": "万邦达",
+        "recommendation_reason": "工业水处理专家，有望参与船舶污染物处理设施建设",
+        "policy_relevance": "契合'绿色通行'的环保技术要求",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

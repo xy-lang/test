@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 10:38:52",
+  "news_info": {
+    "id": "4ef30066de",
+    "title": "丰宁老党员曹尚联一家四代人近百年接力 优良家风接续传",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904100748664188722.html",
+    "publish_time": "2025-09-04 10:07:00",
+    "summary": "丰宁老党员曹尚联一家四代人近百年接力 优良家风接续传"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7756000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.76,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.52
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601928\",\n      \"stock_name\": \"凤凰传媒\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"作为文化传媒龙头企业，与新闻主题的文化传承高度契合，受益于国家精神文明建设政策支持。技术评分相对稳定，板块强度中等支撑，具备政策催化剂的短期上涨潜力。\",\n      \"risk_warning\": \"传媒板块受政策影响较大，需关注行业监管政策变化；技术面显示近期波动性较高，存在回调风险。\"\n    },\n    {\n      \"stock_code\": \"600037\",\n      \"stock_name\": \"歌华有线\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"有线电视网络运营商，在文化传播领域具有一定地位，与精神文明建设主题相关。技术指标显示相对稳健，但板块整体强度一般，属于中等风险收益品种。\",\n      \"risk_warning\": \"传统有线电视业务面临新媒体冲击，基本面存在转型压力；技术面缺乏明显突破信号。\"\n    },\n    {\n      \"stock_code\": \"002261\",\n      \"stock_name\": \"拓维信息\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"信息技术服务企业，与新闻主题关联度相对较弱，但受益于数字文化建设趋势。技术评分符合板块平均水平，但缺乏明显的政策催化剂。\",\n      \"risk_warning\": \"与新闻主题匹配度较低，短期催化效应有限；技术面显示震荡格局，上涨动力不足。\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极，文化传承主题符合国家政策导向，但板块整体强度一般\",\n    \"sector_risk\": \"综合板块风险中等，受宏观经济和政策影响较大\",\n    \"investment_horizon\": \"建议短期关注政策催化，中期关注基本面改善\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601928",
+        "stock_name": "凤凰传媒",
+        "recommendation_reason": "作为文化传媒龙头，受益于传统文化传承政策导向，央视此类报道往往预示文化板块政策支持",
+        "policy_relevance": "文化传承政策受益标的",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "600037",
+        "stock_name": "歌华有线",
+        "recommendation_reason": "央视内容传播渠道商，主流媒体价值观宣传的直接受益者",
+        "policy_relevance": "媒体传播渠道受益",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "002261",
+        "stock_name": "拓维信息",
+        "recommendation_reason": "教育信息化企业，契合家风传承中蕴含的教育理念，受益教育政策导向",
+        "policy_relevance": "教育政策间接受益",
+        "urgency_level": "低",
+        "confidence_score": 0.5
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻属于典型的主流价值观宣传内容，虽然新闻本身不具备直接的投资价值，但体现了央视作为国家级媒体的舆论导向作用。央视新闻的权威性在于其能够反映政策导向和意识形态重点，此类家风传承报道往往预示着精神文明建设相关政策的持续推进",
+      "policy_impact": "中等政策影响。新闻反映了国家在传统文化传承和精神文明建设方面的政策导向，可能带动相关文化传媒、教育培训等板块的政策预期，但直接政策利好有限",
+      "theme_classification": {
+        "theme_type": "文化传承/精神文明建设",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "文化传媒",
+          "教育培训",
+          "社会服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601928",
+          "stock_name": "凤凰传媒",
+          "recommendation_reason": "作为文化传媒龙头，受益于传统文化传承政策导向，央视此类报道往往预示文化板块政策支持",
+          "policy_relevance": "文化传承政策受益标的",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "600037",
+          "stock_name": "歌华有线",
+          "recommendation_reason": "央视内容传播渠道商，主流媒体价值观宣传的直接受益者",
+          "policy_relevance": "媒体传播渠道受益",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "002261",
+          "stock_name": "拓维信息",
+          "recommendation_reason": "教育信息化企业，契合家风传承中蕴含的教育理念，受益教育政策导向",
+          "policy_relevance": "教育政策间接受益",
+          "urgency_level": "低",
+          "confidence_score": 0.5
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:38:52"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

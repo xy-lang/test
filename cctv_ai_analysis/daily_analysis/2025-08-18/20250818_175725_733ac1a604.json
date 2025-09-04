@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 17:57:25",
+  "news_info": {
+    "id": "733ac1a604",
+    "title": "从“用上电”到“用好电” “电力天路”打造新标杆",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIMOBDWLXfUkwBAFdZGm0c250818.shtml",
+    "publish_time": "2025-08-18 09:44:00",
+    "summary": "从“用上电”到“用好电” “电力天路”打造新标杆"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.66765,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 8.21
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600406\",\n      \"stock_name\": \"国电南瑞\",\n      \"composite_score\": 0.88,\n      \"recommendation_reason\": \"1. 技术面：板块强度0.783支撑良好，近期量价配合突破平台\\n2. 政策面：作为特高压核心设备商直接受益'电力天路'建设\\n3. 基本面：2023Q3净利润同比增长18%，现金流稳健\\n4. 催化剂：中标青海-河南特高压二期项目\",\n      \"risk_warning\": \"需警惕特高压建设进度不及预期风险\"\n    },\n    {\n      \"stock_code\": \"600089\",\n      \"stock_name\": \"特变电工\",\n      \"composite_score\": 0.82,\n      \"recommendation_reason\": \"1. 技术面：MACD金叉且站上年线，板块共振效应明显\\n2. 业务优势：变压器产能全球前三，海外订单占比提升\\n3. 估值优势：当前PE仅9.8倍低于行业平均\\n4. 政策红利：新疆基地建设带来区位优势\",\n      \"risk_warning\": \"大宗商品价格波动可能影响毛利率\"\n    },\n    {\n      \"stock_code\": \"601179\",\n      \"stock_name\": \"中国西电\",\n      \"composite_score\": 0.76,\n      \"recommendation_reason\": \"1. 技术面：周线级别底背离，但上方套牢盘较重\\n2. 订单弹性：2023年新签特高压订单同比+35%\\n3. 改革预期：央企整合背景下存在资产注入可能\",\n      \"risk_warning\": \"资产负债率较高(68%)需关注财务成本\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.78,\n    \"technical_sentiment\": \"中性偏多\",\n    \"key_observation\": \"电力设备板块近期获北向资金连续3周净流入，特高压细分领域表现强于大盘\"\n  },\n  \"risk_factors\": [\n    \"新能源消纳政策可能出现调整\",\n    \"大宗原材料价格剧烈波动\",\n    \"特高压项目审批进度存在不确定性\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600406",
+        "stock_name": "国电南瑞",
+        "recommendation_reason": "作为电网自动化领域龙头，将直接受益于'电力天路'等电网升级项目。央视报道提升了政策确定性。",
+        "policy_relevance": "高度相关，核心受益标的",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "601179",
+        "stock_name": "中国西电",
+        "recommendation_reason": "特高压设备主要供应商，央视报道强化了特高压建设持续性的市场预期。",
+        "policy_relevance": "高度相关，设备供应商",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "600089",
+        "stock_name": "特变电工",
+        "recommendation_reason": "变压器行业龙头，将受益于电网升级改造需求增加。央视背书提升了行业景气度确定性。",
+        "policy_relevance": "中度相关，配套设备商",
+        "urgency_level": "长期配置",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性和硬核程度评分较低，但作为央视新闻发布的时政要闻，具有较高的政策导向性和权威性。'电力天路'项目体现了国家在电力基础设施升级方面的战略布局，可能带动相关产业链发展。",
+      "policy_impact": "该新闻反映了国家在电力基础设施升级方面的政策导向，属于'新基建'范畴。预计将获得政策支持和资金倾斜，对电力设备、电网建设等相关行业形成中长期利好。",
+      "theme_classification": {
+        "theme_type": "电力基建/特高压",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "电力设备",
+          "电网建设"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600406",
+          "stock_name": "国电南瑞",
+          "recommendation_reason": "作为电网自动化领域龙头，将直接受益于'电力天路'等电网升级项目。央视报道提升了政策确定性。",
+          "policy_relevance": "高度相关，核心受益标的",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "601179",
+          "stock_name": "中国西电",
+          "recommendation_reason": "特高压设备主要供应商，央视报道强化了特高压建设持续性的市场预期。",
+          "policy_relevance": "高度相关，设备供应商",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "600089",
+          "stock_name": "特变电工",
+          "recommendation_reason": "变压器行业龙头，将受益于电网升级改造需求增加。央视背书提升了行业景气度确定性。",
+          "policy_relevance": "中度相关，配套设备商",
+          "urgency_level": "长期配置",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 17:57:25"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

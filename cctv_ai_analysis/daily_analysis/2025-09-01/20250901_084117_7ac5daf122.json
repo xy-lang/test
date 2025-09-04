@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 08:41:17",
+  "news_info": {
+    "id": "7ac5daf122",
+    "title": "河北省供应链学会成立",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901080514444128016.html",
+    "publish_time": "2025-09-01 08:05:00",
+    "summary": "河北省供应链学会成立"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7228000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.6,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.59
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600787\",\n      \"stock_name\": \"中储股份\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"作为国内领先的仓储物流企业，直接受益于河北省供应链学会成立的政策利好。公司在全国拥有完善的仓储网络布局，与供应链管理概念高度契合。技术面显示近期成交量温和放大，MACD指标出现金叉信号，短期技术形态相对稳健。\",\n      \"risk_warning\": \"物流行业竞争激烈，毛利率承压；宏观经济波动可能影响仓储需求；技术面整体评分不高，需关注0.317板块强度支撑力度\"\n    },\n    {\n      \"stock_code\": \"002010\",\n      \"stock_name\": \"传化智联\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"公司是国内领先的智能物流平台企业，供应链服务业务与新闻主题高度相关。在数字化供应链解决方案方面具有技术优势，可能受益于行业标准化和智能化发展趋势。技术指标显示相对抗跌，但整体板块强度偏弱需要谨慎。\",\n      \"risk_warning\": \"平台业务投入较大，盈利周期较长；技术评分0.32处于中等偏下水平；需警惕市场情绪转弱带来的回调风险\"\n    },\n    {\n      \"stock_code\": \"000582\",\n      \"stock_name\": \"北部湾港\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"作为区域性港口企业，间接受益于供应链优化带来的物流需求增长。港口业务与供应链管理存在一定关联，但直接受益程度相对较弱。技术面表现一般，需要更强的板块效应支撑。\",\n      \"risk_warning\": \"港口业务受外贸环境影响较大；与新闻直接关联度较低；技术评分偏低，建议谨慎参与，关注后续板块强度变化\"\n    }\n  ],\n  \"overall_risk_alert\": \"当前板块整体强度仅0.317，属于偏弱水平，市场情绪支撑有限。供应链题材虽符合政策导向，但短期催化强度一般，建议控制仓位，重点关注技术面突破信号和成交量配合情况。注意大盘系统性风险及行业基本面变化。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600787",
+        "stock_name": "中储股份",
+        "recommendation_reason": "作为国内领先的仓储物流企业，在河北地区有业务布局，供应链学会成立可能带来行业交流机会",
+        "policy_relevance": "中等，属于物流供应链相关企业",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "002010",
+        "stock_name": "传化智联",
+        "recommendation_reason": "智能物流平台企业，供应链管理服务商，可能受益于行业组织推动的标准化建设",
+        "policy_relevance": "中等，供应链服务相关",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "000582",
+        "stock_name": "北部湾港",
+        "review": "作为区域性港口企业，虽然与河北直接关联度不高，但供应链概念具有一定相关性",
+        "policy_relevance": "较低，间接相关",
+        "urgency_level": "很低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为河北省供应链学会成立的时政要闻，虽然来自央视新闻平台，但内容本身缺乏实质性投资信息。新闻标题简短，缺乏具体政策细节、资金投入或产业规划等内容，属于常规的地方性行业组织成立报道。央视新闻的权威性在此类常规报道中主要体现在信息真实性保障，但投资价值有限。",
+      "policy_impact": "低级别政策影响。供应链学会成立属于行业自律组织建设范畴，非强制性政策文件，不涉及具体财政补贴、税收优惠或产业扶持政策。对相关企业的直接影响较弱，更多是行业交流平台的建立，长期可能促进供应链管理水平的提升。",
+      "theme_classification": {
+        "theme_type": "供应链管理/物流",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "物流",
+          "供应链管理",
+          "河北区域概念"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600787",
+          "stock_name": "中储股份",
+          "recommendation_reason": "作为国内领先的仓储物流企业，在河北地区有业务布局，供应链学会成立可能带来行业交流机会",
+          "policy_relevance": "中等，属于物流供应链相关企业",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "002010",
+          "stock_name": "传化智联",
+          "recommendation_reason": "智能物流平台企业，供应链管理服务商，可能受益于行业组织推动的标准化建设",
+          "policy_relevance": "中等，供应链服务相关",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "000582",
+          "stock_name": "北部湾港",
+          "review": "作为区域性港口企业，虽然与河北直接关联度不高，但供应链概念具有一定相关性",
+          "policy_relevance": "较低，间接相关",
+          "urgency_level": "很低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 08:41:17"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

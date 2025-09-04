@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-09-01 00:29:13",
+  "news_info": {
+    "id": "4cce07409c",
+    "title": "东北亚博览会最后一天 开启扫货模式",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250831203631219976067.html",
+    "publish_time": "2025-08-31 20:36:00",
+    "summary": "东北亚博览会最后一天 开启扫货模式"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6779,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.67,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 3.87
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600697\",\n      \"stock_name\": \"欧亚集团\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"作为东北地区领先的商业零售企业，直接受益于东北亚博览会带来的消费刺激和区域经贸合作机遇。技术面相对稳健，与新闻主题高度契合，具备短期催化剂。公司在东北地区商业零售领域具有较强市场地位，政策受益程度较高。\",\n      \"risk_warning\": \"零售行业竞争激烈，消费复苏存在不确定性，需关注公司季度业绩表现和消费市场变化。\"\n    },\n    {\n      \"stock_code\": \"600189\",\n      \"stock_name\": \"吉林森工\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"作为吉林省林业龙头企业，受益于东北亚区域合作带来的林业产品贸易机会。公司业务与区域经济发展关联度较高，但技术面表现相对较弱，需要更多政策催化。\",\n      \"risk_warning\": \"林业行业受政策和环保要求影响较大，业绩波动性较高，需关注政策变化和环保监管要求。\"\n    },\n    {\n      \"stock_code\": \"000698\",\n      \"stock_name\": \"沈阳化工\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"属于化工板块，与东北亚博览会的直接关联度相对较弱。虽然化工行业整体有一定支撑，但技术评分较低，与新闻主题匹配度有限。\",\n      \"risk_warning\": \"化工行业周期性较强，受原材料价格波动影响大，环保政策压力较大，投资风险相对较高。\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极\",\n    \"sector_strength\": \"一般（0.383）\",\n    \"recommendation_strategy\": \"建议重点关注欧亚集团，适度配置吉林森工，谨慎对待沈阳化工\"\n  },\n  \"general_risk_warning\": \"东北亚区域主题投资存在政策执行不及预期风险；板块整体技术强度偏弱（0.38）；需密切关注博览会后续政策落地情况和市场情绪变化；建议控制仓位，设置止损位。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600697",
+        "stock_name": "欧亚集团",
+        "recommendation_reason": "作为东北地区领先的商业零售企业，可能受益于博览会带来的消费提振和区域经济活力提升",
+        "policy_relevance": "中等-区域经济刺激",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      },
+      {
+        "rank": 2,
+        "stock_code": "600189",
+        "stock_name": "吉林森工",
+        "recommendation_reason": "东北地区林业龙头企业，区域经贸活动可能带来业务合作机会",
+        "policy_relevance": "低-间接受益",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 3,
+        "stock_code": "000698",
+        "stock_name": "沈阳化工",
+        "policy_relevance": "低-区域概念",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为东北亚博览会最后一天的常规报道，内容较为表面，缺乏深度分析和实质性政策信息。虽然来自央视平台，但属于日常展会报道类别，投资指导价值有限。第一时间性、硬核程度和持续性评分均为0分，表明该新闻对资本市场影响微弱。",
+      "policy_impact": "东北亚博览会作为区域性经贸活动，虽体现国家推动东北振兴和区域合作的政策导向，但该报道未提及具体政策支持或重大项目，政策影响力较弱。属于常规性区域经济促进活动，缺乏超预期政策利好。",
+      "theme_classification": {
+        "theme_type": "区域性经贸合作",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "区域经济",
+          "商贸零售",
+          "东北振兴"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600697",
+          "stock_name": "欧亚集团",
+          "recommendation_reason": "作为东北地区领先的商业零售企业，可能受益于博览会带来的消费提振和区域经济活力提升",
+          "policy_relevance": "中等-区域经济刺激",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        },
+        {
+          "rank": 2,
+          "stock_code": "600189",
+          "stock_name": "吉林森工",
+          "recommendation_reason": "东北地区林业龙头企业，区域经贸活动可能带来业务合作机会",
+          "policy_relevance": "低-间接受益",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 3,
+          "stock_code": "000698",
+          "stock_name": "沈阳化工",
+          "policy_relevance": "低-区域概念",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 00:29:13"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

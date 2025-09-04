@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 08:47:02",
+  "news_info": {
+    "id": "3ff709f285",
+    "title": "美团发布《2025年暑期文旅消费观察》 贵州漂流热度飙升",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901045135204674380.html",
+    "publish_time": "2025-09-01 04:51:00",
+    "summary": "美团发布《2025年暑期文旅消费观察》 贵州漂流热度飙升"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7142,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.78,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 3.92
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"美团文旅消费数据直接利好旅游服务龙头，技术面相对稳健，作为综合旅游服务商受益暑期消费复苏，与新闻主题匹配度高，具备政策催化预期\",\n      \"risk_warning\": \"旅游行业受宏观经济影响较大，需关注消费复苏持续性；技术面存在震荡调整风险\"\n    },\n    {\n      \"stock_code\": \"002707\",\n      \"stock_name\": \"众信旅游\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"出境游业务逐步恢复，暑期旅游旺季催化，美团数据反映文旅消费热度提升，技术指标显示短期动能改善\",\n      \"risk_warning\": \"出境游恢复进度存在不确定性；估值相对较高，需防范回调风险\"\n    },\n    {\n      \"stock_code\": \"000888\",\n      \"stock_name\": \"峨眉山A\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"景区类标的直接受益暑期旅游旺季，贵州漂流热度提升带动周边景区关注度，技术面相对稳定\",\n      \"risk_warning\": \"景区客流受天气等因素影响较大；估值已反映部分预期，上涨空间相对有限\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"板块强度0.65属于中等偏强水平，支撑个股表现；市场情绪对暑期消费主题持乐观态度；技术指标整体配合度良好\",\n    \"news_matching\": \"美团文旅消费数据直接利好旅游板块，暑期经济催化明确，政策层面鼓励消费复苏\",\n    \"risk_assessment\": \"板块风险中等，需关注消费数据持续性；个股基本面风险可控；市场时机处于旺季催化窗口期\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，受益于暑期文旅消费热度提升，贵州旅游线路布局完善",
+        "policy_relevance": "间接受益于文旅消费政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "002707",
+        "stock_name": "众信旅游",
+        "recommendation_reason": "国内出境游和国内游双轮驱动，暑期旅游旺季直接受益于消费观察数据",
+        "policy_relevance": "消费促进政策受益标的",
+        "urgency_level": "中等",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "000888",
+        "stock_name": "峨眉山A",
+        "recommendation_reason": "景区运营企业，暑期旅游旺季客流增长预期，但需注意该新闻针对性较弱",
+        "policy_relevance": "文旅产业政策间接受益",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为美团发布的文旅消费观察报告，虽然通过央视平台传播，但内容本身属于商业数据发布而非政策导向性新闻。新闻时效性较差（2025年9月发布暑期消费数据），硬核程度低，缺乏持续影响力。央视的权威性传播渠道虽能带来短期关注度，但投资价值有限。",
+      "policy_impact": "该新闻未涉及具体政策导向，属于市场消费数据发布。与文旅产业政策如'乡村振兴'、'消费升级'等有间接关联，但缺乏直接政策支撑。对相关板块的推动力主要来自市场情绪而非实质性政策利好。",
+      "theme_classification": {
+        "theme_type": "文旅消费/暑期经济",
+        "hardcore_level": "个股意志（美团数据发布）",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "旅游服务",
+          "文化传媒",
+          "消费服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，受益于暑期文旅消费热度提升，贵州旅游线路布局完善",
+          "policy_relevance": "间接受益于文旅消费政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "002707",
+          "stock_name": "众信旅游",
+          "recommendation_reason": "国内出境游和国内游双轮驱动，暑期旅游旺季直接受益于消费观察数据",
+          "policy_relevance": "消费促进政策受益标的",
+          "urgency_level": "中等",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "000888",
+          "stock_name": "峨眉山A",
+          "recommendation_reason": "景区运营企业，暑期旅游旺季客流增长预期，但需注意该新闻针对性较弱",
+          "policy_relevance": "文旅产业政策间接受益",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 08:47:02"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

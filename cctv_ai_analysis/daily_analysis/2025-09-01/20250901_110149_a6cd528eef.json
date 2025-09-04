@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-01 11:01:49",
+  "news_info": {
+    "id": "a6cd528eef",
+    "title": "以热爱奔赴使命，用坚守诠释担当——记平度市第三人民医院优秀医师李素芬",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901102959010858943.html",
+    "publish_time": "2025-09-01 10:29:00",
+    "summary": "以热爱奔赴使命，用坚守诠释担当——记平度市第三人民医院优秀医师李素芬"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.32
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:01:49"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

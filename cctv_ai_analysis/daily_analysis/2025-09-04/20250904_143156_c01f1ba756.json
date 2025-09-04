@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-04 14:31:56",
+  "news_info": {
+    "id": "c01f1ba756",
+    "title": "开拓创新，再破“禁区”——单县中心医院完成高难度CT引导下经皮胃壁穿刺联合肺结节同步活检消融术",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904113243400713926.html",
+    "publish_time": "2025-09-04 11:32:00",
+    "summary": "开拓创新，再破“禁区”——单县中心医院完成高难度CT引导下经皮胃壁穿刺联合肺结节同步活检消融术"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.99
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术评分相对较高（约0.35），作为心血管介入器械龙头，与微创手术技术创新关联度最强。公司研发实力突出，在精准医疗设备领域有布局，新闻中的高难度微创手术技术突破直接利好其产品需求。板块强度0.283提供一定支撑，近期医疗政策对创新器械支持力度加大\",\n      \"risk_warning\": \"估值处于行业较高水平，集采政策可能影响部分产品价格，需关注半年报业绩兑现情况\"\n    },\n    {\n      \"stock_code\": \"600055\",\n      \"stock_name\": \"万东医疗\",\n      \"comprehensive_score\": 0.61,\n      \"recommendation_reason\": \"医学影像设备核心企业，CT引导技术直接相关。技术评分中等（约0.30），受益于国产替代政策，新闻中的CT引导穿刺技术展示其产品应用场景。板块情绪温和向好，公司近期获得多项医疗器械注册证\",\n      \"risk_warning\": \"市场竞争激烈，毛利率承压，需关注新产品市场推广进度\"\n    },\n    {\n      \"stock_code\": \"002223\",\n      \"stock_name\": \"鱼跃医疗\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"家用医疗器械龙头，部分产品涉及医院设备领域。技术评分相对较低（约0.19），与新闻关联度较弱但具备医疗设备概念。消费医疗属性提供防御性，疫情后需求恢复中\",\n      \"risk_warning\": \"与新闻直接关联度最低，主营业务偏向消费医疗，技术突破利好有限，需警惕业绩增长乏力风险\"\n    }\n  ],\n  \"overall_risk_alert\": \"医药板块整体强度偏弱（0.283），市场情绪谨慎；医疗反腐政策持续推进可能短期影响板块情绪；个股技术指标普遍偏弱，建议控制仓位，重点关注中报业绩超预期个股\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "作为心血管介入器械龙头，与微创手术技术相关，但新闻关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "600055",
+        "stock_name": "万东医疗",
+        "recommendation_reason": "医学影像设备制造商，与CT引导技术有一定关联",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "recommendation_reason": "家用医疗器械企业，与新闻主题关联度最低，仅作为医疗板块配置参考",
+        "policy_relevance": "很低",
+        "urgency_level": "很低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然报道了医疗技术创新突破，但作为单县中心医院的个案案例，缺乏全国性影响力和政策导向性。央视新闻的权威性在此类地方医疗技术报道中主要体现为正面宣传价值，而非投资指导意义。新闻发布时间较晚，技术含量一般，投资参考价值有限。",
+      "policy_impact": "该新闻未涉及重大政策导向或行业变革，仅为单个医院的医疗技术突破报道。与国家医疗政策、医保改革或器械创新等重大政策关联度较低，对整体医疗板块影响微弱。",
+      "theme_classification": {
+        "theme_type": "医疗技术创新",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗器械",
+          "医疗服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "作为心血管介入器械龙头，与微创手术技术相关，但新闻关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "600055",
+          "stock_name": "万东医疗",
+          "recommendation_reason": "医学影像设备制造商，与CT引导技术有一定关联",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "002223",
+          "stock_name": "鱼跃医疗",
+          "recommendation_reason": "家用医疗器械企业，与新闻主题关联度最低，仅作为医疗板块配置参考",
+          "policy_relevance": "很低",
+          "urgency_level": "很低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 14:31:56"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "analysis_time": "2025-09-04 15:37:48",
+  "news_info": {
+    "id": "6fb6161825",
+    "title": "抢险救灾·先锋力量 | 贵州广播电视台《百姓关注》栏目：闻“汛”而动 全媒呈现",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904151114721526571.html",
+    "publish_time": "2025-09-04 15:11:00",
+    "summary": "抢险救灾·先锋力量 | 贵州广播电视台《百姓关注》栏目：闻“汛”而动 全媒呈现"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.44
+    }
+  },
+  "ai_analysis": {
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601669",
+        "stock_name": "中国电建",
+        "recommendation_reason": "作为国内水利水电建设龙头，直接受益于防汛基础设施建设投入，央视报道提升政策关注度",
+        "policy_relevance": "高度相关，国家防汛工程建设主力军",
+        "urgency_level": "中等",
+        "confidence_score": 0.75,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 2,
+        "stock_code": "600068",
+        "stock_name": "葛洲坝",
+        "recommendation_reason": "水利工程建设重要企业，在西南地区业务布局广泛，受益于区域防汛设施建设",
+        "policy_relevance": "中度相关，区域防汛工程建设受益标的",
+        "urgency_level": "中等",
+        "confidence_score": 0.7,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 3,
+        "stock_code": "300075",
+        "stock_name": "数字政通",
+        "recommendation_reason": "智慧城市和应急管理信息化服务商，受益于城市防汛智能化建设需求提升",
+        "policy_relevance": "中度相关，应急管理信息化建设受益标的",
+        "urgency_level": "一般",
+        "confidence_score": 0.65,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      }
+    ],
+    "stage2_status": "fallback_enhanced",
+    "fallback_reason": "使用规则增强的第一阶段结果",
+    "enhancement_applied": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视报道的抢险救灾主题内容，虽然新闻本身时效性较弱，但央视作为国家级媒体平台，其报道具有权威性和政策导向性。新闻聚焦贵州地区防汛救灾工作，体现了国家对应急管理和民生保障的重视程度。",
+      "policy_impact": "国家持续推进应急管理体系建设，防汛救灾相关投入持续加大。新闻反映的政策导向将推动应急产业、基础设施建设等相关领域发展，具有中长期政策支持预期。",
+      "theme_classification": {
+        "theme_type": "应急管理/防汛救灾",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "工程建设",
+          "水利水电",
+          "应急装备"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601669",
+          "stock_name": "中国电建",
+          "recommendation_reason": "作为国内水利水电建设龙头，直接受益于防汛基础设施建设投入，央视报道提升政策关注度",
+          "policy_relevance": "高度相关，国家防汛工程建设主力军",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600068",
+          "stock_name": "葛洲坝",
+          "recommendation_reason": "水利工程建设重要企业，在西南地区业务布局广泛，受益于区域防汛设施建设",
+          "policy_relevance": "中度相关，区域防汛工程建设受益标的",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "300075",
+          "stock_name": "数字政通",
+          "recommendation_reason": "智慧城市和应急管理信息化服务商，受益于城市防汛智能化建设需求提升",
+          "policy_relevance": "中度相关，应急管理信息化建设受益标的",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 15:37:48"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

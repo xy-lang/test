@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-19 10:12:18",
+  "news_info": {
+    "id": "3c011dd35c",
+    "title": "新修订的《快递暂行条例》首次将“绿色节能”明确纳入快递业发展原则，确立了绿色化、减量化、可循环的治理目标。新条例实施以来效果如何呢？",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIX1qOSSDJpXNdWln0zhyv250818.shtml",
+    "publish_time": "2025-08-18 22:43:00",
+    "summary": "新修订的《快递暂行条例》首次将“绿色节能”明确纳入快递业发展原则，确立了绿色化、减量化、可循环的治理..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7023,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.71,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 11.48
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"顺丰控股(002352)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"直接受益于快递新规，作为行业龙头将率先落实绿色物流政策\",\n        \"技术指标显示近期资金流入明显，MACD金叉形成\",\n        \"板块强度0.767提供良好支撑，物流板块近期跑赢大盘\",\n        \"机构持仓稳定，基本面风险较低\"\n      ],\n      \"risks\": [\n        \"快递行业价格战可能影响利润率\",\n        \"燃油成本波动风险\"\n      ]\n    },\n    {\n      \"stock\": \"仙鹤股份(603733)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"特种纸龙头企业，直接受益于快递包装绿色化转型\",\n        \"技术面呈现突破形态，RSI指标处于健康区间\",\n        \"政策催化明确，可降解包装材料需求将爆发式增长\",\n        \"估值处于历史中位水平\"\n      ],\n      \"risks\": [\n        \"原材料价格波动风险\",\n        \"新产能投放不及预期\"\n      ]\n    },\n    {\n      \"stock\": \"万顺新材(300057)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"功能性薄膜材料可用于绿色包装，政策关联度较高\",\n        \"技术面显示超跌反弹迹象，量价配合良好\",\n        \"市值较小对政策催化更敏感\"\n      ],\n      \"risks\": [\n        \"业绩波动较大\",\n        \"行业竞争加剧风险\",\n        \"技术面尚未形成明确趋势\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength\": \"板块强度0.767处于较强区间，物流包装板块近期有资金持续流入\",\n    \"market_sentiment\": \"政策驱动明确，市场对绿色物流主题关注度提升\",\n    \"technical_indicators\": \"3只标的平均技术评分0.77，顺丰技术形态最优\",\n    \"policy_impact\": \"新条例将产生中长期影响，顺丰作为执行主体受益最直接\",\n    \"risk_factors\": \"需警惕大盘系统性风险和政策执行不及预期风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "recommendation_reason": "作为快递龙头将率先响应绿色政策，其循环包装研发投入已行业领先。央视背书增强品牌溢价。",
+        "policy_relevance": "直接受条例约束的主体企业",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "603733",
+        "stock_name": "仙鹤股份",
+        "recommendation_reason": "主营可降解包装材料，是快递绿色包装核心供应商。政策驱动下需求有望加速释放。",
+        "policy_relevance": "条例明确支持的配套产业",
+        "urgency_level": "短期关注",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "300057",
+        "stock_name": "万顺新材",
+        "recommendation_reason": "功能性薄膜材料供应商，产品应用于快递绿色包装。技术壁垒高且符合循环经济方向。",
+        "policy_relevance": "产业链上游材料提供商",
+        "urgency_level": "长期跟踪",
+        "confidence_score": 0.68
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由央视发布，具有高度权威性，但时效性和硬核程度较低。内容聚焦快递行业绿色新政，虽非突发新闻，但体现了国家在物流环保领域的政策导向。",
+      "policy_impact": "政策将推动快递包装、循环利用等细分领域的技术升级和需求增长，相关企业将获得政策红利。但需注意该条例已实施一段时间，市场可能已部分消化此预期。",
+      "theme_classification": {
+        "theme_type": "绿色物流/环保包装",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "物流",
+          "环保"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002352",
+          "stock_name": "顺丰控股",
+          "recommendation_reason": "作为快递龙头将率先响应绿色政策，其循环包装研发投入已行业领先。央视背书增强品牌溢价。",
+          "policy_relevance": "直接受条例约束的主体企业",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "603733",
+          "stock_name": "仙鹤股份",
+          "recommendation_reason": "主营可降解包装材料，是快递绿色包装核心供应商。政策驱动下需求有望加速释放。",
+          "policy_relevance": "条例明确支持的配套产业",
+          "urgency_level": "短期关注",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 3,
+          "stock_code": "300057",
+          "stock_name": "万顺新材",
+          "recommendation_reason": "功能性薄膜材料供应商，产品应用于快递绿色包装。技术壁垒高且符合循环经济方向。",
+          "policy_relevance": "产业链上游材料提供商",
+          "urgency_level": "长期跟踪",
+          "confidence_score": 0.68
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 10:12:18"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

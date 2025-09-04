@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 09:34:34",
+  "news_info": {
+    "id": "e9f14c9b59",
+    "title": "全国各地以多种方式纪念中国人民抗日战争暨世界反法西斯战争胜利80周年，人们走进纪念馆、展览馆重温抗战历史，组织开展形式多样的活动缅怀英烈，汲取前行力量。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIOFTMYsiS33JnlK6pIczR250901.shtml",
+    "publish_time": "2025-09-01 22:06:00",
+    "summary": "全国各地以多种方式纪念中国人民抗日战争暨世界反法西斯战争胜利80周年，人们走进纪念馆、展览馆重温抗战..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -12.54
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"name\": \"中青旅(600138)\",\n      \"score\": 0.85,\n      \"reason\": \"直接受益于红色旅游主题，公司拥有丰富的红色旅游资源布局，技术面显示板块强度0.8支撑良好，符合国家意志政策导向，短期催化剂明确\",\n      \"risk\": \"旅游行业受季节性影响较大，需关注实际客流增长是否达预期\"\n    },\n    {\n      \"name\": \"中视传媒(600088)\", \n      \"score\": 0.78,\n      \"reason\": \"作为央视旗下传媒平台，在抗战纪念相关节目制作和传播方面具有独特优势，技术评分0.8显示市场情绪积极，政策受益明显\",\n      \"risk\": \"传媒行业竞争激烈，需关注内容制作成本和收视率表现\"\n    },\n    {\n      \"name\": \"宋城演艺(300144)\",\n      \"score\": 0.72,\n      \"reason\": \"文旅演艺模式可能结合红色主题进行内容创新，技术面相对稳健，但直接关联度略低于前两只股票\",\n      \"risk\": \"演艺项目投资回收周期较长，需关注新项目落地进度和盈利能力\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength\": 0.80,\n    \"market_sentiment\": \"积极\",\n    \"policy_benefit\": \"高\",\n    \"overall_rating\": \"推荐\"\n  },\n  \"risk_warning\": \"需注意整体市场情绪变化风险，红色主题行情可能具有时效性，建议关注政策持续性和实际业绩兑现情况。同时注意大盘系统性风险和技术面回调风险。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，中青旅在红色旅游线路开发和服务方面具有优势，央视新闻的报道将提升红色旅游热度，直接受益于纪念活动带来的客流增长",
+        "policy_relevance": "高度相关，符合国家文化传承政策导向",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下上市公司，直接受益于央视新闻平台的传播效应，在抗战纪念相关节目制作、文化传播方面具有独特优势",
+        "policy_relevance": "高度相关，央视系文化传媒龙头企业",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "300144",
+        "stock_name": "宋城演艺",
+        "recommendation_reason": "公司在文旅演艺领域具有优势，可能参与相关纪念活动的演艺项目，受益于红色文化旅游热潮",
+        "policy_relevance": "中度相关，文化演艺与红色主题结合",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视新闻发布的纪念抗战胜利80周年报道，虽然新闻本身时效性较弱，但作为国家级媒体在重要时间节点的报道，具有显著的政策导向意义。央视新闻的权威性能够有效引导社会关注度和政策资源向相关领域倾斜，形成短期市场热点。",
+      "policy_impact": "该新闻体现了国家层面对红色文化传承和爱国主义教育的高度重视，预计将推动相关文化产业、旅游产业的政策支持。纪念活动相关的文化传播、旅游接待、教育服务等领域可能获得政策红利，具有明确的正向政策影响。",
+      "theme_classification": {
+        "theme_type": "红色旅游/文化传媒",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "文化旅游",
+          "文化传媒",
+          "教育服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，中青旅在红色旅游线路开发和服务方面具有优势，央视新闻的报道将提升红色旅游热度，直接受益于纪念活动带来的客流增长",
+          "policy_relevance": "高度相关，符合国家文化传承政策导向",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下上市公司，直接受益于央视新闻平台的传播效应，在抗战纪念相关节目制作、文化传播方面具有独特优势",
+          "policy_relevance": "高度相关，央视系文化传媒龙头企业",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "300144",
+          "stock_name": "宋城演艺",
+          "recommendation_reason": "公司在文旅演艺领域具有优势，可能参与相关纪念活动的演艺项目，受益于红色文化旅游热潮",
+          "policy_relevance": "中度相关，文化演艺与红色主题结合",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 09:34:34"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-02 00:09:38",
+  "news_info": {
+    "id": "c349313d91",
+    "title": "速来抢号！周三上午，山东大学齐鲁医院心理科专家来齐鲁医院德州医院新湖院区坐诊",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901212650800123389.html",
+    "publish_time": "2025-09-01 21:26:00",
+    "summary": "速来抢号！周三上午，山东大学齐鲁医院心理科专家来齐鲁医院德州医院新湖院区坐诊"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.71
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600196\",\n      \"stock_name\": \"复星医药\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"技术面相对稳健，医药板块整体强度0.15提供支撑，与医疗服务新闻有一定关联度，公司业务涵盖医药研发、制造和医疗服务，具备政策受益潜力\",\n      \"risk_warning\": \"医药板块政策风险较高，个股估值处于行业中等水平，需关注集采政策影响和研发投入回报周期\"\n    },\n    {\n      \"stock_code\": \"000963\",\n      \"stock_name\": \"华东医药\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"医药商业和工业双轮驱动，与医院诊疗服务关联度较高，技术指标显示相对稳定，受益于医疗资源下沉政策\",\n      \"risk_warning\": \"面临医药行业竞争加剧风险，创新药研发存在不确定性，需关注带量采购对公司业绩的影响\"\n    },\n    {\n      \"stock_code\": \"600056\",\n      \"stock_name\": \"中国医药\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"医药流通业务与医院服务存在间接关联，技术评分符合板块平均水平，具备一定的政策受益预期\",\n      \"risk_warning\": \"医药流通行业利润率较低，受医保控费影响较大，需关注应收账款风险和行业整合压力\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.15,\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"technical_indicator_status\": \"基本配合但强度有限\",\n    \"news_relevance\": \"中等偏低，属于间接关联\",\n    \"risk_level\": \"中等\"\n  },\n  \"general_risk_warning\": \"医药板块当前面临政策不确定性，集采扩面可能影响企业盈利能力；医疗服务新闻催化效应有限，建议控制仓位，短期操作需谨慎；整体市场情绪偏弱，注意系统性风险\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "recommendation_reason": "作为综合性医疗健康企业，长期受益于医疗资源下沉和分级诊疗趋势，但与此新闻无直接关联",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      },
+      {
+        "rank": 2,
+        "stock_code": "000963",
+        "stock_name": "华东医药",
+        "recommendation_reason": "医药商业和医疗服务综合提供商，但此新闻对业务影响极其有限",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 3,
+        "stock_code": "600056",
+        "stock_name": "中国医药",
+        "recommendation_reason": "医药流通和医疗服务企业，但此地方性坐诊信息不构成投资催化剂",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.1
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方医院专家坐诊通知，属于常规医疗服务信息，不具备重大投资价值。央视新闻的权威性在此类日常医疗信息中不产生显著投资影响，新闻重要性较低，时效性短暂，对资本市场基本无直接推动作用。",
+      "policy_impact": "无实质性政策影响。该新闻仅反映常规医疗资源调配，未涉及医疗政策变革或行业重大利好，对医疗板块整体影响微乎其微。",
+      "theme_classification": {
+        "theme_type": "日常医疗服务",
+        "hardcore_level": "无投资意志",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "医疗服务",
+          "医疗健康"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600196",
+          "stock_name": "复星医药",
+          "recommendation_reason": "作为综合性医疗健康企业，长期受益于医疗资源下沉和分级诊疗趋势，但与此新闻无直接关联",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        },
+        {
+          "rank": 2,
+          "stock_code": "000963",
+          "stock_name": "华东医药",
+          "recommendation_reason": "医药商业和医疗服务综合提供商，但此新闻对业务影响极其有限",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 3,
+          "stock_code": "600056",
+          "stock_name": "中国医药",
+          "recommendation_reason": "医药流通和医疗服务企业，但此地方性坐诊信息不构成投资催化剂",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.1
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 00:09:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

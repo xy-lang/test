@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 18:15:53",
+  "news_info": {
+    "id": "a57a8bafd1",
+    "title": "为进一步加强质量认证行业公信力建设，提升质量管理体系认证有效性，国家认监委近日发布了新版《质量管理体系认证规则》，将于2026年1月1日正式实施。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/04/ARTIxCt0NGDXNcMdWzF6QlgG250904.shtml",
+    "publish_time": "2025-09-04 20:34:00",
+    "summary": "为进一步加强质量认证行业公信力建设，提升质量管理体系认证有效性，国家认监委近日发布了新版《质量管理体..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8894500000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 1.0,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -2.32
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"603060\",\n      \"stock_name\": \"国检集团\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"作为国内质量检测认证领域的龙头企业，直接受益于新版质量管理体系认证规则的实施。技术指标显示近期成交量温和放大，MACD金叉向上，板块强度0.783提供良好支撑。公司作为央企背景，在国家质量基础设施建设中具有核心地位，政策受益程度最高。\",\n      \"risk_warning\": \"需关注政策落地进度不及预期风险，以及检测行业竞争加剧可能带来的毛利率压力\"\n    },\n    {\n      \"stock_code\": \"300012\",\n      \"stock_name\": \"华测检测\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"民营检测龙头，业务覆盖全面，在新规实施后将显著受益于认证需求提升。技术面呈现突破平台整理态势，RSI指标处于健康区间。公司全国化布局完善，能够快速响应政策变化，短期催化剂明确。\",\n      \"risk_warning\": \"估值相对较高，需警惕市场情绪波动带来的估值回调风险\"\n    },\n    {\n      \"stock_code\": \"688228\",\n      \"stock_name\": \"开普检测\",\n      \"comprehensive_score\": 0.76,\n      \"recommendation_reason\": \"专注于电力设备检测领域，虽然业务范围相对集中，但在新规要求下同样受益。技术指标显示均线系统多头排列，但成交量配合略显不足。公司在细分领域具有技术优势，政策间接利好明显。\",\n      \"risk_warning\": \"业务集中度较高，受电力行业投资周期影响较大，需关注行业景气度变化\"\n    }\n  ],\n  \"overall_risk_alert\": [\n    \"政策实施时间较远（2026年），短期业绩贡献存在不确定性\",\n    \"检测认证行业受宏观经济影响较大，需关注经济复苏进度\",\n    \"市场整体情绪波动可能影响板块表现，建议分批布局\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "603060",
+        "stock_name": "国检集团",
+        "recommendation_reason": "作为国内领先的检验认证服务机构，新版质量管理体系认证规则的实施将直接提升公司认证业务需求，央视新闻的权威发布增强了政策落地的确定性",
+        "policy_relevance": "直接受益于认证行业规范化升级",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "recommendation_reason": "国内第三方检测龙头，质量管理体系认证业务占比较高，新规实施将推动检测认证服务标准化和市场需求增长",
+        "policy_relevance": "检测认证服务直接受益标的",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "688228",
+        "stock_name": "开普检测",
+        "recommendation_reason": "专业从事检测认证服务，在质量管理体系认证领域具有技术优势，政策推动下业务增长确定性较强",
+        "policy_relevance": "认证检测服务提供商",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为国家认监委发布的新版质量管理体系认证规则，具有重要的政策指导意义。央视新闻作为国家级权威媒体发布此类政策信息，体现了国家层面对质量认证行业规范化的重视程度，对相关行业将产生深远影响。",
+      "policy_impact": "新版认证规则的实施将推动质量认证行业标准化升级，预计将带来以下影响：1）认证机构业务规范化要求提升；2）质量管理咨询服务需求增加；3）相关检测设备和技术服务市场扩容。政策实施过渡期至2026年，为相关企业提供了明确的业务调整和布局时间窗口。",
+      "theme_classification": {
+        "theme_type": "质量认证服务升级",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "检验检测",
+          "认证服务",
+          "质量管理软件"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "603060",
+          "stock_name": "国检集团",
+          "recommendation_reason": "作为国内领先的检验认证服务机构，新版质量管理体系认证规则的实施将直接提升公司认证业务需求，央视新闻的权威发布增强了政策落地的确定性",
+          "policy_relevance": "直接受益于认证行业规范化升级",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "300012",
+          "stock_name": "华测检测",
+          "recommendation_reason": "国内第三方检测龙头，质量管理体系认证业务占比较高，新规实施将推动检测认证服务标准化和市场需求增长",
+          "policy_relevance": "检测认证服务直接受益标的",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "688228",
+          "stock_name": "开普检测",
+          "recommendation_reason": "专业从事检测认证服务，在质量管理体系认证领域具有技术优势，政策推动下业务增长确定性较强",
+          "policy_relevance": "认证检测服务提供商",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 18:15:53"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

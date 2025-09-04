@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 08:42:38",
+  "news_info": {
+    "id": "b671c92ca1",
+    "title": "开学季校长说|德州这些校长走心的开学寄语，哪一句戳中了你？",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901070258846332717.html",
+    "publish_time": "2025-09-01 07:02:00",
+    "summary": "开学季校长说|德州这些校长走心的开学寄语，哪一句戳中了你？"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7175,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.79,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.67
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600661\",\n      \"stock_name\": \"昂立教育\",\n      \"comprehensive_score\": 0.28,\n      \"recommendation_reason\": \"教育服务板块中相对技术形态较好，与开学季新闻有一定关联度，短期可能受益于教育主题关注度提升，但整体板块强度偏弱限制了上涨空间\",\n      \"risk_warning\": \"教育板块政策风险较高，技术评分仅0.23，市场情绪偏谨慎，缺乏持续上涨动力\"\n    },\n    {\n      \"stock_code\": \"002261\",\n      \"stock_name\": \"拓维信息\",\n      \"comprehensive_score\": 0.25,\n      \"recommendation_reason\": \"虽归类为教育服务但业务更多偏向信息技术，与开学季主题关联度较弱，技术指标处于中性偏弱状态\",\n      \"risk_warning\": \"与新闻主题匹配度不高，板块强度0.233显示整体弱势，缺乏明确催化剂\"\n    },\n    {\n      \"stock_code\": \"300010\",\n      \"stock_name\": \"豆神教育\",\n      \"comprehensive_score\": 0.18,\n      \"recommendation_reason\": \"教育服务概念股，但技术面表现最弱，与新闻关联度有限，缺乏明显投资价值\",\n      \"risk_warning\": \"技术评分最低，教育行业政策不确定性大，基本面风险较高，不建议重点关注\"\n    }\n  ],\n  \"overall_assessment\": {\n    \"market_sentiment\": \"谨慎偏弱\",\n    \"sector_strength\": \"弱势(0.233)\",\n    \"investment_advice\": \"当前教育服务板块整体表现疲弱，技术指标不支持大幅上涨，建议保持观望或轻仓参与\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "recommendation_reason": "虽新闻本身无投资价值，但基于教育板块长期政策支持背景，建议关注职业教育龙头",
+        "policy_relevance": "低关联度，仅基于教育大主题",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "300010",
+        "stock_name": "豆神教育",
+        "recommendation_reason": "教育信息化标的，但新闻内容与此关联度极弱",
+        "policy_relevance": "极低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      },
+      {
+        "rank": 3,
+        "stock_code": "002261",
+        "stock_name": "拓维信息",
+        "recommendation_reason": "教育科技概念，但与此新闻无直接关联",
+        "policy_relevance": "极低",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性教育类常规报道，内容为德州校长开学寄语，属于季节性教育新闻，投资价值极低。央视新闻平台虽具权威性，但此内容缺乏实质性政策导向和市场影响力，时效性差，不具备投资参考价值。",
+      "policy_impact": "无实质性政策影响。内容仅为地方教育常规活动报道，未涉及任何教育政策调整或产业扶持政策，对资本市场无直接影响。",
+      "theme_classification": {
+        "theme_type": "教育服务",
+        "hardcore_level": "无投资价值",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "教育服务",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600661",
+          "stock_name": "昂立教育",
+          "recommendation_reason": "虽新闻本身无投资价值，但基于教育板块长期政策支持背景，建议关注职业教育龙头",
+          "policy_relevance": "低关联度，仅基于教育大主题",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "300010",
+          "stock_name": "豆神教育",
+          "recommendation_reason": "教育信息化标的，但新闻内容与此关联度极弱",
+          "policy_relevance": "极低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        },
+        {
+          "rank": 3,
+          "stock_code": "002261",
+          "stock_name": "拓维信息",
+          "recommendation_reason": "教育科技概念，但与此新闻无直接关联",
+          "policy_relevance": "极低",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 08:42:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

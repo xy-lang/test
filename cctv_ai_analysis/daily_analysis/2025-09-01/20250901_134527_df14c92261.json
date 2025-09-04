@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 13:45:27",
+  "news_info": {
+    "id": "df14c92261",
+    "title": "生死营救！烟台山医院东院护士李璐瑶深夜为心梗患者点亮生命之光 急诊科、ICU等多科室让患者转危为安",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901131959700115125.html",
+    "publish_time": "2025-09-01 13:19:00",
+    "summary": "生死营救！烟台山医院东院护士李璐瑶深夜为心梗患者点亮生命之光 急诊科、ICU等多科室让患者转危为安"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.43
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"技术面表现相对稳健，作为心血管介入器械龙头，与新闻中心梗救治场景高度契合，政策受益于医疗器械国产化趋势，短期存在事件催化机会\",\n      \"risk_warning\": \"需关注集采政策对产品价格的潜在影响，医疗器械行业监管政策变化风险\"\n    },\n    {\n      \"stock_code\": \"600056\",\n      \"stock_name\": \"中国医药\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"医药流通龙头企业，受益于医疗急救体系建设，技术指标显示相对稳定，具备一定的防御属性，与急诊药品供应关联度较高\",\n      \"risk_warning\": \"医药流通行业毛利率较低，面临市场竞争加剧风险，政策变化可能影响盈利模式\"\n    },\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"口腔医疗龙头，虽与急诊救治关联度相对较弱，但技术面表现尚可，受益于医疗健康整体板块情绪回暖\",\n      \"risk_warning\": \"估值相对较高，消费医疗属性较强，受宏观经济影响较大，政策监管风险需要关注\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength\": 0.60,\n    \"market_sentiment\": \"医疗板块情绪中性偏积极，急救相关题材存在短期催化\",\n    \"technical_indicator_status\": \"整体技术指标配合度一般，建议谨慎配置\",\n    \"overall_risk_level\": \"中等\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "央视医疗正能量报道间接提升公众对医疗服务的关注度，通策医疗作为口腔医疗龙头受益于医疗服务板块情绪提升",
+        "policy_relevance": "符合健康中国战略下的医疗服务升级方向",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "新闻涉及心梗救治，乐普医疗在心血管介入器械领域具有领先地位，间接关联急救医疗设备需求",
+        "policy_relevance": "契合医疗器械国产替代政策导向",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "600056",
+        "stock_name": "中国医药",
+        "recommendation_reason": "作为大型医药健康产业集团，受益于医疗正能量宣传带来的板块关注度提升",
+        "policy_relevance": "符合医药流通行业整合政策趋势",
+        "urgency_level": "低",
+        "confidence_score": 0.5
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为典型的社会正能量报道，虽具有央视权威背书，但投资价值有限。新闻内容聚焦医疗急救个案，缺乏政策导向和行业变革信息，时效性、硬核程度均为0分，属于常规医疗新闻报道，不具备直接投资指导意义。",
+      "policy_impact": "无直接政策影响。间接关联国家持续推进的医疗体系建设政策，但该新闻本身不构成政策信号。医疗改革、分级诊疗等长期政策方向仍值得关注，但需结合更明确的政策文件。",
+      "theme_classification": {
+        "theme_type": "医疗急救/正能量宣传",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "央视医疗正能量报道间接提升公众对医疗服务的关注度，通策医疗作为口腔医疗龙头受益于医疗服务板块情绪提升",
+          "policy_relevance": "符合健康中国战略下的医疗服务升级方向",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "新闻涉及心梗救治，乐普医疗在心血管介入器械领域具有领先地位，间接关联急救医疗设备需求",
+          "policy_relevance": "契合医疗器械国产替代政策导向",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "600056",
+          "stock_name": "中国医药",
+          "recommendation_reason": "作为大型医药健康产业集团，受益于医疗正能量宣传带来的板块关注度提升",
+          "policy_relevance": "符合医药流通行业整合政策趋势",
+          "urgency_level": "低",
+          "confidence_score": 0.5
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 13:45:27"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

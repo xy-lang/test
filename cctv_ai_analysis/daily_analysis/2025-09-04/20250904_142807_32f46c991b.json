@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 14:28:07",
+  "news_info": {
+    "id": "32f46c991b",
+    "title": "顽疾六年！菏泽市妇幼保健院中医辨证，助患者摆脱颈部肿块困扰",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904132723937239453.html",
+    "publish_time": "2025-09-04 13:27:00",
+    "summary": "顽疾六年！菏泽市妇幼保健院中医辨证，助患者摆脱颈部肿块困扰"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7175,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.79,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.01
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600085\",\n      \"stock_name\": \"同仁堂\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"中医药龙头标的，与新闻中中医辨证治疗高度契合，品牌效应和政策受益度最高。技术面显示板块强度0.633支撑良好，近期技术评分0.68处于相对高位，市场情绪对中医药板块持续看好，短期催化剂明确。\",\n      \"risk_warning\": \"需关注中医药政策变化风险及估值偏高风险，当前市盈率处于历史较高分位\"\n    },\n    {\n      \"stock_code\": \"002727\",\n      \"stock_name\": \"一心堂\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"基层医疗连锁龙头，与新闻中基层医疗机构服务定位匹配度高。技术评分0.65表现稳定，受益于分级诊疗政策推进，门店扩张和数字化转型提供成长动力。\",\n      \"risk_warning\": \"面临行业竞争加剧风险，新店培育期可能影响短期盈利能力\"\n    },\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"医疗器械细分龙头，虽与中医辨证关联度相对较低，但在基层医疗设备领域有布局。技术评分0.56相对较弱，但创新医疗器械政策支持提供长期发展空间。\",\n      \"risk_warning\": \"集采政策对医疗器械价格压力仍在，需关注产品迭代和市场竞争风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.633,\n    \"market_sentiment\": \"中医药板块受政策支持明确，基层医疗建设加速推进，市场情绪偏积极\",\n    \"technical_indicator_status\": \"平均技术评分0.63显示板块技术面整体健康，支撑个股表现\",\n    \"policy_benefit_level\": \"中医药振兴发展政策持续发力，基层医疗服务体系建设获政策重点支持\",\n    \"risk_assessment\": \"板块整体风险中等，需关注政策执行节奏变化和估值回调风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600085",
+        "stock_name": "同仁堂",
+        "recommendation_reason": "央视新闻展示中医药在基层医疗的应用价值，利好中医药龙头品牌形象提升",
+        "policy_relevance": "中医药国家战略受益标的",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "002727",
+        "stock_name": "一心堂",
+        "recommendation_reason": "基层医疗服务网络完善，受益于中医药在基层医疗的推广趋势",
+        "policy_relevance": "基层医疗渠道建设受益",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendance_reason": "医疗器械企业，部分产品可用于颈部肿块诊疗，间接受益医疗健康宣传",
+        "policy_relevance": "医疗器械国产化政策受益",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方医疗案例报道，内容涉及中医治疗颈部肿块，属于常规医疗健康类新闻。央视新闻平台具有权威性，但该新闻时效性较差（评分0/10），硬核程度低（0/10），持续性弱（0/10），对资本市场直接影响有限。主要价值在于强化中医药在基层医疗应用的形象宣传。",
+      "policy_impact": "符合国家中医药发展战略规划（2021-2025年）中'推动中医药服务基层医疗'的政策导向。但该新闻为个案报道，非重大政策发布，对行业整体影响较小，更多体现为对中医药应用场景的正面宣传。",
+      "theme_classification": {
+        "theme_type": "中医药+基层医疗",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "中医药",
+          "医疗服务",
+          "医疗器械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600085",
+          "stock_name": "同仁堂",
+          "recommendation_reason": "央视新闻展示中医药在基层医疗的应用价值，利好中医药龙头品牌形象提升",
+          "policy_relevance": "中医药国家战略受益标的",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "002727",
+          "stock_name": "一心堂",
+          "recommendation_reason": "基层医疗服务网络完善，受益于中医药在基层医疗的推广趋势",
+          "policy_relevance": "基层医疗渠道建设受益",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendance_reason": "医疗器械企业，部分产品可用于颈部肿块诊疗，间接受益医疗健康宣传",
+          "policy_relevance": "医疗器械国产化政策受益",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 14:28:07"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

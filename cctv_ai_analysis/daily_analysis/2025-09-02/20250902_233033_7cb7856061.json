@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-02 23:30:33",
+  "news_info": {
+    "id": "7cb7856061",
+    "title": "以书画为桥 菏泽牡丹文化在日本绽放",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250902202657679290631.html",
+    "publish_time": "2025-09-02 20:26:00",
+    "summary": "以书画为桥 菏泽牡丹文化在日本绽放"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6779,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.67,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 3.06
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为央视旗下传媒平台，在文化传播领域具有权威性和资源优势，与牡丹文化海外传播主题高度契合。技术面相对稳健，在传媒板块中具备一定抗跌性，受益于文化出海政策导向。\",\n      \"risk_warning\": \"传媒行业监管政策变化风险，市场情绪波动可能影响短期表现\"\n    },\n    {\n      \"stock_code\": \"000802\",\n      \"stock_name\": \"北京文化\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"在影视文化内容制作方面有一定积累，可能间接受益于文化传播活动带来的行业关注度提升。但技术面表现一般，需要观察后续资金关注度。\",\n      \"risk_warning\": \"影视行业内容制作风险较高，业绩波动性大，技术面支撑较弱\"\n    },\n    {\n      \"stock_code\": \"600358\",\n      \"stock_name\": \"国旅联合\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"虽涉及文化旅游业务，但与新闻主题的直接关联度相对较弱。技术评分较低，板块强度不足，建议谨慎关注。\",\n      \"risk_warning\": \"旅游行业复苏存在不确定性，个股基本面支撑不足，技术面风险较高\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"偏弱（0.267）\",\n    \"recommendation_strategy\": \"建议重点关注中视传媒，控制仓位，设置止损位\"\n  },\n  \"risk_notes\": [\n    \"综合板块整体强度偏弱，可能制约个股表现\",\n    \"文化传媒板块受政策影响较大，需关注监管动态\",\n    \"市场情绪波动可能放大个股风险，建议控制仓位\",\n    \"技术指标显示整体偏弱，需谨慎选择入场时机\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "作为央视旗下上市公司，受益于央视文化传播平台的权威性和影响力，但该新闻直接影响有限",
+        "policy_relevance": "间接相关，文化传播主题",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "000802",
+        "stock_name": "北京文化",
+        "recommendation_reason": "文化传媒板块标的，但与该新闻关联度较弱，更多是板块轮动考虑",
+        "policy_relevance": "弱相关",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "600358",
+        "stock_name": "国旅联合",
+        "recommendation_reason": "涉及文化旅游业务，但牡丹文化主题过于细分，投资逻辑不强",
+        "policy_relevance": "弱相关",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然报道了菏泽牡丹文化在日本的文化交流活动，但作为投资分析，其重要性较低。新闻内容属于文化传播类报道，缺乏直接的投资指向性和市场影响力。央视新闻的权威性在此类文化新闻中主要体现在品牌传播价值，而非直接的投资价值。新闻评分显示第一时间性、硬核程度、持续性均为0分，表明该新闻对资本市场影响有限。",
+      "policy_impact": "该新闻反映了文化出海政策导向，属于'文化自信'和'中华文化走出去'战略的具体体现。但政策影响层级较低，属于地方文化推广层面，缺乏国家级重大政策支持。对相关产业的拉动作用有限，更多是象征性意义。",
+      "theme_classification": {
+        "theme_type": "文化传媒/地方特色产业",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "旅游",
+          "农业种植"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "作为央视旗下上市公司，受益于央视文化传播平台的权威性和影响力，但该新闻直接影响有限",
+          "policy_relevance": "间接相关，文化传播主题",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "000802",
+          "stock_name": "北京文化",
+          "recommendation_reason": "文化传媒板块标的，但与该新闻关联度较弱，更多是板块轮动考虑",
+          "policy_relevance": "弱相关",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "600358",
+          "stock_name": "国旅联合",
+          "recommendation_reason": "涉及文化旅游业务，但牡丹文化主题过于细分，投资逻辑不强",
+          "policy_relevance": "弱相关",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 23:30:33"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

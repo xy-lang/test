@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-04 17:43:48",
+  "news_info": {
+    "id": "bddf5fc68c",
+    "title": "龙口市人民医院：医者仁心暖人心 用责任与担当书写生命赞歌",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904172535548967787.html",
+    "publish_time": "2025-09-04 17:25:00",
+    "summary": "龙口市人民医院：医者仁心暖人心 用责任与担当书写生命赞歌"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7822,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.78,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.3
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"name\": \"爱尔眼科(300015)\",\n      \"score\": 0.78,\n      \"reason\": \"技术面相对稳健，医疗服务龙头地位稳固，与医院管理题材高度契合，受益于医疗服务质量提升政策导向，短期催化剂明确\",\n      \"risk\": \"估值偏高，需关注医疗政策变化风险\"\n    },\n    {\n      \"name\": \"通策医疗(600763)\",\n      \"score\": 0.65,\n      \"reason\": \"口腔医疗细分领域龙头，技术指标显示企稳迹象，与医院优质服务主题有一定关联性，但业务集中度较高\",\n      \"risk\": \"区域集中风险较大，受消费医疗需求波动影响明显\"\n    },\n    {\n      \"name\": \"中国医药(600056)\",\n      \"score\": 0.52,\n      \"reason\": \"医药流通领域企业，与新闻主题关联度相对较弱，但受益于医药行业整体政策环境，技术面处于震荡筑底阶段\",\n      \"risk\": \"业务模式毛利率较低，面临行业竞争加剧风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_assessment\": \"板块强度0.317属于中等偏弱水平，技术评分0.32显示整体技术面仍需观察，市场情绪谨慎\",\n    \"news_relevance\": \"新闻聚焦医院服务质量提升，与医疗服务类个股关联度较高，但缺乏直接政策利好刺激\",\n    \"risk_outlook\": \"医药板块当前面临政策不确定性，个股基本面分化明显，建议控制仓位谨慎参与\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "作为口腔医疗龙头，受益于医疗服务行业整体形象提升，但此新闻直接影响有限",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300015",
+        "stock_name": "爱尔眼科",
+        "recommendation_reason": "眼科医疗服务龙头，但新闻内容与公司业务关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "600056",
+        "stock_name": "中国医药",
+        "recommendation_reason": "医药流通企业，与医院服务有一定关联，但新闻影响极其有限",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方医院正面报道，属于常规性宣传内容，投资价值有限。央视新闻的权威性虽高，但此条新闻缺乏政策突破性和行业影响力，更多体现为地方医疗机构的日常运营宣传，不具备明显的投资指导意义。",
+      "policy_impact": "低政策影响。新闻未涉及医疗改革、医保政策或重大医疗基建等实质性政策内容，对医疗板块整体影响微弱，更多是地方医疗服务的正面形象宣传。",
+      "theme_classification": {
+        "theme_type": "医疗服务/医院管理",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "作为口腔医疗龙头，受益于医疗服务行业整体形象提升，但此新闻直接影响有限",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300015",
+          "stock_name": "爱尔眼科",
+          "recommendation_reason": "眼科医疗服务龙头，但新闻内容与公司业务关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "600056",
+          "stock_name": "中国医药",
+          "recommendation_reason": "医药流通企业，与医院服务有一定关联，但新闻影响极其有限",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 17:43:48"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-04 17:56:24",
+  "news_info": {
+    "id": "7cfdd485fe",
+    "title": "宁夏重伤女童千里来菏保肢成功 家人六面锦旗致谢博爱好医生",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904173214045789198.html",
+    "publish_time": "2025-09-04 17:32:00",
+    "summary": "宁夏重伤女童千里来菏保肢成功 家人六面锦旗致谢博爱好医生"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7822,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.78,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.39
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"技术面相对稳健，医疗器械板块与医疗救助新闻关联度较高，公司心血管介入产品线完整，在医疗救助场景中具备直接应用价值，短期存在政策催化预期\",\n      \"risk_warning\": \"医疗器械集采政策持续影响，估值处于行业中等偏上水平，需关注业绩兑现情况\"\n    },\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"口腔医疗龙头，虽然与新闻直接关联度一般，但医疗服务板块具备长期成长性，技术指标显示近期有所企稳，受益于医疗消费升级趋势\",\n      \"risk_warning\": \"估值较高，对宏观经济敏感度强，业绩增长存在不确定性\"\n    },\n    {\n      \"stock_code\": \"600056\",\n      \"stock_name\": \"中国医药\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"医药商业和国际贸易业务为主，与医疗救助新闻关联度相对较弱，但医药流通板块估值较低，具备一定安全边际\",\n      \"risk_warning\": \"商业模式传统，成长性一般，受医药政策影响较大，技术面表现相对平淡\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"market_sentiment\": \"医药板块强度偏弱（0.25），整体市场情绪谨慎，但医疗救助类新闻可能带来短期情绪催化\",\n    \"technical_condition\": \"三只股票平均技术评分0.25，显示技术面整体偏弱，需要精选个股\",\n    \"risk_assessment\": \"医药板块面临政策不确定性，个股需关注基本面与估值的匹配度，建议控制仓位\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "新闻涉及骨科医疗成功案例，通策医疗作为口腔医疗龙头，具备品牌医疗属性，但关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "医疗器械板块，新闻中保肢手术可能涉及相关医疗设备",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "600056",
+        "stock_name": "中国医药",
+        "recommendation_reason": "综合性医药企业，但新闻关联度极低，仅作为医疗板块代表性标的",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性医疗救助事件报道，虽由央视发布但属于社会正能量宣传性质，投资价值有限。新闻内容聚焦医疗救助个案，缺乏政策导向和行业影响，时效性和持续性评分均为0分，表明不具备明显的投资机会。央视的权威性在此类社会新闻中主要体现为品牌背书，但不会对相关股票产生实质性影响。",
+      "policy_impact": "无直接政策影响。新闻内容为个案医疗救助成功案例，未涉及医疗政策改革或行业发展规划，对医疗板块的政策推动力微弱。属于常规性正能量宣传，不具备政策导向性投资机会。",
+      "theme_classification": {
+        "theme_type": "医疗救助/社会公益",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "新闻涉及骨科医疗成功案例，通策医疗作为口腔医疗龙头，具备品牌医疗属性，但关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "医疗器械板块，新闻中保肢手术可能涉及相关医疗设备",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "600056",
+          "stock_name": "中国医药",
+          "recommendation_reason": "综合性医药企业，但新闻关联度极低，仅作为医疗板块代表性标的",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 17:56:24"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

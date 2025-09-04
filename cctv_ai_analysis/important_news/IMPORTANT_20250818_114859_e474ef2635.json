@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 11:48:59",
+  "news_info": {
+    "id": "e474ef2635",
+    "title": "“凉资源”撬动“热经济” 打开夏日出游的N种出圈方式",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIJtHfjyA6C0JC3HSkIqIB250818.shtml",
+    "publish_time": "2025-08-18 11:48:08",
+    "summary": "“凉资源”撬动“热经济” 打开夏日出游的N种出圈方式"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.81025,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.76,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"首旅酒店(600258)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"技术指标表现最佳，处于上升通道\",\n        \"直接受益于暑期旅游旺季，连锁酒店业务弹性大\",\n        \"作为行业龙头抗风险能力较强\",\n        \"近期成交量温和放大，资金关注度提升\"\n      ],\n      \"risk_warning\": [\n        \"需警惕暑期后业绩回落风险\",\n        \"商务出行恢复不及预期可能影响业绩\"\n      ]\n    },\n    {\n      \"stock\": \"峨眉山A(000888)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"景区类标的直接受益暑期客流\",\n        \"技术面呈现突破形态\",\n        \"具备宗教文化独特IP优势\",\n        \"地方政府支持力度大\"\n      ],\n      \"risk_warning\": [\n        \"受天气因素影响较大\",\n        \"门票经济模式成长性受限\"\n      ]\n    },\n    {\n      \"stock\": \"九华旅游(603199)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"区域性旅游龙头定位清晰\",\n        \"技术指标显示超卖反弹\",\n        \"受益于长三角短途游热潮\"\n      ],\n      \"risk_warning\": [\n        \"估值相对同业偏高\",\n        \"业务区域集中度风险\"\n      ]\n    }\n  ],\n  \"market_context\": {\n    \"technical_analysis\": \"板块整体技术强度中性，但个股分化明显\",\n    \"news_matching\": \"新闻热点与推荐标的契合度较高\",\n    \"risk_factors\": [\n      \"需关注极端天气对旅游出行的潜在影响\",\n      \"警惕暑期后行业数据回落带来的调整压力\"\n    ]\n  },\n  \"investment_horizon\": \"短期(1-3个月)交易机会\",\n  \"update_frequency\": \"建议每周跟踪景区客流数据\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "作为国内连锁酒店龙头，直接受益于夏季旅游旺季客流增长。央视报道可能提升市场对旅游板块关注度。",
+        "policy_relevance": "间接相关，反映消费复苏趋势",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "主营景区业务，'凉资源'概念直接相关标的，夏季避暑游可能带来业绩弹性。",
+        "policy_relevance": "直接相关，契合报道主题",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "000888",
+        "stock_name": "峨眉山A",
+        "recommendation_reason": "知名避暑景区运营商，受益于夏季旅游概念，且具有国企改革预期。",
+        "policy_relevance": "直接相关，典型'凉资源'标的",
+        "urgency_level": "中等",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻聚焦夏季旅游经济，通过'凉资源'概念推动区域经济发展，属于季节性热点题材。虽然评分显示时效性和持续性较低，但央视新闻的权威性可能引发短期市场关注。",
+      "policy_impact": "符合国家促进消费、发展文旅产业的政策导向，但缺乏具体配套政策支持，属于常规性报道而非重大政策驱动。",
+      "theme_classification": {
+        "theme_type": "季节性旅游经济",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "旅游",
+          "酒店餐饮"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "作为国内连锁酒店龙头，直接受益于夏季旅游旺季客流增长。央视报道可能提升市场对旅游板块关注度。",
+          "policy_relevance": "间接相关，反映消费复苏趋势",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 2,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "主营景区业务，'凉资源'概念直接相关标的，夏季避暑游可能带来业绩弹性。",
+          "policy_relevance": "直接相关，契合报道主题",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "000888",
+          "stock_name": "峨眉山A",
+          "recommendation_reason": "知名避暑景区运营商，受益于夏季旅游概念，且具有国企改革预期。",
+          "policy_relevance": "直接相关，典型'凉资源'标的",
+          "urgency_level": "中等",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:48:59"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

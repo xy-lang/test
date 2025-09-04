@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 23:25:47",
+  "news_info": {
+    "id": "f64c85b807",
+    "title": "电影市场持续“沸腾” 从“新”出发中国故事扬帆出海",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIHUXrN9wa0NEuU5pBr6gw250901.shtml",
+    "publish_time": "2025-09-01 20:11:00",
+    "summary": "电影市场持续“沸腾” 从“新”出发中国故事扬帆出海"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80495,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.95,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 3.23
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600977\",\n      \"stock_name\": \"中国电影\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"作为国有电影龙头企业，直接受益于电影出海政策导向，技术评分0.95位居首位，板块强度0.86提供有力支撑，政策催化明确，市场情绪积极\",\n      \"risk_alert\": \"需关注海外市场接受度不及预期风险及内容审查政策变化\"\n    },\n    {\n      \"stock_code\": \"002739\",\n      \"stock_name\": \"万达电影\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"院线龙头具备渠道优势，技术评分0.88表现稳健，受益于电影市场复苏及出海战略，国际化布局较为成熟\",\n      \"risk_alert\": \"高负债率及影院运营成本压力，需关注现金流状况\"\n    },\n    {\n      \"stock_code\": \"300027\",\n      \"stock_name\": \"华谊兄弟\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"内容制作能力突出，参与多部出海影片制作，但技术评分0.75相对较弱，基本面存在一定不确定性\",\n      \"risk_alert\": \"公司财务状况承压，历史债务问题尚未完全解决，投资需谨慎\"\n    }\n  ],\n  \"overall_risk_warning\": \"板块整体面临政策执行效果不及预期、海外市场竞争加剧、内容审查趋严等风险，建议控制仓位，重点关注政策落地进度和实际业绩兑现\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600977",
+        "stock_name": "中国电影",
+        "recommendation_reason": "作为国有电影龙头企业，直接受益于电影出海政策，拥有完善的海外发行网络和丰富的版权资源，央视报道提升行业景气度预期",
+        "policy_relevance": "直接受益于国家文化出海战略，政策契合度最高",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "300027",
+        "stock_name": "华谊兄弟",
+        "recommendation_reason": "民营影视公司龙头，具备强大的内容制作能力和海外合作经验，'中国故事'主题下内容价值重估",
+        "policy_relevance": "内容制作企业直接受益于出海政策支持",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "002739",
+        "stock_name": "万达电影",
+        "recommendation_reason": "院线龙头+影视制作双主业，拥有全球最大院线资源，海外渠道优势明显，受益于国内外电影市场共振",
+        "policy_relevance": "院线端直接受益于电影市场繁荣，制作端参与出海",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性评分较低，但作为央视新闻发布的时政要闻，具有极高的权威性和政策导向性。'中国故事扬帆出海'体现了国家层面对文化输出的战略支持，电影产业作为文化软实力的重要载体，将获得政策红利。央视的报道往往预示着后续配套政策的出台，具有前瞻指导意义。",
+      "policy_impact": "政策影响显著，符合'文化自信'和'讲好中国故事'的国家战略。预计将推动电影产业扶持政策、出海补贴、内容审核优化等配套措施，对影视制作、发行、院线等全产业链形成利好。政策窗口期预计持续6-12个月。",
+      "theme_classification": {
+        "theme_type": "文化传媒/电影出海",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "文化传媒",
+          "影视制作",
+          "院线运营"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600977",
+          "stock_name": "中国电影",
+          "recommendation_reason": "作为国有电影龙头企业，直接受益于电影出海政策，拥有完善的海外发行网络和丰富的版权资源，央视报道提升行业景气度预期",
+          "policy_relevance": "直接受益于国家文化出海战略，政策契合度最高",
+          "urgency_level": "高",
+          "confidence_score": 0.88
+        },
+        {
+          "rank": 2,
+          "stock_code": "300027",
+          "stock_name": "华谊兄弟",
+          "recommendation_reason": "民营影视公司龙头，具备强大的内容制作能力和海外合作经验，'中国故事'主题下内容价值重估",
+          "policy_relevance": "内容制作企业直接受益于出海政策支持",
+          "urgency_level": "中高",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 3,
+          "stock_code": "002739",
+          "stock_name": "万达电影",
+          "recommendation_reason": "院线龙头+影视制作双主业，拥有全球最大院线资源，海外渠道优势明显，受益于国内外电影市场共振",
+          "policy_relevance": "院线端直接受益于电影市场繁荣，制作端参与出海",
+          "urgency_level": "中",
+          "confidence_score": 0.78
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 23:25:47"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

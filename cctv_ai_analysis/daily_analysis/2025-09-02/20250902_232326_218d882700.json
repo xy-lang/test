@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-02 23:23:26",
+  "news_info": {
+    "id": "218d882700",
+    "title": "佛山市第一人民医院王忠辉：答好东西部协作题 交出百姓满意试卷",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250902225542703756697.html",
+    "publish_time": "2025-09-02 22:55:00",
+    "summary": "佛山市第一人民医院王忠辉：答好东西部协作题 交出百姓满意试卷"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.46
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术面表现最佳，MACD金叉且成交量放大，与新闻中公立医院改革主题高度契合。作为口腔医疗龙头，直接受益于医疗区域协作政策，短期催化剂明确。技术评分0.75位居三股之首，板块强度支撑充分。\",\n      \"risk_warning\": \"需关注估值偏高风险及政策执行进度不及预期的风险\"\n    },\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.71,\n      \"recommendation_reason\": \"心血管器械龙头，与东西部医疗协作主题关联度较高。技术指标显示均线多头排列，RSI处于健康区间。受益于基层医疗设备升级需求，政策受益程度中等偏上。\",\n      \"risk_warning\": \"面临集采政策压力，需关注产品降价风险\"\n    },\n    {\n      \"stock_code\": \"600056\",\n      \"stock_name\": \"中国医药\",\n      \"comprehensive_score\": 0.63,\n      \"recommendation_reason\": \"医药商业龙头，在医药流通领域具备全国布局优势，间接受益于区域医疗协作。技术面相对平稳，但上涨动能稍弱于前两只。政策关联度中等，作为配套服务商受益。\",\n      \"risk_warning\": \"毛利率较低，业绩弹性相对有限，需关注应收账款风险\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.667,\n    \"technical_score\": 0.67,\n    \"preferred_sector\": \"医药\",\n    \"overall_assessment\": \"医药板块技术面整体健康，政策催化明确，但需注意板块估值分化风险\"\n  },\n  \"risk_alert\": [\n    \"政策执行进度可能不及预期\",\n    \"医疗板块受集采政策影响存在不确定性\",\n    \"市场整体情绪波动可能影响个股表现\",\n    \"建议控制仓位，设置止损位\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "作为民营医疗服务龙头，受益于医疗资源区域协调政策，东西部协作可能带来业务扩张机会",
+        "policy_relevance": "中等-间接受益于医疗资源均衡配置政策",
+        "urgency_level": "低-长期配置",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "医疗器械企业，东西部医疗协作将提升基层医疗设备需求，公司心血管器械具竞争优势",
+        "policy_relevance": "中等-医疗资源下沉带动设备采购",
+        "urgency_level": "低-中长期布局",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "600056",
+        "stock_name": "中国医药",
+        "recommendation_reason": "医药商业龙头，区域医疗协作将促进药品流通网络建设，公司在医药配送领域具全国布局优势",
+        "policy_relevance": "中等-医药流通网络整合受益",
+        "urgency_level": "低-长期价值",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方医疗协作报道，内容聚焦佛山市第一人民医院的东西部医疗协作工作，属于常规性医疗合作新闻。从投资角度看，新闻本身缺乏直接的市场影响力和时效性，但体现了国家持续推进区域协调发展和医疗资源均衡配置的政策导向。央视新闻的权威性为相关医疗政策提供了背书，但具体到本条新闻，投资关联度较低。",
+      "policy_impact": "中等偏低。新闻反映了'健康中国2030'和区域协调发展战略的持续落实，但缺乏新的政策突破或重大资金投入信息。东西部医疗协作是长期政策，短期内不会产生显著市场波动。",
+      "theme_classification": {
+        "theme_type": "医疗区域协作/公立医院改革",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械",
+          "医药商业"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "作为民营医疗服务龙头，受益于医疗资源区域协调政策，东西部协作可能带来业务扩张机会",
+          "policy_relevance": "中等-间接受益于医疗资源均衡配置政策",
+          "urgency_level": "低-长期配置",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "医疗器械企业，东西部医疗协作将提升基层医疗设备需求，公司心血管器械具竞争优势",
+          "policy_relevance": "中等-医疗资源下沉带动设备采购",
+          "urgency_level": "低-中长期布局",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "600056",
+          "stock_name": "中国医药",
+          "recommendation_reason": "医药商业龙头，区域医疗协作将促进药品流通网络建设，公司在医药配送领域具全国布局优势",
+          "policy_relevance": "中等-医药流通网络整合受益",
+          "urgency_level": "低-长期价值",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 23:23:26"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

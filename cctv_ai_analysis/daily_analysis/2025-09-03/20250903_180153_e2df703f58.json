@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-03 18:01:53",
+  "news_info": {
+    "id": "e2df703f58",
+    "title": "岳峰小学2025年秋季举行开学典礼",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903174919466651494.html",
+    "publish_time": "2025-09-03 17:49:00",
+    "summary": "岳峰小学2025年秋季举行开学典礼"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7459,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.67,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.2
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为教育信息化服务商，与开学典礼新闻存在直接业务关联度，技术指标相对稳定，在K12教育服务领域具有一定市场地位，短期可能受益于开学季概念\",\n      \"risk_warning\": \"教育政策变化风险、市场竞争加剧风险、业绩波动风险\"\n    },\n    {\n      \"stock_code\": \"600636\",\n      \"stock_name\": \"国新文化\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"涉及教育信息化业务，与新闻主题存在一定关联，但主营业务相对分散，技术面表现一般，受益程度有限\",\n      \"risk_warning\": \"业务多元化风险、教育业务占比不高、技术面支撑较弱\"\n    },\n    {\n      \"stock_code\": \"002261\",\n      \"stock_name\": \"拓维信息\",\n      \"comprehensive_score\": 0.42,\n      \"recommendation_reason\": \"虽涉及教育信息化，但主营业务以软件服务为主，与开学典礼新闻关联度较低，技术评分相对落后\",\n      \"risk_warning\": \"与新闻主题关联度低、技术面弱势、市场关注度不足\"\n    }\n  ],\n  \"overall_assessment\": {\n    \"market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"一般（0.15）\",\n    \"investment_advice\": \"谨慎参与，建议轻仓短线操作\",\n    \"key_risks\": \"板块整体强度不足，新闻催化效应有限，技术面支撑较弱，建议控制仓位风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600636",
+        "stock_name": "国新文化",
+        "recommendation_reason": "作为教育信息化企业，虽新闻本身无投资价值，但可关注教育板块长期政策红利",
+        "policy_relevance": "低关联度",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "教育服务企业，但新闻内容不具备投资指引价值",
+        "policy_relevance": "低关联度",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 3,
+        "stock_code": "002261",
+        "stock_name": "拓维信息",
+        "recommendation_reason": "教育科技企业，但此新闻不具备投资参考意义",
+        "policy_relevance": "低关联度",
+        "urgency_level": "低",
+        "confidence_score": 0.1
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方小学开学典礼的常规报道，内容缺乏投资价值。央视新闻虽具权威性，但此类日常教育新闻对资本市场无实质影响，评分各项指标均为0分表明其投资相关性极低。",
+      "policy_impact": "无实质性政策影响。属于常规教育新闻报道，不涉及新政策发布或重大教育改革，对教育板块无直接推动作用。",
+      "theme_classification": {
+        "theme_type": "常规教育新闻",
+        "hardcore_level": "无投资意志",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "教育服务",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600636",
+          "stock_name": "国新文化",
+          "recommendation_reason": "作为教育信息化企业，虽新闻本身无投资价值，但可关注教育板块长期政策红利",
+          "policy_relevance": "低关联度",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "教育服务企业，但新闻内容不具备投资指引价值",
+          "policy_relevance": "低关联度",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 3,
+          "stock_code": "002261",
+          "stock_name": "拓维信息",
+          "recommendation_reason": "教育科技企业，但此新闻不具备投资参考意义",
+          "policy_relevance": "低关联度",
+          "urgency_level": "低",
+          "confidence_score": 0.1
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:01:53"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

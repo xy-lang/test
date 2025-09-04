@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-02 00:04:19",
+  "news_info": {
+    "id": "98690b0b59",
+    "title": "贵阳开学首日直击！家长的目送、孩子的雀跃，勾勒成长最动人模样",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901230432738992952.html",
+    "publish_time": "2025-09-01 23:04:00",
+    "summary": "贵阳开学首日直击！家长的目送、孩子的雀跃，勾勒成长最动人模样"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.99
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002599\",\n      \"stock_name\": \"盛通股份\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为教育出版印刷龙头企业，直接受益于开学季教材印刷需求增长。技术面相对稳健，与新闻主题关联度最高，短期催化剂明确。公司业务涵盖教育出版全产业链，政策受益程度较高。\",\n      \"risk_warning\": \"印刷行业整体增速放缓，需关注原材料成本上涨风险；教育政策变化可能影响教材采购需求\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"在线教育服务商，受益于开学季教育信息化需求。虽然技术指标相对较弱，但业务与教育主题契合度高，具备数字化转型概念。\",\n      \"risk_warning\": \"在线教育行业竞争激烈，盈利能力存在不确定性；技术面支撑较弱，需警惕回调风险\"\n    },\n    {\n      \"stock_code\": \"603398\",\n      \"stock_name\": \"邦宝益智\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"益智玩具制造商，间接受益于开学季文具玩具消费需求。但关联度相对较弱，技术指标表现一般，属于次选标的。\",\n      \"risk_warning\": \"玩具行业受消费降级影响较大；公司基本面存在一定压力，业绩增长不确定性较高\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.317,\n    \"market_sentiment\": \"中性偏积极\",\n    \"technical_indicator_score\": 0.32,\n    \"news_relevance\": \"中等偏强\",\n    \"risk_level\": \"中等\"\n  },\n  \"investment_note\": \"开学季主题具备短期催化效应，但整体板块强度偏弱，建议控制仓位，以短线操作为主。重点关注盛通股份的教材印刷订单情况，全通教育的教育信息化业务进展。注意9月初开学季过后主题热度可能消退的风险。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002599",
+        "stock_name": "盛通股份",
+        "recommendation_reason": "作为教育出版和文具供应链企业，受益于开学季文具采购需求，央视报道虽无直接利好但契合季节性消费主题",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "教育信息化服务商，开学季通常带来教育设备采购需求，但新闻本身缺乏实质性政策支撑",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "603398",
+        "stock_name": "邦宝益智",
+        "recommendation_reason": "益智玩具制造商，与开学季教育消费存在弱关联，但新闻缺乏直接催化作用",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性教育类报道，虽然来自央视平台但内容为常规开学季报道，缺乏重大政策导向和投资价值。新闻时效性、硬核程度和持续性评分均为0，表明其投资参考价值有限，更多体现央视作为国家级媒体的社会关怀属性。",
+      "policy_impact": "无直接政策影响。该新闻仅反映常规教育场景，未涉及教育政策调整或重大教育改革，对资本市场影响微乎其微。央视的权威性在此类软性新闻中主要体现为正面舆论引导，而非政策信号释放。",
+      "theme_classification": {
+        "theme_type": "教育服务/开学季概念",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "教育服务",
+          "文具制造",
+          "校服产业"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002599",
+          "stock_name": "盛通股份",
+          "recommendation_reason": "作为教育出版和文具供应链企业，受益于开学季文具采购需求，央视报道虽无直接利好但契合季节性消费主题",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "教育信息化服务商，开学季通常带来教育设备采购需求，但新闻本身缺乏实质性政策支撑",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "603398",
+          "stock_name": "邦宝益智",
+          "recommendation_reason": "益智玩具制造商，与开学季教育消费存在弱关联，但新闻缺乏直接催化作用",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 00:04:19"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

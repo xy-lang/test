@@ -1,0 +1,54 @@
+{
+  "analysis_time": "2025-09-03 18:02:23",
+  "news_info": {
+    "id": "70546da02b",
+    "title": "家用医疗器械如何安全使用与保存？聊城市场监管详解“五注意”",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903174739746727092.html",
+    "publish_time": "2025-09-03 17:47:00",
+    "summary": "家用医疗器械如何安全使用与保存？聊城市场监管详解“五注意”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7855000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.79,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.25
+    }
+  },
+  "ai_analysis": {
+    "status": "parse_error",
+    "content": "```json\n{\n    \"news_analysis\": \"该新闻为聊城市场监管局发布的医疗器械使用指导性内容，虽来自央视平台但属于常规监管提醒，投资价值有限。央视权威性主要体现在政策解读和行业规范层面，但此条新闻缺乏重大政策突破或行业变革信息，时效性和硬核程度评分均为0/10证实其投资指导意义较弱。\",\n    \n    \"policy_impact\": \"属于常规监管政策执行层面，未释放新的政策信号。医疗器械行业长期受\"健康中国2030\"政策支持，但本条新闻不构成短期政策催化剂。建议关注后续国家药监局发布的创新医疗器械特别审批等实质性政策。\",\n    \n    \"theme_classification\": {\n        \"theme_type\": \"医疗器械安全使用\",\n        \"hardcore_level\": \"行业意志\",\n        \"sustainability_score\": 3,\n        \"related_sectors\": [\"医疗器械\", \"家用医疗\", \"健康服务\"]\n    },\n    \n    \"recommendations\": [\n        {\n            \"rank\": 1,\n            \"stock_code\": \"300003\",\n            \"stock_name\": \"乐普医疗\",\n            \"recommendation_reason\": \"作为家用医疗器械龙头，产品涵盖血压计、血糖仪等，符合新闻中强调的家用医疗器械安全使用主题\",\n            \"policy_relevance\": \"受益于医疗器械行业规范化发展趋势\",\n            \"urgency_level\": \"低\",\n            \"confidence_score\": 0.65\n        },\n        {\n            \"rank\": 2,\n            \"stock_code\": \"002223\",\n            \"stock_name\": \"鱼跃医疗\",\n            \"recommendation_reason\": \"家用医疗器械细分领域领导者，产品线覆盖新闻提及的各类家用医疗设备\",\n            \"policy_relevance\": \"行业监管趋严有利于龙头企业市场份额提升\",\n            \"urgency_level\": \"低\",\n            \"confidence_score\": 0.60\n        },\n        {\n            \"rank\": 3,\n            \"stock_code\": \"600055\",\n            \"stock_name\": \"万东医疗\",\n            \"recommendation_reason\": \"医疗器械综合服务商，涉及家用医疗设备研发生产，符合医疗器械安全使用主题\",\n            \"policy_relevance\": \"医疗器械行业规范化建设的长期受益者\",\n            \"urgency_level\": \"低\",\n            \"confidence_score\": 0.55\n        }\n    ]\n}\n```",
+    "final_recommendations": [],
+    "analysis_method": "单阶段AI分析"
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "医药生物"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成长",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-09-03 18:02:23"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

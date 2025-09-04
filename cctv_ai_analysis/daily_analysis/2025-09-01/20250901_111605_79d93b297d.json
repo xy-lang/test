@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-09-01 11:16:05",
+  "news_info": {
+    "id": "79d93b297d",
+    "title": "中国民营企业500强榜单发布 多家轻工企业跻身前列",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901110000831529132.html",
+    "publish_time": "2025-09-01 11:00:00",
+    "summary": "中国民营企业500强榜单发布 多家轻工企业跻身前列"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7723,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.75,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.26
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其发布的民营企业500强榜单具有极高的公信力和市场影响力。综合强度0.77分表明该新闻具有较强时效性和持续性，轻工企业跻身前列的消息将直接提振相关板块市场信心，引发资金关注。",
+    "policy_impact": "该榜单发布体现了国家对民营企业的支持导向，特别是轻工行业作为民生消费重要领域，符合当前促消费、稳增长的政策基调。虽然没有直接政策文件，但央视的权威背书具有类似政策信号的作用。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600315",
+        "stock_name": "上海家化",
+        "recommendation_reason": "作为日化行业龙头，连续多年入选民营企业500强，央视新闻发布后有望获得资金重点关注",
+        "policy_relevance": "轻工消费龙头，符合促消费政策导向",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "002572",
+        "stock_name": "索菲亚",
+        "recommendation_reason": "家居行业代表企业，入选500强榜单，央视权威报道将提升品牌影响力和市场关注度",
+        "policy_relevance": "家居轻工板块，受益于消费升级政策",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "603833",
+        "stock_name": "欧派家居",
+        "recommendation_reason": "定制家居龙头企业，500强榜单发布后有望获得估值修复，央视权威背书增强投资信心",
+        "policy_relevance": "轻工制造代表，符合民营经济发展政策",
+        "urgency_level": "中",
+        "confidence_score": 0.79
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:16:05"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

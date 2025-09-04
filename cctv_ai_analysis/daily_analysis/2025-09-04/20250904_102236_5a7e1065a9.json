@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-09-04 10:22:36",
+  "news_info": {
+    "id": "5a7e1065a9",
+    "title": "特别关注！在潍坊救人的垦利小伙 东营人民为你点赞啦！",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904084529570444483.html",
+    "publish_time": "2025-09-04 08:45:00",
+    "summary": "特别关注！在潍坊救人的垦利小伙 东营人民为你点赞啦！"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7076,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.76,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.61
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000001\",\n      \"stock_name\": \"平安银行\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"技术面相对稳健，银行板块强度0.15提供一定支撑，新闻虽无直接关联但银行股受益于地区正面形象提升带来的经济环境改善预期，短期催化剂虽弱但基本面相对稳定\",\n      \"risk_warning\": \"银行板块受宏观经济政策影响较大，利率环境变化可能影响盈利水平，需关注监管政策变化\"\n    },\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"综合金融板块受益于社会正能量事件带来的品牌价值提升，技术评分处于平均水平，保险+银行双轮驱动具有一定抗风险能力\",\n      \"risk_warning\": \"保险业务受资本市场波动影响较大，投资收益存在不确定性，需关注市场利率变化\"\n    },\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"零售银行龙头，但技术面支撑相对较弱，新闻关联度较低，主要依靠板块整体强度和基本面质量支撑\",\n      \"risk_warning\": \"零售银行业务竞争激烈，净息差面临收窄压力，需关注资产质量变化\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": \"银行板块强度0.15属于中等偏弱水平\",\n    \"news_correlation\": \"新闻与个股直接关联度较低，主要通过地区形象提升间接利好\",\n    \"risk_level\": \"中等风险，建议谨慎配置\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000001",
+        "stock_name": "平安银行",
+        "recommendation_reason": "基于新闻缺乏投资价值，推荐关注金融板块龙头作为防御性配置",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 2,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "新闻无投资指向性，建议关注基本面稳健的银行股",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      },
+      {
+        "rank": 3,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "该新闻不具备投资机会，推荐保险龙头作为长期配置选择",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.15
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性好人好事报道，属于社会正能量宣传，投资价值极低。新闻内容为山东潍坊救人事件，缺乏实质性政策导向和产业影响，第一时间性、硬核程度、持续性评分均为0/10，表明不具备投资参考价值。央视新闻的权威性在此类社会新闻中主要体现在舆论引导作用，而非投资指引。",
+      "policy_impact": "无实质性政策影响。该新闻属于社会精神文明建设范畴，不涉及具体产业政策或经济刺激措施，对资本市场无直接影响。",
+      "theme_classification": {
+        "theme_type": "社会正能量/地区形象",
+        "hardcore_level": "无投资意志",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000001",
+          "stock_name": "平安银行",
+          "recommendation_reason": "基于新闻缺乏投资价值，推荐关注金融板块龙头作为防御性配置",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 2,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "新闻无投资指向性，建议关注基本面稳健的银行股",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        },
+        {
+          "rank": 3,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "该新闻不具备投资机会，推荐保险龙头作为长期配置选择",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.15
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:22:36"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

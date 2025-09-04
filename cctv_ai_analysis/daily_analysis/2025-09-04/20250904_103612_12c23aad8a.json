@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 10:36:12",
+  "news_info": {
+    "id": "12c23aad8a",
+    "title": "今年1-7月“闽制”蚊香出口值全国第一",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904101354866894134.html",
+    "publish_time": "2025-09-04 10:13:00",
+    "summary": "今年1-7月“闽制”蚊香出口值全国第一"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7525000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.69,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.37
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000523\",\n      \"stock_name\": \"广州浪奇\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为日化产品出口企业，与蚊香出口新闻关联度最高，技术面相对稳健，受益于出口贸易政策支持，短期催化剂明确\",\n      \"risk_warning\": \"公司历史财务问题尚未完全解决，板块整体强度偏弱，需关注三季度财报表现\"\n    },\n    {\n      \"stock_code\": \"600249\",\n      \"stock_name\": \"两面针\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"日化产品生产企业，间接受益于出口增长，技术指标显示短期企稳迹象，但关联度相对较弱\",\n      \"risk_warning\": \"主营业务多元化，蚊香业务占比有限，技术面整体偏弱，需谨慎关注量能变化\"\n    },\n    {\n      \"stock_code\": \"603214\",\n      \"stock_name\": \"爱婴室\",\n      \"comprehensive_score\": 0.42,\n      \"recommendation_reason\": \"母婴零售企业，与新闻主题关联度最低，但技术面相对稳定，属于防御性标的\",\n      \"risk_warning\": \"与蚊香出口主题关联性弱，缺乏直接催化剂，板块强度不足0.5显示市场关注度有限\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏弱\",\n    \"sector_strength\": 0.433,\n    \"risk_level\": \"中等\",\n    \"investment_horizon\": \"短期关注（1-2周）\"\n  },\n  \"key_risk_factors\": [\n    \"综合板块整体强度偏弱，缺乏板块效应支撑\",\n    \"技术指标平均评分仅0.43，显示个股技术面普遍偏弱\",\n    \"新闻催化剂强度有限，市场反应可能不及预期\",\n    \"大盘环境不确定性较高，需严格控制仓位\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600249",
+        "stock_name": "两面针",
+        "recommendation_reason": "作为国内知名日化企业，产品线包含驱蚊产品，受益于蚊香出口景气度提升。央视报道虽时效性不足，但印证行业出口优势",
+        "policy_relevance": "间接受益于出口贸易政策",
+        "urgency_level": "低",
+        "confidence_score": 0.45
+      },
+      {
+        "rank": 2,
+        "stock_code": "000523",
+        "stock_name": "广州浪奇",
+        "recommendation_reason": "日化行业龙头企业，产品涵盖家居清洁及个人护理品类，蚊香出口数据向好反映日化行业出口复苏趋势",
+        "policy_relevance": "行业基本面改善预期",
+        "urgency_level": "低",
+        "confidence_score": 0.4
+      },
+      {
+        "rank": 3,
+        "stock_code": "603214",
+        "stock_name": "爱婴室",
+        "recommendation_reason": "虽非直接蚊香生产企业，但作为母婴渠道商，夏季驱蚊产品是重要销售品类，间接受益于蚊香行业景气度",
+        "policy_relevance": "消费升级趋势",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然来自央视平台，但内容仅为区域性出口数据统计，缺乏重大政策导向或行业变革信息。新闻时效性较差（9月报道1-7月数据），硬核程度低，对资本市场直接影响有限。央视的权威性在此类常规统计数据报道中主要体现为信息真实性保障，但投资催化作用较弱。",
+      "policy_impact": "低政策影响。新闻未涉及新的产业政策或财政支持，仅为既成事实的数据通报，不具备政策前瞻性。闽制蚊香出口第一属于区域性产业优势体现，但未释放新的政策信号。",
+      "theme_classification": {
+        "theme_type": "轻工制造/出口贸易",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "日用化工",
+          "出口贸易",
+          "福建板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600249",
+          "stock_name": "两面针",
+          "recommendation_reason": "作为国内知名日化企业，产品线包含驱蚊产品，受益于蚊香出口景气度提升。央视报道虽时效性不足，但印证行业出口优势",
+          "policy_relevance": "间接受益于出口贸易政策",
+          "urgency_level": "低",
+          "confidence_score": 0.45
+        },
+        {
+          "rank": 2,
+          "stock_code": "000523",
+          "stock_name": "广州浪奇",
+          "recommendation_reason": "日化行业龙头企业，产品涵盖家居清洁及个人护理品类，蚊香出口数据向好反映日化行业出口复苏趋势",
+          "policy_relevance": "行业基本面改善预期",
+          "urgency_level": "低",
+          "confidence_score": 0.4
+        },
+        {
+          "rank": 3,
+          "stock_code": "603214",
+          "stock_name": "爱婴室",
+          "recommendation_reason": "虽非直接蚊香生产企业，但作为母婴渠道商，夏季驱蚊产品是重要销售品类，间接受益于蚊香行业景气度",
+          "policy_relevance": "消费升级趋势",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:36:12"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 10:43:17",
+  "news_info": {
+    "id": "f2e71590d1",
+    "title": "失散四十载！邹平公安让“爱”回家",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901091451806527470.html",
+    "publish_time": "2025-09-01 09:14:00",
+    "summary": "失散四十载！邹平公安让“爱”回家"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6746,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.66,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.47
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002415\",\n      \"stock_name\": \"海康威视\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为安防行业龙头，与公安社会治理新闻高度契合，技术评分0.65高于板块平均水平，受益于智慧城市和公共安全政策推动，短期催化剂明确\",\n      \"risk_warning\": \"需关注宏观经济对政府采购预算的影响以及行业竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"300075\",\n      \"stock_name\": \"数字政通\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"专注于数字政务和城市管理，与新闻中的社会治理主题匹配度高，技术指标显示相对稳健，政策受益程度较高\",\n      \"risk_warning\": \"业务依赖政府项目，存在回款周期较长风险，需关注地方政府财政状况\"\n    },\n    {\n      \"stock_code\": \"300188\",\n      \"stock_name\": \"美亚柏科\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"电子数据取证和网络安全业务与公安信息化建设相关，但技术评分相对较低，短期催化强度适中\",\n      \"risk_warning\": \"估值相对较高，需警惕市场情绪波动带来的估值回调风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.60,\n    \"market_sentiment\": \"中性偏积极\",\n    \"technical_indicator_alignment\": \"基本配合\",\n    \"news_relevance\": \"高\",\n    \"policy_benefit_level\": \"中等偏上\",\n    \"risk_assessment\": \"中等风险\"\n  },\n  \"additional_notes\": \"推荐股票数量保持3只，基于板块强度0.60和技术评分0.60的平均水平，暂未发现其他更优质标的。建议重点关注海康威视作为核心配置。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "recommendation_reason": "作为安防行业龙头，受益于社会治理现代化和智慧公安建设，央视新闻报道体现了公安信息化需求",
+        "policy_relevance": "高 - 符合平安中国建设和智慧警务发展方向",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300075",
+        "stock_name": "数字政通",
+        "recommendation_reason": "公司在智慧城市和社会治理信息化领域有深厚积累，公安数字化建设带来业务机会",
+        "policy_relevance": "中 - 涉及城市治理数字化升级",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "300188",
+        "stock_name": "美亚柏科",
+        "recommendation_reason": "电子数据取证和网络安全服务商，公安信息化建设带来持续需求",
+        "policy_relevance": "中 - 服务于公安科技信息化建设",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方公安部门的社会服务类报道，内容涉及失散人员团聚，属于典型的社会正能量宣传。从投资角度看，新闻本身缺乏直接的市场影响力和投资价值，第一时间性、硬核程度和持续性评分均为0分，表明该新闻对资本市场基本无直接影响。",
+      "policy_impact": "该新闻反映了国家对社会治理和民生服务的重视，属于'平安中国'建设的具体体现。虽然新闻本身不涉及具体政策文件，但体现了公安机关服务民生的政策导向，对安防、社会治理相关产业有间接的政策支撑作用。",
+      "theme_classification": {
+        "theme_type": "社会治理/安防服务",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "安防设备",
+          "智慧城市",
+          "公共安全"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002415",
+          "stock_name": "海康威视",
+          "recommendation_reason": "作为安防行业龙头，受益于社会治理现代化和智慧公安建设，央视新闻报道体现了公安信息化需求",
+          "policy_relevance": "高 - 符合平安中国建设和智慧警务发展方向",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300075",
+          "stock_name": "数字政通",
+          "recommendation_reason": "公司在智慧城市和社会治理信息化领域有深厚积累，公安数字化建设带来业务机会",
+          "policy_relevance": "中 - 涉及城市治理数字化升级",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "300188",
+          "stock_name": "美亚柏科",
+          "recommendation_reason": "电子数据取证和网络安全服务商，公安信息化建设带来持续需求",
+          "policy_relevance": "中 - 服务于公安科技信息化建设",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 10:43:17"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

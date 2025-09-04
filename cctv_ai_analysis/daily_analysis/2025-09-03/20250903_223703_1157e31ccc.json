@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 22:37:03",
+  "news_info": {
+    "id": "1157e31ccc",
+    "title": "山东宏桥轻量化总公司：布局轻量化铝材，抢占空天、航海领域市场",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903221439302243370.html",
+    "publish_time": "2025-09-03 22:14:00",
+    "summary": "山东宏桥轻量化总公司：布局轻量化铝材，抢占空天、航海领域市场"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.37
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600219\",\n      \"stock_name\": \"南山铝业\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现最佳，板块强度0.617提供支撑，与轻量化铝材新闻高度契合，公司在航空航天铝材领域具有技术优势，短期催化剂明确\",\n      \"risk_alert\": \"需关注铝价波动风险及下游需求变化\"\n    },\n    {\n      \"stock_code\": \"002532\",\n      \"stock_name\": \"天山铝业\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"技术评分符合板块平均水平，轻量化布局符合产业趋势，但在航空航天领域应用相对有限，受益程度中等\",\n      \"risk_alert\": \"原材料成本敏感度高，需警惕成本端压力\"\n    },\n    {\n      \"stock_code\": \"601600\",\n      \"stock_name\": \"中国铝业\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"作为行业龙头具备规模优势，但技术面相对较弱，与轻量化细分领域关联度较低，更多受益于行业整体景气度\",\n      \"risk_alert\": \"市值较大弹性相对有限，需关注宏观经济波动影响\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.617处于中等偏强水平，为个股提供一定支撑，但需关注市场整体情绪变化\",\n    \"news_matching\": \"轻量化铝材题材具备政策支持和产业升级逻辑，空天航海领域市场前景广阔\",\n    \"risk_assessment\": \"板块风险中等，需关注原材料价格波动和下游需求变化；个股基本面分化明显，建议优选技术面强势标的\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002532",
+        "stock_name": "天山铝业",
+        "recommendation_reason": "国内领先的铝制品生产企业，在轻量化铝材领域有技术积累，受益于新材料发展趋势",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "600219",
+        "stock_name": "南山铝业",
+        "recommendation_reason": "航空航天用铝材重要供应商，产品应用于空天领域，与新闻提及的应用场景契合",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "601600",
+        "stock_name": "中国铝业",
+        "recommendation_reason": "铝行业龙头，在高端铝材研发方面有布局，但新闻关联度相对间接",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽来自央视平台，但内容为地方企业业务布局报道，非重大政策发布。评分显示第一时间性、硬核程度、持续性均为0分，表明该新闻投资价值有限。央视的权威性主要体现在重大政策解读和国家级战略发布，此类地方企业新闻影响力相对有限。",
+      "policy_impact": "轻量化材料属于国家鼓励的新材料发展方向，但新闻未涉及具体政策支持。空天、航海领域符合高端装备制造政策导向，但缺乏具体政策细节，对行业整体影响有限。",
+      "theme_classification": {
+        "theme_type": "新材料-轻量化铝材",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "有色金属",
+          "航空航天",
+          "船舶制造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002532",
+          "stock_name": "天山铝业",
+          "recommendation_reason": "国内领先的铝制品生产企业，在轻量化铝材领域有技术积累，受益于新材料发展趋势",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "600219",
+          "stock_name": "南山铝业",
+          "recommendation_reason": "航空航天用铝材重要供应商，产品应用于空天领域，与新闻提及的应用场景契合",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "601600",
+          "stock_name": "中国铝业",
+          "recommendation_reason": "铝行业龙头，在高端铝材研发方面有布局，但新闻关联度相对间接",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 22:37:03"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

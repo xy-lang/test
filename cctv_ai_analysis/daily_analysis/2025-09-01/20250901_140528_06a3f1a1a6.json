@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 14:05:28",
+  "news_info": {
+    "id": "06a3f1a1a6",
+    "title": "2025年9月1日｜苗银之美 翱翔太空",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901134223924812293.html",
+    "publish_time": "2025-09-01 13:42:00",
+    "summary": "2025年9月1日｜苗银之美 翱翔太空"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7525000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.69,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.38
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600118\",\n      \"stock_name\": \"中国卫星\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为航天科技核心标的，与'翱翔太空'主题高度契合，受益于国家航天强国战略。技术面显示相对强势，在板块中技术评分最高，具备政策催化和技术支撑双重优势。短期催化剂明确，符合行业意志驱动逻辑。\",\n      \"risk_warning\": \"航天板块波动较大，需关注发射任务进度和市场情绪变化\"\n    },\n    {\n      \"stock_code\": \"600037\",\n      \"stock_name\": \"歌华有线\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"文化传播领域代表企业，与'苗银之美'文化传播主题相关。虽然技术评分中等，但受益于文化数字化政策支持，具备稳定的基本面和分红能力，风险相对可控。\",\n      \"risk_warning\": \"传统媒体行业面临转型压力，增长动能有限\"\n    },\n    {\n      \"stock_code\": \"600612\",\n      \"stock_name\": \"老凤祥\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"作为黄金珠宝龙头，与苗族银饰文化有一定关联，但直接受益程度较弱。技术评分相对较低，主要依靠品牌价值和消费复苏逻辑支撑。\",\n      \"risk_warning\": \"黄金价格波动风险较大，消费复苏不及预期风险\"\n    }\n  ],\n  \"overall_assessment\": {\n    \"market_sentiment\": \"中性偏积极\",\n    \"sector_strength\": \"一般（0.267）\",\n    \"technical_indicator_support\": \"中等偏弱（平均0.27）\",\n    \"policy_catalyst\": \"明确且持续\",\n    \"recommendation_strategy\": \"重点关注航天科技标的，文化传播标的作为辅助配置，控制总体仓位\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600037",
+        "stock_name": "歌华有线",
+        "recommendation_reason": "作为央视重要合作伙伴，承接文化传播类内容落地，受益于央视权威媒体的文化输出",
+        "policy_relevance": "中",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "600118",
+        "stock_name": "中国卫星",
+        "recommendation_reason": "航天科技板块代表企业，契合'翱翔太空'主题，但新闻关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "600612",
+        "stock_name": "老凤祥",
+        "recommendation_reason": "涉及贵金属工艺品类，与'苗银'传统工艺有一定关联性",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然标题涉及'苗银之美翱翔太空'，但实际内容缺失具体信息，且评分显示第一时间性、硬核程度、持续性均为0分，表明该新闻缺乏实质性投资价值。央视新闻的权威性在此类文化传播类报道中主要体现在品牌背书和文化传播价值，而非直接的投资指引。",
+      "policy_impact": "从标题推测可能涉及民族文化传承与航天科技结合，符合国家'文化自信'和'航天强国'双政策导向。但缺乏具体政策细节，实际政策影响有限，更多是象征性意义。",
+      "theme_classification": {
+        "theme_type": "文化传播/航天科技融合概念",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "文化传媒",
+          "航天军工",
+          "贵金属加工"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600037",
+          "stock_name": "歌华有线",
+          "recommendation_reason": "作为央视重要合作伙伴，承接文化传播类内容落地，受益于央视权威媒体的文化输出",
+          "policy_relevance": "中",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "600118",
+          "stock_name": "中国卫星",
+          "recommendation_reason": "航天科技板块代表企业，契合'翱翔太空'主题，但新闻关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "600612",
+          "stock_name": "老凤祥",
+          "recommendation_reason": "涉及贵金属工艺品类，与'苗银'传统工艺有一定关联性",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 14:05:28"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

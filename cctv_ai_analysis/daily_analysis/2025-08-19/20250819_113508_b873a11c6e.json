@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-19 11:35:08",
+  "news_info": {
+    "id": "b873a11c6e",
+    "title": "国务院新闻办19日上午10时举行“高质量完成‘十四五’规划”系列主题新闻发布会，介绍“十四五”时期体育强国建设成就。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTIsIc8fB5LrFXN96wP0nE6250819.shtml",
+    "publish_time": "2025-08-19 08:27:00",
+    "summary": "国务院新闻办19日上午10时举行“高质量完成‘十四五’规划”系列主题新闻发布会，介绍“十四五”时期体..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.78515,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.755,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 2,
+      "hours_since_publish": 3.12
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n    \"final_recommendations\": [\n        {\n            \"stock_code\": \"600158\",\n            \"stock_name\": \"中体产业\",\n            \"composite_score\": 0.92,\n            \"recommendation_reason\": \"作为体育产业国家队，直接受益于体育强国政策，技术面呈现突破形态，板块强度支撑明显。公司是体育总局旗下唯一上市平台，政策受益程度最高。\",\n            \"risk_warning\": \"需警惕短期涨幅过大后的技术回调风险\"\n        },\n        {\n            \"stock_code\": \"300005\",\n            \"stock_name\": \"探路者\",\n            \"composite_score\": 0.85,\n            \"recommendation_reason\": \"户外运动装备龙头，符合全民健身政策导向。技术指标显示量价配合良好，MACD金叉。受益于户外运动产业升级趋势。\",\n            \"risk_warning\": \"需注意消费复苏不及预期风险\"\n        },\n        {\n            \"stock_code\": \"002105\",\n            \"stock_name\": \"信隆健康\",\n            \"composite_score\": 0.78,\n            \"recommendation_reason\": \"运动器材细分龙头，技术面处于上升通道。但相比前两只政策关联度稍弱，更适合作为次选标的。\",\n            \"risk_warning\": \"出口业务可能受汇率波动影响\"\n        }\n    ],\n    \"market_analysis\": {\n        \"sector_strength\": 0.85,\n        \"technical_sentiment\": \"positive\",\n        \"policy_catalyst\": \"strong\",\n        \"overall_risk_level\": \"medium\"\n    },\n    \"disclaimer\": \"以上分析基于公开信息和技术指标，不构成投资建议。市场有风险，投资需谨慎。建议结合个人风险承受能力审慎决策。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600158",
+        "stock_name": "中体产业",
+        "recommendation_reason": "作为国家体育总局控股的唯一上市公司，将直接受益于体育强国战略推进，在体育赛事运营、场馆建设等领域具有垄断优势。央视新闻的权威报道强化了政策确定性。",
+        "policy_relevance": "直接对应体育强国建设主体",
+        "urgency_level": "中期布局(1-3个月)",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "300005",
+        "stock_name": "探路者",
+        "recommendation_reason": "户外运动装备龙头，全民健身政策推动下户外运动消费升级的核心受益标的。央视报道提升行业关注度。",
+        "policy_relevance": "全民健身消费升级受益",
+        "urgency_level": "短期交易(1-4周)",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "002105",
+        "stock_name": "信隆健康",
+        "recommendation_reason": "体育健身器材细分龙头，体育设施建设政策加码将带动器材采购需求。央视背书增强政策落地可信度。",
+        "policy_relevance": "体育基础设施配套",
+        "urgency_level": "中长期持有(3-6个月)",
+        "confidence_score": 0.8
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由国务院新闻办发布，通过央视新闻权威平台传播，内容涉及'十四五'规划中体育强国建设的成就展示。虽然新闻本身时效性评分较低，但作为国家战略层面的政策宣导，具有较高的政策权威性和行业指导意义。",
+      "policy_impact": "该发布会将强化体育产业在'十四五'规划中的战略地位，预计将推动体育基础设施建设、全民健身消费升级等相关政策加速落地，对体育产业构成中长期利好。",
+      "theme_classification": {
+        "theme_type": "体育产业/大健康",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "体育产业",
+          "大健康",
+          "文体传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600158",
+          "stock_name": "中体产业",
+          "recommendation_reason": "作为国家体育总局控股的唯一上市公司，将直接受益于体育强国战略推进，在体育赛事运营、场馆建设等领域具有垄断优势。央视新闻的权威报道强化了政策确定性。",
+          "policy_relevance": "直接对应体育强国建设主体",
+          "urgency_level": "中期布局(1-3个月)",
+          "confidence_score": 0.9
+        },
+        {
+          "rank": 2,
+          "stock_code": "300005",
+          "stock_name": "探路者",
+          "recommendation_reason": "户外运动装备龙头，全民健身政策推动下户外运动消费升级的核心受益标的。央视报道提升行业关注度。",
+          "policy_relevance": "全民健身消费升级受益",
+          "urgency_level": "短期交易(1-4周)",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "002105",
+          "stock_name": "信隆健康",
+          "recommendation_reason": "体育健身器材细分龙头，体育设施建设政策加码将带动器材采购需求。央视背书增强政策落地可信度。",
+          "policy_relevance": "体育基础设施配套",
+          "urgency_level": "中长期持有(3-6个月)",
+          "confidence_score": 0.8
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 11:35:08"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

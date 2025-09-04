@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 09:38:27",
+  "news_info": {
+    "id": "37bd83916b",
+    "title": "成都交出“绿色答卷” 打造首届“碳中和”世运会",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/15/ARTIF0DW628h9ZyYyujIblYY250815.shtml",
+    "publish_time": "2025-08-15 09:36:53",
+    "summary": "成都交出“绿色答卷” 打造首届“碳中和”世运会"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80035,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.73,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.02
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道的'碳中和'世运会具有显著的政策导向性和社会影响力。0.80的高综合强度评分表明该新闻具有较强时效性和持续性，可能带动相关概念股表现。",
+    "policy_impact": "成都打造'碳中和'世运会体现了国家'双碳'战略在大型活动中的落地，将利好四川本地环保及新能源企业，可能伴随后续配套政策出台。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000803",
+        "stock_name": "北清环能",
+        "recommendation_reason": "四川本地环保企业，主营业务包含生物质能利用与碳减排服务，直接契合世运会碳中和主题。",
+        "policy_relevance": "高度相关，公司业务与碳中和目标完全匹配",
+        "urgency_level": "高，新闻热度可能快速传导至股价",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "601778",
+        "stock_name": "晶科科技",
+        "recommendation_reason": "光伏发电龙头企业，在四川有多个光伏项目，可为大型活动提供清洁能源解决方案。",
+        "policy_relevance": "较强相关，新能源发电是实现碳中和的重要路径",
+        "urgency_level": "中高，光伏板块近期受政策持续利好",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "300335",
+        "stock_name": "迪森股份",
+        "recommendation_reason": "专注清洁能源设备制造，产品应用于区域供暖改造，符合大型活动绿色基础设施需求。",
+        "policy_relevance": "中等偏强，设备制造属于碳中和产业链关键环节",
+        "urgency_level": "中，需观察后续订单落实情况",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 12:55:47",
+  "news_info": {
+    "id": "958f685727",
+    "title": "“十四五”时期统战工作取得显著成就",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIQSVQcTy4VwaVbGxoRBaU250818.shtml",
+    "publish_time": "2025-08-18 12:05:00",
+    "summary": "“十四五”时期统战工作取得显著成就"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.78055,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.67,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.83
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"中国石化(600028)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"与国家战略高度契合，'十四五'规划对能源安全有明确支持\",\n        \"技术指标显示稳定上升趋势，近期成交量温和放大\",\n        \"作为央企龙头，直接受益于国家政策支持\",\n        \"当前估值处于历史低位，安全边际较高\"\n      ],\n      \"risk_warning\": [\n        \"国际油价波动可能影响短期业绩\",\n        \"新能源转型可能带来长期挑战\"\n      ]\n    },\n    {\n      \"stock\": \"中国平安(601318)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"金融行业与经济发展密切相关，符合统战工作促进经济发展的方向\",\n        \"技术面呈现筑底回升态势，MACD指标金叉\",\n        \"保险行业估值修复空间较大\",\n        \"综合金融平台优势明显\"\n      ],\n      \"risk_warning\": [\n        \"寿险改革成效仍需观察\",\n        \"资本市场波动可能影响投资收益\"\n      ]\n    },\n    {\n      \"stock\": \"贵州茅台(600519)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"高端消费代表企业，符合共同富裕政策导向\",\n        \"技术面处于高位震荡，需等待突破信号\",\n        \"品牌护城河极深，长期价值突出\"\n      ],\n      \"risk_warning\": [\n        \"估值处于历史较高水平\",\n        \"消费政策变化可能影响需求\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"整体技术面呈现温和向好态势，但板块协同效应不明显\",\n    \"news_alignment\": \"三只股票均属央企或行业龙头，与国家战略方向契合度较高\",\n    \"risk_assessment\": \"需警惕宏观经济复苏不及预期对大盘蓝筹的影响\",\n    \"recommendation_strategy\": \"建议以中国石化为核心配置，中国平安为辅助配置，贵州茅台等待更好买点\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "recommendation_reason": "作为央企龙头，受益于国家战略支持，统战工作强化可能带来政策倾斜",
+        "policy_relevance": "央企改革概念",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "民族金融品牌代表，统战工作可能促进民族企业发展",
+        "policy_relevance": "民族品牌概念",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "600519",
+        "stock_name": "贵州茅台",
+        "recommendation_reason": "民族品牌标杆，统战工作可能提升民族品牌价值",
+        "policy_relevance": "民族品牌概念",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于时政要闻，报道'十四五'时期统战工作成就，内容权威但时效性较低，对市场直接影响有限。作为央视新闻发布，具有高度权威性，但缺乏具体产业或经济数据支撑。",
+      "policy_impact": "统战工作主要涉及政治层面，对资本市场直接影响较弱。但可能间接利好与国家战略相关的国有企业、民族品牌企业。",
+      "theme_classification": {
+        "theme_type": "国家战略/政治题材",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "国有企业",
+          "民族品牌"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600028",
+          "stock_name": "中国石化",
+          "recommendation_reason": "作为央企龙头，受益于国家战略支持，统战工作强化可能带来政策倾斜",
+          "policy_relevance": "央企改革概念",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "民族金融品牌代表，统战工作可能促进民族企业发展",
+          "policy_relevance": "民族品牌概念",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "600519",
+          "stock_name": "贵州茅台",
+          "recommendation_reason": "民族品牌标杆，统战工作可能提升民族品牌价值",
+          "policy_relevance": "民族品牌概念",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 12:55:47"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 08:44:46",
+  "news_info": {
+    "id": "9b55b5703f",
+    "title": "因产品质量违法行为，湖北大江化工集团被罚",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901070113867352529.html",
+    "publish_time": "2025-09-01 07:01:00",
+    "summary": "因产品质量违法行为，湖北大江化工集团被罚"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6878,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.7,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.72
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600309\",\n      \"stock_name\": \"万华化学\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"技术面表现强劲，板块强度0.733提供有力支撑，作为化工行业龙头直接受益于行业整顿政策，产品质量优势明显，市场情绪积极，技术指标配合良好，具备短期催化剂效应\",\n      \"risk_warning\": \"需关注化工行业整体政策风险和市场波动风险，短期涨幅过大可能存在回调压力\"\n    },\n    {\n      \"stock_code\": \"002643\",\n      \"stock_name\": \"万润股份\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"医药化工双重属性，受益于化工质量监管升级和医药板块强势，技术评分较高，政策匹配度良好，具备较好的风险收益比\",\n      \"risk_warning\": \"跨板块属性可能面临双重政策风险，需关注医药行业政策变化影响\"\n    },\n    {\n      \"stock_code\": \"603077\",\n      \"stock_name\": \"和邦生物\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"基本面稳健，受益于行业集中度提升，技术指标相对稳定，但相比前两只股票政策受益程度稍弱，适合稳健型投资者\",\n      \"riskwarning\": \"个股流动性相对较弱，市场关注度不如龙头股，需注意成交量变化\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_strength\": \"化工板块强度0.733处于较高水平，支撑个股表现\",\n    \"policy_impact\": \"国家意志级别的监管政策将推动行业优质企业价值重估\",\n    \"timing_risk\": \"当前市场环境下政策催化效应明显，但需警惕短期过热风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600309",
+        "stock_name": "万华化学",
+        "recommendation_reason": "作为化工行业龙头，产品质量管理体系完善，在行业整顿中将受益于市场份额提升。央视报道的警示作用将促使资金向优质龙头企业集中。",
+        "policy_relevance": "高度相关，受益于行业监管趋严下的供给侧改革",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "002643",
+        "stock_name": "万润股份",
+        "recommendation_reason": "专注于高端化学材料，产品质量控制严格，符合国家产业升级方向。行业整顿将淘汰落后产能，为公司带来发展机遇。",
+        "policy_relevance": "中等相关，受益于化工行业高质量发展趋势",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "603077",
+        "stock_name": "和邦生物",
+        "recommendation_reason": "在农药、化工领域具有较强竞争力，环保治理水平较高。央视报道引发的行业关注将凸显公司的合规优势。",
+        "policy_relevance": "中等相关，受益于化工行业规范化发展",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视报道的湖北大江化工集团因产品质量违法行为被处罚事件，具有较高的权威性和警示意义。虽然新闻本身时效性较弱，但央视作为国家级媒体平台，其报道往往代表政策导向和监管态度，对化工行业具有重要警示作用。",
+      "policy_impact": "该新闻反映了国家对化工行业产品质量监管趋严的政策导向，预计将推动行业整顿和优胜劣汰。环保、安全生产、质量标准等监管要求将持续强化，有利于行业龙头企业和合规经营企业获得更大市场份额。",
+      "theme_classification": {
+        "theme_type": "化工行业整顿/质量监管升级",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "基础化工",
+          "化学制品",
+          "环保工程"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600309",
+          "stock_name": "万华化学",
+          "recommendation_reason": "作为化工行业龙头，产品质量管理体系完善，在行业整顿中将受益于市场份额提升。央视报道的警示作用将促使资金向优质龙头企业集中。",
+          "policy_relevance": "高度相关，受益于行业监管趋严下的供给侧改革",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "002643",
+          "stock_name": "万润股份",
+          "recommendation_reason": "专注于高端化学材料，产品质量控制严格，符合国家产业升级方向。行业整顿将淘汰落后产能，为公司带来发展机遇。",
+          "policy_relevance": "中等相关，受益于化工行业高质量发展趋势",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "603077",
+          "stock_name": "和邦生物",
+          "recommendation_reason": "在农药、化工领域具有较强竞争力，环保治理水平较高。央视报道引发的行业关注将凸显公司的合规优势。",
+          "policy_relevance": "中等相关，受益于化工行业规范化发展",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 08:44:46"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

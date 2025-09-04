@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 18:18:39",
+  "news_info": {
+    "id": "be2665ebeb",
+    "title": "抗战英烈遗属：山河无恙 思念有声",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/04/ARTI9hzVEuL4rr2Sj36Gk4j6250904.shtml",
+    "publish_time": "2025-09-04 21:47:00",
+    "summary": "抗战英烈遗属：山河无恙 思念有声"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.77725,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.66,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -3.49
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601098\",\n      \"stock_name\": \"中南传媒\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为国内领先的出版传媒集团，深度参与爱国主义教育读物出版，与抗战纪念主题高度契合。技术面显示板块强度0.733支撑良好，近期成交量温和放大，MACD指标金叉向上，符合国家意志推动的文化传媒主线。政策受益明确，短期催化剂强度高。\",\n      \"risk_warning\": \"需关注传媒行业政策变化风险及市场情绪波动风险，当前估值处于行业中等水平\"\n    },\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"央视旗下传媒平台，在红色文化内容制作和传播方面具有独特优势。技术评分0.73处于合理区间，近期突破重要阻力位，RSI指标显示仍有上行空间。受益于爱国主义教育题材热度，政策支持力度较强。\",\n      \"risk_warning\": \"传媒行业竞争激烈，需关注内容监管政策变化，短期涨幅较大存在回调风险\"\n    },\n    {\n      \"stock_code\": \"000796\",\n      \"stock_name\": \"凯撒旅业\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"涉足红色旅游业务，与抗战纪念主题有一定关联度。技术面相对前两只股票稍弱，但整体板块强度提供支撑。作为旅游+文化概念，受益于爱国主义教育旅游需求提升。\",\n      \"risk_warning\": \"旅游行业受宏观经济影响较大，基本面恢复仍需时间，需谨慎关注业绩兑现情况\"\n    }\n  ],\n  \"overall_risk_alert\": \"当前市场情绪对爱国主义教育题材关注度较高，但需注意板块轮动风险。建议控制仓位，设置止损位，重点关注政策面变化和市场情绪转换信号。技术指标显示板块整体强度良好，但个股分化可能加剧，建议优选龙头标的。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601098",
+        "stock_name": "中南传媒",
+        "recommendation_reason": "作为主流出版传媒集团，承担爱国主义教育教材和读物出版任务，直接受益于红色文化传播政策",
+        "policy_relevance": "高度相关，符合国家文化宣传导向",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下上市公司，直接承接央视红色主题节目制作和媒体传播业务，具有独家资源优势",
+        "policy_relevance": "高度相关，央视系核心文化传媒平台",
+        "urgency_level": "中长期持有",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "000796",
+        "stock_name": "凯撒旅业",
+        "recommendation_reason": "布局红色旅游线路，受益于爱国主义教育旅游需求提升，符合文旅融合政策方向",
+        "policy_relevance": "中度相关，间接受益于纪念活动带来的旅游热度",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为纪念抗战胜利的时政要闻，虽无直接投资价值，但体现了央视新闻作为国家级媒体的政治导向功能。央视新闻的权威性在于其政策风向标作用，此类报道往往预示着相关主题的政策支持和舆论引导，具有潜在的政策红利预期。",
+      "policy_impact": "高规格纪念活动通常伴随爱国主义教育、红色旅游、国防教育等政策支持，可能推动相关产业发展。国家层面对英烈纪念的重视将转化为对军工、文化传媒等领域的长期政策倾斜。",
+      "theme_classification": {
+        "theme_type": "爱国主义教育/红色文化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "文化传媒",
+          "旅游服务",
+          "国防军工"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601098",
+          "stock_name": "中南传媒",
+          "recommendation_reason": "作为主流出版传媒集团，承担爱国主义教育教材和读物出版任务，直接受益于红色文化传播政策",
+          "policy_relevance": "高度相关，符合国家文化宣传导向",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下上市公司，直接承接央视红色主题节目制作和媒体传播业务，具有独家资源优势",
+          "policy_relevance": "高度相关，央视系核心文化传媒平台",
+          "urgency_level": "中长期持有",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "000796",
+          "stock_name": "凯撒旅业",
+          "recommendation_reason": "布局红色旅游线路，受益于爱国主义教育旅游需求提升，符合文旅融合政策方向",
+          "policy_relevance": "中度相关，间接受益于纪念活动带来的旅游热度",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 18:18:39"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

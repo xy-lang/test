@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-02 00:03:19",
+  "news_info": {
+    "id": "2d99deff6f",
+    "title": "大学生陆续到校 校园快递迎高峰",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901231750160382735.html",
+    "publish_time": "2025-09-01 23:17:00",
+    "summary": "大学生陆续到校 校园快递迎高峰"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7393000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.65,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.76
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002352\",\n      \"stock_name\": \"顺丰控股\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"作为快递行业龙头，直接受益于校园快递高峰，技术面相对稳健，市场地位稳固，与新闻事件关联度最高，短期催化剂明确\",\n      \"risk_warning\": \"需关注整体物流板块波动风险及宏观经济对快递业务量的影响\"\n    },\n    {\n      \"stock_code\": \"600233\",\n      \"stock_name\": \"圆通速递\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"校园快递业务占比较高，技术指标显示短期反弹动能，估值相对合理，受益于季节性需求增长\",\n      \"risk_warning\": \"行业竞争激烈，利润率承压，需关注成本控制能力\"\n    },\n    {\n      \"stock_code\": \"002024\",\n      \"stock_name\": \"苏宁易购\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"虽涉及校园电商业务，但公司基本面面临挑战，技术面偏弱，与新闻的直接关联度相对较低\",\n      \"risk_warning\": \"公司经营存在不确定性，财务压力较大，建议谨慎参与\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极\",\n    \"sector_strength\": \"一般\",\n    \"risk_level\": \"中等\",\n    \"investment_horizon\": \"短期（1-2周）\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002352",
+        "stock_name": "顺丰控股",
+        "recommendation_reason": "作为快递行业龙头，季节性校园快递高峰可能带来短期业务量提升，但影响有限",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "600233",
+        "stock_name": "圆通速递",
+        "recommendation_reason": "校园快递业务占比较高，季节性需求波动可能产生轻微正面影响",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "002024",
+        "stock_name": "苏宁易购",
+        "recommendation_reason": "涉及校园电商消费，但新闻关联度较弱，投资逻辑不清晰",
+        "policy_relevance": "很低",
+        "urgency_level": "很低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然来自央视平台，但内容为常规校园生活报道，缺乏重大政策导向和投资价值。新闻时效性差（0/10），硬核程度低（0/10），持续性弱（0/10），属于日常资讯类内容，不具备明显的投资指导意义。央视的权威性在此类普通社会新闻中不产生实质性投资影响。",
+      "policy_impact": "无显著政策影响。该新闻仅为季节性校园现象报道，未涉及任何国家政策导向或产业支持政策，对相关行业无实质性政策推动作用。",
+      "theme_classification": {
+        "theme_type": "校园经济/物流季节性波动",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "物流快递",
+          "校园消费"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002352",
+          "stock_name": "顺丰控股",
+          "recommendation_reason": "作为快递行业龙头，季节性校园快递高峰可能带来短期业务量提升，但影响有限",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "600233",
+          "stock_name": "圆通速递",
+          "recommendation_reason": "校园快递业务占比较高，季节性需求波动可能产生轻微正面影响",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "002024",
+          "stock_name": "苏宁易购",
+          "recommendation_reason": "涉及校园电商消费，但新闻关联度较弱，投资逻辑不清晰",
+          "policy_relevance": "很低",
+          "urgency_level": "很低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 00:03:19"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

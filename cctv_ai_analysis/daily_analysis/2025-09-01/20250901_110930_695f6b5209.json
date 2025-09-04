@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 11:09:30",
+  "news_info": {
+    "id": "695f6b5209",
+    "title": "“不缴社保约定无效”今起实施 一文读懂被误解的“强制社保”-中国网",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901100030701763274.html",
+    "publish_time": "2025-09-01 10:00:00",
+    "summary": "“不缴社保约定无效”今起实施 一文读懂被误解的“强制社保”-中国网"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.14
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300662\",\n      \"stock_name\": \"科锐国际\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为人力资源服务龙头企业，直接受益于社保强制缴纳政策，技术面显示板块强度0.70支撑良好，近期成交量放大，MACD金叉向上，政策催化明确\",\n      \"risk_warning\": \"需关注政策执行力度不及预期风险，以及人力资源行业竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"002657\",\n      \"stock_name\": \"中科金财\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"金融科技服务商，社保数字化管理需求提升带来业务机会，技术指标显示相对强势，RSI处于健康区间，政策间接利好明显\",\n      \"risk_warning\": \"公司传统金融IT业务面临转型压力，政策受益程度相对间接\"\n    },\n    {\n      \"stock_code\": \"600730\",\n      \"stock_name\": \"中国高科\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"职业教育板块可能间接受益于社保规范化，但关联度相对较弱，技术面表现平稳，缺乏明显突破信号\",\n      \"risk_warning\": \"与社保政策直接关联度较低，基本面改善需要时间验证，存在估值回调风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.70,\n    \"market_sentiment\": \"政策驱动型行情，情绪偏积极但需警惕短期获利了结\",\n    \"technical_trend\": \"整体技术面支撑良好，但需关注大盘整体走势影响\"\n  },\n  \"key_risks\": [\n    \"政策执行效果可能存在时滞，短期业绩贡献有限\",\n    \"综合板块整体估值偏高，存在板块轮动风险\",\n    \"市场流动性变化可能影响小盘股表现\",\n    \"需密切关注政策后续细则和落地情况\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300662",
+        "stock_name": "科锐国际",
+        "recommendation_reason": "作为人力资源服务龙头，社保政策强化将直接提升其外包服务和人事代理业务需求，央视权威报道增强政策执行确定性",
+        "policy_relevance": "高度相关，主营业务包含社保代缴和人力资源外包服务",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "002657",
+        "stock_name": "中科金财",
+        "recommendation_reason": "公司涉足社会保障信息化领域，政策强化将推动社保系统升级和数字化服务需求",
+        "policy_relevance": "中度相关，为社保机构提供信息技术服务",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "600730",
+        "stock_name": "中国高科",
+        "recommendation_reason": "旗下人力资源培训业务受益于社保政策规范化，企业合规需求提升将带动相关培训服务",
+        "policy_relevance": "间接相关，通过职业教育培训服务于人力资源市场",
+        "urgency_level": "一般",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及社保政策重大调整，'不缴社保约定无效'政策正式实施，具有重要的政策导向意义。虽然评分显示第一时间性较低，但央视新闻的权威发布对市场具有显著引导作用，特别是在社保相关领域将产生深远影响。",
+      "policy_impact": "该政策强化了社保缴纳的强制性，将直接提升社保基金规模，利好社保相关服务企业和人力资源服务机构。政策执行将推动企业合规化经营，对人力资源管理和社保服务行业形成长期利好。",
+      "theme_classification": {
+        "theme_type": "社保政策改革",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "人力资源服务",
+          "社会保障",
+          "企业服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300662",
+          "stock_name": "科锐国际",
+          "recommendation_reason": "作为人力资源服务龙头，社保政策强化将直接提升其外包服务和人事代理业务需求，央视权威报道增强政策执行确定性",
+          "policy_relevance": "高度相关，主营业务包含社保代缴和人力资源外包服务",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "002657",
+          "stock_name": "中科金财",
+          "recommendation_reason": "公司涉足社会保障信息化领域，政策强化将推动社保系统升级和数字化服务需求",
+          "policy_relevance": "中度相关，为社保机构提供信息技术服务",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "600730",
+          "stock_name": "中国高科",
+          "recommendation_reason": "旗下人力资源培训业务受益于社保政策规范化，企业合规需求提升将带动相关培训服务",
+          "policy_relevance": "间接相关，通过职业教育培训服务于人力资源市场",
+          "urgency_level": "一般",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:09:30"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

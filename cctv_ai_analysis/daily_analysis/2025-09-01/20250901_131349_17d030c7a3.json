@@ -1,0 +1,82 @@
+{
+  "analysis_time": "2025-09-01 13:13:49",
+  "news_info": {
+    "id": "17d030c7a3",
+    "title": "【天眼问医】痛心！苏州越野跑达人误食毒蘑菇离世，这些保命知识要记牢",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901113720000294899.html",
+    "publish_time": "2025-09-01 11:37:00",
+    "summary": "【天眼问医】痛心！苏州越野跑达人误食毒蘑菇离世，这些保命知识要记牢"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.6
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"stock_code\": \"000000\",\n      \"stock_name\": \"无推荐股票\",\n      \"comprehensive_score\": 0.10,\n      \"recommendation_reason\": \"基于技术分析数据显示板块强度仅为0.100，技术评分0.10处于极低水平，且新闻内容为食品安全警示类社会新闻，与股市投资无直接关联性，缺乏明确的投资主题和催化剂\",\n      \"risk_warning\": \"当前无合适投资标的，建议保持观望；市场缺乏明确投资主线，板块轮动快速；技术指标显示市场整体偏弱，存在系统性风险\"\n    }\n  ],\n  \"analysis_summary\": \"经综合评估，新闻内容为毒蘑菇中毒事件的社会警示报道，与证券市场无直接关联，未发现明确的投资机会。技术分析显示市场整体偏弱，板块强度和技术评分均处于低位，缺乏有效的投资标的。建议投资者保持谨慎，等待更明确的市场信号和投资机会\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000000",
+        "stock_name": "无推荐股票",
+        "recommendation_reason": "该新闻为食品安全警示报道，不具备投资价值。作为专业分析师，不建议基于此类非投资相关新闻进行股票推荐",
+        "policy_relevance": "无政策关联度",
+        "urgency_level": "无需关注",
+        "confidence_score": 0.0
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为食品安全警示类报道，虽然内容具有社会教育意义，但投资价值极低。新闻时效性、硬核程度和持续性评分均为0分，表明该事件属于偶发性个案，不具备持续关注价值和投资机会。央视新闻的权威性在此类报道中主要体现在公众教育层面，而非投资指引。",
+      "policy_impact": "无直接政策影响。该报道属于警示性新闻，不涉及新政策出台或政策导向变化，对相关行业无实质性政策推动力。",
+      "theme_classification": {
+        "theme_type": "无投资主题",
+        "hardcore_level": "无相关意志体现",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000000",
+          "stock_name": "无推荐股票",
+          "recommendation_reason": "该新闻为食品安全警示报道，不具备投资价值。作为专业分析师，不建议基于此类非投资相关新闻进行股票推荐",
+          "policy_relevance": "无政策关联度",
+          "urgency_level": "无需关注",
+          "confidence_score": 0.0
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 13:13:49"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

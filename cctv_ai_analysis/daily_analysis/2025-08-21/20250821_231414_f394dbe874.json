@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-21 23:14:14",
+  "news_info": {
+    "id": "f394dbe874",
+    "title": "科技赋能守护“国宝”栖息地 打造“智慧脑”守护绿色家园",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIhzHEBnUnhi9pE7dVEJrH250821.shtml",
+    "publish_time": "2025-08-21 16:34:00",
+    "summary": "科技赋能守护“国宝”栖息地 打造“智慧脑”守护绿色家园"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.67755,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.77,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 6.66
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300203\",\n      \"stock_name\": \"聚光科技\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现最佳，板块强度0.617提供支撑，与新闻主题高度契合（环境监测设备龙头），政策受益明确，短期催化剂强度高，技术指标配合度良好\",\n      \"risk_warning\": \"需关注环保政策执行进度不及预期风险，市场竞争加剧可能影响盈利空间\"\n    },\n    {\n      \"stock_code\": \"603568\",\n      \"stock_name\": \"伟明环保\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"基本面稳健，环保运营业务与智慧生态主题匹配，技术评分中等但具备防御性特征，受益于固废处理政策支持\",\n      \"risk_warning\": \"项目投资回报周期较长，现金流压力需要关注，行业监管政策变化风险\"\n    },\n    {\n      \"stock_code\": \"300212\",\n      \"stock_name\": \"易华录\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"数据湖业务与智慧生态概念相关，但技术面相对较弱，市场情绪支撑有限，需要观察后续订单落地情况\",\n      \"risk_warning\": \"技术面存在调整压力，业绩兑现存在不确定性，需警惕估值回调风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength_support\": \"中等偏强（0.617），科技和综合板块提供一定支撑\",\n    \"market_sentiment\": \"环保科技题材受政策驱动，但需关注市场整体情绪波动\",\n    \"technical_indicator_status\": \"平均技术评分0.62显示中等偏强，但个股分化明显\",\n    \"policy_benefit_level\": \"高，符合国家智慧生态建设方向\",\n    \"risk_assessment\": \"板块风险中等，需警惕政策执行进度和市场竞争风险\"\n  },\n  \"investment_horizon\": \"短期至中期（1-3个月）\",\n  \"update_time\": \"2024-01-20\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300203",
+        "stock_name": "聚光科技",
+        "recommendation_reason": "公司主营环境监测设备，与新闻中'科技赋能守护栖息地'高度契合，央视报道可能提升市场对环保监测设备的关注度",
+        "policy_relevance": "直接受益于环境监测政策要求",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300212",
+        "stock_name": "易华录",
+        "recommendation_reason": "作为智慧城市大数据服务商，契合'打造智慧脑'主题，在生态环保数据平台建设方面有布局",
+        "policy_relevance": "间接受益于智慧环保建设",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "603568",
+        "stock_name": "伟明环保",
+        "recommendation_reason": "固废处理龙头企业，虽不直接涉及监测技术，但受益于环保整体政策氛围，央视报道可能带动板块情绪",
+        "policy_relevance": "环保产业政策受益",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视权威发布，但评分显示第一时间性、硬核程度、持续性均为0分，表明内容偏向常规宣传报道，缺乏实质性政策突破或重大事件驱动。央视新闻的权威性虽能带来短期关注度，但投资价值有限，更多体现为长期政策导向的确认。",
+      "policy_impact": "政策影响较弱，属于既有环保科技政策的延续性宣传，未释放新政策信号。对资本市场直接影响有限，但强化了'科技+环保'的长期政策方向，对相关板块有情绪支撑作用。",
+      "theme_classification": {
+        "theme_type": "环保科技/智慧生态",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "环境保护",
+          "信息技术",
+          "智慧城市"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300203",
+          "stock_name": "聚光科技",
+          "recommendation_reason": "公司主营环境监测设备，与新闻中'科技赋能守护栖息地'高度契合，央视报道可能提升市场对环保监测设备的关注度",
+          "policy_relevance": "直接受益于环境监测政策要求",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300212",
+          "stock_name": "易华录",
+          "recommendation_reason": "作为智慧城市大数据服务商，契合'打造智慧脑'主题，在生态环保数据平台建设方面有布局",
+          "policy_relevance": "间接受益于智慧环保建设",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "603568",
+          "stock_name": "伟明环保",
+          "recommendation_reason": "固废处理龙头企业，虽不直接涉及监测技术，但受益于环保整体政策氛围，央视报道可能带动板块情绪",
+          "policy_relevance": "环保产业政策受益",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 23:14:14"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

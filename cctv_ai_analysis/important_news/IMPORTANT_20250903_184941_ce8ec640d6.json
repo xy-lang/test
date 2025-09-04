@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 18:49:41",
+  "news_info": {
+    "id": "ce8ec640d6",
+    "title": "9月3日上午，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在北京天安门广场隆重举行。这些瞬间全网刷屏！一起看高清大图↓",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIqvL4KMXLEiNjQw5YMwFk250903.shtml",
+    "publish_time": "2025-09-03 19:13:00",
+    "summary": "9月3日上午，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在北京天安门广场隆重举行。这些瞬..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -0.4
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601606\",\n      \"stock_name\": \"长城军工\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"直接受益于国防军工题材，与抗战胜利纪念活动高度契合，技术评分0.78高于平均水平，板块强度0.733提供支撑，政策催化明确，短期情绪推动强劲\",\n      \"risk_warning\": \"军工板块波动较大，需关注后续政策落地情况，技术面存在短期超买风险\"\n    },\n    {\n      \"stock_code\": \"600088\",\n      \"stock_name\": \"中视传媒\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"爱国主义教育题材直接受益，传媒属性与纪念活动宣传需求匹配，技术评分0.71处于合理区间，市场情绪对文化传媒板块有利\",\n      \"risk_warning\": \"传媒板块受市场情绪影响较大，基本面支撑相对较弱，需警惕短期炒作后的回调风险\"\n    },\n    {\n      \"stock_code\": \"600258\",\n      \"stock_name\": \"首旅酒店\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"文化旅游间接受益，国庆假期临近叠加纪念活动可能带动旅游需求，技术评分0.70基本达标，但关联度相对较弱\",\n      \"risk_warning\": \"旅游酒店板块受宏观经济影响较大，与新闻直接关联度较低，基本面复苏存在不确定性\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"积极\",\n    \"sector_strength_support\": \"中等偏强\",\n    \"policy_catalyst_intensity\": \"强\",\n    \"recommendation_strategy\": \"优先配置军工题材，适度参与传媒板块，谨慎看待旅游酒店\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601606",
+        "stock_name": "长城军工",
+        "recommendation_reason": "作为军工板块龙头，抗战纪念活动往往带动国防军工板块关注度提升，央视权威报道强化政策预期",
+        "policy_relevance": "高度相关，国防建设是抗战纪念的核心内涵",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下上市公司，直接受益于央视重大活动报道带来的品牌价值和业务机会",
+        "policy_relevance": "直接相关，作为央视体系内文化传媒平台",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "抗战纪念活动带动红色旅游热潮，北京地区文旅消费预期提升",
+        "policy_relevance": "间接相关，爱国主义教育带动文旅产业发展",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为纪念抗战胜利80周年重大政治活动报道，虽然新闻本身时效性较弱，但央视新闻作为国家级媒体平台，其报道具有极强的政策导向性和权威性。此类纪念活动往往伴随相关政策支持和产业导向，对相关板块具有中长期影响。",
+      "policy_impact": "高规格纪念活动通常预示着相关产业政策支持力度加大，特别是在国防军工、爱国主义教育、文化旅游等领域可能获得政策倾斜，具有明显的国家意志特征。",
+      "theme_classification": {
+        "theme_type": "国防军工/爱国主义教育/文化旅游",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "国防军工",
+          "文化传媒",
+          "旅游服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601606",
+          "stock_name": "长城军工",
+          "recommendation_reason": "作为军工板块龙头，抗战纪念活动往往带动国防军工板块关注度提升，央视权威报道强化政策预期",
+          "policy_relevance": "高度相关，国防建设是抗战纪念的核心内涵",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下上市公司，直接受益于央视重大活动报道带来的品牌价值和业务机会",
+          "policy_relevance": "直接相关，作为央视体系内文化传媒平台",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "抗战纪念活动带动红色旅游热潮，北京地区文旅消费预期提升",
+          "policy_relevance": "间接相关，爱国主义教育带动文旅产业发展",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:49:41"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

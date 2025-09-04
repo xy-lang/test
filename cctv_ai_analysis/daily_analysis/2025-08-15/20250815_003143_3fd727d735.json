@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 00:31:43",
+  "news_info": {
+    "id": "3fd727d735",
+    "title": "国家级数据基建实现数据领域“车同轨、书同文”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTI8QkfhgMTp7m26Go1K3iS250814.shtml",
+    "publish_time": "2025-08-15 00:31:19",
+    "summary": "国家级数据基建实现数据领域“车同轨、书同文”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79705,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻涉及国家级数据基建领域，具有较高的政策导向性和战略意义。央视新闻作为国家级权威媒体，其报道具有显著的市场影响力，综合强度0.80表明该消息对相关板块将产生较强刺激。",
+    "policy_impact": "数据基建作为数字经济的底层支撑，'车同轨、书同文'的提法暗示将推进数据标准化和互联互通，利好数据要素、大数据基础设施等相关产业。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600588",
+        "stock_name": "用友网络",
+        "recommendation_reason": "企业数字化服务龙头，深度参与国家数据要素体系建设，受益于数据标准化进程",
+        "policy_relevance": "直接参与政府和企业数字化转型项目",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "300212",
+        "stock_name": "易华录",
+        "recommendation_reason": "央企背景的数据湖建设运营商，在数据存储和管理领域具有先发优势",
+        "policy_relevance": "参与多地政府数据基础设施建设",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "603881",
+        "stock_name": "数据港",
+        "recommendation_reason": "专业的数据中心服务商，受益于数据基础设施统一标准建设",
+        "policy_relevance": "数据中心作为数据基建的重要载体",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

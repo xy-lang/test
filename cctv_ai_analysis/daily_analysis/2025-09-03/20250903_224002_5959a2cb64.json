@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-03 22:40:02",
+  "news_info": {
+    "id": "5959a2cb64",
+    "title": "【多彩新论】校园足球激发身心活力",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903212735654978173.html",
+    "publish_time": "2025-09-03 21:27:00",
+    "summary": "【多彩新论】校园足球激发身心活力"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6746,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.66,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.2
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 22:40:02"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

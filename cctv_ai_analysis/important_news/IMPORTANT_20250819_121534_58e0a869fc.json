@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-19 12:15:34",
+  "news_info": {
+    "id": "58e0a869fc",
+    "title": "财政部：7月全国共销售彩票519.49亿元，同比下降5%",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTIJwuaxBcemr8N3FLhmP4e250819.shtml",
+    "publish_time": "2025-08-19 22:18:00",
+    "summary": "财政部：7月全国共销售彩票519.49亿元，同比下降5%"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8317000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.78,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": -10.05
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000829\",\n      \"stock_name\": \"天音控股\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"1. 技术面：近期量价配合良好，MACD金叉初现，处于板块强度支撑位\\n2. 基本面：国内领先的彩票终端设备供应商，直接受益于彩票销售数据披露\\n3. 催化剂：下半年体育赛事密集期临近，存在业绩预期差\",\n      \"risk_warning\": \"需警惕彩票政策收紧风险及消费复苏不及预期\"\n    },\n    {\n      \"stock_code\": \"002229\",\n      \"stock_name\": \"鸿博股份\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"1. 技术面：突破半年线压力位，RSI指标进入强势区间\\n2. 题材面：布局互联网彩票业务，具有数字彩概念延伸空间\\n3. 资金面：近期北向资金持续流入\",\n      \"risk_warning\": \"注意商誉减值风险及新业务拓展不及预期\"\n    },\n    {\n      \"stock_code\": \"600158\",\n      \"stock_name\": \"中体产业\",\n      \"composite_score\": 0.65,\n      \"recommendation_reason\": \"1. 政策面：体育总局下属企业，受益于体育产业政策红利\\n2. 技术面：周线级别W底形态构筑中，但量能配合稍显不足\\n3. 事件驱动：亚运会等赛事概念加持\",\n      \"risk_warning\": \"注意赛事延期风险及重资产运营压力\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.68,\n    \"technical_sentiment\": \"中性偏多\",\n    \"key_observation\": \"板块整体处于政策真空期后的估值修复阶段，建议关注细分领域龙头\"\n  },\n  \"update_time\": \"2023-08-25\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000829",
+        "stock_name": "天音控股",
+        "recommendation_reason": "公司是福彩核心供应商，彩票销售数据直接影响业绩。央视报道的权威数据将引发市场对行业基本面的重新评估。",
+        "policy_relevance": "直接受彩票销售政策影响",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600158",
+        "stock_name": "中体产业",
+        "recommendation_reason": "体育彩票相关业务占比较大，数据下滑可能促使公司转型或政策支持，存在预期差机会。",
+        "policy_relevance": "体育总局旗下，政策关联度高",
+        "urgency_level": "中低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "002229",
+        "stock_name": "鸿博股份",
+        "recommendation_reason": "彩票印刷龙头企业，行业数据波动将影响市场情绪，但公司转型数字彩票具备长期潜力。",
+        "policy_relevance": "行业基本面关联",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由财政部发布，通过央视新闻权威渠道披露，具有较高的政策权威性。内容显示7月全国彩票销售同比下降5%，反映消费疲软和政策调控的影响。虽然新闻本身时效性较低，但作为财政数据对博彩行业具有指标意义。",
+      "policy_impact": "彩票销售数据下滑可能引发行业监管政策调整，需警惕后续可能出台的刺激性政策或更严格管控措施。作为财政重要收入来源，彩票行业的政策敏感性较高。",
+      "theme_classification": {
+        "theme_type": "博彩/消费",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 5,
+        "related_sectors": [
+          "博彩业",
+          "消费零售"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000829",
+          "stock_name": "天音控股",
+          "recommendation_reason": "公司是福彩核心供应商，彩票销售数据直接影响业绩。央视报道的权威数据将引发市场对行业基本面的重新评估。",
+          "policy_relevance": "直接受彩票销售政策影响",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600158",
+          "stock_name": "中体产业",
+          "recommendation_reason": "体育彩票相关业务占比较大，数据下滑可能促使公司转型或政策支持，存在预期差机会。",
+          "policy_relevance": "体育总局旗下，政策关联度高",
+          "urgency_level": "中低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "002229",
+          "stock_name": "鸿博股份",
+          "recommendation_reason": "彩票印刷龙头企业，行业数据波动将影响市场情绪，但公司转型数字彩票具备长期潜力。",
+          "policy_relevance": "行业基本面关联",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 12:15:34"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

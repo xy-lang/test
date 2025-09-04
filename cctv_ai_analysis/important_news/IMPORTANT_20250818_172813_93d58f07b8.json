@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 17:28:13",
+  "news_info": {
+    "id": "93d58f07b8",
+    "title": "“十四五”时期发展社会主义民主成绩亮眼！一文了解",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTI6nKOJ3hIvj3JbDnkcAXS250818.shtml",
+    "publish_time": "2025-08-18 18:14:00",
+    "summary": "“十四五”时期发展社会主义民主成绩亮眼！一文了解"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8185,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": -0.78
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"数字政通(300075)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"与'数字政府'建设高度相关，直接受益于'十四五'政务信息化政策\",\n        \"作为政务信息化龙头，政策受益程度最高\",\n        \"近期中标多个智慧城市项目，短期催化剂明确\",\n        \"技术面虽无数据支撑，但政策驱动型行情往往先于技术指标\"\n      ],\n      \"risk_warning\": [\n        \"若政策落地不及预期可能影响业绩兑现\",\n        \"需警惕短期冲高后的技术性回调\"\n      ]\n    },\n    {\n      \"stock\": \"太极股份(002368)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"央企背景的政务信息化服务商，承接国家级重点项目能力强\",\n        \"在数据要素市场化领域有先发优势\",\n        \"近期与多个部委达成战略合作\",\n        \"估值处于历史中位水平\"\n      ],\n      \"risk_warning\": [\n        \"政府项目回款周期较长可能影响现金流\",\n        \"行业竞争加剧可能压缩利润率\"\n      ]\n    },\n    {\n      \"stock\": \"南威软件(603636)\",\n      \"score\": 0.72,\n      \"reasons\": [\n        \"专注政务大数据和政务服务领域\",\n        \"在数字身份认证等细分领域有技术优势\",\n        \"近期发布新一代政务云平台\",\n        \"流通市值较小弹性较大\"\n      ],\n      \"risk_warning\": [\n        \"区域业务集中度较高\",\n        \"研发投入加大可能短期影响利润\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"由于技术分析数据缺失，主要依赖政策驱动逻辑\",\n    \"news_match\": \"所有标的均高度契合数字政府建设主题\",\n    \"risk_assessment\": \"需重点关注政策落地进度和季度业绩验证\",\n    \"recommend_strategy\": \"建议采用政策窗口期波段操作，重点关注数字政通\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300075",
+        "stock_name": "数字政通",
+        "recommendation_reason": "作为政务信息化龙头企业，直接受益于数字政府建设推进。央视报道强化了政策持续性预期。",
+        "policy_relevance": "高度相关",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "603636",
+        "stock_name": "南威软件",
+        "recommendation_reason": "专注政务大数据领域，'十四五'期间电子政务建设加速将带来业务增量。",
+        "policy_relevance": "中度相关",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "002368",
+        "stock_name": "太极股份",
+        "recommendation_reason": "央企背景的数字化解决方案提供商，在政府信息化领域具有先发优势。",
+        "policy_relevance": "中度相关",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于时政要闻，内容聚焦'十四五'时期社会主义民主建设成就，具有显著的政策宣示意义。虽然新闻本身不包含具体投资信息，但作为央视新闻发布的政策导向性内容，对相关板块具有潜在影响。",
+      "policy_impact": "作为国家级媒体发布的政策总结性报道，体现了国家在民主建设领域的持续投入，可能带动相关政务信息化、智慧城市等领域的政策红利释放。",
+      "theme_classification": {
+        "theme_type": "政务信息化/数字政府",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "政务软件",
+          "智慧城市"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300075",
+          "stock_name": "数字政通",
+          "recommendation_reason": "作为政务信息化龙头企业，直接受益于数字政府建设推进。央视报道强化了政策持续性预期。",
+          "policy_relevance": "高度相关",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "603636",
+          "stock_name": "南威软件",
+          "recommendation_reason": "专注政务大数据领域，'十四五'期间电子政务建设加速将带来业务增量。",
+          "policy_relevance": "中度相关",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "002368",
+          "stock_name": "太极股份",
+          "recommendation_reason": "央企背景的数字化解决方案提供商，在政府信息化领域具有先发优势。",
+          "policy_relevance": "中度相关",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 17:28:13"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

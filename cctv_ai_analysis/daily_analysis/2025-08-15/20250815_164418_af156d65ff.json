@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 16:44:18",
+  "news_info": {
+    "id": "af156d65ff",
+    "title": "数字“牵手”文化点亮暑期“文博游”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/15/ARTITILwJB2qOouGKEqsgIMf250815.shtml",
+    "publish_time": "2025-08-15 16:42:22",
+    "summary": "数字“牵手”文化点亮暑期“文博游”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.78055,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.67,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.03
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有高度公信力和政策导向性。本次关于'数字+文化'暑期文博游的报道，综合强度0.78分，显示该主题具有较高关注度和政策支持度，可能带动相关概念股表现。",
+    "policy_impact": "虽未直接提及具体政策，但'数字+文化'契合国家文化数字化战略方向，属于政策鼓励领域，可能获得后续配套政策支持。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300081",
+        "stock_name": "恒信东方",
+        "recommendation_reason": "数字文化创意产业龙头企业，VR/AR技术在文博领域应用领先",
+        "policy_relevance": "高度契合数字文化融合主题",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "600556",
+        "stock_name": "天下秀",
+        "recommendation_reason": "新媒体营销服务商，深度参与数字文旅项目",
+        "policy_relevance": "较强关联数字文化传播",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "300264",
+        "stock_name": "佳创视讯",
+        "recommendation_reason": "VR+文旅解决方案提供商，暑期文博游直接受益标的",
+        "policy_relevance": "直接受益数字文博场景应用",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-04 15:23:43",
+  "news_info": {
+    "id": "15e7d1c5d2",
+    "title": "南京一家卤菜店的退款告示暖人心：“绝不让信任落在地上”",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904151028537392326.html",
+    "publish_time": "2025-09-04 15:10:00",
+    "summary": "南京一家卤菜店的退款告示暖人心：“绝不让信任落在地上”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7789,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.77,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.22
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_code\": \"603043\",\n      \"stock_name\": \"广州酒家\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"技术面相对稳健，作为老字号餐饮企业，品牌诚信度与新闻主题高度契合，具备较强的政策受益性和品牌溢价能力，短期催化剂明确\",\n      \"risk_warning\": \"餐饮行业复苏不及预期风险，原材料成本上涨风险\"\n    },\n    {\n      \"stock_code\": \"002695\",\n      \"stock_name\": \"煌上煌\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"卤制品行业龙头之一，与新闻中卤菜店主题直接相关，技术面处于相对低位，具备估值修复空间\",\n      \"risk_warning\": \"行业竞争加剧风险，门店扩张不及预期风险\"\n    },\n    {\n      \"stock_code\": \"603517\",\n      \"stock_name\": \"绝味食品\",\n      \"comprehensive_score\": 0.48,\n      \"recommendation_reason\": \"卤制品行业头部企业，品牌知名度高，但技术面相对弱势，需观察企稳信号\",\n      \"risk_warning\": \"估值偏高风险，同质化竞争风险，食品安全风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_analysis_summary\": \"板块强度偏弱（0.30），技术指标整体评分较低，市场情绪谨慎，需要精选个股\",\n    \"news_matching_summary\": \"新闻主题为品牌诚信和社会正能量，与食品饮料行业关联度较高，但缺乏直接的政策催化\",\n    \"risk_assessment_summary\": \"综合板块风险中等，需关注消费复苏进度和成本端压力，建议控制仓位分批布局\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "603043",
+        "stock_name": "广州酒家",
+        "recommendation_reason": "作为老字号餐饮企业，央视正能量报道可能间接提升食品餐饮行业关注度",
+        "policy_relevance": "低-间接关联诚信经营理念",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "002695",
+        "stock_name": "煌上煌",
+        "recommendation_reason": "卤制品行业代表企业，与新闻中卤菜店属同行业",
+        "policy_relevance": "低-行业属性相关",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "603517",
+        "stock_name": "绝味食品",
+        "recommendation_reason": "休闲卤制品龙头企业，可能受益于行业关注度提升",
+        "policy_relevance": "低-行业间接关联",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为暖心社会事件，但投资价值极低。新闻内容为南京卤菜店诚信经营案例，属于社会正能量报道，缺乏实质性政策导向和投资机会。央视新闻的权威性在此类社会新闻中主要体现为品牌传播价值，而非投资指引价值。新闻时效性、硬核程度均为0分，表明不具备投资参考意义。",
+      "policy_impact": "无直接政策影响。该新闻反映的是社会主义核心价值观中的诚信经营理念，属于道德层面倡导，不涉及具体产业政策或财政支持。对资本市场无实质性影响，更多是品牌形象塑造和社会价值导向作用。",
+      "theme_classification": {
+        "theme_type": "社会正能量/品牌诚信",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "食品饮料",
+          "餐饮服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "603043",
+          "stock_name": "广州酒家",
+          "recommendation_reason": "作为老字号餐饮企业，央视正能量报道可能间接提升食品餐饮行业关注度",
+          "policy_relevance": "低-间接关联诚信经营理念",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "002695",
+          "stock_name": "煌上煌",
+          "recommendation_reason": "卤制品行业代表企业，与新闻中卤菜店属同行业",
+          "policy_relevance": "低-行业属性相关",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "603517",
+          "stock_name": "绝味食品",
+          "recommendation_reason": "休闲卤制品龙头企业，可能受益于行业关注度提升",
+          "policy_relevance": "低-行业间接关联",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 15:23:43"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

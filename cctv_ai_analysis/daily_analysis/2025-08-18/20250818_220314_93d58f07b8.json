@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 22:03:14",
+  "news_info": {
+    "id": "93d58f07b8",
+    "title": "“十四五”时期发展社会主义民主成绩亮眼！一文了解",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTI6nKOJ3hIvj3JbDnkcAXS250818.shtml",
+    "publish_time": "2025-08-18 11:42:00",
+    "summary": "“十四五”时期发展社会主义民主成绩亮眼！一文了解"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6825,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.71,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 10.34
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600536\",\n      \"stock_name\": \"中国软件\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"作为国产软件龙头，直接受益于'十四五'数字化建设政策。技术面显示近期量价配合良好，MACD金叉形成，板块强度支撑明显。公司参与多项国家级信息化项目，政策受益程度最高。\",\n      \"risk_warning\": \"需警惕短期涨幅过大后的技术回调风险，以及政府项目回款周期较长带来的现金流压力。\"\n    },\n    {\n      \"stock_code\": \"002368\",\n      \"stock_name\": \"太极股份\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"政务信息化核心服务商，KDJ指标呈现多头排列。深度参与电子政务系统建设，近期中标多个省级政务云项目，政策催化效应显著。\",\n      \"risk_warning\": \"注意同业竞争加剧风险，以及地方政府财政压力可能影响项目进度。\"\n    },\n    {\n      \"stock_code\": \"300075\",\n      \"stock_name\": \"数字政通\",\n      \"composite_score\": 0.65,\n      \"recommendation_reason\": \"智慧城市细分领域龙头，RSI指标处于合理区间。其网格化管理平台与基层民主建设高度契合，但技术面稍弱于前两者，需观察量能能否持续放大。\",\n      \"risk_warning\": \"存在业务区域集中风险，且市盈率高于行业平均，估值压力需警惕。\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.60,\n    \"technical_sentiment\": \"中性偏多\",\n    \"policy_impact\": \"强政策驱动\",\n    \"key_observation\": \"综合板块近期跑赢大盘，但个股分化明显。建议重点关注有实际订单支撑的政务信息化龙头，短期回避纯概念炒作标的。\"\n  },\n  \"update_time\": \"2023-04-15\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600536",
+        "stock_name": "中国软件",
+        "recommendation_reason": "作为政务信息化龙头企业，可能受益于民主建设相关的电子政务发展",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300075",
+        "stock_name": "数字政通",
+        "recommendation_reason": "智慧城市解决方案提供商，可能间接受益于民主建设相关的城市治理需求",
+        "policy_relevance": "中等偏低",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "002368",
+        "stock_name": "太极股份",
+        "recommendation_reason": "政务信息系统集成商，在政府信息化建设中有一定市场份额",
+        "policy_relevance": "中等偏低",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于时政要闻，报道了'十四五'时期社会主义民主建设的成绩。虽然内容重要，但从投资角度看，缺乏直接的产业或经济数据支撑，时效性和持续性较低。",
+      "policy_impact": "作为央视发布的政策宣传类新闻，体现了国家在民主建设方面的成就，但对具体行业和企业的直接影响有限。更多是宏观层面的政策导向信号。",
+      "theme_classification": {
+        "theme_type": "政策宣传/民主建设",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "政务信息化",
+          "智慧城市"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600536",
+          "stock_name": "中国软件",
+          "recommendation_reason": "作为政务信息化龙头企业，可能受益于民主建设相关的电子政务发展",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300075",
+          "stock_name": "数字政通",
+          "recommendation_reason": "智慧城市解决方案提供商，可能间接受益于民主建设相关的城市治理需求",
+          "policy_relevance": "中等偏低",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "002368",
+          "stock_name": "太极股份",
+          "recommendation_reason": "政务信息系统集成商，在政府信息化建设中有一定市场份额",
+          "policy_relevance": "中等偏低",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 22:03:14"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

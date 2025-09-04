@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-08-25 23:51:04",
+  "news_info": {
+    "id": "b2d6211a41",
+    "title": "算力，究竟是个什么“力”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIA4RAIEmgIcRZPqxyrFZ8250825.shtml",
+    "publish_time": "2025-08-25 23:08:08",
+    "summary": "算力，究竟是个什么“力”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.76405,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.62,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.7
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000977\",\n      \"stock_name\": \"浪潮信息\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"作为国内服务器龙头，直接受益于算力基础设施建设政策推动。技术评分0.85分，处于板块强势区间，近期成交量放大显示资金关注度高。公司在新基建领域布局深入，政策催化效应明显，短期业绩预期向好。\",\n      \"risk_warning\": \"需关注芯片供应链风险及行业竞争加剧可能带来的毛利率压力\"\n    },\n    {\n      \"stock_code\": \"603019\",\n      \"stock_name\": \"中科曙光\",\n      \"comprehensive_score\": 0.83,\n      \"recommendation_reason\": \"高性能计算领域领军企业，深度参与国家算力网络建设。技术评分0.82分，与板块强度匹配度高，近期技术形态呈现突破态势。受益于数字经济政策红利，在自主可控领域具有独特优势。\",\n      \"risk_warning\": \"政府项目订单存在不确定性，需关注应收账款周转情况\"\n    },\n    {\n      \"stock_code\": \"300383\",\n      \"stock_name\": \"光环新网\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"IDC服务商，间接受益于算力需求增长。技术评分0.79分，略低于板块平均水平，但处于上升通道。公司在数据中心布局方面具有先发优势，长期受益于云计算产业发展。\",\n      \"risk_warning\": \"IDC行业竞争激烈，需关注租金价格压力和能耗政策变化\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_positive\": true,\n    \"technical_indicators_aligned\": true,\n    \"overall_risk_level\": \"中等\",\n    \"recommended_positioning\": \"建议分批建仓，重点关注前两只标的\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000977",
+        "stock_name": "浪潮信息",
+        "recommendation_reason": "国内服务器龙头，直接受益于算力基础设施建设需求增长，央视报道提升行业关注度",
+        "policy_relevance": "高度相关，符合数字经济发展政策导向",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "603019",
+        "stock_name": "中科曙光",
+        "recommendation_reason": "高性能计算领域领军企业，算力概念核心标的，技术实力获得国家认可",
+        "policy_relevance": "高度相关，参与多项国家级算力项目",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "300383",
+        "stock_name": "光环新网",
+        "recommendation_reason": "数据中心运营商，算力基础设施重要环节，受益于云计算和AI发展需求",
+        "policy_relevance": "中度相关，基础设施服务商",
+        "urgency_level": "中长期持有",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "央视新闻作为国家级权威媒体，其关于'算力'的专题报道具有重要政策导向意义。虽然评分显示时效性较弱，但'算力'作为数字经济核心基础设施，符合国家'数字中国'战略方向。央视的报道往往预示着政策关注度和资源倾斜，对相关产业具有长期利好影响。",
+      "policy_impact": "国家层面持续推动算力基础设施建设，'东数西算'工程、人工智能发展规划等政策均将算力作为核心要素。央视的报道进一步强化了政策预期，预计将带动相关产业链投资机会，包括算力设备、数据中心、云计算等细分领域。",
+      "theme_classification": {
+        "theme_type": "数字经济/新基建",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "计算机设备",
+          "云计算",
+          "人工智能",
+          "数据中心"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000977",
+          "stock_name": "浪潮信息",
+          "recommendation_reason": "国内服务器龙头，直接受益于算力基础设施建设需求增长，央视报道提升行业关注度",
+          "policy_relevance": "高度相关，符合数字经济发展政策导向",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "603019",
+          "stock_name": "中科曙光",
+          "recommendation_reason": "高性能计算领域领军企业，算力概念核心标的，技术实力获得国家认可",
+          "policy_relevance": "高度相关，参与多项国家级算力项目",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "300383",
+          "stock_name": "光环新网",
+          "recommendation_reason": "数据中心运营商，算力基础设施重要环节，受益于云计算和AI发展需求",
+          "policy_relevance": "中度相关，基础设施服务商",
+          "urgency_level": "中长期持有",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 23:51:04"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

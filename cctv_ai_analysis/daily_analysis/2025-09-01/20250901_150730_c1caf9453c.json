@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 15:07:30",
+  "news_info": {
+    "id": "c1caf9453c",
+    "title": "火车学生票优惠新政，即将上线！",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIWVz2hvVo56RyXAHCVF80250901.shtml",
+    "publish_time": "2025-09-01 17:33:00",
+    "summary": "火车学生票优惠新政，即将上线！"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.77395,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.65,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -2.44
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601333\",\n      \"stock_name\": \"广深铁路\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"直接受益于学生票优惠新政，作为铁路客运核心标的，政策关联度最高。技术面相对稳健，板块强度虽一般但个股具备独立催化，短期政策落地预期强烈。\",\n      \"risk_warning\": \"铁路板块整体估值偏低，市场关注度有限；客运量恢复不及预期风险；政策执行效果存在不确定性\"\n    },\n    {\n      \"stock_code\": \"601006\",\n      \"stock_name\": \"大秦铁路\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"虽以货运为主，但作为铁路行业龙头，政策红利外溢效应明显。技术评分相对较高，基本面稳健，具备防御属性。\",\n      \"risk_warning\": \"与学生票政策关联度间接；煤炭运输需求波动风险；估值修复空间有限\"\n    },\n    {\n      \"stock_code\": \"600125\",\n      \"stock_name\": \"铁龙物流\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"物流业务可能间接受益于铁路客流增长带来的物流需求，但政策直接关联度较弱。技术面表现平平，需观察后续业务协同效应。\",\n      \"risk_warning\": \"政策受益逻辑较为间接；物流行业竞争激烈；技术面支撑较弱\"\n    }\n  ],\n  \"market_context\": {\n    \"sector_strength\": 0.217,\n    \"technical_score\": 0.22,\n    \"overall_assessment\": \"板块技术面偏弱，但政策催化明确，建议重点关注直接受益标的，控制仓位谨慎参与\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601333",
+        "stock_name": "广深铁路",
+        "recommendation_reason": "作为主要铁路客运企业，可能受益于学生客流增加，但实际影响有限",
+        "policy_relevance": "直接受益于铁路客运政策",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "600125",
+        "stock_name": "铁龙物流",
+        "recommendation_reason": "铁路运输相关企业，但主营业务以货运为主，关联度较弱",
+        "policy_relevance": "间接关联铁路运输板块",
+        "urgency_level": "很低",
+        "confidence_score": 0.2
+      },
+      {
+        "rank": 3,
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "recommendation_reason": "主要经营货运业务，与客运政策关联度最低，仅作为铁路板块配置参考",
+        "policy_relevance": "微弱关联",
+        "urgency_level": "很低",
+        "confidence_score": 0.15
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视发布，但内容为常规民生政策调整，投资价值有限。央视新闻的权威性主要体现在时政要闻领域，但此条新闻时效性、硬核程度均较低，属于常规政策宣传，对资本市场直接影响有限。",
+      "policy_impact": "学生票优惠新政属于微调性质的政策优化，不涉及重大资金投入或行业变革，对铁路运输企业的营收影响微乎其微，更多体现为社会责任履行。",
+      "theme_classification": {
+        "theme_type": "公共交通政策",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "铁路运输",
+          "公共交通"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601333",
+          "stock_name": "广深铁路",
+          "recommendation_reason": "作为主要铁路客运企业，可能受益于学生客流增加，但实际影响有限",
+          "policy_relevance": "直接受益于铁路客运政策",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "600125",
+          "stock_name": "铁龙物流",
+          "recommendation_reason": "铁路运输相关企业，但主营业务以货运为主，关联度较弱",
+          "policy_relevance": "间接关联铁路运输板块",
+          "urgency_level": "很低",
+          "confidence_score": 0.2
+        },
+        {
+          "rank": 3,
+          "stock_code": "601006",
+          "stock_name": "大秦铁路",
+          "recommendation_reason": "主要经营货运业务，与客运政策关联度最低，仅作为铁路板块配置参考",
+          "policy_relevance": "微弱关联",
+          "urgency_level": "很低",
+          "confidence_score": 0.15
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 15:07:30"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

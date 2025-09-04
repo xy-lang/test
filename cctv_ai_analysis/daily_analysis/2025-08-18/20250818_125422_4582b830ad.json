@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-18 12:54:22",
+  "news_info": {
+    "id": "4582b830ad",
+    "title": "现代科技农业设施激活农业发展“新引擎”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTITRUIg7hH5tMD8VOzLfrD250818.shtml",
+    "publish_time": "2025-08-18 12:05:00",
+    "summary": "现代科技农业设施激活农业发展“新引擎”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.802,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.69,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.81
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300022\",\n      \"stock_name\": \"吉峰科技\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"1. 技术面表现最佳，近期上涨趋势明显，技术评分高于板块平均水平\\n2. 作为农机流通龙头企业，直接受益于农业科技设施升级政策\\n3. 公司近期有智慧农业相关业务布局，与新闻主题高度契合\",\n      \"risk_warning\": \"1. 农机行业存在季节性波动风险\\n2. 需关注公司现金流状况\"\n    },\n    {\n      \"stock_code\": \"000998\",\n      \"stock_name\": \"隆平高科\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"1. 种业龙头地位稳固，技术面呈现企稳回升态势\\n2. 生物育种技术研发符合农业科技发展方向\\n3. 政策支持种业振兴，长期受益明确\",\n      \"risk_warning\": \"1. 研发投入大，短期业绩承压\\n2. 国际种业竞争加剧\"\n    },\n    {\n      \"stock_code\": \"603566\",\n      \"stock_name\": \"普莱柯\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"1. 动物疫苗细分领域龙头，技术面相对稳健\\n2. 受益于养殖业现代化升级需求\\n3. 研发管线丰富，具备成长潜力\",\n      \"risk_warning\": \"1. 养殖周期影响产品需求\\n2. 行业竞争加剧可能导致毛利率下滑\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": \"农业科技板块整体强度一般，但政策驱动下存在结构性机会\",\n    \"technical_environment\": \"市场情绪中性偏暖，技术指标显示个股分化明显\",\n    \"policy_support\": \"国家农业现代化政策持续加码，智慧农业是重点发展方向\"\n  },\n  \"investment_strategy\": \"建议重点关注与农业科技设施直接相关的龙头企业，把握政策窗口期，注意控制仓位和止损\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300022",
+        "stock_name": "吉峰科技",
+        "recommendation_reason": "国内领先的农机流通企业，受益于农业机械化升级政策，央视报道可能加速市场对其关注。",
+        "policy_relevance": "直接涉及农业设施现代化",
+        "urgency_level": "中高",
+        "confidence_score": 0.8
+      },
+      {
+        "rank": 2,
+        "stock_code": "603566",
+        "stock_name": "普莱柯",
+        "recommendation_reason": "动物疫苗及兽药研发企业，科技农业中生物技术的重要标的，符合国家农业高质量发展方向。",
+        "policy_relevance": "间接关联（科技农业产业链）",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "recommendation_reason": "种业龙头，央视报道可能强化市场对种业技术创新的预期，政策支持确定性高。",
+        "policy_relevance": "种业是农业科技核心领域",
+        "urgency_level": "中",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由央视发布，聚焦现代科技农业设施对农业发展的推动作用，具有较高的权威性和政策导向性。虽然评分显示第一时间性、硬核程度和持续性较低，但央视作为国家级媒体，其报道往往反映政策方向，可能预示着农业科技领域的政策支持或产业升级。",
+      "policy_impact": "国家近年来持续强调农业现代化和科技兴农，此新闻可能暗示后续会有更多支持政策出台，如补贴、技术推广等，对农业科技板块形成长期利好。",
+      "theme_classification": {
+        "theme_type": "农业科技/智慧农业",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "农业种植",
+          "农机装备",
+          "数字农业"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300022",
+          "stock_name": "吉峰科技",
+          "recommendation_reason": "国内领先的农机流通企业，受益于农业机械化升级政策，央视报道可能加速市场对其关注。",
+          "policy_relevance": "直接涉及农业设施现代化",
+          "urgency_level": "中高",
+          "confidence_score": 0.8
+        },
+        {
+          "rank": 2,
+          "stock_code": "603566",
+          "stock_name": "普莱柯",
+          "recommendation_reason": "动物疫苗及兽药研发企业，科技农业中生物技术的重要标的，符合国家农业高质量发展方向。",
+          "policy_relevance": "间接关联（科技农业产业链）",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "000998",
+          "stock_name": "隆平高科",
+          "recommendation_reason": "种业龙头，央视报道可能强化市场对种业技术创新的预期，政策支持确定性高。",
+          "policy_relevance": "种业是农业科技核心领域",
+          "urgency_level": "中",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 12:54:22"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

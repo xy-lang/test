@@ -1,0 +1,130 @@
+{
+  "analysis_time": "2025-09-04 17:54:43",
+  "news_info": {
+    "id": "4714f354b3",
+    "title": "贯通全产业链！2025东亚海博会海洋生物医药展9月7日上线",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904173506233886740.html",
+    "publish_time": "2025-09-04 17:35:00",
+    "summary": "贯通全产业链！2025东亚海博会海洋生物医药展9月7日上线"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7855000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.79,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.31
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_code\": \"600866\",\n      \"stock_name\": \"星湖科技\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现稳健，与海洋生物医药展主题高度契合，公司主营业务涉及生物发酵和医药中间体，直接受益于海洋生物医药产业链发展。技术指标显示近期有资金关注迹象，板块强度支撑较好。\",\n      \"risk_warning\": \"需关注大盘整体走势影响，医药板块政策变化风险，公司业绩波动风险\"\n    },\n    {\n      \"stock_code\": \"002030\",\n      \"stock_name\": \"达安基因\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\":作为基因检测龙头企业，与海洋生物医药具有技术协同性，技术面相对稳定。公司在分子诊断领域优势明显，可能受益于海洋生物医药的技术交流和合作机会。\",\n      \"risk_warning\": \"估值相对较高，需警惕技术调整风险，行业竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"600056\",\n      \"stock_name\": \"中国医药\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"大型医药流通企业，虽与海洋生物医药直接关联度稍弱，但受益于医药行业整体发展和政策支持。技术面相对平稳，具备一定的防御属性。\",\n      \"risk_warning\": \"与主题关联度相对较低，业绩增长平稳但缺乏爆发性，需关注医药行业政策变化\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极，海洋经济政策持续利好，医药板块具备长期投资价值\",\n    \"technical_outlook\": \"板块技术评分0.60显示中等强度，个股技术面整体稳健但缺乏强势突破信号\",\n    \"risk_assessment\": \"中等风险，需关注大盘系统性风险和医药行业政策变化\"\n  },\n  \"investment_suggestion\": \"建议重点关注星湖科技，适度配置达安基因，中国医药作为防御性配置。总体仓位控制在适中水平，注意分散风险。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600866",
+        "stock_name": "星湖科技",
+        "recommendation_reason": "公司主营生物发酵产品，涉足海洋生物医药原料，可能参与相关展会展示技术成果",
+        "policy_relevance": "中等，契合海洋生物医药发展方向",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "002030",
+        "stock_name": "达安基因",
+        "recommendation_reason": "国内分子诊断龙头，海洋生物医药检测领域有布局，可能借展会拓展业务",
+        "policy_relevance": "中等偏高，符合生物医药创新方向",
+        "urgency_level": "中等偏低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "600056",
+        "stock_name": "中国医药",
+        "recommendation_reason": "大型医药央企，具备完整的医药流通体系，可能通过展会获取新的产品代理或合作机会",
+        "policy_relevance": "中等，受益于医药行业整体发展",
+        "urgency_level": "偏低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视发布，但内容为展会预告性质，投资价值有限。央视新闻的权威性主要体现在政策解读和重大事件报道，此类展会预告类新闻对市场直接影响较小。新闻发布时间距离展会开幕有3天时间，存在一定的事件驱动机会，但需结合后续实际参展企业和签约情况判断真实价值。",
+      "policy_impact": "中等偏低。海洋生物医药属于国家战略性新兴产业，符合'海洋强国'和'健康中国'战略方向，但单次展会报道的政策推动力有限，更多体现行业发展趋势而非具体政策红利。",
+      "theme_classification": {
+        "theme_type": "事件驱动型题材",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 4,
+        "related_sectors": [
+          "生物医药",
+          "海洋产业",
+          "会展服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600866",
+          "stock_name": "星湖科技",
+          "recommendation_reason": "公司主营生物发酵产品，涉足海洋生物医药原料，可能参与相关展会展示技术成果",
+          "policy_relevance": "中等，契合海洋生物医药发展方向",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "002030",
+          "stock_name": "达安基因",
+          "recommendation_reason": "国内分子诊断龙头，海洋生物医药检测领域有布局，可能借展会拓展业务",
+          "policy_relevance": "中等偏高，符合生物医药创新方向",
+          "urgency_level": "中等偏低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "600056",
+          "stock_name": "中国医药",
+          "recommendation_reason": "大型医药央企，具备完整的医药流通体系，可能通过展会获取新的产品代理或合作机会",
+          "policy_relevance": "中等，受益于医药行业整体发展",
+          "urgency_level": "偏低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "医药生物"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成长",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-09-04 17:54:43"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

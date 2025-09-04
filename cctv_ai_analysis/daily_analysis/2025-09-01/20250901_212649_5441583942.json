@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 21:26:49",
+  "news_info": {
+    "id": "5441583942",
+    "title": "据网络平台数据，截至8月31日13时53分，2025年度中国电影总票房（含海外）突破400亿元。其中，国内市场总票房392.3亿元、观影人次超9.09亿，均超2024年。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIHUXrN9wa0NEuU5pBr6gw250901.shtml",
+    "publish_time": "2025-09-01 10:47:00",
+    "summary": "据网络平台数据，截至8月31日13时53分，2025年度中国电影总票房（含海外）突破400亿元。其中..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 10.65
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600977\",\n      \"stock_name\": \"中国电影\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"作为国内电影产业龙头，直接受益于票房突破400亿的行业利好。公司拥有完整的电影产业链布局，从制作、发行到院线全覆盖，技术指标显示近期资金流入明显，板块强度0.867提供有力支撑，与新闻高度匹配，短期催化剂强劲。\",\n      \"risk_warning\": \"需关注后续票房增长持续性风险及行业竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"002739\",\n      \"stock_name\": \"万达电影\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"国内最大院线运营商，直接受益于观影人次增长。公司院线网络覆盖广泛，技术评分较高，受益于消费复苏和政策支持，市场情绪积极，短期业绩弹性较大。\",\n      \"risk_warning\": \"存在租金成本上升风险及内容供给不确定性风险\"\n    },\n    {\n      \"stock_code\": \"300251\",\n      \"stock_name\": \"光线传媒\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"优质内容制作公司，受益于电影市场繁荣。公司在动画电影领域具有优势，技术指标相对稳健，但相比前两只股票与新闻的直接关联度稍弱，需要更多优质内容产出支撑。\",\n      \"risk_warning\": \"内容制作周期较长，存在项目不确定性风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength_support\": true,\n    \"market_sentiment_positive\": true,\n    \"technical_indicator_alignment\": true,\n    \"sector_risk_level\": \"中等\",\n    \"market_timing_risk\": \"较低\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600977",
+        "stock_name": "中国电影",
+        "recommendation_reason": "作为国内电影产业链龙头，直接受益于票房增长。公司涵盖电影发行、放映全产业链，央视新闻的票房数据验证行业景气度提升",
+        "policy_relevance": "高度相关，直接反映行业政策效果",
+        "urgency_level": "中等",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "002739",
+        "stock_name": "万达电影",
+        "recommendation_reason": "国内最大院线运营商，观影人次增长直接提升公司业绩。央视权威数据支撑行业复苏逻辑",
+        "policy_relevance": "高度相关，院线业务与票房数据直接挂钩",
+        "urgency_level": "中等",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "300251",
+        "stock_name": "光线传媒",
+        "recommendation_reason": "优质内容制作公司，票房增长反映内容需求旺盛。央视新闻的行业数据验证内容公司的盈利环境改善",
+        "policy_relevance": "中度相关，受益于行业整体景气度提升",
+        "urgency_level": "一般",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性评分较低，但作为央视新闻发布的权威数据，具有重要的市场指导意义。2025年电影票房突破400亿元，同比增长显著，表明中国电影产业强劲复苏。央视新闻的权威背书增强了数据的可信度，对资本市场具有明确的正面引导作用。",
+      "policy_impact": "该新闻体现了国家对文化产业的支持政策持续发力，符合'文化强国'战略导向。电影产业作为文化消费的重要载体，受到政策红利加持，相关上市公司将受益于行业整体增长和政策扶持。",
+      "theme_classification": {
+        "theme_type": "影视传媒/文化消费",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "传媒娱乐",
+          "文化传媒",
+          "影视制作"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600977",
+          "stock_name": "中国电影",
+          "recommendation_reason": "作为国内电影产业链龙头，直接受益于票房增长。公司涵盖电影发行、放映全产业链，央视新闻的票房数据验证行业景气度提升",
+          "policy_relevance": "高度相关，直接反映行业政策效果",
+          "urgency_level": "中等",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "002739",
+          "stock_name": "万达电影",
+          "recommendation_reason": "国内最大院线运营商，观影人次增长直接提升公司业绩。央视权威数据支撑行业复苏逻辑",
+          "policy_relevance": "高度相关，院线业务与票房数据直接挂钩",
+          "urgency_level": "中等",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "300251",
+          "stock_name": "光线传媒",
+          "recommendation_reason": "优质内容制作公司，票房增长反映内容需求旺盛。央视新闻的行业数据验证内容公司的盈利环境改善",
+          "policy_relevance": "中度相关，受益于行业整体景气度提升",
+          "urgency_level": "一般",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 21:26:49"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

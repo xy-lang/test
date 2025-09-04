@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 10:19:44",
+  "news_info": {
+    "id": "db59b9bee3",
+    "title": "180余张历史图片 展现闽台深厚情谊",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904094020133448686.html",
+    "publish_time": "2025-09-04 09:40:00",
+    "summary": "180余张历史图片 展现闽台深厚情谊"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7492000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.68,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.65
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000905\",\n      \"stock_name\": \"厦门港务\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"直接受益于两岸融合政策，作为厦门港口龙头，业务与新闻主题高度契合。技术评分0.78高于板块平均水平，板块强度0.717提供支撑，短期催化剂明确。\",\n      \"risk_warning\": \"需关注两岸关系变化风险及港口业务周期性波动\"\n    },\n    {\n      \"stock_code\": \"600057\",\n      \"stock_name\": \"厦门象屿\",\n      \"comprehensive_score\": 0.76,\n      \"recommendation_reason\": \"厦门本地综合物流企业，受益区域经济发展。技术指标稳定，与两岸经贸往来关联度较高，但直接政策受益程度略低于港口板块。\",\n      \"risk_warning\": \"大宗商品价格波动可能影响供应链业务盈利能力\"\n    },\n    {\n      \"stock_code\": \"600633\",\n      \"stock_name\": \"浙数文化\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"文化传媒板块，间接受益于两岸文化交流，但地域关联度相对较弱。技术评分符合平均水平，但政策直接催化效应有限。\",\n      \"risk_warning\": \"传媒行业监管政策变化风险，与主题关联度相对间接\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_support\": \"板块强度0.717处于中等偏强水平，技术评分0.72显示整体技术面健康，为个股表现提供支撑\",\n    \"news_matching\": \"厦门本地股与闽台主题高度契合，政策受益明确，短期催化剂强度较高\",\n    \"risk_assessment\": \"区域政策主题存在时效性风险，需关注政策落地进度和市场情绪变化\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000905",
+        "stock_name": "厦门港务",
+        "recommendation_reason": "作为福建主要港口运营商，直接受益于两岸经贸往来深化，央视报道暗示的政策导向利好区域物流企业",
+        "policy_relevance": "高 - 直接对接闽台经贸合作基础设施",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600057",
+        "stock_name": "厦门象屿",
+        "recommendation_reason": "福建大型供应链企业，业务涵盖对台贸易，央视文化报道往往预示经贸合作升温",
+        "policy_relevance": "中高 - 区域供应链龙头受益两岸贸易便利化",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600633",
+        "stock_name": "浙数文化",
+        "recommendation_reason": "文化传媒板块代表，虽然非福建本地企业，但央视权威报道往往带动整个文化传媒板块情绪",
+        "policy_relevance": "中等 - 受益于文化交流主题扩散效应",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视发布的闽台文化交流主题报道，虽然内容本身不涉及直接的投资信息，但央视作为国家级权威媒体，其报道方向往往反映政策导向。闽台关系主题在当前两岸关系背景下具有特殊意义，可能隐含对台海区域合作的政策支持信号。",
+      "policy_impact": "该新闻体现了国家对闽台文化交流的重视，可能预示着后续对福建自贸区、对台经贸合作区的政策支持。结合'海峡两岸融合发展示范区'建设规划，相关区域概念股可能获得政策红利。",
+      "theme_classification": {
+        "theme_type": "区域经济/两岸融合",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "福建板块",
+          "文化传媒",
+          "自贸区概念"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000905",
+          "stock_name": "厦门港务",
+          "recommendation_reason": "作为福建主要港口运营商，直接受益于两岸经贸往来深化，央视报道暗示的政策导向利好区域物流企业",
+          "policy_relevance": "高 - 直接对接闽台经贸合作基础设施",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600057",
+          "stock_name": "厦门象屿",
+          "recommendation_reason": "福建大型供应链企业，业务涵盖对台贸易，央视文化报道往往预示经贸合作升温",
+          "policy_relevance": "中高 - 区域供应链龙头受益两岸贸易便利化",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600633",
+          "stock_name": "浙数文化",
+          "recommendation_reason": "文化传媒板块代表，虽然非福建本地企业，但央视权威报道往往带动整个文化传媒板块情绪",
+          "policy_relevance": "中等 - 受益于文化交流主题扩散效应",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:19:44"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

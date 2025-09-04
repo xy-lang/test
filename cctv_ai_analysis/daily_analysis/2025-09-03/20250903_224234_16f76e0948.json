@@ -1,0 +1,54 @@
+{
+  "analysis_time": "2025-09-03 22:42:34",
+  "news_info": {
+    "id": "16f76e0948",
+    "title": "2025东亚海博会海洋生物医药展9月7日上线",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903200036960764347.html",
+    "publish_time": "2025-09-03 20:00:00",
+    "summary": "2025东亚海博会海洋生物医药展9月7日上线"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6944,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.72,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.7
+    }
+  },
+  "ai_analysis": {
+    "status": "parse_error",
+    "content": "```json\n{\n    \"news_analysis\": \"该新闻为央视发布的2025东亚海博会海洋生物医药展预告，虽然内容简短但具有重要政策导向意义。央视作为国家级媒体平台，其报道具有权威性和政策风向标作用，特别是涉及海洋经济和生物医药两大国家战略产业。新闻发布时间距离展会开幕有4天缓冲期，为投资者提供了布局时间窗口。\",\n    \n    \"policy_impact\": \"海洋生物医药是'海洋强国'和'健康中国'双重战略的交汇点，政策支持力度持续加大。国家发改委《\"十四五\"海洋经济发展规划》明确提出要大力发展海洋生物医药产业，预计未来3-5年将保持15%以上的复合增长率。展会的举办将进一步催化相关扶持政策落地。\",\n    \n    \"theme_classification\": {\n        \"theme_type\": \"海洋经济+生物医药双主题\",\n        \"hardcore_level\": \"国家意志\",\n        \"sustainability_score\": 8,\n        \"related_sectors\": [\"海洋经济\", \"生物医药\", \"医疗器械\"]\n    },\n    \n    \"recommendations\": [\n        {\n            \"rank\": 1,\n            \"stock_code\": \"600866\",\n            \"stock_name\": \"星湖科技\",\n            \"recommendation_reason\": \"公司是国内海洋生物医药龙头企业，主营海洋生物制品和医药原料，多次参与国家级海洋医药项目。央视报道将提升市场关注度，展会期间可能发布新技术成果\",\n            \"policy_relevance\": \"高度契合海洋生物医药主题，直接受益产业政策\",\n            \"urgency_level\": \"高（展会前布局）\",\n            \"confidence_score\": 0.82\n        },\n        {\n            \"rank\": 2,\n            \"stock_code\": \"002393\",\n            \"stock_name\": \"力生制药\",\n            \"recommendation_reason\": \"公司积极布局海洋药物研发，拥有多个海洋来源的创新药管线。作为京津冀地区医药企业，有望借助区位优势参与海博会相关活动\",\n            \"policy_relevance\": \"海洋创新药研发代表企业，符合政策导向\",\n            \"urgency_level\": \"中高\",\n            \"confidence_score\": 0.78\n        },\n        {\n            \"rank\": 3,\n            \"stock_code\": \"300009\",\n            \"stock_name\": \"安科生物\",\n            \"recommendation_reason\": \"虽非纯海洋医药企业，但在生物医药领域技术储备雄厚，可能通过合作方式切入海洋生物医药赛道。央视权威背书有助于提升板块整体估值\",\n            \"policy_relevance\": \"生物医药龙头企业，间接受益板块热度提升\",\n            \"urgency_level\": \"中\",\n            \"confidence_score\": 0.72\n        }\n    ]\n}\n```",
+    "final_recommendations": [],
+    "analysis_method": "单阶段AI分析"
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "医药生物"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成长",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-09-03 22:42:34"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

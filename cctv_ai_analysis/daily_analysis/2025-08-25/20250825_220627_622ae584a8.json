@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-08-25 22:06:27",
+  "news_info": {
+    "id": "622ae584a8",
+    "title": "海关总署相关负责人介绍，“十四五”期间，海关联合多部门开展跨境贸易便利化专项行动，口岸营商环境取得明显成效。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIKNdAOn6oPBvFgxJVHzir250825.shtml",
+    "publish_time": "2025-08-25 21:08:00",
+    "summary": "海关总署相关负责人介绍，“十四五”期间，海关联合多部门开展跨境贸易便利化专项行动，口岸营商环境取得明..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.84
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 22:06:27"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

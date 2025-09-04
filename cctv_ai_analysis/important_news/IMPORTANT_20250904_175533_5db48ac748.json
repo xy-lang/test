@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 17:55:33",
+  "news_info": {
+    "id": "5db48ac748",
+    "title": "数个平台一出戏 同频共振主旋律——恒邦股份企业文化建设高质量发展纪实",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904173445855967772.html",
+    "publish_time": "2025-09-04 17:34:00",
+    "summary": "数个平台一出戏 同频共振主旋律——恒邦股份企业文化建设高质量发展纪实"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.80365,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.605,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 1,
+      "hours_since_publish": 0.35
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"stock_code\": \"002237\",\n      \"stock_name\": \"恒邦股份\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为新闻直接报道标的，企业文化建设主题具有直接催化效应，技术评分相对较高（0.45），受益于ESG投资趋势，短期政策关注度提升。虽然板块强度一般，但个股意志特征明显，具备独立行情潜力。\",\n      \"risk_warning\": \"贵金属价格波动风险、板块整体强度偏弱可能制约涨幅、需关注后续政策落地情况\"\n    },\n    {\n      \"stock_code\": \"600547\",\n      \"stock_name\": \"山东黄金\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"黄金板块龙头，受益于避险情绪和通胀预期，技术指标相对稳健。虽与新闻直接关联度较低，但同属贵金属行业，具备板块联动效应，基本面较为扎实。\",\n      \"risk_warning\": \"金价波动风险、美联储政策变化影响、技术面存在调整压力\"\n    },\n    {\n      \"stock_code\": \"601899\",\n      \"stock_name\": \"紫金矿业\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"矿业龙头，ESG概念标的，但技术评分相对较低（0.25）。受益于全球矿业复苏趋势，但短期与新闻主题关联度较弱，更适合中长期配置。\",\n      \"risk_warning\": \"大宗商品价格波动风险、海外经营风险、技术面偏弱需谨慎\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏积极，ESG主题受政策关注但市场整体情绪谨慎\",\n    \"sector_strength\": \"综合板块强度一般（0.317），支撑力度有限\",\n    \"recommendation_strategy\": \"建议重点关注恒邦股份的短期催化机会，其他标的作为辅助配置\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "002237",
+        "stock_name": "恒邦股份",
+        "recommendation_reason": "新闻直接报道主体，央视背书可能带来短期关注度提升，但需注意新闻实质内容有限",
+        "policy_relevance": "低-企业文化宣传性质",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "600547",
+        "stock_name": "山东黄金",
+        "recommendation_reason": "同属黄金板块龙头企业，恒邦股份的ESG宣传可能带动板块关注",
+        "policy_relevance": "中-行业关联度",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "601899",
+        "stock_name": "紫金矿业",
+        "recommendation_reason": "黄金行业龙头，ESG建设领先，可能间接受益于行业ESG关注度提升",
+        "policy_relevance": "低-行业间接关联",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为恒邦股份企业文化建设报道，属于典型的企业宣传类内容。虽然来自央视平台，但内容缺乏实质性政策信息或行业重大动向。评分显示第一时间性、硬核程度、持续性均为0分，表明该新闻投资价值有限，更多是企业形象宣传性质。",
+      "policy_impact": "低政策影响力。新闻主要聚焦企业文化层面，未涉及具体产业政策、财政支持或监管变化，对市场整体或相关板块的政策引导作用微弱。",
+      "theme_classification": {
+        "theme_type": "企业文化/ESG概念",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "有色金属",
+          "黄金板块",
+          "ESG概念"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "002237",
+          "stock_name": "恒邦股份",
+          "recommendation_reason": "新闻直接报道主体，央视背书可能带来短期关注度提升，但需注意新闻实质内容有限",
+          "policy_relevance": "低-企业文化宣传性质",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "600547",
+          "stock_name": "山东黄金",
+          "recommendation_reason": "同属黄金板块龙头企业，恒邦股份的ESG宣传可能带动板块关注",
+          "policy_relevance": "中-行业关联度",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "601899",
+          "stock_name": "紫金矿业",
+          "recommendation_reason": "黄金行业龙头，ESG建设领先，可能间接受益于行业ESG关注度提升",
+          "policy_relevance": "低-行业间接关联",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 17:55:33"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

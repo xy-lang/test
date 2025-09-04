@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-19 14:27:58",
+  "news_info": {
+    "id": "459ed1e48d",
+    "title": "我国体育产业总规模近五年年均增速超10%",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTIsIc8fB5LrFXN96wP0nE6250819.shtml",
+    "publish_time": "2025-08-19 11:43:00",
+    "summary": "我国体育产业总规模近五年年均增速超10%"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.72245,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.7,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 2.74
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"中体产业(600158)\",\n      \"score\": 0.85,\n      \"reasons\": [\n        \"与体育产业新闻直接相关，政策受益程度高\",\n        \"板块强度0.8提供良好支撑\",\n        \"技术指标评分高于平均水平\",\n        \"作为体育产业龙头，短期催化剂明确\"\n      ],\n      \"risks\": [\n        \"近期涨幅可能已部分反映利好\",\n        \"需警惕政策落地不及预期风险\"\n      ]\n    },\n    {\n      \"stock\": \"信隆健康(002105)\",\n      \"score\": 0.78,\n      \"reasons\": [\n        \"体育器材细分领域龙头\",\n        \"技术面呈现突破形态\",\n        \"受益全民健身政策红利\",\n        \"估值相对合理\"\n      ],\n      \"risks\": [\n        \"所属综合板块近期波动较大\",\n        \"出口业务可能受汇率影响\"\n      ]\n    },\n    {\n      \"stock\": \"晨光文具(603899)\",\n      \"score\": 0.70,\n      \"reasons\": [\n        \"间接受益体育教育发展\",\n        \"技术指标稳定\",\n        \"防御性较强\"\n      ],\n      \"risks\": [\n        \"与体育产业关联度较低\",\n        \"当前估值处于历史中高位\"\n      ]\n    }\n  ],\n  \"market_analysis\": {\n    \"positive_factors\": [\n      \"政策支持力度持续加大\",\n      \"板块技术面整体向好\",\n      \"全民健身意识提升\"\n    ],\n    \"risk_factors\": [\n      \"需关注板块轮动风险\",\n      \"部分个股已累积一定涨幅\",\n      \"宏观经济复苏力度影响消费\"\n    ]\n  },\n  \"investment_horizon\": \"3-6个月中期配置\",\n  \"recommended_strategy\": \"建议以中体产业为核心配置，信隆健康为辅助仓位，晨光文具作为防御性选择\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600158",
+        "stock_name": "中体产业",
+        "recommendation_reason": "作为体育产业国家队，直接受益于行业政策红利和规模扩张，央视背书增强市场信心。",
+        "policy_relevance": "直接受益于体育产业发展政策",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 2,
+        "stock_code": "002105",
+        "stock_name": "信隆健康",
+        "recommendation_reason": "主营运动器材，受益于全民健身政策推动和体育消费升级，业绩增长确定性高。",
+        "policy_relevance": "体育用品制造龙头企业",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 3,
+        "stock_code": "603899",
+        "stock_name": "晨光文具",
+        "recommendation_reason": "旗下拥有体育用品业务线，同时受益于体育产业和教育产业双重政策利好。",
+        "policy_relevance": "多元化布局体育产业",
+        "urgency_level": "中",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻由央视发布，具有高度权威性，虽然时效性和硬核程度评分较低，但作为国家媒体发布的体育产业增长数据，反映了国家政策导向和行业发展态势，对资本市场具有指导意义。",
+      "policy_impact": "体育产业作为国家鼓励发展的新兴产业，近五年保持10%以上的年均增速，表明政策支持力度大，未来发展空间广阔，可能带动相关上市公司业绩提升。",
+      "theme_classification": {
+        "theme_type": "体育产业",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "体育用品",
+          "体育服务",
+          "体育传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600158",
+          "stock_name": "中体产业",
+          "recommendation_reason": "作为体育产业国家队，直接受益于行业政策红利和规模扩张，央视背书增强市场信心。",
+          "policy_relevance": "直接受益于体育产业发展政策",
+          "urgency_level": "中高",
+          "confidence_score": 0.85
+        },
+        {
+          "rank": 2,
+          "stock_code": "002105",
+          "stock_name": "信隆健康",
+          "recommendation_reason": "主营运动器材，受益于全民健身政策推动和体育消费升级，业绩增长确定性高。",
+          "policy_relevance": "体育用品制造龙头企业",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 3,
+          "stock_code": "603899",
+          "stock_name": "晨光文具",
+          "recommendation_reason": "旗下拥有体育用品业务线，同时受益于体育产业和教育产业双重政策利好。",
+          "policy_relevance": "多元化布局体育产业",
+          "urgency_level": "中",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 14:27:58"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

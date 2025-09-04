@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 11:04:33",
+  "news_info": {
+    "id": "a33a1cda93",
+    "title": "【社会主义核心价值观我践行】书香岳程丨菏泽鲁西新区岳程街道：汉服古韵书香浓，小小荐书官展风采",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901102720194102005.html",
+    "publish_time": "2025-09-01 10:27:00",
+    "summary": "【社会主义核心价值观我践行】书香岳程丨菏泽鲁西新区岳程街道：汉服古韵书香浓，小小荐书官展风采"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.61
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"603888\",\n      \"stock_name\": \"新华网\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"作为国家级媒体平台，与新闻中'书香岳程'文化主题活动高度契合，直接受益于文化传媒政策支持。技术面相对稳健，板块强度中等但具备政策催化预期，短期存在事件驱动机会。\",\n      \"risk_warning\": \"传媒板块整体波动较大，需关注市场情绪变化和政策执行力度\"\n    },\n    {\n      \"stock_code\": \"600373\",\n      \"stock_name\": \"中文传媒\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"主营图书出版发行，与新闻中阅读推广活动关联度较高。技术评分处于板块平均水平，具备稳定的基本面支撑，受益于全民阅读政策推进。\",\n      \"risk_warning\": \"传统出版业务增长乏力，数字化转型效果需持续观察\"\n    },\n    {\n      \"stock_code\": \"603398\",\n      \"stock_name\": \"沐邦高科\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"虽涉及教育玩具业务，但与新闻主题关联度相对较弱。技术面表现一般，主要考虑其教育服务属性可能间接受益于文化教育活动推广。\",\n      \"risk_warning\": \"主业与新闻关联度较低，市场关注度可能不足，存在跟涨风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"sector_strength\": 0.567,\n    \"market_sentiment\": \"中性偏积极\",\n    \"technical_indicator_status\": \"整体技术面支撑一般，但政策催化预期较强\",\n    \"risk_assessment\": \"中等风险，主要风险来自板块波动性和政策执行效果不确定性\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "603888",
+        "stock_name": "新华网",
+        "recommendation_reason": "作为央媒旗下上市公司，受益于社会主义核心价值观宣传和文化传播业务，与新闻主题高度契合",
+        "policy_relevance": "高 - 直接参与主流媒体宣传",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "600373",
+        "stock_name": "中文传媒",
+        "recommendation_reason": "主营出版发行业务，契合新闻中'书香'主题，受益于全民阅读政策推动",
+        "policy_relevance": "中 - 文化出版行业政策支持",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "603398",
+        "stock_name": "沐邦高科",
+        "recommendation_reason": "涉足教育玩具和文化产品，契合'小小荐书官'青少年教育主题",
+        "policy_relevance": "中 - 青少年教育文化产业",
+        "urgency_level": "低",
+        "confidence_score": 0.5
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻属于社会主义核心价值观宣传类内容，报道菏泽鲁西新区岳程街道的文化活动，具有典型的地方文化宣传特征。从投资角度看，新闻本身缺乏直接的产业政策或经济刺激信息，属于常规文化宣传报道。央视新闻的权威性主要体现在政策导向和价值观传播层面，但此类软性文化新闻对资本市场直接影响有限。",
+      "policy_impact": "政策影响较弱，主要体现为：1）支持传统文化复兴政策延续；2）地方文化产业发展政策支持；3）青少年教育文化活动的政策倡导。但缺乏具体的产业扶持政策或资金支持信息，对相关上市公司业绩影响较为间接。",
+      "theme_classification": {
+        "theme_type": "文化传媒/教育服务",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "文化传媒",
+          "教育服务",
+          "服装纺织"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "603888",
+          "stock_name": "新华网",
+          "recommendation_reason": "作为央媒旗下上市公司，受益于社会主义核心价值观宣传和文化传播业务，与新闻主题高度契合",
+          "policy_relevance": "高 - 直接参与主流媒体宣传",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "600373",
+          "stock_name": "中文传媒",
+          "recommendation_reason": "主营出版发行业务，契合新闻中'书香'主题，受益于全民阅读政策推动",
+          "policy_relevance": "中 - 文化出版行业政策支持",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "603398",
+          "stock_name": "沐邦高科",
+          "recommendation_reason": "涉足教育玩具和文化产品，契合'小小荐书官'青少年教育主题",
+          "policy_relevance": "中 - 青少年教育文化产业",
+          "urgency_level": "低",
+          "confidence_score": 0.5
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:04:33"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

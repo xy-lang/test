@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-09-01 17:04:26",
+  "news_info": {
+    "id": "430cb1cfcd",
+    "title": "习近平主持“上海合作组织+”会议",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTIHa7qMzGjsyfTRVrQhl0r250901.shtml",
+    "publish_time": "2025-09-01 16:43:14",
+    "summary": "习近平主持“上海合作组织+”会议"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7921,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.66,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.34
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601668\",\n      \"stock_name\": \"中国建筑\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"技术指标与新闻高度契合，作为基建龙头直接受益于上合组织基建合作项目，板块强度0.783提供有力支撑，技术评分0.82高于平均水平，政策催化明确\",\n      \"risk_warning\": \"需关注基建投资进度不及预期风险，宏观经济波动可能影响项目落地\"\n    },\n    {\n      \"stock_code\": \"601186\",\n      \"stock_name\": \"中国铁建\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"一带一路核心标的，技术指标稳定（评分0.79），受益于区域基础设施互联互通政策，海外订单预期增长，板块协同效应明显\",\n      \"risk_warning\": \"海外项目存在地缘政治风险，汇率波动可能影响盈利能力\"\n    },\n    {\n      \"stock_code\": \"601888\",\n      \"stock_name\": \"中国中免\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"间接受益于区域经济合作带来的旅游消费增长，技术评分0.73，但直接政策关联度相对较弱，更多依赖消费复苏预期\",\n      \"risk_warning\": \"消费复苏存在不确定性，免税政策变化风险，估值相对较高\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_strength\": \"基建板块强度0.783显示资金关注度较高\",\n    \"technical_indicator_status\": \"平均技术评分0.78显示整体技术面健康\",\n    \"policy_catalyst\": \"上合组织会议提供明确政策催化，基建类标的直接受益\"\n  },\n  \"overall_risk_alert\": \"需密切关注宏观经济政策变化、地缘政治风险以及市场流动性变化，建议控制仓位，设置止损位\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "作为国内最大的建筑工程承包商，在一带一路沿线国家有大量项目，上合组织会议可能推动更多基础设施建设项目",
+        "policy_relevance": "高度相关，直接受益于区域基建合作",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "recommendation_reason": "国际工程承包龙头企业，在上合组织成员国具有丰富的项目经验，政策推动下海外订单有望增长",
+        "policy_relevance": "高度相关，区域基建合作核心受益标的",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "recommendation_reason": "随着上合组织经贸合作深化，跨境旅游和消费有望受益，公司在免税领域的龙头地位将受益于区域经济一体化",
+        "policy_relevance": "中度相关，间接受益于经贸合作深化",
+        "urgency_level": "中低",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为习近平主席主持上海合作组织会议的重要时政要闻，虽然评分显示第一时间性、硬核程度和持续性均为0分，但作为央视新闻发布的重大政治事件，其权威性和政策导向性极强。上海合作组织作为重要的区域性国际合作组织，相关会议往往预示着后续政策动向和投资机会。",
+      "policy_impact": "上海合作组织会议通常涉及一带一路、区域经济合作、基础设施建设等重大政策方向。此类会议可能推动相关国家间的经贸合作，对基建、金融、能源等板块产生积极影响，具备中长期政策红利。",
+      "theme_classification": {
+        "theme_type": "区域经济合作/一带一路",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "基础设施建设",
+          "国际工程承包",
+          "金融服务",
+          "能源合作"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "作为国内最大的建筑工程承包商，在一带一路沿线国家有大量项目，上合组织会议可能推动更多基础设施建设项目",
+          "policy_relevance": "高度相关，直接受益于区域基建合作",
+          "urgency_level": "中高",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "601186",
+          "stock_name": "中国铁建",
+          "recommendation_reason": "国际工程承包龙头企业，在上合组织成员国具有丰富的项目经验，政策推动下海外订单有望增长",
+          "policy_relevance": "高度相关，区域基建合作核心受益标的",
+          "urgency_level": "中",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "601888",
+          "stock_name": "中国中免",
+          "recommendation_reason": "随着上合组织经贸合作深化，跨境旅游和消费有望受益，公司在免税领域的龙头地位将受益于区域经济一体化",
+          "policy_relevance": "中度相关，间接受益于经贸合作深化",
+          "urgency_level": "中低",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 17:04:26"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

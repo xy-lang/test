@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 13:06:48",
+  "news_info": {
+    "id": "fa60814f5f",
+    "title": "江苏师范大学科文学院实践团赴甘肃定西开展特殊儿童声音疗愈支教活动",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901125707000258908.html",
+    "publish_time": "2025-09-01 12:57:00",
+    "summary": "江苏师范大学科文学院实践团赴甘肃定西开展特殊儿童声音疗愈支教活动"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.15
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600661\",\n      \"stock_name\": \"昂立教育\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"教育板块直接受益标的，技术面相对稳健，与支教公益活动关联度最高，具备政策催化预期，短期存在事件驱动机会\",\n      \"risk_warning\": \"教育行业政策敏感性较高，需关注后续政策变化；技术面整体偏弱，需警惕板块回调风险\"\n    },\n    {\n      \"stock_code\": \"002261\",\n      \"stock_name\": \"拓维信息\",\n      \"comprehensive_score\": 0.52,\n      \"recommendation_reason\": \"教育信息化概念股，技术指标相对稳定，受益于教育数字化趋势，但直接关联度略低于纯教育标的\",\n      \"risk_warning\": \"业务多元化导致教育属性稀释，技术面支撑有限，需关注整体市场情绪变化\"\n    },\n    {\n      \"stock_code\": \"300010\",\n      \"stock_name\": \"豆神教育\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"教育概念标的，但技术面表现较弱，板块强度支撑不足，短期催化效应有限\",\n      \"risk_warning\": \"基本面存在不确定性，技术指标偏弱，建议谨慎参与，注意风险控制\"\n    }\n  ],\n  \"overall_risk_alert\": \"当前教育板块技术强度偏弱（0.267），市场情绪谨慎，建议控制仓位，短期操作以事件驱动为主，注意止盈止损。乡村振兴政策虽为长期利好，但短期兑现存在不确定性。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600661",
+        "stock_name": "昂立教育",
+        "recommendation_reason": "作为教育服务企业，可能受益于特殊教育政策关注度提升，但新闻直接关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "300010",
+        "stock_name": "豆神教育",
+        "recommendation_reason": "涉及教育信息化业务，与支教活动的教育普惠主题有一定关联",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "002261",
+        "stock_name": "拓维信息",
+        "recommendation_reason": "布局智慧教育领域，与教育公平主题存在概念关联",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为教育公益类报道，虽来自央视平台但内容为常规支教活动，缺乏重大政策导向和投资价值。央视新闻的权威性主要体现在时政要闻和政策解读类内容，此类社会公益新闻对资本市场影响有限。新闻时效性、硬核程度和持续性评分均为0，表明不具备明显的投资机会。",
+      "policy_impact": "新闻本身不涉及具体政策文件，但契合国家乡村振兴和教育公平政策导向。长期看，特殊教育领域可能获得政策支持，但短期内无直接政策催化。",
+      "theme_classification": {
+        "theme_type": "教育公益/乡村振兴",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "教育服务",
+          "社会服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600661",
+          "stock_name": "昂立教育",
+          "recommendation_reason": "作为教育服务企业，可能受益于特殊教育政策关注度提升，但新闻直接关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "300010",
+          "stock_name": "豆神教育",
+          "recommendation_reason": "涉及教育信息化业务，与支教活动的教育普惠主题有一定关联",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "002261",
+          "stock_name": "拓维信息",
+          "recommendation_reason": "布局智慧教育领域，与教育公平主题存在概念关联",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 13:06:48"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

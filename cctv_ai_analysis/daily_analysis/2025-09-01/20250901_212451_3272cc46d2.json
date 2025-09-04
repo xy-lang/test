@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-01 21:24:51",
+  "news_info": {
+    "id": "3272cc46d2",
+    "title": "近期，全国中小学幼儿园陆续开学。新学期都有哪些教育惠民新举措，一起来了解。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTI90xLcIzQu0cr5Ry257Jl250901.shtml",
+    "publish_time": "2025-09-01 22:20:00",
+    "summary": "近期，全国中小学幼儿园陆续开学。新学期都有哪些教育惠民新举措，一起来了解。"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -0.94
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 21:24:51"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

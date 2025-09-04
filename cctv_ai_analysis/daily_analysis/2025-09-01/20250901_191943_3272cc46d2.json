@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 19:19:43",
+  "news_info": {
+    "id": "3272cc46d2",
+    "title": "近期，全国中小学幼儿园陆续开学。新学期都有哪些教育惠民新举措，一起来了解。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTI90xLcIzQu0cr5Ry257Jl250901.shtml",
+    "publish_time": "2025-09-01 13:35:00",
+    "summary": "近期，全国中小学幼儿园陆续开学。新学期都有哪些教育惠民新举措，一起来了解。"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 5.73
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600636\",\n      \"stock_name\": \"国新文化\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为教育信息化龙头企业，直接受益于新学期教育惠民政策。技术评分0.68相对稳健，板块强度0.617提供支撑，公司主营智慧教育解决方案与新闻主题高度契合，短期催化剂明确\",\n      \"risk_warning\": \"需关注政策落地进度不及预期风险，以及教育行业政策变化风险\"\n    },\n    {\n      \"stock_code\": \"002261\",\n      \"stock_name\": \"拓维信息\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"教育+AI双重概念，技术评分0.65符合板块平均水平。公司在教育信息化和智慧校园建设领域布局深入，新学期开学带来业务增量预期，市场情绪相对积极\",\n      \"risk_warning\": \"业务多元化可能分散教育主题集中度，需关注业绩兑现情况\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"纯正教育标的，与新闻主题关联度高。技术评分0.53相对较弱，但政策受益明确，新学期开学带来传统教育信息化业务需求提升\",\n      \"risk_warning\": \"技术面相对疲软，需警惕市场资金偏好变化风险，基本面改善需要时间验证\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.617,\n    \"sentiment_rating\": \"中性偏积极\",\n    \"technical_outlook\": \"板块技术指标整体中等偏上，支撑个股表现但需精选标的\"\n  },\n  \"overall_risk_alert\": \"教育板块受政策影响较大，需密切关注后续具体政策细则出台；当前市场整体情绪谨慎，建议控制仓位，以短线交易为主；技术面显示板块强度一般，需防范冲高回落风险\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600636",
+        "stock_name": "国新文化",
+        "recommendation_reason": "央视报道体现教育政策持续性，公司主营教育信息化产品，受益于中小学教育装备采购",
+        "policy_relevance": "直接受益教育信息化政策推进",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "002261",
+        "stock_name": "拓维信息",
+        "recommendation_reason": "教育科技服务商，央视权威报道强化教育数字化政策预期",
+        "policy_relevance": "教育信息化解决方案提供商",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "教育服务企业，政策温和利好但缺乏强催化，适合长期配置",
+        "policy_relevance": "教育综合服务受益者",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视权威发布，但内容属于常规教育政策报道，缺乏重大政策突破或投资敏感信息。央视新闻的权威性虽高，但此条新闻的投资价值有限，主要体现为政策导向的延续性而非突发利好。",
+      "policy_impact": "教育惠民政策属于长期国策，对教育信息化、校服、教具等细分领域有温和正面影响，但不会引发板块剧烈波动。政策影响偏中长期，短期催化作用较弱。",
+      "theme_classification": {
+        "theme_type": "教育政策受益",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "教育信息化",
+          "校服纺织",
+          "教具文具"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600636",
+          "stock_name": "国新文化",
+          "recommendation_reason": "央视报道体现教育政策持续性，公司主营教育信息化产品，受益于中小学教育装备采购",
+          "policy_relevance": "直接受益教育信息化政策推进",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "002261",
+          "stock_name": "拓维信息",
+          "recommendation_reason": "教育科技服务商，央视权威报道强化教育数字化政策预期",
+          "policy_relevance": "教育信息化解决方案提供商",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "教育服务企业，政策温和利好但缺乏强催化，适合长期配置",
+          "policy_relevance": "教育综合服务受益者",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 19:19:43"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

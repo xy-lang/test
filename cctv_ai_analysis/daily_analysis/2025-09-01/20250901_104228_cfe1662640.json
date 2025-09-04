@@ -1,0 +1,116 @@
+{
+  "analysis_time": "2025-09-01 10:42:28",
+  "news_info": {
+    "id": "cfe1662640",
+    "title": "太白湖新区石桥镇第三届青少年暑期公益书法传习班圆满结课",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901091609785194980.html",
+    "publish_time": "2025-09-01 09:16:00",
+    "summary": "太白湖新区石桥镇第三届青少年暑期公益书法传习班圆满结课"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7109,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.77,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.43
+    }
+  },
+  "ai_analysis": {
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600636",
+        "stock_name": "国新文化",
+        "recommendation_reason": "作为央视旗下文化教育企业，受益于传统文化教育政策支持，公司主营教育信息化和文化教育服务",
+        "policy_relevance": "高度相关，直接受益于素质教育政策推进",
+        "urgency_level": "中长期布局",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "素质教育服务商，在课外培训和素质教育领域有布局，符合青少年综合素质培养政策方向",
+        "policy_relevance": "中等相关，受益于教育政策调整",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.55
+      },
+      {
+        "rank": 3,
+        "stock_code": "002301",
+        "stock_name": "齐心集团",
+        "recommendation_reason": "办公文具和文化用品供应商，间接受益于传统文化教育活动开展带来的需求增长",
+        "policy_relevance": "间接相关，传统文化教育活动带动文具需求",
+        "urgency_level": "低紧急度",
+        "confidence_score": 0.45
+      }
+    ],
+    "stage2_status": "failed",
+    "error": "",
+    "fallback_reason": "AI精准分析失败，使用第一阶段结果",
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方性文化活动报道，内容为青少年书法公益培训结课，属于常规文化宣传类新闻。从投资角度看，新闻本身缺乏直接的市场影响力和时效性，但体现了国家对传统文化教育的政策支持导向。央视新闻的权威性主要体现在政策信号传递层面，但此类常规报道对股市的直接影响有限。",
+      "policy_impact": "新闻反映了国家对传统文化教育和青少年素质教育的持续重视，符合'文化自信'和'素质教育'政策导向。虽然本条新闻影响力有限，但体现了教育文化板块长期政策支持趋势，相关企业可能受益于政策红利。",
+      "theme_classification": {
+        "theme_type": "文化教育/素质教育",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "教育服务",
+          "文化传媒",
+          "文具用品"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600636",
+          "stock_name": "国新文化",
+          "recommendation_reason": "作为央视旗下文化教育企业，受益于传统文化教育政策支持，公司主营教育信息化和文化教育服务",
+          "policy_relevance": "高度相关，直接受益于素质教育政策推进",
+          "urgency_level": "中长期布局",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "素质教育服务商，在课外培训和素质教育领域有布局，符合青少年综合素质培养政策方向",
+          "policy_relevance": "中等相关，受益于教育政策调整",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "002301",
+          "stock_name": "齐心集团",
+          "recommendation_reason": "办公文具和文化用品供应商，间接受益于传统文化教育活动开展带来的需求增长",
+          "policy_relevance": "间接相关，传统文化教育活动带动文具需求",
+          "urgency_level": "低紧急度",
+          "confidence_score": 0.45
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 10:42:28"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-08-21 21:14:52",
+  "news_info": {
+    "id": "cf94c140bc",
+    "title": "记者从国家林草局了解到，未来三年，我国将构建“天空地”一体化监测体系，实现国家公园重点区域野生动物常态化精准识别和实时感知，全面提升国家公园智慧化、精细化管理水平。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIhzHEBnUnhi9pE7dVEJrH250821.shtml",
+    "publish_time": "2025-08-21 22:02:00",
+    "summary": "记者从国家林草局了解到，未来三年，我国将构建“天空地”一体化监测体系，实现国家公园重点区域野生动物常..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -0.8
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"002415\",\n      \"stock_name\": \"海康威视\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"技术面强势，板块强度0.817提供有力支撑，作为安防监控龙头直接受益于'天空地'一体化监测体系建设，政策催化明确。公司基本面稳健，在视频监控、智能感知领域技术领先，与国家公园智慧化管理需求高度匹配\",\n      \"risk_warning\": \"需关注宏观经济对政府项目投资进度的影响，以及国际贸易环境变化风险\"\n    },\n    {\n      \"stock_code\": \"300212\",\n      \"stock_name\": \"易华录\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"在数据湖、智慧城市领域技术积累深厚，与'智慧化、精细化管理'政策导向契合度高。技术评分较高，板块协同效应明显，有望在生态监测数据平台建设中获得订单机会\",\n      \"risk_warning\": \"项目回款周期较长可能影响现金流，需关注地方政府财政状况\"\n    },\n    {\n      \"stock_code\": \"300007\",\n      \"stock_name\": \"汉威科技\",\n      \"comprehensive_score\": 0.76,\n      \"recommendation_reason\": \"传感器技术领先，在环境监测、物联网感知层具备技术优势，符合'实时感知'政策要求。技术指标显示短期有上涨动能，但市值相对较小弹性较大\",\n      \"risk_warning\": \"小市值股票波动性较大，需注意流动性风险和技术迭代风险\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.817,\n    \"market_sentiment\": \"积极\",\n    \"technical_indicator_score\": 0.82,\n    \"overall_assessment\": \"政策催化明确，技术面支撑较强，板块协同效应显著，建议重点关注龙头标的\"\n  },\n  \"risk_alert\": [\n    \"政策落地进度可能低于预期，关注具体项目实施时间表\",\n    \"科技板块整体估值较高，需防范市场风格切换风险\",\n    \"宏观经济波动可能影响政府项目投资节奏\",\n    \"建议控制仓位，分批布局，设置止损位\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300212",
+        "stock_name": "易华录",
+        "recommendation_reason": "公司在大数据存储和智慧城市领域技术领先，有望参与国家公园大数据平台建设，央视新闻的政策导向为公司带来明确业务机会",
+        "policy_relevance": "高度相关，涉及智慧化管理系统建设",
+        "urgency_level": "中等",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "recommendation_reason": "作为安防监控龙头，在视频监控、物联网传感技术方面优势明显，可直接应用于野生动物监测和实时感知系统",
+        "policy_relevance": "高度相关，涉及监测设备供应",
+        "urgency_level": "中等",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "300007",
+        "stock_name": "汉威科技",
+        "recommendation_reason": "公司在传感器和物联网解决方案领域技术积累深厚，适合'天空地'一体化监测体系的传感器部署需求",
+        "policy_relevance": "中度相关，涉及监测设备核心技术",
+        "urgency_level": "一般",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的国家林草局重要政策，具有权威性和政策导向性。'天空地一体化监测体系'建设涉及卫星遥感、无人机监测、地面传感器等多领域技术，预计将带动相关产业链发展。央视新闻的权威背书增强了政策落地的确定性。",
+      "policy_impact": "国家公园智慧化建设是生态文明建设的重要组成部分，政策支持力度大。预计未来三年将形成百亿级市场规模，带动监测设备、大数据平台、人工智能识别等相关产业发展，具有中长期投资价值。",
+      "theme_classification": {
+        "theme_type": "智慧林业/生态监测",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "环保设备",
+          "卫星导航",
+          "人工智能",
+          "大数据"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300212",
+          "stock_name": "易华录",
+          "recommendation_reason": "公司在大数据存储和智慧城市领域技术领先，有望参与国家公园大数据平台建设，央视新闻的政策导向为公司带来明确业务机会",
+          "policy_relevance": "高度相关，涉及智慧化管理系统建设",
+          "urgency_level": "中等",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "002415",
+          "stock_name": "海康威视",
+          "recommendation_reason": "作为安防监控龙头，在视频监控、物联网传感技术方面优势明显，可直接应用于野生动物监测和实时感知系统",
+          "policy_relevance": "高度相关，涉及监测设备供应",
+          "urgency_level": "中等",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "300007",
+          "stock_name": "汉威科技",
+          "recommendation_reason": "公司在传感器和物联网解决方案领域技术积累深厚，适合'天空地'一体化监测体系的传感器部署需求",
+          "policy_relevance": "中度相关，涉及监测设备核心技术",
+          "urgency_level": "一般",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 21:14:52"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

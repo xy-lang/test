@@ -1,0 +1,52 @@
+{
+  "analysis_time": "2025-08-27 23:45:56",
+  "news_info": {
+    "id": "262d9de3b7",
+    "title": "8月27日，位于新疆伊犁的西部油气能源大通道，西气东输果子沟管道控制性工程的首条山岭隧道将贯通。工程创多项行业纪录，我国长输管道在复杂地质条件下的建设能力实现新的突破。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/27/ARTIsiRCvKwP3JcF973ctBO0250827.shtml",
+    "publish_time": "2025-08-27 08:11:00",
+    "summary": "8月27日，位于新疆伊犁的西部油气能源大通道，西气东输果子沟管道控制性工程的首条山岭隧道将贯通。工程..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 15.57
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "建筑建材"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成长",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-08-27 23:45:56"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

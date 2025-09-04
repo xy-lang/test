@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-09-01 17:09:50",
+  "news_info": {
+    "id": "d0519027d0",
+    "title": "阿富汗东部地震死亡人数升至622人",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/01/ARTI6fBmiqYx934M1ElKTbOS250901.shtml",
+    "publish_time": "2025-09-01 16:19:32",
+    "summary": "阿富汗东部地震死亡人数升至622人"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.78055,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.67,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.83
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [],\n  \"stock_analysis\": [\n    {\n      \"stock_code\": \"无推荐股票(000000)\",\n      \"comprehensive_score\": 0.0,\n      \"recommendation_reason\": \"基于阿富汗地震新闻事件，经技术分析和基本面验证，未发现直接受益或相关的A股上市公司。该自然灾害事件主要涉及人道主义救援和国际援助，对A股市场无明显投资机会。技术数据显示板块强度极弱（0.100），平均技术评分仅为0.10，缺乏有效的技术支撑。\",\n      \"risk_warning\": \"无相关投资标的，强行关联可能面临重大投资风险。建议关注其他有明显催化剂的投资机会。\"\n    }\n  ],\n  \"overall_assessment\": {\n    \"market_sentiment\": \"负面\",\n    \"investment_opportunity_level\": \"极低\",\n    \"suggested_action\": \"保持观望，避免强行关联投资\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000000",
+        "stock_name": "无推荐股票",
+        "recommendation_reason": "该新闻为灾难事件报道，不具备投资价值。央视新闻的权威性不适用于此类非经济类新闻的投资分析",
+        "policy_relevance": "无政策关联度",
+        "urgency_level": "不建议投资",
+        "confidence_score": 0.0
+      },
+      {
+        "rank": 2,
+        "stock_code": "000000",
+        "stock_name": "无推荐股票",
+        "recommendation_reason": "灾难事件不应作为投资依据，建议关注实质性政策导向的新闻",
+        "policy_relevance": "无政策关联度",
+        "urgency_level": "不建议投资",
+        "confidence_score": 0.0
+      },
+      {
+        "rank": 3,
+        "stock_code": "000000",
+        "stock_name": "无推荐股票",
+        "recommendation_reason": "基于专业投资伦理，不对人道主义灾难进行投资机会挖掘",
+        "policy_relevance": "无政策关联度",
+        "urgency_level": "不建议投资",
+        "confidence_score": 0.0
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为灾难性事件报道，虽然央视新闻具有权威性，但内容本身不具备直接投资价值。地震事件属于突发性灾难，不涉及政策导向或产业机会，更多是人道主义关注。央视的权威性体现在信息准确性，但无法转化为投资机会。",
+      "policy_impact": "无直接政策影响。此类灾难事件可能引发国际援助和人道主义响应，但不会产生明确的产业政策或投资导向。中国政府可能提供人道主义援助，但不会因此调整国内产业政策。",
+      "theme_classification": {
+        "theme_type": "无投资题材",
+        "hardcore_level": "无相关意志体现",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000000",
+          "stock_name": "无推荐股票",
+          "recommendation_reason": "该新闻为灾难事件报道，不具备投资价值。央视新闻的权威性不适用于此类非经济类新闻的投资分析",
+          "policy_relevance": "无政策关联度",
+          "urgency_level": "不建议投资",
+          "confidence_score": 0.0
+        },
+        {
+          "rank": 2,
+          "stock_code": "000000",
+          "stock_name": "无推荐股票",
+          "recommendation_reason": "灾难事件不应作为投资依据，建议关注实质性政策导向的新闻",
+          "policy_relevance": "无政策关联度",
+          "urgency_level": "不建议投资",
+          "confidence_score": 0.0
+        },
+        {
+          "rank": 3,
+          "stock_code": "000000",
+          "stock_name": "无推荐股票",
+          "recommendation_reason": "基于专业投资伦理，不对人道主义灾难进行投资机会挖掘",
+          "policy_relevance": "无政策关联度",
+          "urgency_level": "不建议投资",
+          "confidence_score": 0.0
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 17:09:50"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

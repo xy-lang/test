@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-12 01:18:50",
+  "news_info": {
+    "id": "dca347645d",
+    "title": "首批5个国家公园已明确“谁所有”“由谁管”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTINBkBgKyOLTFibJdbsJFP250811.shtml",
+    "publish_time": "2025-08-12 01:18:26",
+    "summary": "首批5个国家公园已明确“谁所有”“由谁管”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.79375,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.71,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.0
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由央视新闻发布，属于时政要闻类别，具有极高的权威性和公信力。综合强度0.79表明该新闻具有较强的影响力，特别是涉及国家公园管理体制的明确，可能引发相关产业的政策红利。",
+    "policy_impact": "国家公园管理体制的明确将直接利好生态保护、旅游开发和基础设施建设相关企业，政策导向明确且具有持续性。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "国家公园管理体制明确将促进生态旅游发展，首旅酒店作为国内领先的旅游服务企业将直接受益。",
+        "policy_relevance": "高度相关，涉及旅游产业政策红利",
+        "urgency_level": "高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "九华山景区可能受益于国家公园政策，公司作为区域旅游龙头将获得发展机遇。",
+        "policy_relevance": "较高相关，区域旅游政策受益",
+        "urgency_level": "中高",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "002033",
+        "stock_name": "丽江股份",
+        "recommendation_reason": "丽江作为重要旅游目的地，可能纳入国家公园体系，公司业务将受益于政策支持。",
+        "policy_relevance": "中等相关，潜在政策受益",
+        "urgency_level": "中",
+        "confidence_score": 0.72
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

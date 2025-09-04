@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-19 19:37:00",
+  "news_info": {
+    "id": "513c3b17d3",
+    "title": "2025年1至7月份，铁路货运量创出历史同期新高，重点物资运输保障有力，为保障国民经济平稳运行提供了有力支撑。在运量稳步增长的同时，物流服务品质也在不断提升。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTI2ggUFCM0eBLeYOVqaJsp250819.shtml?",
+    "publish_time": "2025-08-19 15:42:00",
+    "summary": "2025年1至7月份，铁路货运量创出历史同期新高，重点物资运输保障有力，为保障国民经济平稳运行提供了..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 3.9
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601006\",\n      \"stock_name\": \"大秦铁路\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"作为国内铁路货运龙头企业，直接受益于铁路货运量创新高的政策利好。技术面显示板块强度0.85，处于强势区间，配合国家政策支持和基本面稳健，具备较强的持续上涨动能。公司作为西煤东运核心通道，在重点物资运输保障中占据关键地位。\",\n      \"risk_warning\": \"需关注宏观经济波动对煤炭运输需求的影响，以及季节性因素导致的运量波动风险\"\n    },\n    {\n      \"stock_code\": \"600125\",\n      \"stock_name\": \"铁龙物流\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"专业铁路物流服务商，受益于物流服务品质提升趋势。技术评分符合板块平均水平，具备政策催化下的补涨机会。公司在特种集装箱运输和冷链物流领域具有竞争优势，符合现代物流发展方向。\",\n      \"risk_warning\": \"面临公路运输竞争压力，需关注业务结构调整带来的短期业绩波动\"\n    },\n    {\n      \"stock_code\": \"000594\",\n      \"stock_name\": \"国恒退\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"虽属铁路相关概念，但公司已退市，基本面存在重大不确定性。技术面缺乏有效数据支撑，投资风险极高，不建议普通投资者参与。\",\n      \"risk_warning\": \"退市公司存在重大投资风险，流动性差，信息披露不完善，建议规避\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_trend\": \"铁路货运板块受益政策支持，技术面强势\",\n    \"investment_horizon\": \"中期配置（3-6个月）\",\n    \"key_risks\": \"宏观经济下行风险、政策执行不及预期、行业竞争加剧\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "recommendation_reason": "作为国内最大的铁路货运公司，直接受益于铁路货运量增长。央视新闻的权威报道强化了行业景气度预期，公司业绩有望持续改善。",
+        "policy_relevance": "高度相关，直接受益于铁路货运政策支持",
+        "urgency_level": "中等",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "600125",
+        "stock_name": "铁龙物流",
+        "recommendation_reason": "专业铁路物流服务商，受益于货运量增长和物流服务品质提升。央视新闻的权威背书增强了行业景气度确定性。",
+        "policy_relevance": "高度相关，符合现代物流体系建设方向",
+        "urgency_level": "中等",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "000594",
+        "stock_name": "国恒退",
+        "recommendation_reason": "铁路基础设施建设相关企业，间接受益于铁路运输需求增长带动的基建投资。央视新闻的报道提升了板块关注度。",
+        "policy_relevance": "中度相关，受益于铁路运输产业链延伸",
+        "urgency_level": "较低",
+        "confidence_score": 0.7
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽时效性评分较低，但作为央视新闻发布的铁路货运量创历史新高消息，具有重要的政策信号意义。央视新闻作为国家级权威媒体，其报道往往反映政策导向和宏观经济运行态势。铁路货运量作为经济先行指标，创历史同期新高表明经济活跃度提升，物流需求旺盛，对相关板块构成实质性利好。",
+      "policy_impact": "该新闻体现了国家在保障重点物资运输、提升物流服务品质方面的政策导向。结合'交通强国'战略和现代物流体系建设规划，铁路货运量的持续增长将获得政策持续支持，对铁路运输、物流服务等相关产业形成长期利好。",
+      "theme_classification": {
+        "theme_type": "铁路货运/物流运输",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "铁路运输",
+          "物流服务",
+          "基础设施建设"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601006",
+          "stock_name": "大秦铁路",
+          "recommendation_reason": "作为国内最大的铁路货运公司，直接受益于铁路货运量增长。央视新闻的权威报道强化了行业景气度预期，公司业绩有望持续改善。",
+          "policy_relevance": "高度相关，直接受益于铁路货运政策支持",
+          "urgency_level": "中等",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "600125",
+          "stock_name": "铁龙物流",
+          "recommendation_reason": "专业铁路物流服务商，受益于货运量增长和物流服务品质提升。央视新闻的权威背书增强了行业景气度确定性。",
+          "policy_relevance": "高度相关，符合现代物流体系建设方向",
+          "urgency_level": "中等",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "000594",
+          "stock_name": "国恒退",
+          "recommendation_reason": "铁路基础设施建设相关企业，间接受益于铁路运输需求增长带动的基建投资。央视新闻的报道提升了板块关注度。",
+          "policy_relevance": "中度相关，受益于铁路运输产业链延伸",
+          "urgency_level": "较低",
+          "confidence_score": 0.7
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 19:37:00"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

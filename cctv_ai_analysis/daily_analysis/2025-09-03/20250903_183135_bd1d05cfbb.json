@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-03 18:31:35",
+  "news_info": {
+    "id": "bd1d05cfbb",
+    "title": "小叶医探 | 13岁女孩排便异常长达9年！原因竟是这种罕见先天性发育异常",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903182022931850114.html",
+    "publish_time": "2025-09-03 18:20:00",
+    "summary": "小叶医探 | 13岁女孩排便异常长达9年！原因竟是这种罕见先天性发育异常"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.18
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为口腔医疗龙头，与罕见病诊疗存在间接关联，技术指标相对稳健，在医疗板块中具备较强抗跌性，受益于医疗健康政策支持\",\n      \"risk_warning\": \"估值偏高，受集采政策影响较大，市场情绪波动可能带来短期调整\"\n    },\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"心血管器械龙头，在罕见病相关医疗器械领域有所布局，技术面显示企稳迹象，政策受益程度中等\",\n      \"risk_warning\": \"行业竞争激烈，业绩增长存在不确定性，需关注集采政策变化\"\n    },\n    {\n      \"stock_code\": \"600529\",\n      \"stock_name\": \"山东药玻\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"医药包装龙头企业，受益于医药行业整体发展，技术面相对稳定，但与本新闻关联度较弱\",\n      \"risk_warning\": \"与罕见病主题关联度较低，业绩增长依赖下游药企需求，存在周期性波动风险\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"医药板块强度0.283属于中等偏弱水平，支撑力度有限\",\n    \"technical_indicator\": \"平均技术评分0.28显示整体技术面偏弱，需要谨慎选择\",\n    \"risk_level\": \"中等风险，建议控制仓位，关注政策面变化\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "作为专科医疗服务龙头，罕见病诊疗能力建设符合长期医疗升级趋势，央视报道间接提升公众对专科医疗关注度",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "心血管及外科器械厂商，先天性畸形治疗涉及相关器械需求，但新闻关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "600529",
+        "stock_name": "山东药玻",
+        "recommendation_reason": "药用包装企业，罕见病药物包装需求具有长期稳定性，但与新闻直接关联度低",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为医疗健康类报道，涉及罕见先天性发育异常病例，虽具有科普价值但投资相关性较弱。央视新闻的权威性虽能提升话题关注度，但内容缺乏时效性和政策关联性，投资价值有限。",
+      "policy_impact": "无直接政策影响。间接关联国家罕见病防治政策（如《第一批罕见病目录》），但新闻未提及具体政策导向或产业支持，政策推动力不足。",
+      "theme_classification": {
+        "theme_type": "医疗健康/罕见病",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "作为专科医疗服务龙头，罕见病诊疗能力建设符合长期医疗升级趋势，央视报道间接提升公众对专科医疗关注度",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "心血管及外科器械厂商，先天性畸形治疗涉及相关器械需求，但新闻关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "600529",
+          "stock_name": "山东药玻",
+          "recommendation_reason": "药用包装企业，罕见病药物包装需求具有长期稳定性，但与新闻直接关联度低",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 18:31:35"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

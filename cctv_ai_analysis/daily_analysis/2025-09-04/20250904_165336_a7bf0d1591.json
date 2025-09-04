@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-04 16:53:36",
+  "news_info": {
+    "id": "a7bf0d1591",
+    "title": "海医二院完成一例出生仅5天新生儿先天性会厌囊肿切除术",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904162143704874339.html",
+    "publish_time": "2025-09-04 16:21:00",
+    "summary": "海医二院完成一例出生仅5天新生儿先天性会厌囊肿切除术"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7756000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.76,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.53
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"技术指标相对稳健，作为心血管医疗器械龙头，在儿科医疗设备领域有一定布局，与新生儿手术新闻存在间接关联。板块强度0.317提供一定支撑，技术评分高于平均水平\",\n      \"risk_warning\": \"医疗器械集采政策风险，估值偏高风险，市场情绪波动影响\"\n    },\n    {\n      \"stock_code\": \"002223\",\n      \"stock_name\": \"鱼跃医疗\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"家用医疗器械龙头，在呼吸治疗、感染控制等产品线上与儿科医疗有一定相关性。技术面相对稳定，但直接关联度较弱\",\n      \"risk_warning\": \"市场竞争加剧风险，原材料成本上升风险，业绩增长放缓风险\"\n    },\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.42,\n      \"recommendation_reason\": \"口腔医疗连锁龙头，与新闻的直接关联度较低。虽然医疗板块整体受益，但技术评分相对较低，短期催化效应有限\",\n      \"risk_warning\": \"高估值风险，扩张速度放缓风险，政策监管不确定性\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.317,\n    \"market_sentiment\": \"中性偏弱\",\n    \"technical_indicator_score\": 0.32,\n    \"news_relevance\": \"中等\",\n    \"risk_level\": \"中等\"\n  },\n  \"investment_horizon\": \"短期关注（1-2周）\",\n  \"additional_notes\": \"医疗板块整体技术强度一般，建议控制仓位，重点关注具备实际业务关联的个股。新生儿手术新闻的催化效应有限，需结合个股基本面和技术面综合判断\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "作为心血管医疗器械龙头，在儿科医疗器械领域有布局，受益于医疗技术进步的整体氛围",
+        "policy_relevance": "中等，符合医疗器械创新政策导向",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "口腔医疗龙头，儿科医疗服务是重要业务板块，受益于儿科医疗关注度提升",
+        "policy_relevance": "中等，契合儿童医疗服务发展政策",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 3,
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "recommendation_reason": "家用医疗器械企业，在儿科护理产品方面有相关布局，间接受益于儿科医疗技术进步",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为医疗技术突破类报道，报道海医二院完成新生儿先天性会厌囊肿切除术。虽然内容具有积极意义，但从投资角度看，该新闻缺乏直接的市场影响力和投资价值。新闻评分较低（第一时间性0/10、硬核程度0/10、持续性0/10），表明其不具备明显的投资机会。央视新闻的权威性在此类医疗技术报道中主要体现在提升相关医疗机构声誉，但对具体上市公司的直接影响有限。",
+      "policy_impact": "该新闻反映了国家在儿科医疗技术领域的进步，符合'健康中国2030'政策导向。但属于单次医疗技术展示，不具备政策突破性或行业变革性影响。对医疗器械、医疗服务板块有轻微正面情绪影响，但缺乏实质性政策支撑。",
+      "theme_classification": {
+        "theme_type": "医疗技术/儿科医疗",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗器械",
+          "医疗服务",
+          "儿童医疗"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "作为心血管医疗器械龙头，在儿科医疗器械领域有布局，受益于医疗技术进步的整体氛围",
+          "policy_relevance": "中等，符合医疗器械创新政策导向",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "口腔医疗龙头，儿科医疗服务是重要业务板块，受益于儿科医疗关注度提升",
+          "policy_relevance": "中等，契合儿童医疗服务发展政策",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 3,
+          "stock_code": "002223",
+          "stock_name": "鱼跃医疗",
+          "recommendation_reason": "家用医疗器械企业，在儿科护理产品方面有相关布局，间接受益于儿科医疗技术进步",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 16:53:36"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

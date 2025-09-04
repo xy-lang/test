@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 17:50:02",
+  "news_info": {
+    "id": "b68f3a8645",
+    "title": "社区治理 你我共建丨从\\\"停摆\\\"到\\\"重启\\\" 社区破解三十年老小区物业更迭引发的“多重危机”",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903164857766236722.html",
+    "publish_time": "2025-09-03 16:48:00",
+    "summary": "社区治理 你我共建丨从\\\"停摆\\\"到\\\"重启\\\" 社区破解三十年老小区物业更迭引发的“多重危机”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7208,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.02
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"001914\",\n      \"stock_name\": \"招商积余\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"作为央企招商局集团旗下物业服务平台，直接受益于社区治理政策推动。技术面表现稳健，板块强度0.733提供支撑，与新闻主题高度契合，政策受益程度最高，短期催化剂明确。\",\n      \"risk_warning\": \"房地产行业整体承压可能影响物业费收缴率；估值相对较高存在回调风险\"\n    },\n    {\n      \"stock_code\": \"000069\",\n      \"stock_name\": \"华侨城A\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"兼具地产开发与社区运营双重属性，在老旧小区改造领域有丰富经验。技术评分较高，受益于社区治理政策，且具备国企改革概念，中长期成长性较好。\",\n      \"risk_warning\": \"地产销售业务受行业周期影响较大；负债率相对较高\"\n    },\n    {\n      \"stock_code\": \"600383\",\n      \"stock_name\": \"金地集团\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"物业服务水平行业领先，在社区服务领域布局深入。技术指标配合度良好，受益于老旧小区改造政策，但关联度略低于前两只标的。\",\n      \"risk_warning\": \"房地产行业政策风险；现金流压力可能影响业务扩张\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.733处于中等偏上水平，技术评分0.73显示整体技术面健康，市场情绪对社区治理题材持积极态度\",\n    \"news_matching\": \"三只股票均与社区治理主题高度相关，政策受益明确，短期催化剂强度中等\",\n    \"risk_assessment\": \"板块风险中等，主要风险来自房地产行业整体调整；个股基本面风险可控，但需关注行业政策变化\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000069",
+        "stock_name": "华侨城A",
+        "recommendation_reason": "作为大型社区开发和物业管理企业，在社区治理和物业服务领域具有丰富经验，受益于老旧小区改造政策",
+        "policy_relevance": "高度相关，直接参与社区建设和物业管理",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "001914",
+        "stock_name": "招商积余",
+        "recommendation_reason": "专业的物业管理服务商，在社区服务领域具有领先优势，符合社区治理现代化发展方向",
+        "policy_relevance": "高度相关，核心业务与新闻主题完全契合",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600383",
+        "stock_name": "金地集团",
+        "recommendation_reason": "房地产开发企业兼具物业管理业务，在社区运营和服务创新方面有较多实践",
+        "policy_relevance": "中度相关，涉足物业管理和社区服务领域",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻聚焦社区治理和物业更迭议题，虽然时效性较弱，但体现了国家推进基层治理现代化的政策导向。央视新闻的权威性使其报道具有政策风向标意义，往往预示着相关领域的政策支持和资源倾斜。",
+      "policy_impact": "中等偏强。社区治理是国家治理体系的重要组成部分，物业服务业作为民生领域重点行业，将持续获得政策支持。老旧小区改造和物业规范化管理是城镇化进程中的重要环节。",
+      "theme_classification": {
+        "theme_type": "社区治理/物业服务",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "物业服务",
+          "社区服务",
+          "老旧小区改造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000069",
+          "stock_name": "华侨城A",
+          "recommendation_reason": "作为大型社区开发和物业管理企业，在社区治理和物业服务领域具有丰富经验，受益于老旧小区改造政策",
+          "policy_relevance": "高度相关，直接参与社区建设和物业管理",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "001914",
+          "stock_name": "招商积余",
+          "recommendation_reason": "专业的物业管理服务商，在社区服务领域具有领先优势，符合社区治理现代化发展方向",
+          "policy_relevance": "高度相关，核心业务与新闻主题完全契合",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600383",
+          "stock_name": "金地集团",
+          "recommendation_reason": "房地产开发企业兼具物业管理业务，在社区运营和服务创新方面有较多实践",
+          "policy_relevance": "中度相关，涉足物业管理和社区服务领域",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 17:50:02"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

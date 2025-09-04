@@ -1,0 +1,122 @@
+{
+  "analysis_time": "2025-09-04 16:56:33",
+  "news_info": {
+    "id": "cc01a3ef73",
+    "title": "重庆一火锅店广告牌打出低俗口号“胸大就打折” 属地部门回应",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904154234423551723.html",
+    "publish_time": "2025-09-04 15:42:00",
+    "summary": "重庆一火锅店广告牌打出低俗口号“胸大就打折” 属地部门回应"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7175,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.79,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.23
+    }
+  },
+  "ai_analysis": {
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "603317",
+        "stock_name": "天味食品",
+        "recommendation_reason": "作为火锅底料龙头企业，行业规范化有利于品牌企业市场份额提升",
+        "policy_relevance": "受益于餐饮行业规范化趋势",
+        "urgency_level": "中等",
+        "confidence_score": 0.65,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 2,
+        "stock_code": "002568",
+        "stock_name": "百润股份",
+        "recommendation_reason": "消费品公司注重品牌形象建设，监管趋严下竞争优势凸显",
+        "policy_relevance": "受益于消费品行业营销规范化",
+        "urgency_level": "低",
+        "confidence_score": 0.55,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 3,
+        "stock_code": "603345",
+        "stock_name": "安井食品",
+        "recommendation_reason": "火锅料制品龙头，行业洗牌过程中龙头企业受益",
+        "policy_relevance": "间接受益于餐饮供应链规范化",
+        "urgency_level": "低",
+        "confidence_score": 0.5,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      }
+    ],
+    "stage2_status": "fallback_enhanced",
+    "fallback_reason": "使用规则增强的第一阶段结果",
+    "enhancement_applied": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻属于社会负面事件报道，涉及低俗营销和市场监管问题。央视作为国家级媒体发布此类新闻，体现了对商业伦理和社会风气的监督职能。从投资角度看，此类新闻本身不直接产生投资机会，但可能引发对相关行业的监管关注。",
+      "policy_impact": "可能强化对餐饮行业广告营销的监管力度，推动行业规范化发展。负面事件报道可能促使监管部门加强对类似低俗营销的整治，对餐饮连锁企业的品牌管理和营销策略提出更高要求。",
+      "theme_classification": {
+        "theme_type": "市场监管/消费升级",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "餐饮连锁",
+          "食品饮料",
+          "商业零售"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "603317",
+          "stock_name": "天味食品",
+          "recommendation_reason": "作为火锅底料龙头企业，行业规范化有利于品牌企业市场份额提升",
+          "policy_relevance": "受益于餐饮行业规范化趋势",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "002568",
+          "stock_name": "百润股份",
+          "recommendation_reason": "消费品公司注重品牌形象建设，监管趋严下竞争优势凸显",
+          "policy_relevance": "受益于消费品行业营销规范化",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        },
+        {
+          "rank": 3,
+          "stock_code": "603345",
+          "stock_name": "安井食品",
+          "recommendation_reason": "火锅料制品龙头，行业洗牌过程中龙头企业受益",
+          "policy_relevance": "间接受益于餐饮供应链规范化",
+          "urgency_level": "低",
+          "confidence_score": 0.5
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 16:56:33"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

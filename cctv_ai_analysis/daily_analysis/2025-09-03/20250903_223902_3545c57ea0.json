@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 22:39:02",
+  "news_info": {
+    "id": "3545c57ea0",
+    "title": "【多彩新论】让英雄精神成为学生成长的“灯塔”",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903212749816263106.html",
+    "publish_time": "2025-09-03 21:27:00",
+    "summary": "【多彩新论】让英雄精神成为学生成长的“灯塔”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6944,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.72,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.18
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"603000\",\n      \"stock_name\": \"人民网\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"作为国家级媒体平台，与教育意识形态建设主题高度契合，直接受益于政策导向。技术评分0.78高于板块平均水平，板块强度0.717提供良好支撑，市场情绪积极，短期催化剂明确。\",\n      \"risk_warning\": \"需关注政策执行节奏变化风险，以及市场整体情绪波动对传媒板块的影响\"\n    },\n    {\n      \"stock_code\": \"600373\",\n      \"stock_name\": \"中文传媒\",\n      \"comprehensive_score\": 0.76,\n      \"recommendation_reason\": \"主营教育出版业务，与新闻主题匹配度较高，技术评分0.75表现稳定。受益于教育意识形态建设政策，但业务多元化程度较高，政策受益集中度相对分散。\",\n      \"risk_warning\": \"传统出版业务面临数字化转型压力，需关注业绩增长持续性风险\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"在线教育标的，与主题有一定关联但匹配度相对较弱。技术评分0.63略低于平均水平，虽然受益教育政策，但业务模式转型仍在进行中。\",\n      \"risk_warning\": \"在线教育行业监管政策变化风险较大，业绩波动性较高，需谨慎关注\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"积极\",\n    \"sector_strength\": \"中等偏强\",\n    \"policy_benefit_level\": \"国家意志驱动\",\n    \"recommendation_strategy\": \"重点关注政策直接受益标的，控制仓位适度参与\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600373",
+        "stock_name": "中文传媒",
+        "recommendation_reason": "作为国内主要出版传媒集团，在教材教辅、爱国主义读物出版方面具有优势，直接受益于英雄精神教育推广带来的内容需求增长",
+        "policy_relevance": "高 - 直接参与教育内容供给",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "教育信息化服务商，为学校提供智慧校园解决方案，可能承接相关主题教育数字化平台建设",
+        "policy_relevance": "中高 - 教育信息化配套",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "603000",
+        "stock_name": "人民网",
+        "recommendation_reason": "中央重点新闻网站，在正能量内容传播、思政教育平台建设方面具有独特地位，可能获得相关项目支持",
+        "policy_relevance": "中 - 内容传播平台",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视发布的时政要闻，主题为'英雄精神教育'，虽非直接财经新闻，但体现了国家在教育领域的意识形态导向。央视作为国家级媒体，其报道具有政策风向标意义，往往预示着相关教育政策的持续推进。新闻评分较低主要因非财经属性，但政策传导效应值得关注。",
+      "policy_impact": "该新闻反映了'立德树人'的教育政策导向，预计将推动爱国主义教育、思政教育等相关领域的投入。结合近期教育信息化、校园文化建设等政策，可能带来相关教育服务和内容供应商的业务机会。政策影响属于中长期渐进式，而非短期爆发型。",
+      "theme_classification": {
+        "theme_type": "教育意识形态建设",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "教育服务",
+          "文化传媒",
+          "出版发行"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600373",
+          "stock_name": "中文传媒",
+          "recommendation_reason": "作为国内主要出版传媒集团，在教材教辅、爱国主义读物出版方面具有优势，直接受益于英雄精神教育推广带来的内容需求增长",
+          "policy_relevance": "高 - 直接参与教育内容供给",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "教育信息化服务商，为学校提供智慧校园解决方案，可能承接相关主题教育数字化平台建设",
+          "policy_relevance": "中高 - 教育信息化配套",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "603000",
+          "stock_name": "人民网",
+          "recommendation_reason": "中央重点新闻网站，在正能量内容传播、思政教育平台建设方面具有独特地位，可能获得相关项目支持",
+          "policy_relevance": "中 - 内容传播平台",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 22:39:02"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

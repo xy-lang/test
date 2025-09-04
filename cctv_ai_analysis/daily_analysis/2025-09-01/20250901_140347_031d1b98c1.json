@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 14:03:47",
+  "news_info": {
+    "id": "031d1b98c1",
+    "title": "2025年9月1日｜防范溺水 珍爱生命",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901134248082116478.html",
+    "publish_time": "2025-09-01 13:42:00",
+    "summary": "2025年9月1日｜防范溺水 珍爱生命"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7525000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.69,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.35
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300010\",\n      \"stock_name\": \"立思辰\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为教育信息化龙头企业，直接受益于防溺水安全教育政策需求。技术面显示板块强度0.70支撑良好，近期成交量温和放大，MACD金叉向上，符合国家意志推动的教育安全主题。公司在线教育平台可快速响应政策要求，短期催化剂明确。\",\n      \"risk_warning\": \"需关注教育政策变化风险及公司应收账款周转情况\"\n    },\n    {\n      \"stock_code\": \"002599\",\n      \"stock_name\": \"盛通股份\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"公司在教育出版和印刷领域具有优势，防溺水宣传材料印制需求将直接受益。技术面呈现突破平台整理态势，RSI指标处于健康区间，与新闻主题匹配度较高。作为教材印刷主要供应商，政策推动下订单预期增长。\",\n      \"risk_warning\": \"原材料成本上涨可能压缩利润空间，需关注纸张价格波动\"\n    },\n    {\n      \"stock_code\": \"603660\",\n      \"stock_name\": \"苏州科达\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"视频会议和安防监控产品可用于防溺水监控场景，但关联度相对间接。技术面显示均线系统开始多头排列，但成交量配合略显不足。公司在智慧教育领域有布局，但受益程度需要观察具体项目落地情况。\",\n      \"risk_warning\": \"安防行业竞争激烈，项目订单存在不确定性风险\"\n    }\n  ],\n  \"overall_risk_alert\": \"当前市场情绪对政策主题反应积极，但需注意：1）板块轮动较快，建议控制仓位；2）教育类个股受政策影响较大，需密切关注后续配套政策；3）技术面虽整体向好，但大盘环境变化可能影响个股表现。建议采用分批建仓策略，设置合理止损位。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300010",
+        "stock_name": "立思辰",
+        "recommendation_reason": "公司主营教育信息化业务，防溺水宣传将推动校园安全教育装备需求，央视权威背书加速政策落地",
+        "policy_relevance": "高度相关，教育安全政策直接受益标的",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "603660",
+        "stock_name": "苏州科达",
+        "recommendation_reason": "安防监控设备供应商，防溺水监控系统需求提升，央视宣传将带动相关安防设备采购",
+        "policy_relevance": "中度相关，公共安全监控设备需求增长",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "002599",
+        "stock_name": "盛通股份",
+        "recommendation_reason": "教育出版及文化传播企业，受益于安全教育内容传播需求，央视权威性提升教育内容价值",
+        "policy_relevance": "中度相关，安全教育内容提供商",
+        "urgency_level": "一般",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视发布的防溺水公益宣传，虽时效性较弱但具有权威背书。央视作为国家级媒体平台，其发布的公益类新闻往往预示着相关领域政策关注度的提升，可能带动相关产业链发展机会",
+      "policy_impact": "防溺水宣传属于国家公共安全政策的重要组成部分，体现了'生命至上'的政策导向。此类宣传通常伴随安全教育投入增加、相关设施建设等配套措施，对相关产业形成政策利好",
+      "theme_classification": {
+        "theme_type": "公共安全/教育装备",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "教育装备",
+          "安防设备",
+          "文体用品"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300010",
+          "stock_name": "立思辰",
+          "recommendation_reason": "公司主营教育信息化业务，防溺水宣传将推动校园安全教育装备需求，央视权威背书加速政策落地",
+          "policy_relevance": "高度相关，教育安全政策直接受益标的",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "603660",
+          "stock_name": "苏州科达",
+          "recommendation_reason": "安防监控设备供应商，防溺水监控系统需求提升，央视宣传将带动相关安防设备采购",
+          "policy_relevance": "中度相关，公共安全监控设备需求增长",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "002599",
+          "stock_name": "盛通股份",
+          "recommendation_reason": "教育出版及文化传播企业，受益于安全教育内容传播需求，央视权威性提升教育内容价值",
+          "policy_relevance": "中度相关，安全教育内容提供商",
+          "urgency_level": "一般",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 14:03:47"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

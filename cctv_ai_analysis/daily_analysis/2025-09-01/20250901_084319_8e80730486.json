@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 08:43:19",
+  "news_info": {
+    "id": "8e80730486",
+    "title": "擅自改变海域用途！山海关造船重工被罚",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901070257523554148.html",
+    "publish_time": "2025-09-01 07:02:00",
+    "summary": "擅自改变海域用途！山海关造船重工被罚"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6812,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.68,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.68
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601989\",\n      \"stock_name\": \"中国重工\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"作为船舶制造龙头企业，与新闻事件关联度最高，直接受益于行业监管趋严带来的市场集中度提升。技术面相对稳健，虽然板块整体强度一般，但个股在船舶制造领域具有核心地位，政策催化效应明显。\",\n      \"risk_warning\": \"需关注环保监管政策对行业整体成本的影响，以及船舶制造业周期性波动风险\"\n    },\n    {\n      \"stock_code\": \"600685\",\n      \"stock_name\": \"中船防务\",\n      \"comprehensive_score\": 0.59,\n      \"recommendation_reason\": \"军工船舶概念股，与新闻事件有一定关联性。技术指标显示相对抗跌，在国防装备现代化背景下具备长期成长逻辑，但短期催化强度一般。\",\n      \"risk_warning\": \"军工订单波动性较大，业绩兑现存在不确定性，需关注军品采购节奏变化\"\n    },\n    {\n      \"stock_code\": \"601608\",\n      \"stock_name\": \"中信重工\",\n      \"comprehensive_score\": 0.42,\n      \"recommendation_reason\": \"与新闻关联度相对较弱，主要业务集中在重型装备制造而非船舶制造。技术评分较低，板块支撑不足，建议谨慎关注。\",\n      \"risk_warning\": \"与核心新闻主题匹配度不高，技术面偏弱，存在跟涨不跟跌风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"sector_outlook\": \"船舶制造业面临环保监管趋严，短期承压但长期有利于行业整合\",\n    \"recommendation_strategy\": \"建议重点关注行业龙头，控制仓位，关注政策后续影响\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601989",
+        "stock_name": "中国重工",
+        "recommendation_reason": "作为船舶制造龙头企业，可能受益于行业监管趋严下的市场份额集中，但该新闻影响有限",
+        "policy_relevance": "间接相关，行业监管环境变化",
+        "urgency_level": "低",
+        "confidence_score": 0.3
+      },
+      {
+        "rank": 2,
+        "stock_code": "600685",
+        "stock_name": "中船防务",
+        "recommendation_reason": "船舶制造央企，管理规范度较高，在监管趋严环境下相对优势明显",
+        "policy_relevance": "间接相关，行业合规性对比",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "601608",
+        "stock_name": "中信重工",
+        "recommendation_reason": "高端装备制造企业，与海洋工程关联度较低，受该事件影响最小",
+        "policy_relevance": "弱相关",
+        "urgency_level": "很低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及山海关造船重工因违规使用海域被处罚，属于负面监管事件。虽然来自央视新闻平台，但内容为单一企业违规处罚，投资价值有限。新闻时效性、硬核程度和持续性评分均为0，表明该事件对市场影响较小，不具备明显的投资机会。",
+      "policy_impact": "该事件反映海洋环境保护和海域使用监管趋严的政策导向，但对整体造船行业政策影响有限。属于个案处罚，不涉及行业性政策调整，投资参考价值较低。",
+      "theme_classification": {
+        "theme_type": "环保监管/船舶制造",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "船舶制造",
+          "海洋工程"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601989",
+          "stock_name": "中国重工",
+          "recommendation_reason": "作为船舶制造龙头企业，可能受益于行业监管趋严下的市场份额集中，但该新闻影响有限",
+          "policy_relevance": "间接相关，行业监管环境变化",
+          "urgency_level": "低",
+          "confidence_score": 0.3
+        },
+        {
+          "rank": 2,
+          "stock_code": "600685",
+          "stock_name": "中船防务",
+          "recommendation_reason": "船舶制造央企，管理规范度较高，在监管趋严环境下相对优势明显",
+          "policy_relevance": "间接相关，行业合规性对比",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "601608",
+          "stock_name": "中信重工",
+          "recommendation_reason": "高端装备制造企业，与海洋工程关联度较低，受该事件影响最小",
+          "policy_relevance": "弱相关",
+          "urgency_level": "很低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 08:43:19"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

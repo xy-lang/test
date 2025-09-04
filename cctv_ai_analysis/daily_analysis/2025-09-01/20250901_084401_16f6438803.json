@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 08:44:01",
+  "news_info": {
+    "id": "16f6438803",
+    "title": "山东滨农科技违反海关监管规定被罚",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901070132539863184.html",
+    "publish_time": "2025-09-01 07:01:00",
+    "summary": "山东滨农科技违反海关监管规定被罚"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6746,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.66,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 1.71
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommended_stocks\": [\n    {\n      \"stock_code\": \"000998\",\n      \"stock_name\": \"隆平高科\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术指标相对稳健，板块强度中等支撑，作为农业龙头受政策支持，与新闻中农业科技主题有一定关联度，具备较好的防御属性\",\n      \"risk_warning\": \"需关注农业政策变化风险和技术面回调压力\"\n    },\n    {\n      \"stock_code\": \"600598\",\n      \"stock_name\": \"北大荒\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"基本面相对稳定，土地资源优势明显，技术评分符合板块平均水平，受粮食安全政策利好影响\",\n      \"risk_warning\": \"业绩增长缓慢，需注意季节性波动风险\"\n    },\n    {\n      \"stock_code\": \"002385\",\n      \"stock_name\": \"大北农\",\n      \"comprehensive_score\": 0.62,\n      \"recommendation_reason\": \"农业科技概念股，但技术指标相对较弱，与新闻关联度一般，短期催化剂有限\",\n      \"risk_warning\": \"技术面偏弱，存在回调风险，需谨慎操作\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.64属于中等水平，市场情绪偏谨慎，技术指标整体配合度一般\",\n    \"news_matching\": \"新闻为负面监管事件，推荐股票均为农业板块，关联度间接，政策受益程度中等\",\n    \"risk_assessment\": \"农业板块整体风险可控，但个股分化明显，建议控制仓位，关注政策动向\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000998",
+        "stock_name": "隆平高科",
+        "recommendation_reason": "作为农业科技龙头企业，在行业监管趋严背景下，合规经营优势凸显，可能获得市场份额提升机会",
+        "policy_relevance": "中等-受益于行业规范化发展",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "600598",
+        "stock_name": "北大荒",
+        "recommendation_reason": "国有农业企业，监管合规性较强，在行业整顿期具备相对优势",
+        "policy_relevance": "中等-国有背景保障合规性",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "002385",
+        "stock_name": "大北农",
+        "recommendation_reason": "农业科技综合服务商，业务多元化降低单一风险，合规管理体系相对完善",
+        "policy_relevance": "中等-多元化业务结构抗风险能力强",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及山东滨农科技违反海关监管规定被处罚事件，属于负面企业监管新闻。虽然来自央视新闻平台，但内容为单一企业违规事件，缺乏行业普遍性和政策导向性。新闻时效性较差，仅为个案处罚通报，对整体市场影响有限。",
+      "policy_impact": "低级别政策影响。该新闻反映的是海关监管执法个案，不涉及重大政策调整或行业监管变化。对农业科技板块整体政策环境无实质性影响，仅为个别企业合规风险警示。",
+      "theme_classification": {
+        "theme_type": "企业合规风险警示",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "农业科技",
+          "进出口贸易"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000998",
+          "stock_name": "隆平高科",
+          "recommendation_reason": "作为农业科技龙头企业，在行业监管趋严背景下，合规经营优势凸显，可能获得市场份额提升机会",
+          "policy_relevance": "中等-受益于行业规范化发展",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "600598",
+          "stock_name": "北大荒",
+          "recommendation_reason": "国有农业企业，监管合规性较强，在行业整顿期具备相对优势",
+          "policy_relevance": "中等-国有背景保障合规性",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "002385",
+          "stock_name": "大北农",
+          "recommendation_reason": "农业科技综合服务商，业务多元化降低单一风险，合规管理体系相对完善",
+          "policy_relevance": "中等-多元化业务结构抗风险能力强",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 08:44:01"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

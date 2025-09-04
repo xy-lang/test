@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-26 00:21:38",
+  "news_info": {
+    "id": "0985507469",
+    "title": "自7月1日暑运启动以来至8月23日，全国铁路累计发送旅客突破8亿人次，达到8.23亿人次，同比增长6.4%，日均发送旅客1523万人次。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTI3VfqrnD5xRM5Im9MxZh9250825.shtml",
+    "publish_time": "2025-08-25 09:52:00",
+    "summary": "自7月1日暑运启动以来至8月23日，全国铁路累计发送旅客突破8亿人次，达到8.23亿人次，同比增长6..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 14.48
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601766\",\n      \"stock_name\": \"中国中车\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"铁路客运量大幅增长直接利好轨道交通装备需求，公司作为国内轨道交通装备龙头将显著受益。技术评分0.95位居首位，板块强度0.883提供有力支撑，政策受益程度最高，短期催化剂明确。\",\n      \"risk_warning\": \"需关注海外业务地缘政治风险及原材料价格波动风险\"\n    },\n    {\n      \"stock_code\": \"601006\",\n      \"stock_name\": \"大秦铁路\",\n      \"comprehensive_score\": 0.87,\n      \"recommendation_reason\": \"作为国内主要铁路货运和客运运营商，直接受益于暑运客流增长。技术评分0.88表现稳健，货运业务提供业绩稳定性，股息率较高具备防御属性。\",\n      \"risk_warning\": \"受宏观经济影响较大，货运需求波动可能影响业绩\"\n    },\n    {\n      \"stock_code\": \"600125\",\n      \"stock_name\": \"铁龙物流\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"铁路物流服务商，受益于客货运量双增长带动的物流需求提升。技术评分0.81相对稳健，但业务多元化程度较高，直接受益程度略低于前两者。\",\n      \"risk_warning\": \"面临公路物流竞争压力，利润率波动风险需关注\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_strength\": \"强劲\",\n    \"policy_support\": \"国家意志级别\",\n    \"technical_confirmation\": \"高度配合\",\n    \"risk_level\": \"中等\"\n  },\n  \"key_risk_factors\": [\n    \"宏观经济下行可能影响出行需求\",\n    \"铁路投资政策变化风险\",\n    \"夏季极端天气可能影响铁路运营\",\n    \"市场整体流动性风险\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601766",
+        "stock_name": "中国中车",
+        "recommendation_reason": "作为国内轨道交通装备制造龙头，客运量增长直接带动车辆采购和维护需求。央视数据印证行业景气度提升，公司受益明显",
+        "policy_relevance": "高度相关，直接受益于铁路客运量增长和装备更新需求",
+        "urgency_level": "中等",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601006",
+        "stock_name": "大秦铁路",
+        "recommendation_reason": "客运量增长反映铁路运输需求旺盛，公司作为重要铁路运输企业，客货运业务均将受益于行业景气度提升",
+        "policy_relevance": "高度相关，直接受益于铁路客运量数据验证的行业复苏",
+        "urgency_level": "中等",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "600125",
+        "stock_name": "铁龙物流",
+        "recommendation_reason": "铁路客运量增长带动物流需求，公司铁路特种集装箱业务受益于运输量提升和物流效率改善",
+        "policy_relevance": "中度相关，间接受益于铁路运输景气度提升",
+        "urgency_level": "一般",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性评分较低，但作为央视新闻发布的全国铁路客运数据，具有极高的权威性和公信力。8.23亿人次的客运量数据反映了暑期出行需求的强劲复苏，同比增长6.4%表明铁路运输行业正处于稳定增长通道。央视新闻的权威背书使得这一数据具有重要的投资参考价值。",
+      "policy_impact": "该数据直接关联国家'交通强国'战略和'内循环'政策导向。高客运量数据印证了消费复苏和政策刺激的有效性，预计将推动相关基础设施投资和运输服务升级政策的持续加码，对铁路基建、装备制造、客运服务等板块形成政策利好。",
+      "theme_classification": {
+        "theme_type": "大基建/交通运输复苏",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "铁路基建",
+          "轨道交通装备",
+          "客运服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601766",
+          "stock_name": "中国中车",
+          "recommendation_reason": "作为国内轨道交通装备制造龙头，客运量增长直接带动车辆采购和维护需求。央视数据印证行业景气度提升，公司受益明显",
+          "policy_relevance": "高度相关，直接受益于铁路客运量增长和装备更新需求",
+          "urgency_level": "中等",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "601006",
+          "stock_name": "大秦铁路",
+          "recommendation_reason": "客运量增长反映铁路运输需求旺盛，公司作为重要铁路运输企业，客货运业务均将受益于行业景气度提升",
+          "policy_relevance": "高度相关，直接受益于铁路客运量数据验证的行业复苏",
+          "urgency_level": "中等",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "600125",
+          "stock_name": "铁龙物流",
+          "recommendation_reason": "铁路客运量增长带动物流需求，公司铁路特种集装箱业务受益于运输量提升和物流效率改善",
+          "policy_relevance": "中度相关，间接受益于铁路运输景气度提升",
+          "urgency_level": "一般",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-26 00:21:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

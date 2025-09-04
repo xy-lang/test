@@ -1,0 +1,116 @@
+{
+  "analysis_time": "2025-08-25 23:51:52",
+  "news_info": {
+    "id": "71bf764e4f",
+    "title": "大型专题节目《习近平生态文明思想系列讲读》第十集《坚持党对生态文明建设的全面领导》",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIcbCRbzYH0yKFtkb6QqcD250825.shtml",
+    "publish_time": "2025-08-25 22:52:39",
+    "summary": "大型专题节目《习近平生态文明思想系列讲读》第十集《坚持党对生态文明建设的全面领导》"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8383,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.97
+    }
+  },
+  "ai_analysis": {
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300137",
+        "stock_name": "先河环保",
+        "recommendation_reason": "作为环境监测龙头企业，直接受益于生态文明建设政策推进，央视新闻的权威发布将提升市场对环保板块关注度",
+        "policy_relevance": "高度相关，环境监测是生态文明建设的基础设施",
+        "urgency_level": "中等",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "603588",
+        "stock_name": "高能环境",
+        "recommendation_reason": "土壤修复和固废处理龙头，符合生态文明建设中对环境污染治理的要求，政策导向明确",
+        "policy_relevance": "高度相关，环境污染治理是生态文明建设核心内容",
+        "urgency_level": "中等",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "601016",
+        "stock_name": "节能风电",
+        "recommendation_reason": "新能源发电企业，契合生态文明建设中绿色能源发展方向，央视新闻的权威性将强化政策预期",
+        "policy_relevance": "中度相关，新能源是生态文明建设的重要组成部分",
+        "urgency_level": "一般",
+        "confidence_score": 0.75
+      }
+    ],
+    "stage2_status": "failed",
+    "error": "",
+    "fallback_reason": "AI精准分析失败，使用第一阶段结果",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视新闻发布的习近平生态文明思想专题节目，虽然时效性评分较低，但作为国家级媒体发布的时政要闻，具有极高的政策导向性和权威性。央视新闻的发布往往预示着相关政策的深入推进，对资本市场具有重要指引作用。",
+      "policy_impact": "该新闻体现了国家层面对生态文明建设的高度重视，预计将推动环保、新能源、生态修复等相关产业的政策支持和资金投入。作为党媒发布的专题节目，其政策信号意义强于一般新闻，可能引发相关板块的政策预期行情。",
+      "theme_classification": {
+        "theme_type": "生态文明/环保政策",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "环境保护",
+          "新能源",
+          "生态修复"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300137",
+          "stock_name": "先河环保",
+          "recommendation_reason": "作为环境监测龙头企业，直接受益于生态文明建设政策推进，央视新闻的权威发布将提升市场对环保板块关注度",
+          "policy_relevance": "高度相关，环境监测是生态文明建设的基础设施",
+          "urgency_level": "中等",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "603588",
+          "stock_name": "高能环境",
+          "recommendation_reason": "土壤修复和固废处理龙头，符合生态文明建设中对环境污染治理的要求，政策导向明确",
+          "policy_relevance": "高度相关，环境污染治理是生态文明建设核心内容",
+          "urgency_level": "中等",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "601016",
+          "stock_name": "节能风电",
+          "recommendation_reason": "新能源发电企业，契合生态文明建设中绿色能源发展方向，央视新闻的权威性将强化政策预期",
+          "policy_relevance": "中度相关，新能源是生态文明建设的重要组成部分",
+          "urgency_level": "一般",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 23:51:52"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

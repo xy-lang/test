@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-15 16:43:56",
+  "news_info": {
+    "id": "50faaebd9d",
+    "title": "记者从中国石化获悉，位于四川盆地的永川页岩气田新增探明地质储量1245.88亿立方米，标志着我国又一个超千亿立方米的大型深层整装页岩气田被成功发现，将有效支撑川渝千亿方产能基地建设，为长江经济带发展提供清洁能源保障。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/15/ARTIu3Do2grprHGazAKyyIfQ250815.shtml",
+    "publish_time": "2025-08-15 16:42:22",
+    "summary": "记者从中国石化获悉，位于四川盆地的永川页岩气田新增探明地质储量1245.88亿立方米，标志着我国又一..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8383,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.02
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由央视权威发布，涉及国家能源战略和区域经济发展，具有高度政策导向性和时效性。永川页岩气田的重大发现将直接利好相关能源企业，特别是参与页岩气勘探开发的公司。",
+    "policy_impact": "该新闻体现了国家对清洁能源和能源安全的高度重视，符合'双碳'目标和长江经济带发展战略，预计将带动相关产业链的政策支持和资金投入。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "recommendation_reason": "作为新闻中明确提到的勘探主体，直接受益于永川页岩气田的发现和开发。",
+        "policy_relevance": "直接相关，央企背景和政策支持度高。",
+        "urgency_level": "高",
+        "confidence_score": 0.95
+      },
+      {
+        "rank": 2,
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "recommendation_reason": "作为国内主要油气勘探开发企业，将受益于页岩气行业整体发展。",
+        "policy_relevance": "高度相关，国家能源战略核心企业。",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "603619",
+        "stock_name": "中曼石油",
+        "recommendation_reason": "专业油气勘探开发服务商，有望参与川渝地区页岩气开发项目。",
+        "policy_relevance": "相关，受益于区域页岩气开发提速。",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

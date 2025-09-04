@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-04 15:24:28",
+  "news_info": {
+    "id": "fbf27c7ae9",
+    "title": "临沂市造血干细胞捐献达150例——这条生命之路，坚持了18年",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904150903243650980.html",
+    "publish_time": "2025-09-04 15:09:00",
+    "summary": "临沂市造血干细胞捐献达150例——这条生命之路，坚持了18年"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.25
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600196\",\n      \"stock_name\": \"复星医药\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术面相对稳健，作为综合性医药龙头在干细胞治疗领域布局较早，与新闻主题契合度高，政策受益明显，短期存在催化剂机会\",\n      \"risk_warning\": \"医药板块整体估值偏高，政策变动风险，研发投入回报周期较长\"\n    },\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"医疗器械细分龙头，在医疗公益领域有较强社会责任感，技术指标显示相对稳定，受益于医疗基础设施建设\",\n      \"risk_warning\": \"医疗器械集采政策压力，行业竞争加剧，估值修复需要时间\"\n    },\n    {\n      \"stock_code\": \"600056\",\n      \"stock_name\": \"中国医药\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"医药流通领域重要企业，在医疗公益活动中参与度较高，但技术面相对较弱，需要关注后续政策催化\",\n      \"risk_warning\": \"医药流通行业利润率较低，政策依赖性强，市场情绪波动较大\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.333显示医药板块整体处于中等偏弱水平，技术评分0.33表明个股技术面普遍偏弱，需要谨慎选择\",\n    \"news_matching\": \"造血干细胞捐献新闻属于医疗公益主题，与医药板块关联度较高，但直接受益程度有限，更多体现行业社会责任\",\n    \"risk_assessment\": \"医药板块面临政策调整风险，个股基本面分化明显，当前市场时机需要精选个股，控制仓位\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600196",
+        "stock_name": "复星医药",
+        "recommendation_reason": "作为国内领先的医药企业，在细胞治疗领域有布局，央视公益新闻可能提升公众对细胞治疗关注度",
+        "policy_relevance": "间接相关，体现医疗社会责任",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "医疗器械企业，公益新闻可能带动公众对医疗健康的关注，间接利好医疗板块",
+        "policy_relevance": "弱相关",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "600056",
+        "stock_name": "中国医药",
+        "recommendation_reason": "大型医药流通企业，公益新闻可能提升医疗行业整体关注度",
+        "policy_relevance": "弱相关",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视报道，但内容为地方性公益事件，缺乏直接的投资价值。造血干细胞捐献属于公益慈善范畴，与资本市场关联度较低。央视权威性在此类新闻中主要体现在社会价值传播，而非投资指引。新闻时效性、硬核程度和持续性评分均为0，表明其投资参考价值有限。",
+      "policy_impact": "该新闻反映了国家在医疗卫生领域的公益倡导，但未涉及具体产业政策或财政支持。造血干细胞捐献属于自愿公益行为，不直接产生经济效益，政策影响主要体现在社会公益层面，对相关医疗企业的实质性影响较弱。",
+      "theme_classification": {
+        "theme_type": "医疗公益/社会责任",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "生物制药"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600196",
+          "stock_name": "复星医药",
+          "recommendation_reason": "作为国内领先的医药企业，在细胞治疗领域有布局，央视公益新闻可能提升公众对细胞治疗关注度",
+          "policy_relevance": "间接相关，体现医疗社会责任",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "医疗器械企业，公益新闻可能带动公众对医疗健康的关注，间接利好医疗板块",
+          "policy_relevance": "弱相关",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "600056",
+          "stock_name": "中国医药",
+          "recommendation_reason": "大型医药流通企业，公益新闻可能提升医疗行业整体关注度",
+          "policy_relevance": "弱相关",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 15:24:28"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

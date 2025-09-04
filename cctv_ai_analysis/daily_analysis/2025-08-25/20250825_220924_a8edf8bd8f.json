@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-25 22:09:24",
+  "news_info": {
+    "id": "a8edf8bd8f",
+    "title": "从演训场到训练场 九三阅兵空军方队汇聚成钢铁长城",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIS4WEftq6C9vf09lH7bIH250825.shtml",
+    "publish_time": "2025-08-25 17:15:00",
+    "summary": "从演训场到训练场 九三阅兵空军方队汇聚成钢铁长城"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.73565,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 4.89
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600893\",\n      \"stock_name\": \"航发动力\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"作为航空发动机核心供应商，与阅兵新闻高度契合，直接受益于空军现代化建设。技术评分0.85分，处于板块领先位置，板块强度0.817提供有力支撑，政策催化明确，短期受益于国防装备更新需求。\",\n      \"risk_alert\": \"需关注军工订单交付周期风险及估值偏高风险\"\n    },\n    {\n      \"stock_code\": \"600760\",\n      \"stock_name\": \"中航沈飞\",\n      \"comprehensive_score\": 0.83,\n      \"recommendation_reason\": \"军用飞机制造龙头企业，与阅兵主题高度相关，技术评分0.82分符合板块平均水平。受益于国防现代化加速，订单确定性较强，市场情绪对军工板块整体偏好。\",\n      \"risk_alert\": \"存在业绩波动风险和政策依赖度较高风险\"\n    },\n    {\n      \"stock_code\": \"002013\",\n      \"stock_name\": \"中航机电\",\n      \"comprehensive_score\": 0.79,\n      \"recommendation_reason\": \"航空机电系统重要供应商，技术评分0.79分略低于板块平均，但受益于整个军工产业链景气度提升。与新闻主题关联度中等，具备一定的补涨机会。\",\n      \"risk_alert\": \"需警惕原材料成本上升风险和竞争加剧风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.817显示军工板块整体处于强势状态，技术指标平均评分0.82表明个股技术面配合良好，市场情绪对国防现代化主题持积极态度\",\n    \"news_relevance\": \"三只股票均与空军现代化建设高度相关，政策受益程度高，阅兵事件作为短期催化剂提振板块关注度\",\n    \"risk_assessment\": \"板块风险中等，主要受政策周期影响；个股基本面整体稳健，但需关注估值风险；当前市场时机相对有利，但需警惕大盘系统性风险\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "recommendation_reason": "作为航空发动机核心供应商，直接受益于空军装备升级需求，央视报道的阅兵装备多数配备公司产品",
+        "policy_relevance": "高度相关，符合国防现代化政策导向",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "国内主要战斗机生产商，阅兵展示的新型战机多由公司生产，央视权威报道提升市场关注度",
+        "policy_relevance": "高度相关，直接受益于空军装备更新换代",
+        "urgency_level": "中期关注",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "recommendation_reason": "航空机电系统核心供应商，阅兵装备的机电系统需求增长，央视报道带动板块情绪",
+        "policy_relevance": "中等相关，配套装备升级需求",
+        "urgency_level": "长期配置",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威发布的军事题材报道，虽然时效性评分较低，但央视作为国家级媒体平台，其军事类报道往往具有政策导向意义。九三阅兵相关新闻通常涉及国防现代化建设，对军工板块具有长期提振作用。",
+      "policy_impact": "高层级政策影响，体现国家意志在国防现代化和军事装备升级方面的持续投入。阅兵展示的先进装备往往预示着相关产业链将获得政策支持和订单增长。",
+      "theme_classification": {
+        "theme_type": "军工/国防现代化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "国防军工",
+          "航空航天",
+          "高端装备制造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600893",
+          "stock_name": "航发动力",
+          "recommendation_reason": "作为航空发动机核心供应商，直接受益于空军装备升级需求，央视报道的阅兵装备多数配备公司产品",
+          "policy_relevance": "高度相关，符合国防现代化政策导向",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "600760",
+          "stock_name": "中航沈飞",
+          "recommendation_reason": "国内主要战斗机生产商，阅兵展示的新型战机多由公司生产，央视权威报道提升市场关注度",
+          "policy_relevance": "高度相关，直接受益于空军装备更新换代",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "002013",
+          "stock_name": "中航机电",
+          "recommendation_reason": "航空机电系统核心供应商，阅兵装备的机电系统需求增长，央视报道带动板块情绪",
+          "policy_relevance": "中等相关，配套装备升级需求",
+          "urgency_level": "长期配置",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 22:09:24"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

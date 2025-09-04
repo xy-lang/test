@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-03 22:00:58",
+  "news_info": {
+    "id": "ce8ec640d6",
+    "title": "9月3日上午，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在北京天安门广场隆重举行。这些瞬间全网刷屏！一起看高清大图↓",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIqvL4KMXLEiNjQw5YMwFk250903.shtml",
+    "publish_time": "2025-09-03 10:52:00",
+    "summary": "9月3日上午，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在北京天安门广场隆重举行。这些瞬..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 11.13
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"recommended_stocks\": [\n    {\n      \"name\": \"中视传媒(600088)\",\n      \"score\": 0.85,\n      \"reason\": \"作为央视旗下传媒平台，与抗战纪念活动直接相关，具备最强的新闻匹配度。技术评分0.78高于板块平均水平，受益于国家重大活动宣传需求，短期催化剂明确。\",\n      \"risk\": \"传媒板块波动较大，需关注市场情绪变化和短期炒作风险\"\n    },\n    {\n      \"name\": \"中船防务(600685)\",\n      \"score\": 0.76,\n      \"reason\": \"军工板块受益于国防教育主题，技术评分0.75与板块强度匹配。作为船舶军工代表，符合爱国主义教育题材，但关联度略低于传媒股。\",\n      \"risk\": \"军工板块政策敏感性高，需注意政策预期变化风险\"\n    },\n    {\n      \"name\": \"中青旅(600138)\",\n      \"reason\": \"红色旅游概念受益于爱国主义教育主题，但技术评分0.63相对较低。虽然符合题材分类，但直接关联度较弱，催化剂效应可能有限。\",\n      \"score\": 0.68,\n      \"risk\": \"旅游板块受宏观经济影响较大，基本面支撑相对较弱\"\n    }\n  ],\n  \"overall_risk_warning\": \"当前板块强度0.717属于中等偏强水平，但需注意：1)事件驱动行情持续性有限 2)综合板块个股分化明显 3)市场整体情绪可能影响题材股表现。建议控制仓位，以短线操作为主。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600685",
+        "stock_name": "中船防务",
+        "recommendation_reason": "作为军工板块代表企业，抗战纪念活动往往引发国防建设关注，公司受益于军工现代化进程",
+        "policy_relevance": "高度相关，符合国家强军战略",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600088",
+        "stock_name": "中视传媒",
+        "recommendation_reason": "央视旗下上市公司，直接受益于重大活动媒体报道和爱国主义教育内容制作",
+        "policy_relevance": "直接相关，央视权威性背书",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "红色旅游概念股，抗战纪念活动可能带动相关旅游线路热度提升",
+        "policy_relevance": "间接相关，受益于爱国主义教育推广",
+        "urgency_level": "较低",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为国家级重大纪念活动报道，具有极高的政治意义和象征价值。虽然新闻本身时效性有限，但央视新闻作为国家级权威媒体，其报道内容往往代表政策导向和舆论风向。此类纪念活动通常会引发相关主题的投资关注，特别是在军工、文化传媒、红色旅游等板块",
+      "policy_impact": "高规格纪念活动体现国家意志，可能带动相关产业政策支持。军工板块有望获得更多关注，爱国主义教育相关产业可能获得政策倾斜，文化旅游产业可能迎来发展机遇",
+      "theme_classification": {
+        "theme_type": "爱国主义教育+军工纪念",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "国防军工",
+          "文化传媒",
+          "旅游服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600685",
+          "stock_name": "中船防务",
+          "recommendation_reason": "作为军工板块代表企业，抗战纪念活动往往引发国防建设关注，公司受益于军工现代化进程",
+          "policy_relevance": "高度相关，符合国家强军战略",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600088",
+          "stock_name": "中视传媒",
+          "recommendation_reason": "央视旗下上市公司，直接受益于重大活动媒体报道和爱国主义教育内容制作",
+          "policy_relevance": "直接相关，央视权威性背书",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "红色旅游概念股，抗战纪念活动可能带动相关旅游线路热度提升",
+          "policy_relevance": "间接相关，受益于爱国主义教育推广",
+          "urgency_level": "较低",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 22:00:58"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

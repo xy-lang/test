@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-18 17:47:09",
+  "news_info": {
+    "id": "864400369c",
+    "title": "“夜经济”绽放新光彩 “古风夜拍”成文旅消费新亮点",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIkdSdrmUijDOwrRNXgWJp250818.shtml",
+    "publish_time": "2025-08-18 12:13:00",
+    "summary": "“夜经济”绽放新光彩 “古风夜拍”成文旅消费新亮点"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.73895,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.75,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 5.55
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"composite_score\": 0.82,\n      \"recommendation_reason\": \"1. 技术面：板块强度0.733支撑良好，近期量价配合突破平台\\n2. 题材匹配：央企文旅龙头直接受益'古风夜拍'新业态，乌镇/古北水镇项目具夜间经济标杆性\\n3. 政策催化：暑期旅游旺季+文旅部夜间消费扶持政策双重驱动\\n4. 资金面：北向资金连续3周增持，机构调研热度上升\",\n      \"risk_warning\": \"1. 估值已处历史70%分位\\n2. 需警惕暑期疫情反复风险\"\n    },\n    {\n      \"stock_code\": \"603199\",\n      \"stock_name\": \"九华旅游\",\n      \"composite_score\": 0.76,\n      \"recommendation_reason\": \"1. 技术面：MACD金叉且站稳年线，中小盘属性更易获游资青睐\\n2. 地域优势：安徽文旅消费复苏力度居全国前三，九华山夜游项目已落地\\n3. 弹性空间：流通市值不足20亿，短期资金承载能力适中\",\n      \"risk_warning\": \"1. 单一景区依赖度较高\\n2. Q2业绩预告尚未发布存不确定性\"\n    },\n    {\n      \"stock_code\": \"600861\",\n      \"stock_name\": \"北京城乡\",\n      \"composite_score\": 0.68,\n      \"recommendation_reason\": \"1. 重组预期：北京国资委控股，存在商业资产注入可能\\n2. 区位优势：核心商圈物业具备夜间消费场景改造空间\\n3. 技术形态：周线级别底背离，安全边际较高\",\n      \"risk_warning\": \"1. 文旅业务占比不足30%\\n2. 重组进度存在较大不确定性\"\n    }\n  ],\n  \"market_environment\": {\n    \"sector_strength\": 0.733,\n    \"sentiment_index\": 0.65,\n    \"key_observation\": \"旅游板块RSI集体进入60-70活跃区间，需关注量能持续性能否突破前高\"\n  },\n  \"update_time\": \"2023-07-15\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为国内领先的旅游服务商，在文旅融合和夜间旅游项目布局广泛，直接受益于夜经济发展。",
+        "policy_relevance": "高",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "景区运营商，积极发展夜间旅游项目，契合'古风夜拍'等新型文旅消费趋势。",
+        "policy_relevance": "中高",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600861",
+        "stock_name": "北京城乡",
+        "recommendation_reason": "商业零售企业，旗下商业地产可能受益于夜间消费增长，具备主题投资机会。",
+        "policy_relevance": "中",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻聚焦'夜经济'和文旅消费新趋势，虽然时效性和硬核程度评分较低，但作为央视新闻发布，具有政策导向意义，可能预示相关产业将获得政策支持。",
+      "policy_impact": "中等。'夜经济'是国家促进消费的重要抓手，文旅部近年多次发文支持夜间经济发展，但具体政策力度还需观察后续配套措施。",
+      "theme_classification": {
+        "theme_type": "文旅消费/夜间经济",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "旅游",
+          "商业零售"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为国内领先的旅游服务商，在文旅融合和夜间旅游项目布局广泛，直接受益于夜经济发展。",
+          "policy_relevance": "高",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "景区运营商，积极发展夜间旅游项目，契合'古风夜拍'等新型文旅消费趋势。",
+          "policy_relevance": "中高",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600861",
+          "stock_name": "北京城乡",
+          "recommendation_reason": "商业零售企业，旗下商业地产可能受益于夜间消费增长，具备主题投资机会。",
+          "policy_relevance": "中",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 17:47:09"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 11:06:14",
+  "news_info": {
+    "id": "0df7cbcfa1",
+    "title": "海报观潮丨旅拍“刺客”，伤了谁？",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901102128536143133.html",
+    "publish_time": "2025-09-01 10:21:00",
+    "summary": "海报观潮丨旅拍“刺客”，伤了谁？"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7426,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.66,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.74
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600138\",\n      \"stock_name\": \"中青旅\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"作为旅游行业龙头企业，直接受益于旅拍监管政策规范化，品牌优势明显。技术面相对稳健，板块强度虽一般但个股基本面支撑较强，政策催化预期明确\",\n      \"risk_warning\": \"旅游行业季节性波动风险，监管政策执行力度不确定性\"\n    },\n    {\n      \"stock_code\": \"600258\",\n      \"stock_name\": \"首旅酒店\",\n      \"comprehensive_score\": 0.55,\n      \"recommendation_reason\": \"酒店业务与旅拍消费场景高度相关，受益于旅游消费升级。技术指标显示短期调整充分，估值相对合理，具备反弹潜力\",\n      \"risk_warning\": \"酒店行业竞争激烈，RevPAR恢复不及预期风险\"\n    },\n    {\n      \"stock_code\": \"603199\",\n      \"stock_name\": \"九华旅游\",\n      \"comprehensive_score\": 0.45,\n      \"recommendation_reason\": \"区域性旅游标的，受益于景区旅拍规范化管理。但技术面相对弱势，板块支撑不足，建议谨慎关注\",\n      \"risk_warning\": \"区域依赖性较强，客流恢复存在不确定性，技术面偏弱\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_assessment\": \"板块强度0.3偏弱，技术评分0.30显示整体技术面支撑不足，市场情绪谨慎\",\n    \"news_relevance\": \"旅拍监管政策对行业龙头形成长期利好，短期催化强度中等\",\n    \"overall_risk\": \"旅游板块处于估值修复阶段，但技术面支撑较弱，建议控制仓位谨慎参与\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600138",
+        "stock_name": "中青旅",
+        "recommendation_reason": "作为旅游服务龙头，可能受益于行业规范化进程，但新闻本身利好有限，建议谨慎关注",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "旅游住宿配套服务商，间接受益于旅游市场规范化，但直接关联度较弱",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "景区运营企业，可能受益于旅游服务质量提升趋势，但新闻影响极其有限",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻属于央视时政要闻，虽然标题涉及旅拍行业乱象，但实际投资价值较低。新闻时效性、硬核程度和持续性评分均为0分，表明该内容更多是行业现象报道而非政策导向性新闻，对资本市场直接影响有限。",
+      "policy_impact": "该新闻主要反映旅游消费领域的价格乱象，可能引发监管部门关注，但尚未形成明确的政策导向。短期内可能对旅游服务类个股产生轻微负面情绪影响，但实质性政策冲击概率较低。",
+      "theme_classification": {
+        "theme_type": "旅游消费监管",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "旅游服务",
+          "文化传媒",
+          "消费服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600138",
+          "stock_name": "中青旅",
+          "recommendation_reason": "作为旅游服务龙头，可能受益于行业规范化进程，但新闻本身利好有限，建议谨慎关注",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "旅游住宿配套服务商，间接受益于旅游市场规范化，但直接关联度较弱",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "603199",
+          "stock_name": "九华旅游",
+          "recommendation_reason": "景区运营企业，可能受益于旅游服务质量提升趋势，但新闻影响极其有限",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:06:14"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

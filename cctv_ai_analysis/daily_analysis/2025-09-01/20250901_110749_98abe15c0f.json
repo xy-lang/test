@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 11:07:49",
+  "news_info": {
+    "id": "98abe15c0f",
+    "title": "海报漫谈丨开学在即，这份化解焦虑小贴士拿好",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901101820977774173.html",
+    "publish_time": "2025-09-01 10:18:00",
+    "summary": "海报漫谈丨开学在即，这份化解焦虑小贴士拿好"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7591000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.71,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.82
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300010\",\n      \"stock_name\": \"立思辰\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术指标相对稳健，与开学季教育服务需求高度契合，作为教育信息化龙头企业直接受益于开学季催化，板块强度中等但个股基本面支撑较强\",\n      \"risk_warning\": \"教育政策变化风险，市场竞争加剧风险，技术面存在回调压力\"\n    },\n    {\n      \"stock_code\": \"600636\",\n      \"stock_name\": \"国新文化\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"文化教育双主业布局，与心理健康教育题材有一定关联度，技术面表现平稳，受益于教育信息化政策支持\",\n      \"risk_warning\": \"业务转型风险，业绩波动较大，板块整体强度偏弱\"\n    },\n    {\n      \"stock_code\": \"300359\",\n      \"stock_name\": \"全通教育\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"在线教育服务商，与开学季题材相关，但技术指标相对较弱，市场情绪支撑有限\",\n      \"risk_warning\": \"业绩持续亏损风险，在线教育监管政策风险，技术面弱势明显\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"中性偏谨慎\",\n    \"sector_strength\": \"中等(0.633)\",\n    \"recommendation_strategy\": \"建议重点关注立思辰，适度配置国新文化，谨慎对待全通教育\"\n  },\n  \"key_risks\": [\n    \"教育板块整体政策敏感性较高，存在政策变化风险\",\n    \"技术面显示板块强度一般，市场情绪支撑有限\",\n    \"开学季催化效应可能已部分price in，需注意时机风险\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300010",
+        "stock_name": "立思辰",
+        "recommendation_reason": "公司主营教育信息化业务，涉及校园心理健康教育解决方案，与央视关注的学生心理健康主题相关",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "600636",
+        "stock_name": "国新文化",
+        "recommendation_reason": "教育信息化服务商，业务涵盖智慧校园建设，可能受益于开学季教育主题关注度提升",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "300359",
+        "stock_name": "全通教育",
+        "recommendation_reason": "在线教育服务提供商，开学季通常带来教育需求增长，但与该新闻直接关联度有限",
+        "policy_relevance": "低",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视发布的开学季心理健康主题内容，虽然时效性较强但投资价值有限。央视新闻的权威性能够引发社会对青少年心理健康问题的关注，但内容本身属于常规教育类报道，缺乏直接的政策导向和投资指引。",
+      "policy_impact": "低政策影响。新闻内容主要聚焦学生心理健康教育，属于常规教育服务范畴，未涉及重大政策调整或产业扶持政策，对资本市场直接影响较小。",
+      "theme_classification": {
+        "theme_type": "教育服务/心理健康",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "教育服务",
+          "医疗健康",
+          "文化传媒"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300010",
+          "stock_name": "立思辰",
+          "recommendation_reason": "公司主营教育信息化业务，涉及校园心理健康教育解决方案，与央视关注的学生心理健康主题相关",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "600636",
+          "stock_name": "国新文化",
+          "recommendation_reason": "教育信息化服务商，业务涵盖智慧校园建设，可能受益于开学季教育主题关注度提升",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "300359",
+          "stock_name": "全通教育",
+          "recommendation_reason": "在线教育服务提供商，开学季通常带来教育需求增长，但与该新闻直接关联度有限",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:07:49"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

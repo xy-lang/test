@@ -1,0 +1,116 @@
+{
+  "analysis_time": "2025-08-18 17:09:14",
+  "news_info": {
+    "id": "93d58f07b8",
+    "title": "“十四五”时期发展社会主义民主成绩亮眼！一文了解",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTI6nKOJ3hIvj3JbDnkcAXS250818.shtml",
+    "publish_time": "2025-08-18 22:58:00",
+    "summary": "“十四五”时期发展社会主义民主成绩亮眼！一文了解"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8185,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": -5.83
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300075\",\n      \"stock_name\": \"数字政通\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"1. 技术面表现最佳，技术评分高于平均水平\\n2. 作为政务信息化龙头，与'十四五'民主建设主题高度契合\\n3. 近期成交量温和放大，呈现突破形态\\n4. 受益于数字政府建设加速的政策红利\",\n      \"risk_warning\": \"需警惕政务IT项目落地进度不及预期的风险\"\n    },\n    {\n      \"stock_code\": \"300212\",\n      \"stock_name\": \"易华录\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"1. 数据要素政策受益标的，符合数字政务建设方向\\n2. 技术指标显示中期趋势向好\\n3. 蓝光存储技术在政务数据领域有独特优势\",\n      \"risk_warning\": \"业绩兑现存在不确定性，注意商誉减值风险\"\n    },\n    {\n      \"stock_code\": \"603636\",\n      \"stock_name\": \"南威软件\",\n      \"composite_score\": 0.72,\n      \"recommendation_reason\": \"1. 政务服务领域专业厂商\\n2. 近期获得机构调研关注\\n3. 估值相对同业具有吸引力\",\n      \"risk_warning\": \"区域业务集中度较高，注意地方财政压力传导风险\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": \"政务信息化板块整体强度一般，但政策催化明确\",\n    \"technical_sentiment\": \"技术指标显示个股强于板块，存在alpha机会\",\n    \"policy_catalyst\": \"'数字政府'建设进入加速期，下半年招投标旺季将至\"\n  },\n  \"investment_horizon\": \"3-6个月中期配置\",\n  \"portfolio_suggestion\": \"建议组合配置，数字政通(50%)+易华录(30%)+南威软件(20%)\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300075",
+        "stock_name": "数字政通",
+        "recommendation_reason": "国内领先的智慧城市应用软件开发商，深度参与政务信息化建设",
+        "policy_relevance": "高，直接受益于政务数字化进程",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "603636",
+        "stock_name": "南威软件",
+        "recommendation_reason": "电子政务解决方案提供商，参与多地'互联网+政务服务'建设",
+        "policy_relevance": "中高",
+        "urgency_level": "中",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "300212",
+        "stock_name": "易华录",
+        "recommendation_reason": "数据湖+智慧城市综合服务商，参与政府数据治理项目",
+        "policy_relevance": "中",
+        "urgency_level": "中低",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于官方政策宣传类内容，主要展示'十四五'期间社会主义民主建设成就。作为央视新闻发布的时政要闻，具有最高级别的权威性，但投资直接关联性较弱。",
+      "policy_impact": "属于宏观政策导向性内容，对资本市场影响较为间接。主要体现国家政治建设方向，对特定行业如政务信息化、党建服务等有潜在利好。",
+      "theme_classification": {
+        "theme_type": "政务信息化/党建服务",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "政务软件",
+          "智慧城市"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "300075",
+          "stock_name": "数字政通",
+          "recommendation_reason": "国内领先的智慧城市应用软件开发商，深度参与政务信息化建设",
+          "policy_relevance": "高，直接受益于政务数字化进程",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "603636",
+          "stock_name": "南威软件",
+          "recommendation_reason": "电子政务解决方案提供商，参与多地'互联网+政务服务'建设",
+          "policy_relevance": "中高",
+          "urgency_level": "中",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "300212",
+          "stock_name": "易华录",
+          "recommendation_reason": "数据湖+智慧城市综合服务商，参与政府数据治理项目",
+          "policy_relevance": "中",
+          "urgency_level": "中低",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": null,
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

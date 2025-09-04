@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-08-21 19:12:15",
+  "news_info": {
+    "id": "6ace4f439b",
+    "title": "政策“组合拳”发力 助推自贸港建设“加速跑”",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIJCj4mSw9VNL2fOvpFXe1250821.shtml",
+    "publish_time": "2025-08-21 21:16:00",
+    "summary": "政策“组合拳”发力 助推自贸港建设“加速跑”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8119000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.72,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": -2.08
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601888\",\n      \"stock_name\": \"中国中免\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"自贸港政策核心受益标的，技术评分0.95位居首位，板块强度0.877提供强力支撑。作为免税龙头直接受益于自贸港政策红利，市场情绪积极，技术指标显示突破形态，短期催化剂明确。\",\n      \"risk_warning\": \"需关注消费复苏不及预期风险，估值相对较高存在回调压力\"\n    },\n    {\n      \"stock_code\": \"000088\",\n      \"stock_name\": \"盐田港\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"港口物流直接受益标的，技术评分0.87表现良好。地处粤港澳大湾区核心位置，自贸港政策将显著提升港口吞吐量和盈利能力，技术面呈现上升趋势。\",\n      \"risk_warning\": \"受国际贸易环境影响较大，需关注全球经济波动风险\"\n    },\n    {\n      \"stock_code\": \"600717\",\n      \"stock_name\": \"天津港\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"北方重要港口标的，技术评分0.82符合板块平均水平。受益于京津冀协同发展和自贸港政策双重利好，但技术表现相对较弱，需观察突破确认。\",\n      \"risk_warning\": \"区域竞争加剧，业绩增长存在不确定性，技术面需要进一步确认\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_strength\": \"强劲\",\n    \"policy_impact\": \"高度利好\",\n    \"recommendation_strategy\": \"建议重点关注中国中免作为核心配置，盐田港作为辅助配置，天津港可适度关注\"\n  },\n  \"general_risk_warning\": \"自贸港政策实施进度可能不及预期；宏观经济波动可能影响政策效果；技术面存在短期调整风险；建议控制仓位，分批布局\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "recommendation_reason": "作为海南免税龙头，直接受益自贸港政策深化，央视报道提升政策预期确定性",
+        "policy_relevance": "高度相关，免税政策是自贸港核心政策之一",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "600717",
+        "stock_name": "天津港",
+        "recommendation_reason": "港口物流龙头，自贸港政策将显著提升港口吞吐量和跨境贸易业务",
+        "policy_relevance": "直接受益，港口基础设施是自贸港建设核心",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "000088",
+        "stock_name": "盐田港",
+        "recommendation_reason": "粤港澳大湾区重要港口，自贸港政策辐射效应明显，区位优势突出",
+        "policy_relevance": "较强关联，受益自贸港政策溢出效应",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视权威发布的自贸港政策组合拳报道，虽然评分显示时效性较弱，但央视新闻作为国家级媒体平台，其政策解读具有风向标意义。自贸港建设是国家重大战略，政策组合拳的推出表明政策进入密集落地期，对资本市场具有重要指引作用。",
+      "policy_impact": "自贸港政策组合拳将显著提升海南自贸港建设速度，预计将带来基础设施建设、免税消费、跨境贸易、金融服务等多领域投资机会。政策力度超预期，对相关上市公司业绩提升具有实质性推动作用。",
+      "theme_classification": {
+        "theme_type": "自贸港政策红利",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "基础设施建设",
+          "免税零售",
+          "港口物流",
+          "金融服务"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601888",
+          "stock_name": "中国中免",
+          "recommendation_reason": "作为海南免税龙头，直接受益自贸港政策深化，央视报道提升政策预期确定性",
+          "policy_relevance": "高度相关，免税政策是自贸港核心政策之一",
+          "urgency_level": "高",
+          "confidence_score": 0.88
+        },
+        {
+          "rank": 2,
+          "stock_code": "600717",
+          "stock_name": "天津港",
+          "recommendation_reason": "港口物流龙头，自贸港政策将显著提升港口吞吐量和跨境贸易业务",
+          "policy_relevance": "直接受益，港口基础设施是自贸港建设核心",
+          "urgency_level": "中高",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 3,
+          "stock_code": "000088",
+          "stock_name": "盐田港",
+          "recommendation_reason": "粤港澳大湾区重要港口，自贸港政策辐射效应明显，区位优势突出",
+          "policy_relevance": "较强关联，受益自贸港政策溢出效应",
+          "urgency_level": "中",
+          "confidence_score": 0.78
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 19:12:15"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

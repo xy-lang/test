@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-31 23:41:19",
+  "news_info": {
+    "id": "a46d471edb",
+    "title": "透过重磅数据看活力 经济向好趋势突出",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/31/ARTIYfUxaHEXmHvcelKa3Lfo250831.shtml",
+    "publish_time": "2025-08-31 15:36:00",
+    "summary": "透过重磅数据看活力 经济向好趋势突出"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.64785,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.68,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 8.07
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601668\",\n      \"stock_name\": \"中国建筑\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"技术面表现强劲，板块强度0.76支撑良好，直接受益于宏观经济复苏政策，基建板块作为国家意志重点扶持领域，短期催化剂明确，技术指标与基本面形成共振\",\n      \"risk_warning\": \"需关注基建投资进度不及预期风险，房地产政策变化可能影响业务结构\"\n    },\n    {\n      \"stock_code\": \"601318\",\n      \"stock_name\": \"中国平安\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"作为综合金融龙头，受益于经济复苏带来的保险需求和投资回报提升，技术评分处于合理区间，金融板块情绪回暖提供支撑\",\n      \"risk_warning\": \"利率环境变化可能影响投资收益，监管政策变动风险需关注\"\n    },\n    {\n      \"stock_code\": \"600036\",\n      \"stock_name\": \"招商银行\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"银行业在经济复苏周期中具备估值修复机会，技术面相对稳健，受益于货币政策边际宽松和信贷需求回升\",\n      \"risk_warning\": \"净息差收窄压力仍存，需关注资产质量变化和房地产风险敞口\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_strength\": \"0.76（较强）\",\n    \"policy_benefit_level\": \"高\",\n    \"recommendation_strategy\": \"建议分批建仓，重点关注基建和金融板块轮动机会\"\n  },\n  \"risk_alert\": [\n    \"宏观经济数据波动可能影响市场情绪\",\n    \"板块轮动加速可能导致短期波动加大\",\n    \"建议控制仓位，设置止损位防范系统性风险\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "作为金融板块龙头，经济向好预期将直接利好保险业务增长和投资收益提升，央视新闻的积极经济信号有助于提振市场信心",
+        "policy_relevance": "高 - 金融板块与经济周期高度相关",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "601668",
+        "stock_name": "中国建筑",
+        "recommendation_reason": "经济向好趋势下基建投资往往率先受益，公司作为基建龙头将直接受益于经济刺激政策",
+        "policy_relevance": "高 - 基建是经济稳增长的重要抓手",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "经济向好有利于银行业资产质量改善和信贷需求回升，招行作为优质银行代表将显著受益",
+        "policy_relevance": "高 - 银行业与经济景气度密切相关",
+        "urgency_level": "中等",
+        "confidence_score": 0.68
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视新闻发布的经济数据报道，虽然评分显示第一时间性、硬核程度和持续性均为0分，但央视新闻作为国家级权威媒体，其经济数据报道具有重要的政策导向意义。新闻标题'经济向好趋势突出'传递了积极的经济信号，可能预示着后续政策支持或经济基本面改善。",
+      "policy_impact": "央视新闻的经济报道往往反映政策导向，'经济向好趋势突出'的表述可能暗示宏观经济政策将持续发力，利好基建、消费、金融等与经济周期密切相关的板块。投资者应关注后续配套政策的出台。",
+      "theme_classification": {
+        "theme_type": "宏观经济复苏",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "大金融",
+          "基础设施建设",
+          "消费板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601318",
+          "stock_name": "中国平安",
+          "recommendation_reason": "作为金融板块龙头，经济向好预期将直接利好保险业务增长和投资收益提升，央视新闻的积极经济信号有助于提振市场信心",
+          "policy_relevance": "高 - 金融板块与经济周期高度相关",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "601668",
+          "stock_name": "中国建筑",
+          "recommendation_reason": "经济向好趋势下基建投资往往率先受益，公司作为基建龙头将直接受益于经济刺激政策",
+          "policy_relevance": "高 - 基建是经济稳增长的重要抓手",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600036",
+          "stock_name": "招商银行",
+          "recommendation_reason": "经济向好有利于银行业资产质量改善和信贷需求回升，招行作为优质银行代表将显著受益",
+          "policy_relevance": "高 - 银行业与经济景气度密切相关",
+          "urgency_level": "中等",
+          "confidence_score": 0.68
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-31 23:41:19"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

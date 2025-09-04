@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-25 22:10:22",
+  "news_info": {
+    "id": "afc9057082",
+    "title": "在此次受阅的徒步方队中，空军方队受阅官兵来自一线作战部队，全员参加过实装跳伞训练。在阅兵训练场上，他们步伐铿锵有力、气势如虹，汇聚成蓝色的钢铁长城。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIS4WEftq6C9vf09lH7bIH250825.shtml",
+    "publish_time": "2025-08-25 14:22:00",
+    "summary": "在此次受阅的徒步方队中，空军方队受阅官兵来自一线作战部队，全员参加过实装跳伞训练。在阅兵训练场上，他..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.68745,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 7.79
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600760\",\n      \"stock_name\": \"中航沈飞\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"作为国内战斗机整机制造龙头，直接受益于空军现代化建设。技术指标显示近期成交量放大，MACD金叉向上，板块强度0.667提供支撑。新闻中提及的空军方队装备升级需求与公司主营业务高度契合，政策受益程度最高\",\n      \"risk_warning\": \"需关注军工订单交付节奏及军费预算变化风险\"\n    },\n    {\n      \"stock_code\": \"600038\",\n      \"stock_name\": \"中直股份\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"直升机整机龙头企业，受益于陆军航空兵和特种部队建设。技术面呈现突破前期阻力位态势，RSI指标处于健康区间。新闻中实装跳伞训练暗示直升机装备需求，短期催化剂明确\",\n      \"risk_warning\": \"存在原材料成本上涨和产能释放不及预期风险\"\n    },\n    {\n      \"stock_code\": \"002013\",\n      \"stock_name\": \"中航机电\",\n      \"comprehensive_score\": 0.68,\n      \"recommendation_reason\": \"航空机电系统核心供应商，受益于装备现代化更新需求。技术指标显示均线多头排列，但成交量相对平淡。作为产业链中游企业，间接受益于阅兵展示的装备升级趋势\",\n      \"risk_warning\": \"面临毛利率压力和客户集中度较高风险\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"market_sentiment\": \"积极\",\n    \"sector_outlook\": \"国防军工板块在政策催化下具备持续表现机会\",\n    \"timing_recommendation\": \"短期事件驱动+中长期政策红利双重利好\"\n  },\n  \"key_risks\": [\n    \"军工板块估值普遍较高，存在回调风险\",\n    \"装备采购进度可能受财政预算影响\",\n    \"市场整体流动性变化可能影响板块表现\",\n    \"地缘政治因素变化可能导致波动加剧\"\n  ]\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "作为国内主要战斗机生产企业，直接受益于空军装备现代化建设，央视报道体现的国家意志将推动采购需求",
+        "policy_relevance": "高度相关，空军装备核心供应商",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600038",
+        "stock_name": "中直股份",
+        "recommendance_reason": "军用直升机主要制造商，实装跳伞训练需要直升机支援，受益于训练装备升级需求",
+        "policy_relevance": "中等相关，训练装备供应商",
+        "urgency_level": "中长期关注",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "002013",
+        "stock_name": "中航机电",
+        "recommendation_reason": "航空机电系统核心供应商，为各类军用飞机提供关键部件，受益于装备维护和更新需求",
+        "policy_relevance": "间接相关，产业链配套企业",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为央视新闻发布的军事阅兵报道，虽然内容本身不直接涉及投资信息，但央视新闻作为国家级权威媒体，其报道内容往往反映国家政策导向和战略重点。空军方队的展示体现了国家对国防现代化的重视，间接传递军工产业的政策支持信号。",
+      "policy_impact": "新闻反映了国家持续加强国防建设的政策导向，结合'十四五'规划中关于国防现代化的要求，预计将推动军工装备采购和训练设施投入，对军工产业链形成长期政策利好。",
+      "theme_classification": {
+        "theme_type": "军工/国防现代化",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 7,
+        "related_sectors": [
+          "国防军工",
+          "航空航天",
+          "装备制造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600760",
+          "stock_name": "中航沈飞",
+          "recommendation_reason": "作为国内主要战斗机生产企业，直接受益于空军装备现代化建设，央视报道体现的国家意志将推动采购需求",
+          "policy_relevance": "高度相关，空军装备核心供应商",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600038",
+          "stock_name": "中直股份",
+          "recommendance_reason": "军用直升机主要制造商，实装跳伞训练需要直升机支援，受益于训练装备升级需求",
+          "policy_relevance": "中等相关，训练装备供应商",
+          "urgency_level": "中长期关注",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "002013",
+          "stock_name": "中航机电",
+          "recommendation_reason": "航空机电系统核心供应商，为各类军用飞机提供关键部件，受益于装备维护和更新需求",
+          "policy_relevance": "间接相关，产业链配套企业",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 22:10:22"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

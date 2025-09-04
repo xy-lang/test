@@ -1,0 +1,118 @@
+{
+  "analysis_time": "2025-08-18 11:13:58",
+  "news_info": {
+    "id": "adee5a3b34",
+    "title": "我们走进美丽的花园城市——厦门，那里风光旖旎的海岸风景和雕梁画栋的闽南建筑，是这座城市目之所及的“美丽”，其背后独特的垃圾处理模式，正在把这座城市的一些“不美丽”，也变成“美丽”。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIBvg2FYLE4fMfeZyKGc0J250817.shtml",
+    "publish_time": "2025-08-18 11:12:22",
+    "summary": "我们走进美丽的花园城市——厦门，那里风光旖旎的海岸风景和雕梁画栋的闽南建筑，是这座城市目之所及的“美..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"603568\",\n      \"stock_name\": \"伟明环保\",\n      \"composite_score\": 0.85,\n      \"recommendation_reason\": \"作为环保行业龙头企业，与厦门垃圾处理模式主题高度契合。技术面表现稳健，近期呈现上涨趋势，技术评分高于平均水平。受益于环保政策支持，短期催化剂明确。\",\n      \"risk_warning\": \"需警惕环保行业政策执行不及预期风险，以及项目推进速度可能影响业绩兑现。\"\n    },\n    {\n      \"stock_code\": \"000546\",\n      \"stock_name\": \"金圆股份\",\n      \"composite_score\": 0.78,\n      \"recommendation_reason\": \"作为福建本地环保企业，与厦门城市主题直接相关。技术指标显示短期动能良好，但板块支撑力度一般。受益于地方环保基建投入。\",\n      \"risk_warning\": \"地方财政压力可能影响项目回款，需关注公司现金流状况。\"\n    },\n    {\n      \"stock_code\": \"600033\",\n      \"stock_name\": \"福建高速\",\n      \"composite_score\": 0.65,\n      \"recommendation_reason\": \"作为福建基建代表企业，间接受益于城市发展主题。技术面相对平稳，但缺乏明显催化剂。\",\n      \"risk_warning\": \"与主题关联度较低，交通量恢复存在不确定性。\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"板块整体强度偏弱，但个股技术面表现分化，环保类个股技术指标相对较好\",\n    \"news_relevance\": \"环保类企业直接受益于城市垃圾处理模式创新主题，基建类企业关联度较低\",\n    \"risk_assessment\": \"需重点关注环保行业政策落地进度和地方财政状况对相关企业的影响\"\n  }\n}\n```"
+    },
+    "final_recommendations": [],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然时效性和硬核程度较低，但作为央视新闻发布的厦门城市形象宣传内容，具有官方权威背书。重点突出了厦门的环保成就和城市治理模式，可能暗示地方政府在环保基建领域的持续投入。",
+      "policy_impact": "符合国家生态文明建设政策导向，可能带动地方环保基建投资。作为示范案例可能获得政策倾斜，但对资本市场直接影响有限。",
+      "theme_classification": {
+        "theme_type": "环保城市/地方基建",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "环保工程",
+          "福建区域板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000546",
+          "stock_name": "金圆股份",
+          "recommendation_reason": "厦门本地环保上市企业，主营危废处理，直接受益厦门环保基建投入",
+          "policy_relevance": "高度契合新闻中垃圾处理模式创新主题",
+          "urgency_level": "中期关注",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "603568",
+          "stock_name": "伟明环保",
+          "recommendation_reason": "国内垃圾焚烧发电龙头，在福建有项目布局，符合城市固废处理主题",
+          "policy_relevance": "行业龙头受益环保政策加码",
+          "urgency_level": "长期配置",
+          "confidence_score": 0.68
+        },
+        {
+          "rank": 3,
+          "stock_code": "600033",
+          "stock_name": "福建高速",
+          "recommendation_reason": "福建基建代表企业，间接受益城市形象提升带来的旅游交通需求增长",
+          "policy_relevance": "区域基建配套需求提升",
+          "urgency_level": "低吸机会",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析：粗筛+技术精准"
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "建筑建材"
+    ],
+    "sector_strength": 0.445,
+    "sector_details": [
+      {
+        "sector_name": "建筑建材",
+        "三要素评分": {
+          "政策支持度": 0.3,
+          "资金流入度": 0.5,
+          "技术成熟度": 0.6
+        },
+        "综合竞争力": 0.445,
+        "原始数据": {
+          "当前价格": 0,
+          "涨跌幅": 0,
+          "净流入": 0,
+          "成交额": 0,
+          "换手率": 0
+        },
+        "更新时间": "2025-08-18 11:13:58"
+      }
+    ],
+    "sector_comparison": {},
+    "sector_recommendations": {},
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志"
+    },
+    "analysis_time": "2025-08-18 11:13:58"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

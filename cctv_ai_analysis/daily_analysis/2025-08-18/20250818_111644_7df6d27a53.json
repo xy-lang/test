@@ -1,0 +1,90 @@
+{
+  "analysis_time": "2025-08-18 11:16:44",
+  "news_info": {
+    "id": "7df6d27a53",
+    "title": "在成都见世界 打造一场花园里的闭幕式",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTINUVRhJNG4o7ZqGzY0FVg250818.shtml",
+    "publish_time": "2025-08-18 11:12:22",
+    "summary": "在成都见世界 打造一场花园里的闭幕式"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7838499999999999,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.68,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.06
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600880\",\n      \"stock_name\": \"博瑞传播\",\n      \"composite_score\": 0.82,\n      \"recommendation_reason\": \"1. 技术面：技术评分高于平均水平，近期呈现上涨趋势\\n2. 题材匹配：作为成都本地文化传媒企业，与'成都见世界'主题高度契合\\n3. 政策受益：直接受益于城市形象建设项目\\n4. 催化剂：闭幕式相关宣传可能带来短期业务增量\",\n      \"risk_warning\": \"1. 传媒行业竞争激烈\\n2. 项目收益存在不确定性\\n3. 需警惕利好兑现后的回调风险\"\n    },\n    {\n      \"stock_code\": \"000802\",\n      \"stock_name\": \"北京文化\",\n      \"composite_score\": 0.75,\n      \"recommendation_reason\": \"1. 技术面：技术指标显示上涨动能\\n2. 题材相关：具备大型活动策划经验\\n3. 行业地位：在文化传媒领域有一定知名度\",\n      \"risk_warning\": \"1. 与成都项目直接关联度不高\\n2. 公司近年业绩波动较大\\n3. 行业政策风险\"\n    },\n    {\n      \"stock_code\": \"600749\",\n      \"stock_name\": \"西藏旅游\",\n      \"composite_score\": 0.68,\n      \"recommendation_reason\": \"1. 技术面：技术指标尚可但相对较弱\\n2. 间接受益：旅游类企业可能受益于城市形象提升\",\n      \"risk_warning\": \"1. 与主题关联性较弱\\n2. 旅游行业受季节影响大\\n3. 地理位置因素限制\"\n  ],\n  \"analysis_summary\": {\n    \"market_sentiment\": \"中性偏多\",\n    \"sector_strength\": \"文化传媒板块整体强度一般，但个股存在结构性机会\",\n    \"timing_risk\": \"需关注活动时间节点，警惕事件驱动型行情的特点\",\n    \"overall_rating\": \"中等偏上，建议选择性参与\"\n  }\n}\n```"
+    },
+    "final_recommendations": [],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为成都大运会闭幕式相关报道，属于地方性文化活动新闻。虽然来自央视平台，但内容本身不涉及重大政策或经济影响，时效性和持续性较低。",
+      "policy_impact": "作为官方媒体对地方文化活动的报道，主要体现对成都城市形象建设的支持，但无直接政策红利释放。",
+      "theme_classification": {
+        "theme_type": "文化传媒/城市形象",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "文化传媒",
+          "旅游酒店"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600880",
+          "stock_name": "博瑞传播",
+          "recommendation_reason": "成都本地文化传媒企业，可能参与活动相关传播服务",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "000802",
+          "stock_name": "北京文化",
+          "recommendation_reason": "大型文化活动策划经验丰富，可能参与闭幕式制作",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "600749",
+          "stock_name": "西藏旅游",
+          "recommendation_reason": "成都作为旅游目的地可能受益于活动曝光",
+          "policy_relevance": "低",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析：粗筛+技术精准"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:16:44"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

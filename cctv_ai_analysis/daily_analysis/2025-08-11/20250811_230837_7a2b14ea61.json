@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-11 23:08:37",
+  "news_info": {
+    "id": "7a2b14ea61",
+    "title": "七国集团攻击抹黑香港特区警方 外交部回应",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTIzmozF0hZIAriU7xGAKbO250811.shtml",
+    "publish_time": "2025-08-11 20:54:20",
+    "summary": "七国集团攻击抹黑香港特区警方 外交部回应"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.72245,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.7,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 2.23
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻涉及国际政治敏感话题，央视作为官方权威媒体发布，具有较高的政策导向性和市场影响力。虽然新闻本身不直接涉及具体经济政策，但可能引发市场对相关安全、外交概念板块的关注。",
+    "policy_impact": "中等偏上，可能间接利好国家安全、军工等相关概念股，但需注意事件后续发展可能带来的市场波动。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "作为军工龙头股，在国际政治局势紧张时往往受到资金关注，符合央视权威报道引发的市场情绪。",
+        "policy_relevance": "高，军工板块与国家安全密切相关",
+        "urgency_level": "中等",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 2,
+        "stock_code": "601606",
+        "stock_name": "长城军工",
+        "recommendation_reason": "地方军工企业，在涉及国家安全议题时可能获得市场关注，且市值较小弹性较大。",
+        "policy_relevance": "中高",
+        "urgency_level": "中等偏低",
+        "confidence_score": 0.72
+      },
+      {
+        "rank": 3,
+        "stock_code": "000768",
+        "stock_name": "中航西飞",
+        "recommendation_reason": "航空军工概念，受益于国防安全主题，且近期技术面表现稳健。",
+        "policy_relevance": "中高",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

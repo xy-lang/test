@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-04 10:20:44",
+  "news_info": {
+    "id": "3e53a98d7a",
+    "title": "这场特别的红色教学成果展在吉林动画学院举行",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250904092850628127205.html",
+    "publish_time": "2025-09-04 09:28:00",
+    "summary": "这场特别的红色教学成果展在吉林动画学院举行"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7591000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.71,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.86
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-04 10:20:44"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

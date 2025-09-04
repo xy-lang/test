@@ -1,0 +1,130 @@
+{
+  "analysis_time": "2025-08-27 23:47:51",
+  "news_info": {
+    "id": "1bb6a341e3",
+    "title": "8月27日上午，瑞梅铁路首座5公里以上的长大隧道——片山庵隧道成功贯通，标志着全线隧道工程取得重大进展。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/27/ARTIAc7PHb0Eex4tzBTHD3HK250827.shtml",
+    "publish_time": "2025-08-27 20:48:00",
+    "summary": "8月27日上午，瑞梅铁路首座5公里以上的长大隧道——片山庵隧道成功贯通，标志着全线隧道工程取得重大进..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7703,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.71,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 2.98
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_name\": \"中国中铁(601390)\",\n      \"comprehensive_score\": 0.88,\n      \"recommendation_reason\": \"作为铁路基建龙头，直接受益于瑞梅铁路重大工程进展。技术面显示强势突破形态，板块强度0.75提供有力支撑，政策受益程度最高，短期催化剂明确。公司作为铁路建设主力军，订单确定性最强。\",\n      \"risk_warning\": \"需关注基建投资节奏变化风险，大盘系统性风险可能影响短期表现\"\n    },\n    {\n      \"stock_name\": \"中国铁建(601186)\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"铁路基建核心标的，技术指标配合良好，市场情绪积极。公司在铁路隧道工程领域技术实力雄厚，与新闻事件高度相关，政策红利持续释放。\",\n      \"risk_warning\": \"估值相对较高，需注意获利回吐压力\"\n    },\n    {\n      \"stock_name\": \"中铁工业(600528)\",\n      \"comprehensive_score\": 0.75,\n      \"recommendation_reason\": \"铁路装备制造龙头企业，受益于铁路基建投资增长。技术面相对稳健，但弹性略低于前两只。公司在隧道施工装备领域具有优势。\",\n      \"risk_warning\": \"业绩兑现需要时间，短期涨幅可能受限\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"technical_validation\": \"板块强度0.75显示基建板块处于相对强势，技术指标平均评分0.75配合良好，市场情绪对基建板块有利\",\n    \"news_relevance\": \"三只股票与铁路基建新闻高度相关，政策受益明显，短期催化剂强度较高\",\n    \"risk_assessment\": \"板块风险中等，个股基本面稳健，市场时机风险需关注大盘整体走势\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601390",
+        "stock_name": "中国中铁",
+        "recommendation_reason": "作为国内铁路建设龙头企业，直接受益于瑞梅铁路等重大基建项目推进，央视新闻的报道印证了公司在手订单充足",
+        "policy_relevance": "高度相关，国家基建政策直接受益者",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "601186",
+        "stock_name": "中国铁建",
+        "recommendation_reason": "铁路工程建设主力军，隧道等专业工程施工能力强，片山庵隧道贯通体现公司在复杂地质条件下的技术优势",
+        "policy_relevance": "高度相关，重大基建项目核心参与者",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600528",
+        "stock_name": "中铁工业",
+        "recommendation_reason": "隧道施工装备龙头企业，为长大隧道工程提供关键设备支持，受益于铁路基建投资持续增长",
+        "policy_relevance": "中度相关，产业链上游设备供应商",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻虽然报道了瑞梅铁路重大工程进展，但作为央视新闻发布的时政要闻，其投资价值主要体现在政策信号层面。新闻本身时效性较差（0分），硬核程度低（0分），但央视新闻的权威性赋予了其政策导向意义，暗示国家在铁路基建领域的持续投入",
+      "policy_impact": "该新闻反映了'交通强国'战略的持续推进，属于国家重大基础设施建设项目。瑞梅铁路作为国家'十四五'规划重点项目，其工程进展预示着相关基建投资将持续落地，对铁路建设、工程机械、建材等产业链形成政策利好",
+      "theme_classification": {
+        "theme_type": "铁路基建/重大工程",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "基础设施建设",
+          "工程机械",
+          "建筑材料"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601390",
+          "stock_name": "中国中铁",
+          "recommendation_reason": "作为国内铁路建设龙头企业，直接受益于瑞梅铁路等重大基建项目推进，央视新闻的报道印证了公司在手订单充足",
+          "policy_relevance": "高度相关，国家基建政策直接受益者",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "601186",
+          "stock_name": "中国铁建",
+          "recommendation_reason": "铁路工程建设主力军，隧道等专业工程施工能力强，片山庵隧道贯通体现公司在复杂地质条件下的技术优势",
+          "policy_relevance": "高度相关，重大基建项目核心参与者",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "600528",
+          "stock_name": "中铁工业",
+          "recommendation_reason": "隧道施工装备龙头企业，为长大隧道工程提供关键设备支持，受益于铁路基建投资持续增长",
+          "policy_relevance": "中度相关，产业链上游设备供应商",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "建筑建材"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成长",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-08-27 23:47:51"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

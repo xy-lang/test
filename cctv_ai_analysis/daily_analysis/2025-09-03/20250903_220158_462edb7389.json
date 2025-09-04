@@ -1,0 +1,52 @@
+{
+  "analysis_time": "2025-09-03 22:01:58",
+  "news_info": {
+    "id": "462edb7389",
+    "title": "9月1日起AI生成合成内容必须添加标识 多家平台已落实",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIUvV62pAXPqCDrH1GkRTC250903.shtml",
+    "publish_time": "2025-09-03 10:54:00",
+    "summary": "9月1日起AI生成合成内容必须添加标识 多家平台已落实"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.67755,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.77,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 11.12
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "计算机"
+    ],
+    "sector_strength": 0.55,
+    "sector_cycle": "成长",
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志",
+      "hardcore_score": 0.6
+    },
+    "analysis_method": "基于AI结果+新闻内容",
+    "analysis_time": "2025-09-03 22:01:58"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

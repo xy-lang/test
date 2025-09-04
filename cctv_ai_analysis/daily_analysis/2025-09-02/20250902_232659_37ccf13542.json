@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-02 23:26:59",
+  "news_info": {
+    "id": "37ccf13542",
+    "title": "暖心夜寻！七旬老人迷路，民警护送回家",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250902212133017490219.html",
+    "publish_time": "2025-09-02 21:21:00",
+    "summary": "暖心夜寻！七旬老人迷路，民警护送回家"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6812,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.56,
+      "persistence": 0.68,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 2.08
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600728\",\n      \"stock_name\": \"佳都科技\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现稳健，板块强度0.60提供支撑，与智慧城市、社会治理题材高度契合，政策受益明确。公司在人工智能+安防领域布局深入，新闻事件凸显社会治理数字化需求，具备短期催化剂\",\n      \"risk_warning\": \"需关注科技板块整体估值风险，市场情绪波动可能影响短期表现\"\n    },\n    {\n      \"stock_code\": \"002230\",\n      \"stock_name\": \"科大讯飞\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"人工智能龙头，技术评分处于合理区间，受益于数字治理和政策支持。在智能语音、智慧城市领域具有技术优势，新闻事件反映的社会治理需求与其业务方向高度匹配\",\n      \"risk_warning\": \"估值相对较高，需警惕技术板块调整风险，基本面需关注业绩兑现情况\"\n    },\n    {\n      \"stock_code\": \"300212\",\n      \"stock_name\": \"易华录\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"数据湖业务与智慧城市治理相关，技术面相对平稳。在数据存储和管理领域有一定优势，符合数字治理趋势，但技术指标表现略弱于前两只\",\n      \"risk_warning\": \"业绩波动性较大，需关注现金流状况，板块轮动可能带来调整压力\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"overall_market_sentiment\": \"中性偏积极\",\n    \"sector_strength_support\": \"科技板块强度0.60提供中等支撑\",\n    \"policy_benefit_level\": \"国家意志驱动，政策受益明确\",\n    \"recommendation_strategy\": \"建议分批建仓，重点关注前两只标的\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600728",
+        "stock_name": "佳都科技",
+        "recommendation_reason": "公司专注于智慧城市解决方案，包括公共安全监控系统，与新闻中民警救助场景相关，受益于社会治理现代化趋势",
+        "policy_relevance": "高 - 符合智慧城市和公共安全建设政策导向",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300212",
+        "stock_name": "易华录",
+        "recommendation_reason": "作为数字城市建设运营商，提供城市数据湖和智慧公安解决方案，与基层社会治理相关",
+        "policy_relevance": "高 - 契合数字中国和智慧城市建设政策",
+        "urgency_level": "中等",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "002230",
+        "stock_name": "科大讯飞",
+        "recommendation_reason": "在智慧城市和人工智能领域布局，技术可用于老年人关怀和公共安全服务",
+        "policy_relevance": "中等 - 符合人工智能赋能社会治理的政策方向",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻属于典型的社会正能量报道，内容为民警帮助迷路老人回家，体现了社会治理和民生关怀。从投资角度看，此类新闻本身不具备直接的投资价值，但反映了社会治理体系和民生保障的重要性。央视新闻的权威性在于其作为国家级媒体的公信力，能够引导社会关注相关议题。",
+      "policy_impact": "该新闻间接反映了国家在基层治理、民生保障和社会服务方面的政策导向。虽然新闻本身不涉及具体政策发布，但体现了社会治理现代化的趋势，可能间接利好相关公共服务、智慧城市、养老产业等领域。",
+      "theme_classification": {
+        "theme_type": "社会治理/民生服务",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "公共服务",
+          "智慧城市",
+          "养老产业"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600728",
+          "stock_name": "佳都科技",
+          "recommendation_reason": "公司专注于智慧城市解决方案，包括公共安全监控系统，与新闻中民警救助场景相关，受益于社会治理现代化趋势",
+          "policy_relevance": "高 - 符合智慧城市和公共安全建设政策导向",
+          "urgency_level": "中等",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300212",
+          "stock_name": "易华录",
+          "recommendation_reason": "作为数字城市建设运营商，提供城市数据湖和智慧公安解决方案，与基层社会治理相关",
+          "policy_relevance": "高 - 契合数字中国和智慧城市建设政策",
+          "urgency_level": "中等",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "002230",
+          "stock_name": "科大讯飞",
+          "recommendation_reason": "在智慧城市和人工智能领域布局，技术可用于老年人关怀和公共安全服务",
+          "policy_relevance": "中等 - 符合人工智能赋能社会治理的政策方向",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-02 23:26:59"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

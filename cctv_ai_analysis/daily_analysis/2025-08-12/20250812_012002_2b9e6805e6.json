@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-12 01:20:02",
+  "news_info": {
+    "id": "2b9e6805e6",
+    "title": "中国汽车工业协会发布数据显示，7月，汽车产销分别完成259.1万辆和259.3万辆，同比分别增长13.3%和14.7%。1—7月，汽车产销分别完成1823.5万辆和1826.9万辆，同比分别增长12.7%和12%。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTID0AYlt8NuZ9JqnRikwoC250811.shtml",
+    "publish_time": "2025-08-12 01:18:26",
+    "summary": "中国汽车工业协会发布数据显示，7月，汽车产销分别完成259.1万辆和259.3万辆，同比分别增长13..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.02
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻由中国汽车工业协会发布并通过央视新闻权威报道，显示汽车行业产销两旺，具有较高的时效性和持续性。央视新闻的权威性将显著提升市场对汽车板块的关注度。",
+    "policy_impact": "虽然新闻中未直接提及政策支持，但汽车行业作为国民经济支柱产业，产销数据的持续增长可能预示着行业景气度提升，存在潜在的政策利好预期。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600104",
+        "stock_name": "上汽集团",
+        "recommendation_reason": "作为国内汽车行业龙头，产销数据增长将直接受益，且央视报道会提升市场关注度。",
+        "policy_relevance": "高，直接受益于行业整体增长",
+        "urgency_level": "高，数据刚发布市场反应窗口期短",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "000625",
+        "stock_name": "长安汽车",
+        "recommendation_reason": "自主品牌销量领先企业，7月产销数据亮眼，符合央视报道的行业趋势。",
+        "policy_relevance": "高，代表自主品牌发展成果",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "601633",
+        "stock_name": "长城汽车",
+        "recommendation_reason": "SUV细分市场龙头，受益于行业整体增长，且近期新能源车型表现突出。",
+        "policy_relevance": "中高，符合汽车产业升级方向",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-14 21:45:30",
+  "news_info": {
+    "id": "3228d41c83",
+    "title": "暑期各地的文旅深度游，吸引了大批游客，享受假日时光，都有哪些好玩的呢？一起去看看。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTIGnmAr48nHx670LFxVYgy250814.shtml",
+    "publish_time": "2025-08-14 19:51:44",
+    "summary": "暑期各地的文旅深度游，吸引了大批游客，享受假日时光，都有哪些好玩的呢？一起去看看。"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.75545,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.89
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有极高的公信力和影响力。本次关于暑期文旅深度游的报道，综合强度评分0.76，表明市场关注度较高且具有持续性。新闻发布1.9小时前，时效性较强(0.80)，虽然未直接提及政策词汇，但文旅消费是当前经济复苏的重点领域。",
+    "policy_impact": "文旅产业是后疫情时代政策重点扶持方向，暑期旅游旺季将直接带动景区、酒店、交通等相关产业链。央视的正面报道可能引发地方政府跟进宣传，形成政策共振效应。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600054",
+        "stock_name": "黄山旅游",
+        "recommendation_reason": "作为5A级景区龙头，深度游产品丰富，直接受益暑期客流增长。央视报道可能引发'网红景区'效应。",
+        "policy_relevance": "高（文旅部重点监测景区）",
+        "urgency_level": "高（暑期旺季已启动）",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "recommendation_reason": "免税购物是深度游重要环节，海南暑期客流预计创新高。央视报道间接强化免税消费预期。",
+        "policy_relevance": "中（消费促进政策受益）",
+        "urgency_level": "中（需观察离岛免税数据）",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "603199",
+        "stock_name": "九华旅游",
+        "recommendation_reason": "佛教文化主题深度游标的，契合报道中'文化体验'需求。近期获机构调研关注。",
+        "policy_relevance": "中（宗教文旅特色）",
+        "urgency_level": "中高（旺季业绩弹性大）",
+        "confidence_score": 0.79
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

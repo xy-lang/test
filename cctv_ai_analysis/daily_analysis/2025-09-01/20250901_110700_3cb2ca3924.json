@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-09-01 11:07:00",
+  "news_info": {
+    "id": "3cb2ca3924",
+    "title": "邢台市中心医院成功救治体重500克宝宝",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901101844642939104.html",
+    "publish_time": "2025-09-01 10:18:00",
+    "summary": "邢台市中心医院成功救治体重500克宝宝"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7525000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.69,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.8
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"技术指标相对稳健，与新生儿救治主题关联度较高，心血管介入器械在新生儿重症监护中具有应用价值，板块强度虽一般但个股具备一定抗跌性\",\n      \"risk_warning\": \"医疗器械集采政策压力持续，估值处于行业中等水平，需关注三季度业绩兑现情况\"\n    },\n    {\n      \"stock_code\": \"002223\",\n      \"stock_name\": \"鱼跃医疗\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"家用医疗设备龙头，制氧机、呼吸机等产品与新生儿重症监护需求存在间接关联，技术面呈现筑底迹象，估值相对合理\",\n      \"risk_warning\": \"海外业务占比提升带来汇率波动风险，消费医疗需求复苏存在不确定性\"\n    },\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.58,\n      \"recommendation_reason\": \"口腔医疗服务龙头，与新闻直接关联度较弱但属于医疗板块，技术面超跌反弹需求较强，具备长期配置价值\",\n      \"risk_warning\": \"高估值仍未完全消化，业绩恢复速度低于预期，需警惕消费降级对高端医疗服务的影响\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.283,\n    \"technical_score\": 0.28,\n    \"overall_assessment\": \"医疗板块整体技术面偏弱，但新闻事件提供短期情绪催化，建议控制仓位谨慎参与\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "央视医疗报道可能提升公众对优质医疗服务的关注度，公司作为口腔医疗龙头有望受益",
+        "policy_relevance": "间接相关，符合健康中国政策导向",
+        "urgency_level": "低",
+        "confidence_score": 0.35
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "新闻体现医疗技术进步，公司心血管器械研发与医疗救治主题有一定关联",
+        "policy_relevance": "一般相关",
+        "urgency_level": "低",
+        "confidence_score": 0.25
+      },
+      {
+        "rank": 3,
+        "stock_code": "002223",
+        "stock_name": "鱼跃医疗",
+        "recommendation_reason": "新生儿救治涉及监护设备等医疗器械，公司家用医疗设备业务存在间接关联",
+        "policy_relevance": "弱相关",
+        "urgency_level": "低",
+        "confidence_score": 0.2
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻虽为央视报道，但内容为地方医院医疗救治案例，投资价值有限。央视权威性虽高，但此新闻缺乏政策导向性和行业影响力，属于常规医疗报道，不具备明显的投资指导意义。",
+      "policy_impact": "低影响。新闻未涉及重大医疗政策或行业改革，仅为单一医院医疗成就展示，对医疗板块政策预期影响微弱。",
+      "theme_classification": {
+        "theme_type": "医疗救治/新生儿科",
+        "hardcore_level": "个股意志",
+        "sustainability_score": 2,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "央视医疗报道可能提升公众对优质医疗服务的关注度，公司作为口腔医疗龙头有望受益",
+          "policy_relevance": "间接相关，符合健康中国政策导向",
+          "urgency_level": "低",
+          "confidence_score": 0.35
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "新闻体现医疗技术进步，公司心血管器械研发与医疗救治主题有一定关联",
+          "policy_relevance": "一般相关",
+          "urgency_level": "低",
+          "confidence_score": 0.25
+        },
+        {
+          "rank": 3,
+          "stock_code": "002223",
+          "stock_name": "鱼跃医疗",
+          "recommendation_reason": "新生儿救治涉及监护设备等医疗器械，公司家用医疗设备业务存在间接关联",
+          "policy_relevance": "弱相关",
+          "urgency_level": "低",
+          "confidence_score": 0.2
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:07:00"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

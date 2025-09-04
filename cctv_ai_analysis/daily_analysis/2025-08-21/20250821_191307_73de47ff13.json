@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-21 19:13:07",
+  "news_info": {
+    "id": "73de47ff13",
+    "title": "《海南自由贸易港跨境资产管理试点业务实施细则》8月21日实施。这一《实施细则》主要内容有哪些？有哪些政策亮点？来看专家的解读。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/21/ARTIJCj4mSw9VNL2fOvpFXe1250821.shtml",
+    "publish_time": "2025-08-21 15:09:00",
+    "summary": "《海南自由贸易港跨境资产管理试点业务实施细则》8月21日实施。这一《实施细则》主要内容有哪些？有哪些..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7703,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.71,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 4.05
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600515\",\n      \"stock_name\": \"海南发展\",\n      \"comprehensive_score\": 0.92,\n      \"recommendation_reason\": \"直接受益于海南自贸港跨境资产管理试点政策，作为海南本地金融基础设施和国资背景企业，政策关联度最高。技术评分0.88，处于强势突破形态，成交量配合良好，短期催化剂明确。\",\n      \"risk_warning\": \"需关注政策落地进度不及预期风险，以及海南区域经济波动对业绩的影响\"\n    },\n    {\n      \"stock_code\": \"601688\",\n      \"stock_name\": \"华泰证券\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"作为头部券商，在跨境资产管理业务方面具备先发优势和技术储备，政策受益程度较高。技术评分0.84，板块强度0.833提供支撑，估值处于合理区间。\",\n      \"risk_warning\": \"受证券市场波动影响较大，需关注市场交易活跃度变化和监管政策调整\"\n    },\n    {\n      \"stock_code\": \"000776\",\n      \"stock_name\": \"广发证券\",\n      \"comprehensive_score\": 0.82,\n      \"recommendation_reason\": \"在财富管理和跨境业务领域布局较早，政策匹配度良好。技术评分0.82，相对强度指标显示处于上升趋势，但需突破关键阻力位。\",\n      \"risk_warning\": \"同业竞争激烈，需关注业务转型进度和市场份额变化风险\"\n    }\n  ],\n  \"market_analysis\": {\n    \"sector_strength\": 0.833,\n    \"market_sentiment\": \"积极\",\n    \"technical_indicator_support\": \"良好\",\n    \"overall_risk_level\": \"中等\"\n  },\n  \"additional_notes\": \"建议重点关注政策实施后的具体业务落地情况，以及相关公司的业绩兑现能力。跨境资产管理试点作为金融开放重要举措，中长期发展空间较大。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600515",
+        "stock_name": "海南发展",
+        "recommendation_reason": "作为海南本地金融基础设施重要参与者，直接受益于跨境资管业务发展，央视新闻发布后市场关注度将显著提升",
+        "policy_relevance": "高度相关，公司业务与海南金融开放政策紧密对接",
+        "urgency_level": "高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 2,
+        "stock_code": "601688",
+        "stock_name": "华泰证券",
+        "recommendation_reason": "头部券商在跨境资管领域布局领先，海南政策红利将直接提升其资管业务竞争力，央视权威报道增强政策可信度",
+        "policy_relevance": "较强相关，跨境资管试点主要受益券商",
+        "urgency_level": "中高",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 3,
+        "stock_code": "000776",
+        "stock_name": "广发证券",
+        "recommendation_reason": "资管业务实力突出，在海南已有布局，政策实施将带来业务增量机会，央视新闻的权威发布强化政策落地预期",
+        "policy_relevance": "中等相关，受益于行业整体政策红利",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及海南自贸港跨境资产管理试点实施细则的正式实施，属于重大政策落地事件。虽然第一时间性评分较低（政策已提前预期），但央视新闻作为国家级权威媒体发布，具有政策风向标意义，对资本市场具有重要指导作用。",
+      "policy_impact": "该政策将显著提升海南自贸港的金融开放水平，为跨境资产管理业务提供制度保障，预计将吸引大量资管机构和资金入驻海南，对相关金融机构和海南本地企业形成实质性利好。",
+      "theme_classification": {
+        "theme_type": "海南自贸港+金融开放",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 8,
+        "related_sectors": [
+          "证券",
+          "银行",
+          "海南区域板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600515",
+          "stock_name": "海南发展",
+          "recommendation_reason": "作为海南本地金融基础设施重要参与者，直接受益于跨境资管业务发展，央视新闻发布后市场关注度将显著提升",
+          "policy_relevance": "高度相关，公司业务与海南金融开放政策紧密对接",
+          "urgency_level": "高",
+          "confidence_score": 0.82
+        },
+        {
+          "rank": 2,
+          "stock_code": "601688",
+          "stock_name": "华泰证券",
+          "recommendation_reason": "头部券商在跨境资管领域布局领先，海南政策红利将直接提升其资管业务竞争力，央视权威报道增强政策可信度",
+          "policy_relevance": "较强相关，跨境资管试点主要受益券商",
+          "urgency_level": "中高",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 3,
+          "stock_code": "000776",
+          "stock_name": "广发证券",
+          "recommendation_reason": "资管业务实力突出，在海南已有布局，政策实施将带来业务增量机会，央视新闻的权威发布强化政策落地预期",
+          "policy_relevance": "中等相关，受益于行业整体政策红利",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-21 19:13:07"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

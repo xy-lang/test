@@ -1,0 +1,82 @@
+{
+  "analysis_time": "2025-09-01 00:26:32",
+  "news_info": {
+    "id": "8f06ed8bf3",
+    "title": "8月31日体彩中奖号码",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250831234442929551882.html",
+    "publish_time": "2025-08-31 23:44:00",
+    "summary": "8月31日体彩中奖号码"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7261000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.61,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.7
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"000000\",\n      \"stock_name\": \"无推荐股票\",\n      \"comprehensive_score\": 0.10,\n      \"recommendation_reason\": \"基于技术分析数据显示板块强度仅为0.10，技术评分0.10处于极低水平，且新闻内容为体彩中奖信息，与股市投资无直接关联性，缺乏政策受益和短期催化剂。市场情绪和技术指标均不支持任何具体股票推荐。\",\n      \"risk_warning\": \"当前市场缺乏明确投资主题，板块强度极弱，技术面表现不佳。新闻内容与股市无相关性，不存在政策利好或短期催化因素。建议保持观望，避免盲目投资。\"\n    }\n  ],\n  \"analysis_summary\": \"经综合评估，技术指标显示市场整体疲弱（板块强度0.10），新闻内容与股票市场无实质关联，缺乏投资主题和催化剂。风险评估显示当前市场时机不佳，建议保持谨慎态度。\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "000000",
+        "stock_name": "无推荐股票",
+        "recommendation_reason": "该新闻为常规体彩开奖公告，不具备投资指导价值，不建议基于此类信息进行投资决策",
+        "policy_relevance": "无关联",
+        "urgency_level": "无紧急程度",
+        "confidence_score": 0.0
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为常规体彩开奖信息公告，属于公共服务性质内容，不具备投资指导价值。央视新闻的权威性在此类常规公告中主要体现在信息发布的准确性和及时性，但对资本市场无直接影响。新闻评分极低（第一时间性0/10、硬核程度0/10、持续性0/10），表明其不具备投资参考意义。",
+      "policy_impact": "无实质性政策影响。体彩开奖属于日常运营公告，不涉及政策调整或行业变革。国家彩票政策保持稳定，此类常规开奖信息对资本市场无政策导向作用。",
+      "theme_classification": {
+        "theme_type": "无投资主题",
+        "hardcore_level": "无相关意志体现",
+        "sustainability_score": 0,
+        "related_sectors": [
+          "无相关板块"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "000000",
+          "stock_name": "无推荐股票",
+          "recommendation_reason": "该新闻为常规体彩开奖公告，不具备投资指导价值，不建议基于此类信息进行投资决策",
+          "policy_relevance": "无关联",
+          "urgency_level": "无紧急程度",
+          "confidence_score": 0.0
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 00:26:32"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

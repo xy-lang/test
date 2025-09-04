@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-14 15:13:53",
+  "news_info": {
+    "id": "bda9ba6abc",
+    "title": "个人消费贷款财政贴息政策助力降低居民消费信贷成本，释放居民消费潜力。那么消费者究竟能得到多少实惠，对此有何反应？金融机构如何部署？一起来做详细了解。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://jingji.cctv.com/2025/08/14/ARTIivyOkbIHGcNakFOuybZ2250814.shtml",
+    "publish_time": "2025-08-14 15:12:18",
+    "summary": "个人消费贷款财政贴息政策助力降低居民消费信贷成本，释放居民消费潜力。那么消费者究竟能得到多少实惠，对..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.8383,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.71,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 0.02
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其发布的个人消费贷款财政贴息政策具有极高的政策导向性和市场影响力。0.84的综合强度评分表明该政策将对消费金融领域产生显著且持续的推动作用。",
+    "policy_impact": "该政策将直接降低居民消费信贷成本，刺激消费需求，利好消费金融、零售银行及相关消费板块。金融机构将加速布局消费信贷业务，带来业绩增长预期。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601318",
+        "stock_name": "中国平安",
+        "recommendation_reason": "作为综合金融集团，旗下平安银行将显著受益于消费信贷政策松绑，且集团保险业务与消费复苏正相关",
+        "policy_relevance": "直接受益于消费金融政策放宽，集团多业务协同效应",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "600036",
+        "stock_name": "招商银行",
+        "recommendation_reason": "零售银行龙头，消费金融业务占比高，政策将直接提升其信贷规模和资产质量",
+        "policy_relevance": "核心业务与政策高度契合，零售银行标杆",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 3,
+        "stock_code": "000333",
+        "stock_name": "美的集团",
+        "recommendation_reason": "家电消费龙头，政策刺激下家电更新换代需求有望释放，叠加消费金融支持",
+        "policy_relevance": "终端消费受益标的，与消费信贷政策形成联动",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

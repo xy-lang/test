@@ -1,0 +1,99 @@
+{
+  "analysis_time": "2025-08-18 11:01:42",
+  "news_info": {
+    "id": "adee5a3b34",
+    "title": "我们走进美丽的花园城市——厦门，那里风光旖旎的海岸风景和雕梁画栋的闽南建筑，是这座城市目之所及的“美丽”，其背后独特的垃圾处理模式，正在把这座城市的一些“不美丽”，也变成“美丽”。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIBvg2FYLE4fMfeZyKGc0J250817.shtml",
+    "publish_time": "2025-08-18 11:00:00",
+    "summary": "我们走进美丽的花园城市——厦门，那里风光旖旎的海岸风景和雕梁画栋的闽南建筑，是这座城市目之所及的“美..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道具有高度公信力和政策导向性。本次报道聚焦厦门城市环境治理和垃圾处理创新模式，体现了国家对于生态文明建设和城市可持续发展的重视。0.82的高综合评分表明该新闻具有较强时效性和政策相关性。",
+    "policy_impact": "该报道暗示环保产业和城市固废处理领域可能获得政策支持，相关企业有望受益于城市环境治理升级需求。厦门作为示范城市，其本地环保企业可能获得更多项目机会。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600388",
+        "stock_name": "龙净环保",
+        "recommendation_reason": "作为福建本地环保龙头企业，在固废处理领域具有技术优势，可能直接受益于厦门环境治理项目",
+        "policy_relevance": "高度相关，主营大气污染治理和固废处理",
+        "urgency_level": "高",
+        "confidence_score": 0.88
+      },
+      {
+        "rank": 2,
+        "stock_code": "000826",
+        "stock_name": "启迪环境",
+        "recommendation_reason": "专业从事城市固废处理和环境服务，技术实力雄厚，符合报道中垃圾处理创新模式的主题",
+        "policy_relevance": "高度相关，固废处理全产业链布局",
+        "urgency_level": "中高",
+        "confidence_score": 0.82
+      },
+      {
+        "rank": 3,
+        "stock_code": "603588",
+        "stock_name": "高能环境",
+        "recommendation_reason": "在生活垃圾处理领域具有丰富经验，可能参与厦门环境治理项目",
+        "policy_relevance": "相关，固废处理和环境修复业务",
+        "urgency_level": "中",
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  "sector_analysis": {
+    "related_sectors": [
+      "建筑建材"
+    ],
+    "sector_strength": 0.445,
+    "sector_details": [
+      {
+        "sector_name": "建筑建材",
+        "三要素评分": {
+          "政策支持度": 0.3,
+          "资金流入度": 0.5,
+          "技术成熟度": 0.6
+        },
+        "综合竞争力": 0.445,
+        "原始数据": {
+          "当前价格": 0,
+          "涨跌幅": 0,
+          "净流入": 0,
+          "成交额": 0,
+          "换手率": 0
+        },
+        "更新时间": "2025-08-18 11:01:42"
+      }
+    ],
+    "sector_comparison": {},
+    "sector_recommendations": {},
+    "theme_info": {
+      "theme_type": "未知题材",
+      "hardcore_level": "行业意志"
+    },
+    "analysis_time": "2025-08-18 11:01:42"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

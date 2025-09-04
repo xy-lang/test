@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-08-19 12:17:44",
+  "news_info": {
+    "id": "309d12a32f",
+    "title": "上合组织峰会临近，天津的城市景观氛围布置逐渐到位，处处洋溢着喜庆的氛围。全新提升的地标、景点，成为了市民休闲娱乐、打卡分享的新热点。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTI0MGXVzd2i71jIePdV6tI250819.shtml",
+    "publish_time": "2025-08-19 16:24:00",
+    "summary": "上合组织峰会临近，天津的城市景观氛围布置逐渐到位，处处洋溢着喜庆的氛围。全新提升的地标、景点，成为了..."
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -4.12
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"600717\",\n      \"stock_name\": \"天津港\",\n      \"composite_score\": 0.82,\n      \"recommendation_reason\": \"1. 技术面：板块强度0.743支撑良好，近期成交量温和放大，MACD金叉形态\\n2. 事件驱动：作为天津核心港口直接受益于上合峰会带来的物流及贸易预期提升\\n3. 政策支持：京津冀协同发展重要枢纽，符合'国家意志'硬核等级\\n4. 风险收益比：PB仅0.8倍低于行业平均，具备安全边际\",\n      \"risk_warning\": \"1. 外贸数据波动可能影响港口吞吐量\\n2. 需警惕会前利好兑现后的回调风险\"\n    },\n    {\n      \"stock_code\": \"000652\",\n      \"stock_name\": \"泰达股份\",\n      \"composite_score\": 0.76,\n      \"recommendation_reason\": \"1. 技术面：周线级别突破年线压力，RSI指标进入强势区间\\n2. 属地优势：实际控制人为天津泰达控股，深度参与本地基建与环保项目\\n3. 题材叠加：环保+金融+区域开发多概念共振\\n4. 资金关注：近5日主力资金净流入排名板块前20%\",\n      \"risk_warning\": \"1. 多元化经营导致业绩波动较大\\n2. 需观察20日均线支撑有效性\"\n    },\n    {\n      \"stock_code\": \"600082\",\n      \"stock_name\": \"海泰发展\",\n      \"composite_score\": 0.68,\n      \"recommendation_reason\": \"1. 技术面：日线形成上升通道但量能配合不足，技术评分0.65略低于平均水平\\n2. 园区开发：受益于峰会带来的招商引资预期\\n3. 市值优势：流通市值不足30亿更易受游资关注\",\n      \"risk_warning\": \"1. 近三年ROE持续低于5%\\n2. 需警惕小市值股票的高波动风险\"\n    }\n  ],\n  \"market_context\": {\n    \"technical_environment\": \"板块技术评分0.74处于中性偏强区间，MACD指标显示短期仍有上行动能，但需关注上证指数3050点关键压力位\",\n    \"event_timeline\": \"上合峰会倒计时15天，建议重点关注会前10天的政策催化窗口\",\n    \"optimal_strategy\": \"建议采用'龙头股+弹性品种'组合配置，天津港(60%)+泰达股份(40%)的配比平衡风险收益\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600717",
+        "stock_name": "天津港",
+        "recommendation_reason": "作为天津核心基础设施，将直接受益于国际会议带来的物流升级和形象提升。央视报道中特别提到城市地标提升。",
+        "policy_relevance": "高",
+        "urgency_level": "中高",
+        "confidence_score": 0.78
+      },
+      {
+        "rank": 2,
+        "stock_code": "000652",
+        "stock_name": "泰达股份",
+        "recommendation_reason": "天津本土城市运营企业，承担市政工程和景观改造项目。新闻中明确提到城市景观布置到位。",
+        "policy_relevance": "高",
+        "urgency_level": "中",
+        "confidence_score": 0.72
+      },
+      {
+        "rank": 3,
+        "stock_code": "600082",
+        "stock_name": "海泰发展",
+        "recommendation_reason": "天津高新区开发运营商，受益于会议带来的招商引资机会和区域价值重估。",
+        "policy_relevance": "中高",
+        "urgency_level": "中",
+        "confidence_score": 0.68
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻属于重大国际会议筹备报道，虽然内容本身时效性较短，但作为央视新闻发布的时政要闻，具有较高的权威性和政策导向性。上合组织峰会的举办将直接提升天津的城市形象和基础设施建设需求。",
+      "policy_impact": "高规格国际会议将带来1)城市基建升级2)文旅消费提升3)区域经济提振三重政策红利，相关配套政策可能持续到峰会结束后一段时间。",
+      "theme_classification": {
+        "theme_type": "事件驱动型/政策受益型",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "基建工程",
+          "文化旅游",
+          "城市运营"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600717",
+          "stock_name": "天津港",
+          "recommendation_reason": "作为天津核心基础设施，将直接受益于国际会议带来的物流升级和形象提升。央视报道中特别提到城市地标提升。",
+          "policy_relevance": "高",
+          "urgency_level": "中高",
+          "confidence_score": 0.78
+        },
+        {
+          "rank": 2,
+          "stock_code": "000652",
+          "stock_name": "泰达股份",
+          "recommendation_reason": "天津本土城市运营企业，承担市政工程和景观改造项目。新闻中明确提到城市景观布置到位。",
+          "policy_relevance": "高",
+          "urgency_level": "中",
+          "confidence_score": 0.72
+        },
+        {
+          "rank": 3,
+          "stock_code": "600082",
+          "stock_name": "海泰发展",
+          "recommendation_reason": "天津高新区开发运营商，受益于会议带来的招商引资机会和区域价值重估。",
+          "policy_relevance": "中高",
+          "urgency_level": "中",
+          "confidence_score": 0.68
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 12:17:44"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

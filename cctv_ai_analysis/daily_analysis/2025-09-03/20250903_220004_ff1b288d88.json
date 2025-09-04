@@ -1,0 +1,122 @@
+{
+  "analysis_time": "2025-09-03 22:00:04",
+  "news_info": {
+    "id": "ff1b288d88",
+    "title": "九三阅兵高清大图合集（收藏版）",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/09/03/ARTIqvL4KMXLEiNjQw5YMwFk250903.shtml",
+    "publish_time": "2025-09-03 12:40:00",
+    "summary": "九三阅兵高清大图合集（收藏版）"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.63795,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.65,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 9.32
+    }
+  },
+  "ai_analysis": {
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600760",
+        "stock_name": "中航沈飞",
+        "recommendation_reason": "央视阅兵报道展示的主战装备多由公司参与生产，作为战斗机龙头直接受益装备列装提速",
+        "policy_relevance": "直接对应军工装备现代化政策",
+        "urgency_level": "中期布局",
+        "confidence_score": 0.75,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 2,
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "recommendance_reason": "阅兵中航空装备凸显发动机国产化重要性，公司作为航发龙头受益于军民融合深度发展",
+        "policy_relevance": "高端装备自主可控核心标的",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.7,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      },
+      {
+        "rank": 3,
+        "stock_code": "002465",
+        "stock_name": "海格通信",
+        "recommendation_reason": "阅兵通信保障涉及军用通信设备，公司作为军用通信龙头受益国防信息化建设",
+        "policy_relevance": "军工电子信息化政策受益",
+        "urgency_level": "中长期配置",
+        "confidence_score": 0.65,
+        "confidence": 0.5,
+        "fallback_enhanced": true
+      }
+    ],
+    "stage2_status": "fallback_enhanced",
+    "fallback_reason": "使用规则增强的第一阶段结果",
+    "enhancement_applied": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为九三阅兵高清图集，虽时效性较弱但具有重要政治象征意义。央视新闻作为国家级媒体平台，其发布的阅兵相关内容具有高度权威性和传播力，能够强化国防军工、军民融合等国家战略主题的市场关注度。",
+      "policy_impact": "阅兵事件体现国家军事现代化建设成果，直接关联国防军工产业政策支持。十四五规划明确强调军工科技自主创新，此类新闻会提振市场对军工板块的政策预期，特别是装备现代化和军民融合领域。",
+      "theme_classification": {
+        "theme_type": "国防军工/军民融合",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "国防军工",
+          "航空航天",
+          "高端装备制造"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600760",
+          "stock_name": "中航沈飞",
+          "recommendation_reason": "央视阅兵报道展示的主战装备多由公司参与生产，作为战斗机龙头直接受益装备列装提速",
+          "policy_relevance": "直接对应军工装备现代化政策",
+          "urgency_level": "中期布局",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600893",
+          "stock_name": "航发动力",
+          "recommendance_reason": "阅兵中航空装备凸显发动机国产化重要性，公司作为航发龙头受益于军民融合深度发展",
+          "policy_relevance": "高端装备自主可控核心标的",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "002465",
+          "stock_name": "海格通信",
+          "recommendation_reason": "阅兵通信保障涉及军用通信设备，公司作为军用通信龙头受益国防信息化建设",
+          "policy_relevance": "军工电子信息化政策受益",
+          "urgency_level": "中长期配置",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 22:00:04"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

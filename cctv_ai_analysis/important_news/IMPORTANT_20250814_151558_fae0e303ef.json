@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-14 15:15:58",
+  "news_info": {
+    "id": "fae0e303ef",
+    "title": "当地时间8月13日，委内瑞拉外长希尔驳斥美国司法部长邦迪关于“没收”委总统马杜罗“资产”的最新言论。",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/14/ARTIhd6FnIJ5C1qTOjbV9Mns250814.shtml",
+    "publish_time": "2025-08-14 15:12:18",
+    "summary": "当地时间8月13日，委内瑞拉外长希尔驳斥美国司法部长邦迪关于“没收”委总统马杜罗“资产”的最新言论。"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.82345,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.8,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.05
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻涉及国际政治敏感话题，央视新闻作为官方权威媒体发布，具有较高的政策导向性和权威性。虽然直接涉及A股的政策词为0，但国际政治局势变化可能影响相关板块。",
+    "policy_impact": "国际政治局势紧张可能利好国防军工、能源安全等相关板块，但直接政策影响有限。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600893",
+        "stock_name": "航发动力",
+        "recommendation_reason": "国际局势紧张可能提升国防军工板块关注度，该公司是航空发动机龙头",
+        "policy_relevance": "间接相关，国防安全主题",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "recommendation_reason": "地缘政治风险可能影响油价，利好能源板块",
+        "policy_relevance": "间接相关，能源安全主题",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "600150",
+        "stock_name": "中国船舶",
+        "recommendation_reason": "国际局势变化可能提升军工船舶需求",
+        "policy_relevance": "间接相关，国防军工主题",
+        "urgency_level": "中等",
+        "confidence_score": 0.65
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

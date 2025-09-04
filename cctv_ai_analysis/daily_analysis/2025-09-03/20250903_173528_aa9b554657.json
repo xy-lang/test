@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-09-03 17:35:28",
+  "news_info": {
+    "id": "aa9b554657",
+    "title": "从中考256分到国赛奖台 湖工职院新生周宇翔的“别样青春”",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250903172008526947160.html",
+    "publish_time": "2025-09-03 17:20:00",
+    "summary": "从中考256分到国赛奖台 湖工职院新生周宇翔的“别样青春”"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7855000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.79,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.24
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-03 17:35:28"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

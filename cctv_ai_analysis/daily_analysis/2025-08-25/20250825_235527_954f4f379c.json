@@ -1,0 +1,121 @@
+{
+  "analysis_time": "2025-08-25 23:55:27",
+  "news_info": {
+    "id": "954f4f379c",
+    "title": "伊朗与英法德将于26日开启新一轮会谈",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTI3teh9DfUcZ75QGM3hdFE250825.shtml",
+    "publish_time": "2025-08-25 22:39:07",
+    "summary": "伊朗与英法德将于26日开启新一轮会谈"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.71585,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.665,
+      "persistence": 0.68,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 1.26
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"601857\",\n      \"stock_name\": \"中国石油\",\n      \"comprehensive_score\": 0.85,\n      \"recommendation_reason\": \"地缘政治事件直接利好能源板块，伊朗会谈可能影响全球石油供应格局。技术评分0.78，板块强度0.717支撑良好，作为国内石油龙头直接受益于能源安全政策，短期催化剂明确。\",\n      \"risk_warning\": \"国际油价波动风险，会谈结果不确定性，大盘系统性风险\"\n    },\n    {\n      \"stock_code\": \"600028\",\n      \"stock_name\": \"中国石化\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"化工板块强度支撑，技术评分0.75表现稳定。作为一体化能源化工企业，既受益于石油价格上涨预期，又具备下游化工业务多元化优势，政策受益程度较高。\",\n      \"risk_warning\": \"化工行业周期性风险，原材料成本波动，环保政策影响\"\n    },\n    {\n      \"stock_code\": \"601989\",\n      \"stock_name\": \"中国重工\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"虽然属于军工板块间接受益地缘政治事件，但技术评分0.63相对较弱，与新闻的直接关联度较低。主要逻辑为能源运输设备需求预期提升。\",\n      \"risk_warning\": \"军工板块波动性较大，订单执行周期长，与新闻事件关联度相对间接\"\n    }\n  ],\n  \"analysis_summary\": {\n    \"total_recommended\": 3,\n    \"average_score\": 0.76,\n    \"primary_sector\": \"能源/化工\",\n    \"market_timing\": \"短期利好，需关注会谈进展和油价走势\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601857",
+        "stock_name": "中国石油",
+        "recommendation_reason": "央视报道伊朗核会谈直接影响国际油价，中国石油作为国内油气龙头，油价波动对其业绩影响显著。若会谈顺利伊朗原油重返市场，可能压制油价但增加供应来源",
+        "policy_relevance": "高度相关，直接受地缘政治和能源政策影响",
+        "urgency_level": "中等",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "recommendation_reason": "石化行业对原油价格敏感，伊朗局势变化影响原油成本和炼油利润。央视权威报道预示政策方向变化",
+        "policy_relevance": "高度相关，能源政策直接影响企业成本结构",
+        "urgency_level": "中等",
+        "confidence_score": 0.7
+      },
+      {
+        "rank": 3,
+        "stock_code": "601989",
+        "stock_name": "中国重工",
+        "recommendation_reason": "中东地缘政治紧张可能推动国防需求，海军装备需求提升。央视报道的权威性强化政策信号",
+        "policy_relevance": "中度相关，地缘政治影响国防安全需求",
+        "urgency_level": "一般",
+        "confidence_score": 0.65
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻涉及伊朗与英法德核问题会谈，属于重大地缘政治事件。虽然评分显示第一时间性、硬核程度和持续性均为0分，但央视新闻作为国家级权威媒体发布此类消息，往往预示着重要政策信号。伊朗核问题会谈直接影响全球能源供应格局和地缘政治稳定，具有重要投资参考价值。",
+      "policy_impact": "伊朗核协议进展将直接影响国际原油供应格局。若会谈取得突破，伊朗原油出口限制可能放宽，对全球油价形成压制；反之则可能推高油价。同时涉及中东地缘政治稳定，影响相关贸易和投资环境。",
+      "theme_classification": {
+        "theme_type": "地缘政治/能源安全",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "石油石化",
+          "能源",
+          "国防军工",
+          "国际贸易"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601857",
+          "stock_name": "中国石油",
+          "recommendation_reason": "央视报道伊朗核会谈直接影响国际油价，中国石油作为国内油气龙头，油价波动对其业绩影响显著。若会谈顺利伊朗原油重返市场，可能压制油价但增加供应来源",
+          "policy_relevance": "高度相关，直接受地缘政治和能源政策影响",
+          "urgency_level": "中等",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600028",
+          "stock_name": "中国石化",
+          "recommendation_reason": "石化行业对原油价格敏感，伊朗局势变化影响原油成本和炼油利润。央视权威报道预示政策方向变化",
+          "policy_relevance": "高度相关，能源政策直接影响企业成本结构",
+          "urgency_level": "中等",
+          "confidence_score": 0.7
+        },
+        {
+          "rank": 3,
+          "stock_code": "601989",
+          "stock_name": "中国重工",
+          "recommendation_reason": "中东地缘政治紧张可能推动国防需求，海军装备需求提升。央视报道的权威性强化政策信号",
+          "policy_relevance": "中度相关，地缘政治影响国防安全需求",
+          "urgency_level": "一般",
+          "confidence_score": 0.65
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 23:55:27"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

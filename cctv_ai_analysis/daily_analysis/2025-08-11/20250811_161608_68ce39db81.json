@@ -1,0 +1,63 @@
+{
+  "analysis_time": "2025-08-11 16:16:08",
+  "news_info": {
+    "id": "68ce39db81",
+    "title": "甘肃榆中救灾救助工作平稳有序进行",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/11/ARTI7eXVQowkSwzMrxMdVrfQ250811.shtml",
+    "publish_time": "2025-08-11 16:14:55",
+    "summary": "甘肃榆中救灾救助工作平稳有序进行"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.77725,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.66,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.01
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "该新闻涉及甘肃榆中救灾救助工作，虽然属于地方性事件，但由央视新闻发布具有较高权威性。综合强度0.78表明该新闻具有一定影响力，但政策词缺失显示直接政策关联度不高。",
+    "policy_impact": "救灾救助工作属于民生保障范畴，可能间接利好基建、医疗救援等相关行业，但缺乏直接政策支持信号。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600056",
+        "stock_name": "中国医药",
+        "recommendation_reason": "作为央企医药流通龙头，可能参与灾区医疗物资供应",
+        "policy_relevance": "中高 - 医疗救援与救灾工作直接相关",
+        "urgency_level": "中等 - 需观察后续物资调配情况",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "601800",
+        "stock_name": "中国交建",
+        "recommendation_reason": "央企基建龙头，可能参与灾区基础设施修复",
+        "policy_relevance": "中等 - 基建与灾后重建相关",
+        "urgency_level": "中低 - 需等待具体重建规划",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "600028",
+        "stock_name": "中国石化",
+        "recommendation_reason": "能源保障央企，可能负责灾区能源供应稳定",
+        "policy_relevance": "中低 - 能源保障是救灾基础工作",
+        "urgency_level": "低 - 属于常规保障范畴",
+        "confidence_score": 0.6
+      }
+    ]
+  },
+  "system_info": {
+    "monitor_version": "1.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring"
+  }
+}

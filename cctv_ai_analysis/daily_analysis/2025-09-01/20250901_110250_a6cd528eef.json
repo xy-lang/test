@@ -1,0 +1,120 @@
+{
+  "analysis_time": "2025-09-01 11:02:50",
+  "news_info": {
+    "id": "a6cd528eef",
+    "title": "以热爱奔赴使命，用坚守诠释担当——记平度市第三人民医院优秀医师李素芬",
+    "source": "头条新闻-头条新闻",
+    "category": "时政要闻",
+    "url": "https://mini.eastday.com/mobile/250901102959010858943.html",
+    "publish_time": "2025-09-01 10:29:00",
+    "summary": "以热爱奔赴使命，用坚守诠释担当——记平度市第三人民医院优秀医师李素芬"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7888000000000001,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.56,
+      "persistence": 0.8,
+      "source_weight": 0.8,
+      "policy_hits": 0,
+      "hours_since_publish": 0.55
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock_code\": \"300003\",\n      \"stock_name\": \"乐普医疗\",\n      \"comprehensive_score\": 0.78,\n      \"recommendation_reason\": \"技术面表现最佳，板块强度0.617提供支撑，与基层医疗新闻高度契合。公司心血管器械和基层医疗布局完善，受益于分级诊疗政策推进，短期催化剂明确。技术指标显示突破形态，成交量配合良好。\",\n      \"risk_warning\": \"需关注集采政策对医疗器械价格的影响，以及市场竞争加剧风险\"\n    },\n    {\n      \"stock_code\": \"600763\",\n      \"stock_name\": \"通策医疗\",\n      \"comprehensive_score\": 0.72,\n      \"recommendation_reason\": \"口腔医疗龙头，与优秀医师主题形成间接关联。技术评分中等偏上，受益于消费医疗复苏趋势。公司在基层口腔医疗领域布局深入，符合新闻体现的基层医疗发展方向。\",\n      \"risk_warning\": \"估值相对较高，对消费复苏敏感度大，需注意业绩兑现风险\"\n    },\n    {\n      \"stock_code\": \"603883\",\n      \"stock_name\": \"老百姓\",\n      \"comprehensive_score\": 0.65,\n      \"recommendation_reason\": \"医药零售龙头，受益于处方外流和基层医疗发展。与新闻关联度中等，但基本面稳健。技术指标显示震荡整理态势，等待突破信号。\",\n      \"risk_warning\": \"零售行业竞争激烈，毛利率承压，需关注同店增长数据\"\n    }\n  ],\n  \"overall_analysis\": {\n    \"sector_strength\": 0.617,\n    \"market_sentiment\": \"中性偏积极\",\n    \"policy_benefit_level\": \"中等\",\n    \"risk_assessment\": \"板块风险中等，医疗政策变化需重点关注；个股基本面风险可控；市场时机风险中等，建议分批布局\"\n  }\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "600763",
+        "stock_name": "通策医疗",
+        "recommendation_reason": "作为口腔医疗龙头，受益于基层医疗体系建设政策导向，央视正面报道有助于提升医疗板块关注度",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 2,
+        "stock_code": "300003",
+        "stock_name": "乐普医疗",
+        "recommendation_reason": "心血管医疗器械龙头，基层医疗市场布局深入，符合国家分级诊疗政策方向",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      },
+      {
+        "rank": 3,
+        "stock_code": "603883",
+        "stock_name": "老百姓",
+        "recommendation_reason": "连锁药店龙头，基层医疗服务重要组成部分，受益于医药分开和基层医疗发展",
+        "policy_relevance": "中等",
+        "urgency_level": "低",
+        "confidence_score": 0.55
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage2_fallback": true,
+    "stage1_rough": {
+      "news_analysis": "该新闻为地方医疗工作者典型事迹报道，属于常规性正面宣传，投资价值有限。央视新闻的权威性虽高，但此类报道主要体现舆论导向价值，缺乏实质性政策信号或行业变革信息。新闻时效性、硬核程度和持续性评分均为0，表明其短期投资指引作用较弱。",
+      "policy_impact": "该新闻反映了国家持续推进基层医疗建设的政策导向，但未包含新的政策突破或资金支持信息。主要体现为对医疗行业正能量的宣传，对二级市场影响较为间接。建议关注后续可能出台的基层医疗配套政策。",
+      "theme_classification": {
+        "theme_type": "医疗健康/基层医疗",
+        "hardcore_level": "行业意志",
+        "sustainability_score": 3,
+        "related_sectors": [
+          "医疗服务",
+          "医疗器械",
+          "医药商业"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "600763",
+          "stock_name": "通策医疗",
+          "recommendation_reason": "作为口腔医疗龙头，受益于基层医疗体系建设政策导向，央视正面报道有助于提升医疗板块关注度",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 2,
+          "stock_code": "300003",
+          "stock_name": "乐普医疗",
+          "recommendation_reason": "心血管医疗器械龙头，基层医疗市场布局深入，符合国家分级诊疗政策方向",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        },
+        {
+          "rank": 3,
+          "stock_code": "603883",
+          "stock_name": "老百姓",
+          "recommendation_reason": "连锁药店龙头，基层医疗服务重要组成部分，受益于医药分开和基层医疗发展",
+          "policy_relevance": "中等",
+          "urgency_level": "低",
+          "confidence_score": 0.55
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-09-01 11:02:50"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "analysis_time": "2025-08-25 21:58:41",
+  "news_info": {
+    "id": "c2c577e2d9",
+    "title": "营商环境取得明显成效 数说“十四五”口岸发展成就",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/25/ARTIKNdAOn6oPBvFgxJVHzir250825.shtml",
+    "publish_time": "2025-08-25 17:30:00",
+    "summary": "营商环境取得明显成效 数说“十四五”口岸发展成就"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.7505,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.8,
+      "hardness": 0.71,
+      "persistence": 0.74,
+      "source_weight": 0.95,
+      "policy_hits": 1,
+      "hours_since_publish": 1.97
+    }
+  },
+  "ai_analysis": {
+    "status": "error",
+    "error": "HTTPSConnectionPool(host='api.deepseek.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000216BF4B59D0>: Failed to resolve 'api.deepseek.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-25 21:58:38"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "analysis_time": "2025-08-19 14:31:31",
+  "news_info": {
+    "id": "8656c01479",
+    "title": "上合峰会氛围渐浓 城市焕新喜迎来客",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/19/ARTI0MGXVzd2i71jIePdV6tI250819.shtml",
+    "publish_time": "2025-08-19 22:00:00",
+    "summary": "上合峰会氛围渐浓 城市焕新喜迎来客"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.78055,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.67,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": -7.49
+    }
+  },
+  "ai_analysis": {
+    "refined_analysis": {
+      "raw_content": "```json\n{\n  \"final_recommendations\": [\n    {\n      \"stock\": \"中国交建(601800)\",\n      \"score\": 0.82,\n      \"reasons\": [\n        \"直接受益于上合峰会带来的基建需求\",\n        \"技术指标显示近期有资金流入迹象\",\n        \"作为央企龙头，政策支持力度大\",\n        \"板块强度中等偏上，有一定支撑\"\n      ],\n      \"risk_warning\": [\n        \"基建行业周期较长\",\n        \"需关注后续订单落地情况\"\n      ]\n    },\n    {\n      \"stock\": \"上海机场(600009)\",\n      \"score\": 0.75,\n      \"reasons\": [\n        \"作为门户机场直接受益于国际客流恢复\",\n        \"技术面呈现底部放量特征\",\n        \"估值处于历史相对低位\",\n        \"具备短期事件催化\"\n      ],\n      \"risk_warning\": [\n        \"国际航线恢复进度存在不确定性\",\n        \"受宏观经济影响较大\"\n      ]\n    },\n    {\n      \"stock\": \"首旅酒店(600258)\",\n      \"score\": 0.68,\n      \"reasons\": [\n        \"受益于旅游服务业复苏\",\n        \"技术指标显示超跌反弹态势\",\n        \"具备消费升级概念\"\n      ],\n      \"risk_warning\": [\n        \"行业竞争激烈\",\n        \"复苏力度可能不及预期\"\n      ]\n    }\n  ],\n  \"analysis_summary\": {\n    \"technical_validation\": \"板块强度中等(0.683)，技术指标总体配合(平均0.68分)，市场情绪偏向积极\",\n    \"news_matching\": \"中国交建匹配度最高，直接受益于城市基建；上海机场次之；首旅酒店为间接受益\",\n    \"risk_assessment\": \"整体风险可控，需注意基建行业周期性和消费复苏力度\"\n  },\n  \"investment_horizon\": \"短期(1-3个月)事件驱动型机会\"\n}\n```"
+    },
+    "final_recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "601800",
+        "stock_name": "中国交建",
+        "recommendation_reason": "作为基建龙头，可能参与峰会相关城市基建项目",
+        "policy_relevance": "高",
+        "urgency_level": "中",
+        "confidence_score": 0.75
+      },
+      {
+        "rank": 2,
+        "stock_code": "600258",
+        "stock_name": "首旅酒店",
+        "recommendation_reason": "峰会举办地酒店需求可能短期激增",
+        "policy_relevance": "中",
+        "urgency_level": "中",
+        "confidence_score": 0.65
+      },
+      {
+        "rank": 3,
+        "stock_code": "600009",
+        "stock_name": "上海机场",
+        "recommendation_reason": "国际峰会通常带来航空客流增长",
+        "policy_relevance": "中",
+        "urgency_level": "低",
+        "confidence_score": 0.6
+      }
+    ],
+    "risk_assessment": "",
+    "refined_reasoning": "",
+    "stage2_status": "success",
+    "stage1_rough": {
+      "news_analysis": "该新闻为上合峰会相关报道，虽然时效性和硬核程度评分较低，但央视新闻作为国家级权威媒体，其报道往往具有政策导向性，可能预示着相关城市基建、旅游等领域的政策支持。",
+      "policy_impact": "上合峰会是国家级外交活动，通常会带动举办城市的基建升级、环境整治和旅游推广，相关行业可能获得短期政策红利。",
+      "theme_classification": {
+        "theme_type": "城市基建/旅游服务",
+        "hardcore_level": "国家意志",
+        "sustainability_score": 6,
+        "related_sectors": [
+          "基础设施建设",
+          "旅游酒店"
+        ]
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "stock_code": "601800",
+          "stock_name": "中国交建",
+          "recommendation_reason": "作为基建龙头，可能参与峰会相关城市基建项目",
+          "policy_relevance": "高",
+          "urgency_level": "中",
+          "confidence_score": 0.75
+        },
+        {
+          "rank": 2,
+          "stock_code": "600258",
+          "stock_name": "首旅酒店",
+          "recommendation_reason": "峰会举办地酒店需求可能短期激增",
+          "policy_relevance": "中",
+          "urgency_level": "中",
+          "confidence_score": 0.65
+        },
+        {
+          "rank": 3,
+          "stock_code": "600009",
+          "stock_name": "上海机场",
+          "recommendation_reason": "国际峰会通常带来航空客流增长",
+          "policy_relevance": "中",
+          "urgency_level": "低",
+          "confidence_score": 0.6
+        }
+      ]
+    },
+    "analysis_method": "两阶段AI分析",
+    "fallback_used": true
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-19 14:31:31"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

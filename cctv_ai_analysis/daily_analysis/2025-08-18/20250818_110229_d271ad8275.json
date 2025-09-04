@@ -1,0 +1,71 @@
+{
+  "analysis_time": "2025-08-18 11:02:29",
+  "news_info": {
+    "id": "d271ad8275",
+    "title": "全球首次！26个机器人世界冠军诞生",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIsvbOhXzQbxG9j2m6VmSA250818.shtml",
+    "publish_time": "2025-08-18 11:00:00",
+    "summary": "全球首次！26个机器人世界冠军诞生"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.78055,
+    "threshold": 0.6,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 1.0,
+      "hardness": 0.665,
+      "persistence": 0.67,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 0.03
+    }
+  },
+  "ai_analysis": {
+    "news_analysis": "央视新闻作为国家级权威媒体，其报道的'全球首次机器人世界冠军'新闻具有高度权威性和影响力。0.78的综合评分表明该新闻在技术创新领域具有重要价值，可能引发市场对机器人相关概念股的关注。",
+    "policy_impact": "虽然新闻未直接提及政策支持，但'全球首次'的表述暗示了我国在机器人领域的领先地位，符合国家科技创新战略方向，可能获得后续政策倾斜。",
+    "recommendations": [
+      {
+        "rank": 1,
+        "stock_code": "300024",
+        "stock_name": "机器人",
+        "recommendation_reason": "作为国内工业机器人龙头企业，直接受益于机器人技术突破和产业关注度提升",
+        "policy_relevance": "高度相关，公司业务完全契合新闻主题",
+        "urgency_level": "高",
+        "confidence_score": 0.9
+      },
+      {
+        "rank": 2,
+        "stock_code": "002747",
+        "stock_name": "埃斯顿",
+        "recommendation_reason": "国内领先的工业机器人及智能制造企业，技术实力雄厚",
+        "policy_relevance": "高度相关，属于机器人核心标的",
+        "urgency_level": "中高",
+        "confidence_score": 0.85
+      },
+      {
+        "rank": 3,
+        "stock_code": "603666",
+        "stock_name": "亿嘉和",
+        "recommendation_reason": "特种机器人领域领先企业，符合新闻中'世界冠军'的技术标杆形象",
+        "policy_relevance": "相关，专注特种机器人细分领域",
+        "urgency_level": "中",
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  "sector_analysis": {
+    "error": "未识别到相关板块",
+    "analysis_time": "2025-08-18 11:02:29"
+  },
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}

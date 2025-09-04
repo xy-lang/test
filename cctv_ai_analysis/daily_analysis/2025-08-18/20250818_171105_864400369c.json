@@ -1,0 +1,39 @@
+{
+  "analysis_time": "2025-08-18 17:11:05",
+  "news_info": {
+    "id": "864400369c",
+    "title": "“夜经济”绽放新光彩 “古风夜拍”成文旅消费新亮点",
+    "source": "央视新闻",
+    "category": "时政要闻",
+    "url": "https://news.cctv.com/2025/08/18/ARTIkdSdrmUijDOwrRNXgWJp250818.shtml",
+    "publish_time": "2025-08-18 08:24:00",
+    "summary": "“夜经济”绽放新光彩 “古风夜拍”成文旅消费新亮点"
+  },
+  "three_factors_analysis": {
+    "total_strength": 0.6709499999999999,
+    "threshold": 0.5,
+    "is_important": true,
+    "detail_scores": {
+      "recency": 0.6,
+      "hardness": 0.665,
+      "persistence": 0.75,
+      "source_weight": 0.95,
+      "policy_hits": 0,
+      "hours_since_publish": 8.77
+    }
+  },
+  "ai_analysis": {
+    "status": "timeout",
+    "error": "AI analysis timeout"
+  },
+  "sector_analysis": null,
+  "system_info": {
+    "monitor_version": "2.0",
+    "ai_model": "deepseek-chat",
+    "analysis_trigger": "realtime_monitoring",
+    "features": [
+      "ai_analysis",
+      "sector_analysis"
+    ]
+  }
+}
